@@ -1,0 +1,1642 @@
+fileFormatVersion: 2
+guid: c2c218e4d5054ff94a8011a5c1f931c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2113412415689468570
+    second: runman_0
+  - first:
+      213: -6997592633401942178
+    second: runman_1
+  - first:
+      213: 5413916733796085900
+    second: runman_2
+  - first:
+      213: 2674388232964324290
+    second: runman_3
+  - first:
+      213: -9147944610363891265
+    second: runman_4
+  - first:
+      213: -5615391930199721048
+    second: runman_5
+  - first:
+      213: -83624898782174909
+    second: runman_6
+  - first:
+      213: 6088540445174676488
+    second: runman_7
+  - first:
+      213: 6133877787522780280
+    second: runman_8
+  - first:
+      213: 1139206541086076857
+    second: runman_9
+  - first:
+      213: -8958272281677399966
+    second: runman_10
+  - first:
+      213: 6133902484118255357
+    second: runman_11
+  - first:
+      213: -5630894028663782176
+    second: runman_12
+  - first:
+      213: 1872219115536673362
+    second: runman_13
+  - first:
+      213: 5945584970717592661
+    second: runman_14
+  - first:
+      213: -6610017993907309745
+    second: runman_15
+  - first:
+      213: 4498107382525843289
+    second: runman_16
+  - first:
+      213: -539393450292072113
+    second: runman_17
+  - first:
+      213: -562932359193967895
+    second: runman_18
+  - first:
+      213: -5262087411186964720
+    second: runman_19
+  - first:
+      213: 2232340846953059294
+    second: runman_20
+  - first:
+      213: 7546276844277302791
+    second: runman_21
+  - first:
+      213: -7741107680780608798
+    second: runman_22
+  - first:
+      213: 7515695229378727738
+    second: runman_23
+  - first:
+      213: 4556115958157527688
+    second: runman_24
+  - first:
+      213: -8282413017486486585
+    second: runman_25
+  - first:
+      213: -333049108778887437
+    second: runman_26
+  - first:
+      213: -309289933186520102
+    second: runman_27
+  - first:
+      213: 4280439597181330437
+    second: runman_28
+  - first:
+      213: 6177169729825080936
+    second: runman_29
+  - first:
+      213: -5555003808180524967
+    second: runman_30
+  - first:
+      213: -1458897617182088397
+    second: runman_31
+  - first:
+      213: 1835378702079282111
+    second: runman_32
+  - first:
+      213: -7727802415962758869
+    second: runman_33
+  - first:
+      213: 2925558069703125421
+    second: runman_34
+  - first:
+      213: 57267185323898097
+    second: runman_35
+  - first:
+      213: -4897620242399487181
+    second: runman_36
+  - first:
+      213: -1013041209935468247
+    second: runman_37
+  - first:
+      213: -2418683295857400111
+    second: runman_38
+  - first:
+      213: -6613513337073542015
+    second: runman_39
+  - first:
+      213: -5107831494646445659
+    second: runman_40
+  - first:
+      213: -8001835138568319679
+    second: runman_41
+  - first:
+      213: 6336238476980098331
+    second: runman_42
+  - first:
+      213: -7099003095583487915
+    second: runman_43
+  - first:
+      213: 2947205998979039823
+    second: runman_44
+  - first:
+      213: 3248572131361332731
+    second: runman_45
+  - first:
+      213: 5306581822660807769
+    second: runman_46
+  - first:
+      213: 2543900429417256125
+    second: runman_47
+  - first:
+      213: 5493961745631214223
+    second: runman_48
+  - first:
+      213: 7187396804872277761
+    second: runman_49
+  - first:
+      213: 2107016312220923734
+    second: runman_50
+  - first:
+      213: 9003118897656313885
+    second: runman_51
+  - first:
+      213: -3573507382288838460
+    second: runman_52
+  - first:
+      213: -2929734883563250849
+    second: runman_53
+  - first:
+      213: -6900767587014090054
+    second: runman_54
+  - first:
+      213: 4451059820069954141
+    second: runman_55
+  - first:
+      213: 878530537086947459
+    second: runman_56
+  - first:
+      213: -9068598555789290977
+    second: runman_57
+  - first:
+      213: 7464413128923134904
+    second: runman_58
+  - first:
+      213: -582243991688976191
+    second: runman_59
+  - first:
+      213: -3830013382406608805
+    second: runman_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: runman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 865
+        width: 129
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665dde2fa96aba2e0800000000000000
+      internalID: -2113412415689468570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 870
+        width: 128
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fdf23239e83ee90800000000000000
+      internalID: -6997592633401942178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 874
+        width: 102
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c807571d598122b40800000000000000
+      internalID: 5413916733796085900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 951
+        width: 97
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbb259ade55d1520800000000000000
+      internalID: 2674388232964324290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 911
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1af4248d8fb0180800000000000000
+      internalID: -9147944610363891265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 869
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abb9d58ace1212b0800000000000000
+      internalID: -5615391930199721048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 873
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341e5bdf897e6def0800000000000000
+      internalID: -83624898782174909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 879
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c3c33c647de7450800000000000000
+      internalID: 6088540445174676488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 885
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c44fc5959ef1550800000000000000
+      internalID: 6133877787522780280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 879
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfac3730564fcf00800000000000000
+      internalID: 1139206541086076857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 729
+        width: 147
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268f361a2d2dda380800000000000000
+      internalID: -8958272281677399966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 739
+        width: 124
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df631cc7fcfff1550800000000000000
+      internalID: 6133902484118255357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 762
+        width: 143
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e480a5f6bb0bd1b0800000000000000
+      internalID: -5630894028663782176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 762
+        width: 142
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a624bbd557bf910800000000000000
+      internalID: 1872219115536673362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_14
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 745
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cf581a706f28250800000000000000
+      internalID: 5945584970717592661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_15
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 745
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43f63ae7af7444a0800000000000000
+      internalID: -6610017993907309745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 764
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957d30915dc7c6e30800000000000000
+      internalID: 4498107382525843289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_17
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 776
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f413b29c380b388f0800000000000000
+      internalID: -539393450292072113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 139
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2cba970001038f0800000000000000
+      internalID: -562932359193967895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 587
+        width: 111
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0176527116f49f6b0800000000000000
+      internalID: -5262087411186964720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 621
+        width: 138
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed35b304c2edafe10800000000000000
+      internalID: 2232340846953059294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_21
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 620
+        width: 137
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70687e7dec2c9b860800000000000000
+      internalID: 7546276844277302791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 619
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea1607149f029490800000000000000
+      internalID: -7741107680780608798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_23
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 621
+        width: 135
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f8733cdfc1d4860800000000000000
+      internalID: 7515695229378727738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_24
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 591
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ac77913539a3f30800000000000000
+      internalID: 4556115958157527688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_25
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 591
+        width: 94
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c395a12e35fe0d80800000000000000
+      internalID: -8282413017486486585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 472
+        width: 137
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f65972a995c06bf0800000000000000
+      internalID: -333049108778887437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 476
+        width: 142
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb20d7c17e25bbf0800000000000000
+      internalID: -309289933186520102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 474
+        width: 142
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5046288822d276b30800000000000000
+      internalID: 4280439597181330437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_29
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 458
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86605872427b9b550800000000000000
+      internalID: 6177169729825080936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_30
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 472
+        width: 133
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9582577d779a8e2b0800000000000000
+      internalID: -5555003808180524967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_31
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 476
+        width: 138
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333a234c854f0cbe0800000000000000
+      internalID: -1458897617182088397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_32
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 537
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbc0cd8433987910800000000000000
+      internalID: 1835378702079282111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_33
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 490
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21622675a451c490800000000000000
+      internalID: -7727802415962758869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_34
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 471
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9ae6a609ba99820800000000000000
+      internalID: 2925558069703125421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 137
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4748e93347bc000800000000000000
+      internalID: 57267185323898097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 318
+        width: 142
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b14079658280cb0800000000000000
+      internalID: -4897620242399487181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_37
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 315
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929e6fa0364f0f1f0800000000000000
+      internalID: -1013041209935468247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_38
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 325
+        width: 137
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6af3e6b5c1f6ed0800000000000000
+      internalID: -2418683295857400111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 328
+        width: 142
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c5c6ae8a41834a0800000000000000
+      internalID: -6613513337073542015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_40
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 325
+        width: 138
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9cb0d61565d19b0800000000000000
+      internalID: -5107831494646445659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_41
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 325
+        width: 138
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d85664655c3f090800000000000000
+      internalID: -8001835138568319679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 138
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b159f80f257dee750800000000000000
+      internalID: 6336238476980098331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_43
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 188
+        width: 147
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5580954fb464b7d90800000000000000
+      internalID: -7099003095583487915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_44
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 188
+        width: 137
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42cb09bd3496e820800000000000000
+      internalID: 2947205998979039823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_45
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 188
+        width: 138
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd960d442f351d20800000000000000
+      internalID: 3248572131361332731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_46
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 188
+        width: 138
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c0e3f5d04c4a940800000000000000
+      internalID: 5306581822660807769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_47
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 188
+        width: 137
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4116f56ffbd4320800000000000000
+      internalID: 2543900429417256125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_48
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 195
+        width: 143
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8afee179197e3c40800000000000000
+      internalID: 5493961745631214223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 148
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f80364053ceb360800000000000000
+      internalID: 7187396804872277761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_50
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 47
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657b1e92c20ad3d10800000000000000
+      internalID: 2107016312220923734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_51
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 46
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d183965dfe081fc70800000000000000
+      internalID: 9003118897656313885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_52
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 41
+        width: 125
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0107418f9586ec0800000000000000
+      internalID: -3573507382288838460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_53
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 33
+        width: 117
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b542355ad7757d0800000000000000
+      internalID: -2929734883563250849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_54
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 40
+        width: 122
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2ee72017c8b30a0800000000000000
+      internalID: -6900767587014090054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_55
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 62
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52a849d25755cd30800000000000000
+      internalID: 4451059820069954141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_56
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 17
+        width: 96
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380966b6eda213c00800000000000000
+      internalID: 878530537086947459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_57
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 31
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f121f8739add52280800000000000000
+      internalID: -9068598555789290977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_58
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 31
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbb93e413ce69760800000000000000
+      internalID: 7464413128923134904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 4
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8e5c6ac247be7f0800000000000000
+      internalID: -582243991688976191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: runman_60
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5869a8fe1f09dac0800000000000000
+      internalID: -3830013382406608805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

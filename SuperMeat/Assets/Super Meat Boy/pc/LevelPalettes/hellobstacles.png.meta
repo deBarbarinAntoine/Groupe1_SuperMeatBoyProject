@@ -1,0 +1,4767 @@
+fileFormatVersion: 2
+guid: 3ef96f98c43d32e7487617ae093e2a7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -748061907707989205
+    second: hellobstacles_0
+  - first:
+      213: -3820283712351852792
+    second: hellobstacles_1
+  - first:
+      213: -6850143784904379782
+    second: hellobstacles_2
+  - first:
+      213: -7492256488669010411
+    second: hellobstacles_3
+  - first:
+      213: 8117348686764230935
+    second: hellobstacles_4
+  - first:
+      213: 3081041983811099441
+    second: hellobstacles_5
+  - first:
+      213: 4319112735290006814
+    second: hellobstacles_6
+  - first:
+      213: 2481440711120599154
+    second: hellobstacles_7
+  - first:
+      213: 74895436420081034
+    second: hellobstacles_8
+  - first:
+      213: 1926392236015960500
+    second: hellobstacles_9
+  - first:
+      213: 6503215377309515818
+    second: hellobstacles_10
+  - first:
+      213: 5849944676609968003
+    second: hellobstacles_11
+  - first:
+      213: -6971043686165723220
+    second: hellobstacles_12
+  - first:
+      213: 7489775270275780863
+    second: hellobstacles_13
+  - first:
+      213: -8106989043548727431
+    second: hellobstacles_14
+  - first:
+      213: -3665955010054616292
+    second: hellobstacles_15
+  - first:
+      213: -6190384289120661770
+    second: hellobstacles_16
+  - first:
+      213: 5444642958798161623
+    second: hellobstacles_17
+  - first:
+      213: 2825923632830478416
+    second: hellobstacles_18
+  - first:
+      213: -6557929552465718904
+    second: hellobstacles_19
+  - first:
+      213: 3280987883617511663
+    second: hellobstacles_20
+  - first:
+      213: -5339177506900893810
+    second: hellobstacles_21
+  - first:
+      213: 725661954078498369
+    second: hellobstacles_22
+  - first:
+      213: 2393563774243640997
+    second: hellobstacles_23
+  - first:
+      213: 6312716879735278842
+    second: hellobstacles_24
+  - first:
+      213: -8696679425967919032
+    second: hellobstacles_25
+  - first:
+      213: 2585093093922874249
+    second: hellobstacles_26
+  - first:
+      213: 6140863560355807393
+    second: hellobstacles_27
+  - first:
+      213: 7033547468957648588
+    second: hellobstacles_28
+  - first:
+      213: -8391094621235366721
+    second: hellobstacles_29
+  - first:
+      213: -8328393497161665370
+    second: hellobstacles_30
+  - first:
+      213: 8934844879687683203
+    second: hellobstacles_31
+  - first:
+      213: -7582180652907210973
+    second: hellobstacles_32
+  - first:
+      213: -4919081838307178216
+    second: hellobstacles_33
+  - first:
+      213: -6698402653621288290
+    second: hellobstacles_34
+  - first:
+      213: -279051533201779654
+    second: hellobstacles_35
+  - first:
+      213: 1101055794584706729
+    second: hellobstacles_36
+  - first:
+      213: -2378888793784519054
+    second: hellobstacles_37
+  - first:
+      213: 1367981386047722433
+    second: hellobstacles_38
+  - first:
+      213: -1219476828839113098
+    second: hellobstacles_39
+  - first:
+      213: 3161916933107383817
+    second: hellobstacles_40
+  - first:
+      213: -7272684116736446462
+    second: hellobstacles_41
+  - first:
+      213: 7258559583669471684
+    second: hellobstacles_42
+  - first:
+      213: -1670104732237024689
+    second: hellobstacles_43
+  - first:
+      213: 2192026734767778991
+    second: hellobstacles_44
+  - first:
+      213: 5533141357296682348
+    second: hellobstacles_45
+  - first:
+      213: -7751021270855751533
+    second: hellobstacles_46
+  - first:
+      213: -685438738663887494
+    second: hellobstacles_47
+  - first:
+      213: 742416075111612308
+    second: hellobstacles_48
+  - first:
+      213: 1678564280750598270
+    second: hellobstacles_49
+  - first:
+      213: 7108851255332575917
+    second: hellobstacles_50
+  - first:
+      213: 5132388213679496251
+    second: hellobstacles_51
+  - first:
+      213: -6404776406059237983
+    second: hellobstacles_52
+  - first:
+      213: -7949558321775714897
+    second: hellobstacles_53
+  - first:
+      213: -6202645581698789451
+    second: hellobstacles_54
+  - first:
+      213: 8261033964229921163
+    second: hellobstacles_55
+  - first:
+      213: -7765572255415211639
+    second: hellobstacles_56
+  - first:
+      213: 127241908335748795
+    second: hellobstacles_57
+  - first:
+      213: 3359017512382091164
+    second: hellobstacles_58
+  - first:
+      213: -5948585387104358969
+    second: hellobstacles_59
+  - first:
+      213: -5219383110513840406
+    second: hellobstacles_60
+  - first:
+      213: 2142277740130493586
+    second: hellobstacles_61
+  - first:
+      213: -8211116571762717238
+    second: hellobstacles_62
+  - first:
+      213: -7741601357498598837
+    second: hellobstacles_63
+  - first:
+      213: -2580650128662210927
+    second: hellobstacles_64
+  - first:
+      213: -4267818494069084915
+    second: hellobstacles_65
+  - first:
+      213: 8387139113344658564
+    second: hellobstacles_66
+  - first:
+      213: -3902793547955145577
+    second: hellobstacles_67
+  - first:
+      213: 1391323162815606649
+    second: hellobstacles_68
+  - first:
+      213: 3128555379995744352
+    second: hellobstacles_69
+  - first:
+      213: -8572890379929226957
+    second: hellobstacles_70
+  - first:
+      213: -8784670763514544953
+    second: hellobstacles_71
+  - first:
+      213: -5773927912663643800
+    second: hellobstacles_72
+  - first:
+      213: 1695303694999064485
+    second: hellobstacles_73
+  - first:
+      213: -3514252191224515245
+    second: hellobstacles_74
+  - first:
+      213: 2474564466698228403
+    second: hellobstacles_75
+  - first:
+      213: 8574959468350461210
+    second: hellobstacles_76
+  - first:
+      213: 6763622765827688523
+    second: hellobstacles_77
+  - first:
+      213: -6979899952650494030
+    second: hellobstacles_78
+  - first:
+      213: -2438991673322542868
+    second: hellobstacles_79
+  - first:
+      213: 5328344933528405072
+    second: hellobstacles_80
+  - first:
+      213: -4581401627987364724
+    second: hellobstacles_81
+  - first:
+      213: -2875855847614225924
+    second: hellobstacles_82
+  - first:
+      213: -561025293366899234
+    second: hellobstacles_83
+  - first:
+      213: 2471229065883953626
+    second: hellobstacles_84
+  - first:
+      213: -8866942074756525286
+    second: hellobstacles_85
+  - first:
+      213: 2494644977696795754
+    second: hellobstacles_86
+  - first:
+      213: -8192048676915090828
+    second: hellobstacles_87
+  - first:
+      213: -7869793217797483203
+    second: hellobstacles_88
+  - first:
+      213: 5597809455150997629
+    second: hellobstacles_89
+  - first:
+      213: 2046265561645248199
+    second: hellobstacles_90
+  - first:
+      213: 1512192571087372253
+    second: hellobstacles_91
+  - first:
+      213: 2399181347138095371
+    second: hellobstacles_92
+  - first:
+      213: -8404404722132914603
+    second: hellobstacles_93
+  - first:
+      213: -4294564341793244238
+    second: hellobstacles_94
+  - first:
+      213: -5854074291473078925
+    second: hellobstacles_95
+  - first:
+      213: -188691850283856508
+    second: hellobstacles_96
+  - first:
+      213: -7998751414841773793
+    second: hellobstacles_97
+  - first:
+      213: 4860024057333305636
+    second: hellobstacles_98
+  - first:
+      213: 1358947741316049228
+    second: hellobstacles_99
+  - first:
+      213: 425628969963342842
+    second: hellobstacles_100
+  - first:
+      213: 7441064795335122716
+    second: hellobstacles_101
+  - first:
+      213: -8905196812766284097
+    second: hellobstacles_102
+  - first:
+      213: 2359426809893552286
+    second: hellobstacles_103
+  - first:
+      213: 9103455276746955581
+    second: hellobstacles_104
+  - first:
+      213: 5259475443267654996
+    second: hellobstacles_105
+  - first:
+      213: -4214760835477443385
+    second: hellobstacles_106
+  - first:
+      213: 8264516712618309654
+    second: hellobstacles_107
+  - first:
+      213: 331671592642226885
+    second: hellobstacles_108
+  - first:
+      213: 8617265336486939817
+    second: hellobstacles_109
+  - first:
+      213: 9120137955908528157
+    second: hellobstacles_110
+  - first:
+      213: 7958292489251440125
+    second: hellobstacles_111
+  - first:
+      213: -5701702447333854447
+    second: hellobstacles_112
+  - first:
+      213: -8325515771667165666
+    second: hellobstacles_113
+  - first:
+      213: -8686120189798244716
+    second: hellobstacles_114
+  - first:
+      213: -2083337521856745567
+    second: hellobstacles_115
+  - first:
+      213: -8846629765188188447
+    second: hellobstacles_116
+  - first:
+      213: -8451208274901461320
+    second: hellobstacles_117
+  - first:
+      213: 79394149960119427
+    second: hellobstacles_118
+  - first:
+      213: -8719497921655864619
+    second: hellobstacles_119
+  - first:
+      213: 3627968767765489935
+    second: hellobstacles_120
+  - first:
+      213: -16331946618994719
+    second: hellobstacles_121
+  - first:
+      213: -1903653109750415812
+    second: hellobstacles_122
+  - first:
+      213: 8952410556424857450
+    second: hellobstacles_123
+  - first:
+      213: -6674540220346504303
+    second: hellobstacles_124
+  - first:
+      213: 1359205161134616542
+    second: hellobstacles_125
+  - first:
+      213: -1162235918232465891
+    second: hellobstacles_126
+  - first:
+      213: -1661655174368354903
+    second: hellobstacles_127
+  - first:
+      213: -6640760994064502879
+    second: hellobstacles_128
+  - first:
+      213: 7117006215934096709
+    second: hellobstacles_129
+  - first:
+      213: -7760358674216295595
+    second: hellobstacles_130
+  - first:
+      213: 6323092684166619893
+    second: hellobstacles_131
+  - first:
+      213: 8756353861137218829
+    second: hellobstacles_132
+  - first:
+      213: 3004722278832615633
+    second: hellobstacles_133
+  - first:
+      213: -5096145316972233320
+    second: hellobstacles_134
+  - first:
+      213: -2275827884889889818
+    second: hellobstacles_135
+  - first:
+      213: 2311962278989375143
+    second: hellobstacles_136
+  - first:
+      213: -4919155306521885386
+    second: hellobstacles_137
+  - first:
+      213: -3438812486369459407
+    second: hellobstacles_138
+  - first:
+      213: 1852526813588678865
+    second: hellobstacles_139
+  - first:
+      213: -4294358557168569976
+    second: hellobstacles_140
+  - first:
+      213: -6019852618698433261
+    second: hellobstacles_141
+  - first:
+      213: 6267104300444784078
+    second: hellobstacles_142
+  - first:
+      213: 1825616586518595581
+    second: hellobstacles_143
+  - first:
+      213: 6969196761617278194
+    second: hellobstacles_144
+  - first:
+      213: 1292606053897062105
+    second: hellobstacles_145
+  - first:
+      213: 7877293920955968805
+    second: hellobstacles_146
+  - first:
+      213: 4407763124065452385
+    second: hellobstacles_147
+  - first:
+      213: 7374590085048960191
+    second: hellobstacles_148
+  - first:
+      213: -3452844287816282655
+    second: hellobstacles_149
+  - first:
+      213: -8713846900601922094
+    second: hellobstacles_150
+  - first:
+      213: -5702161943553008198
+    second: hellobstacles_151
+  - first:
+      213: 33882794663129702
+    second: hellobstacles_152
+  - first:
+      213: 2860419386230460755
+    second: hellobstacles_153
+  - first:
+      213: -3519052998539841083
+    second: hellobstacles_154
+  - first:
+      213: 3009911133319261174
+    second: hellobstacles_155
+  - first:
+      213: -5357321156259409537
+    second: hellobstacles_156
+  - first:
+      213: 2620577015983544068
+    second: hellobstacles_157
+  - first:
+      213: -9109088923450043152
+    second: hellobstacles_158
+  - first:
+      213: 653808353733143317
+    second: hellobstacles_159
+  - first:
+      213: -7889408281815140649
+    second: hellobstacles_160
+  - first:
+      213: 3438363103587031880
+    second: hellobstacles_161
+  - first:
+      213: -8185352956034768675
+    second: hellobstacles_162
+  - first:
+      213: -1060422406086739298
+    second: hellobstacles_163
+  - first:
+      213: 6416485014099311786
+    second: hellobstacles_164
+  - first:
+      213: 4515052068433524768
+    second: hellobstacles_165
+  - first:
+      213: -1620457185789188409
+    second: hellobstacles_166
+  - first:
+      213: -698419299445934215
+    second: hellobstacles_167
+  - first:
+      213: -1381891588323560983
+    second: hellobstacles_168
+  - first:
+      213: -3259430977824658741
+    second: hellobstacles_169
+  - first:
+      213: 4568460760164170178
+    second: hellobstacles_170
+  - first:
+      213: 4078776164395140984
+    second: hellobstacles_171
+  - first:
+      213: -827482204666098769
+    second: hellobstacles_172
+  - first:
+      213: -2840210041541791733
+    second: hellobstacles_173
+  - first:
+      213: 6666862178613073445
+    second: hellobstacles_174
+  - first:
+      213: -3218352230202184229
+    second: hellobstacles_175
+  - first:
+      213: 2366005209724650796
+    second: hellobstacles_176
+  - first:
+      213: 2561503598914909667
+    second: hellobstacles_177
+  - first:
+      213: 3951835211759039176
+    second: hellobstacles_178
+  - first:
+      213: 2867568492433145096
+    second: hellobstacles_179
+  - first:
+      213: 3761081394530945506
+    second: hellobstacles_180
+  - first:
+      213: 3527529275234347103
+    second: hellobstacles_181
+  - first:
+      213: -1856034122027245531
+    second: hellobstacles_182
+  - first:
+      213: -7971921655896278086
+    second: hellobstacles_183
+  - first:
+      213: 8687232223659930908
+    second: hellobstacles_184
+  - first:
+      213: 8860540938648619080
+    second: hellobstacles_185
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hellobstacles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 435
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23701988a95e95f0800000000000000
+      internalID: -748061907707989205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 805
+        width: 218
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807ae005430abfac0800000000000000
+      internalID: -3820283712351852792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 897
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72bc6075866fe0a0800000000000000
+      internalID: -6850143784904379782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 893
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516a4c25b68260890800000000000000
+      internalID: -7492256488669010411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_4
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 987
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719c0908f9d96a070800000000000000
+      internalID: 8117348686764230935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_5
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 912
+        width: 108
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b10273c5f02ca20800000000000000
+      internalID: 3081041983811099441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_6
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 971
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d93db262290fb30800000000000000
+      internalID: 4319112735290006814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_7
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 982
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2783985fd29df6220800000000000000
+      internalID: 2481440711120599154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_8
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 980
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85ed1ba0051a0100800000000000000
+      internalID: 74895436420081034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_9
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 810
+        width: 108
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b14dcd388bebba10800000000000000
+      internalID: 1926392236015960500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_10
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 815
+        width: 112
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20446e1eef004a50800000000000000
+      internalID: 6503215377309515818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_11
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 866
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387460560bd2f2150800000000000000
+      internalID: 5849944676609968003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_12
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 830
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7cc5c93b0e14f90800000000000000
+      internalID: -6971043686165723220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_13
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 859
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff01b400de601f760800000000000000
+      internalID: 7489775270275780863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_14
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 823
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9775b45ea603e7f80800000000000000
+      internalID: -8106989043548727431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 813
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b81276759ef1dc0800000000000000
+      internalID: -3665955010054616292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 557
+        width: 91
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fecdcf7946571aa0800000000000000
+      internalID: -6190384289120661770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 702
+        width: 75
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d60fff8ce14f8b40800000000000000
+      internalID: 5444642958798161623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_18
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 688
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058fd395292b73720800000000000000
+      internalID: 2825923632830478416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 806
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8819e3341dd8df4a0800000000000000
+      internalID: -6557929552465718904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 217
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8e163c819688d20800000000000000
+      internalID: 3280987883617511663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 663
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f9a6c785e67e5b0800000000000000
+      internalID: -5339177506900893810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 678
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e5dd7d3b1121a00800000000000000
+      internalID: 725661954078498369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_23
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 781
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6190f2295a73120800000000000000
+      internalID: 2393563774243640997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_24
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 758
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afccb305e864b9750800000000000000
+      internalID: 6312716879735278842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_25
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 765
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840fbb993203f4780800000000000000
+      internalID: -8696679425967919032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 741
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983a696f87810e320800000000000000
+      internalID: 2585093093922874249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_27
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 748
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a006295fdab83550800000000000000
+      internalID: 6140863560355807393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_28
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 740
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6811e582e2c9160800000000000000
+      internalID: 7033547468957648588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_29
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 739
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4339066e7dc8b80800000000000000
+      internalID: -8391094621235366721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 705
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a471047d3a9b6c80800000000000000
+      internalID: -8328393497161665370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 714
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c80094412fefb70800000000000000
+      internalID: 8934844879687683203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 663
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32750a84edea6c690800000000000000
+      internalID: -7582180652907210973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 568
+        width: 60
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81900a66129ebbbb0800000000000000
+      internalID: -4919081838307178216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_34
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 563
+        width: 132
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e928e54b64e7a03a0800000000000000
+      internalID: -6698402653621288290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 561
+        width: 136
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34da79eb1c902cf0800000000000000
+      internalID: -279051533201779654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_36
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 659
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae5b1a596cb74f00800000000000000
+      internalID: 1101055794584706729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_37
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 643
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276f056fe3d7cfed0800000000000000
+      internalID: -2378888793784519054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_38
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 634
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c398be92db0cf210800000000000000
+      internalID: 1367981386047722433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_39
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 627
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e8935094c831fe0800000000000000
+      internalID: -1219476828839113098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_40
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 641
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e7827b2b261eb20800000000000000
+      internalID: 3161916933107383817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_41
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 625
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2007c42045c321b90800000000000000
+      internalID: -7272684116736446462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_42
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 616
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c940addb759bb460800000000000000
+      internalID: 7258559583669471684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_43
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 615
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f423059389892d8e0800000000000000
+      internalID: -1670104732237024689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_44
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 606
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac2eff83b4ab6e10800000000000000
+      internalID: 2192026734767778991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 110
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6501b5afbaa9cc40800000000000000
+      internalID: 5533141357296682348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 553
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39865288837de6490800000000000000
+      internalID: -7751021270855751533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 579
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7da5aa4915dc76f0800000000000000
+      internalID: -685438738663887494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 569
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f3190ac779d4a00800000000000000
+      internalID: 742416075111612308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 557
+        width: 71
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e786cc6e1557b4710800000000000000
+      internalID: 1678564280750598270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_50
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 429
+        width: 254
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa103b6d86b7a260800000000000000
+      internalID: 7108851255332575917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_51
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 431
+        width: 134
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c94c543e7e93740800000000000000
+      internalID: 5132388213679496251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_52
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 546
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad390beac9ad17a0800000000000000
+      internalID: -6404776406059237983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_53
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 432
+        width: 146
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadde4d23de7da190800000000000000
+      internalID: -7949558321775714897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 517
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf823bd4b6cbe9a0800000000000000
+      internalID: -6202645581698789451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 520
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b898c532f9615a270800000000000000
+      internalID: 8261033964229921163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_56
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989e85e6d252b3490800000000000000
+      internalID: -7765572255415211639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_57
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 487
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb625ea67dd04c100800000000000000
+      internalID: 127241908335748795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fc9d371a0ad9e20800000000000000
+      internalID: 3359017512382091164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_59
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 453
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cda09d7b11627da0800000000000000
+      internalID: -5948585387104358969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_60
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 480
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee2627e6b60197b0800000000000000
+      internalID: -5219383110513840406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_61
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 493
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29464be1146eabd10800000000000000
+      internalID: 2142277740130493586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 455
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd82ca7bf04c0e80800000000000000
+      internalID: -8211116571762717238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 426
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a3d95059e409490800000000000000
+      internalID: -7741601357498598837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 413
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196d58f7160bf2cd0800000000000000
+      internalID: -2580650128662210927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 287
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d6b2701b9a5c4c0800000000000000
+      internalID: -4267818494069084915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_66
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 405
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c61bc269a156470800000000000000
+      internalID: 8387139113344658564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_67
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 430
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794727e22fd76d9c0800000000000000
+      internalID: -3902793547955145577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_68
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 348
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fa5678b09fe4310800000000000000
+      internalID: 1391323162815606649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_69
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 382
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06898c4da8cda6b20800000000000000
+      internalID: 3128555379995744352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_70
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 357
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33174fdde99f60980800000000000000
+      internalID: -8572890379929226957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_71
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 335
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccb4f7db74961680800000000000000
+      internalID: -8784670763514544953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_72
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 371
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86988fea723eedfa0800000000000000
+      internalID: -5773927912663643800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_73
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 365
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af83de7abde68710800000000000000
+      internalID: 1695303694999064485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_74
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 374
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355bcea504eda3fc0800000000000000
+      internalID: -3514252191224515245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_75
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 392
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b21a5b854b675220800000000000000
+      internalID: 2474564466698228403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_76
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 369
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15d6625430600770800000000000000
+      internalID: 8574959468350461210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_77
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 402
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4887eff1173ddd50800000000000000
+      internalID: 6763622765827688523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_78
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 397
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf508269f9622f90800000000000000
+      internalID: -6979899952650494030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_79
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 386
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce86975def5f62ed0800000000000000
+      internalID: -2438991673322542868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_80
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 375
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05486bb7c7512f940800000000000000
+      internalID: 5328344933528405072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_81
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 365
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84ba6e1e779b60c0800000000000000
+      internalID: -4581401627987364724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 335
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf169b1f758e618d0800000000000000
+      internalID: -2875855847614225924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_83
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 337
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd4bd6d776d638f0800000000000000
+      internalID: -561025293366899234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_84
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 336
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad922a60eb19b4220800000000000000
+      internalID: 2471229065883953626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_85
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 337
+        width: 111
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a131c2e792b42f480800000000000000
+      internalID: -8866942074756525286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_86
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 339
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c6458d362ce9220800000000000000
+      internalID: 2494644977696795754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 345
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a64c5b12fff4e80800000000000000
+      internalID: -8192048676915090828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_88
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 336
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35176da3c0e8c290800000000000000
+      internalID: -7869793217797483203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_89
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 312
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70299e7a0a6fad40800000000000000
+      internalID: 5597809455150997629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_90
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 218
+        width: 141
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceeafdcfabc56c10800000000000000
+      internalID: 2046265561645248199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_91
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 208
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfb5a7a1236cf410800000000000000
+      internalID: 1512192571087372253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_92
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 314
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09c8eb49ba9b4120800000000000000
+      internalID: 2399181347138095371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_93
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 269
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ee6a40f6e8d5b80800000000000000
+      internalID: -8404404722132914603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_94
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 273
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbba561c74a664c0800000000000000
+      internalID: -4294564341793244238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_95
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 294
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3752008b27622cea0800000000000000
+      internalID: -5854074291473078925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_96
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 303
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dc1db03c1a16df0800000000000000
+      internalID: -188691850283856508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_97
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 263
+        width: 175
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11f3b7a7f9bef090800000000000000
+      internalID: -7998751414841773793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_98
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 280
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42154317126427340800000000000000
+      internalID: 4860024057333305636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_99
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 293
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49667d45c3fbd210800000000000000
+      internalID: 1358947741316049228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_100
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 288
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbc7c80b4328e500800000000000000
+      internalID: 425628969963342842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_101
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 269
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f5d94c109f34760800000000000000
+      internalID: 7441064795335122716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_102
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 289
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6ff183ea26a6480800000000000000
+      internalID: -8905196812766284097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_103
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 266
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e900d3dce2e5eb020800000000000000
+      internalID: 2359426809893552286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_104
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 296
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b582f8758f55e70800000000000000
+      internalID: 9103455276746955581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 253
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455dbdcbc096df840800000000000000
+      internalID: 5259475443267654996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_106
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 277
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc6324d9592285c0800000000000000
+      internalID: -4214760835477443385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_107
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 275
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618b4efa92671b270800000000000000
+      internalID: 8264516712618309654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_108
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 266
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca27856e855a9400800000000000000
+      internalID: 331671592642226885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_109
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 259
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac4794da2da69770800000000000000
+      internalID: 8617265336486939817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_110
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 275
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d182c7c762d319e70800000000000000
+      internalID: 9120137955908528157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_111
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 241
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5cd78aad8817e60800000000000000
+      internalID: 7958292489251440125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_112
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 252
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113b0b345db7fd0b0800000000000000
+      internalID: -5701702447333854447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_113
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 246
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ecdd12483d57c80800000000000000
+      internalID: -8325515771667165666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_114
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 193
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e1aba55b3b47780800000000000000
+      internalID: -8686120189798244716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_115
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 258
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af6c76df8f7613e0800000000000000
+      internalID: -2083337521856745567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_116
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 224
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e68f8a99157a3580800000000000000
+      internalID: -8846629765188188447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_117
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 229
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b618a3b9d647ba80800000000000000
+      internalID: -8451208274901461320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_118
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 145
+        width: 59
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384fd990f801a1100800000000000000
+      internalID: 79394149960119427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_119
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 158
+        width: 59
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d202ff86de1ef680800000000000000
+      internalID: -8719497921655864619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_120
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 199
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09afda5f52295230800000000000000
+      internalID: 3627968767765489935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_121
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 215
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efb84b5e2af5cff0800000000000000
+      internalID: -16331946618994719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_122
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 212
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e32c9259dd495e0800000000000000
+      internalID: -1903653109750415812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_123
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 188
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67292b18f95d3c70800000000000000
+      internalID: 8952410556424857450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_124
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 225
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b603768054f53a0800000000000000
+      internalID: -6674540220346504303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_125
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 211
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf6e4684eddcd210800000000000000
+      internalID: 1359205161134616542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_126
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 224
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ecd841798eedfe0800000000000000
+      internalID: -1162235918232465891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_127
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad95983c6d90f8e0800000000000000
+      internalID: -1661655174368354903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_128
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afe3866f0747d3a0800000000000000
+      internalID: -6640760994064502879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_129
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 17
+        width: 134
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545bff4227fa4c260800000000000000
+      internalID: 7117006215934096709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_130
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 75
+        width: 133
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55367b5e6eaad4490800000000000000
+      internalID: -7760358674216295595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_131
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f26f998b4320c750800000000000000
+      internalID: 6323092684166619893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_132
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 73
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d34bc8171d48970800000000000000
+      internalID: 8756353861137218829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_133
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 149
+        width: 169
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0358e2efae2b920800000000000000
+      internalID: 3004722278832615633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_134
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 172
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d7912b5dad649b0800000000000000
+      internalID: -5096145316972233320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_135
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 187
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3a537b892aa60e0800000000000000
+      internalID: -2275827884889889818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_136
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 197
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6a345817db51020800000000000000
+      internalID: 2311962278989375143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_137
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 197
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63509cfbf46abbbb0800000000000000
+      internalID: -4919155306521885386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_138
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 177
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13345c46342e640d0800000000000000
+      internalID: -3438812486369459407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_139
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 165
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8e6d4625f75b910800000000000000
+      internalID: 1852526813588678865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_140
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 184
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881fecd05af5764c0800000000000000
+      internalID: -4294358557168569976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_141
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 173
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d564610ff257ca0800000000000000
+      internalID: -6019852618698433261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_142
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 158
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5955e182a39f650800000000000000
+      internalID: 6267104300444784078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_143
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df78087ec94e55910800000000000000
+      internalID: 1825616586518595581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_144
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 156
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f42002c78f87b060800000000000000
+      internalID: 6969196761617278194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_145
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 173
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6cd058b5240f110800000000000000
+      internalID: 1292606053897062105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_146
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 162
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dacedd515c15d60800000000000000
+      internalID: 7877293920955968805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_147
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 162
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161ccff35358b2d30800000000000000
+      internalID: 4407763124065452385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_148
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 165
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4067f2c9ec75660800000000000000
+      internalID: 7374590085048960191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_149
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 166
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed49f70a680510d0800000000000000
+      internalID: -3452844287816282655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_150
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 154
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dddb7e6962321780800000000000000
+      internalID: -8713846900601922094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_151
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 89
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd95c67ce9ddd0b0800000000000000
+      internalID: -5702161943553008198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_152
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 95
+        width: 131
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662b4e3e830687000800000000000000
+      internalID: 33882794663129702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_153
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 95
+        width: 132
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35158e0d64042b720800000000000000
+      internalID: 2860419386230460755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_154
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 83
+        width: 135
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1724c41ffc92fc0800000000000000
+      internalID: -3519052998539841083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_155
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 120
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbecf28a3a55c920800000000000000
+      internalID: 3009911133319261174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_156
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 144
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71197deac8f6a5b0800000000000000
+      internalID: -5357321156259409537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_157
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 120
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407904069e82e5420800000000000000
+      internalID: 2620577015983544068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_158
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 129
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4905ad2e3069180800000000000000
+      internalID: -9109088923450043152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_159
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 123
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b6273db3bc21900800000000000000
+      internalID: 653808353733143317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_160
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 124
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d63262b7f0338290800000000000000
+      internalID: -7889408281815140649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_161
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 125
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b5d16860587bf20800000000000000
+      internalID: 3438363103587031880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_162
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 114
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0aa56bad8c76e80800000000000000
+      internalID: -8185352956034768675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ab555a07f9841f0800000000000000
+      internalID: -1060422406086739298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_164
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 97
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacb104df1feb0950800000000000000
+      internalID: 6416485014099311786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_165
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 117
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0287f593fefa8ae30800000000000000
+      internalID: 4515052068433524768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_166
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 105
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c66e4b66caf289e0800000000000000
+      internalID: -1620457185789188409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_167
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 96
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9777f38f857be46f0800000000000000
+      internalID: -698419299445934215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_168
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 105
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1bfd70ce882dce0800000000000000
+      internalID: -1381891588323560983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_169
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 88
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca6bdc7bcc24c2d0800000000000000
+      internalID: -3259430977824658741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_170
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 84
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c975eb4bde666f30800000000000000
+      internalID: 4568460760164170178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_171
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 89
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8774a1daf49ba9830800000000000000
+      internalID: 4078776164395140984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_172
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 85
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab8beca1513484f0800000000000000
+      internalID: -827482204666098769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_173
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 89
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00776ae30c8598d0800000000000000
+      internalID: -2840210041541791733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_174
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 178
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52618b234d3758c50800000000000000
+      internalID: 6666862178613073445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_175
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 22
+        width: 140
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd66bcb2bd1653d0800000000000000
+      internalID: -3218352230202184229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_176
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 22
+        width: 132
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c258c5ed33db5d020800000000000000
+      internalID: 2366005209724650796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_177
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 22
+        width: 133
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e53538a3f94c8320800000000000000
+      internalID: 2561503598914909667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_178
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 0
+        width: 137
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c237c7ff2db7d630800000000000000
+      internalID: 3951835211759039176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_179
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 72
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d7490d956abc720800000000000000
+      internalID: 2867568492433145096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_180
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 9
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9095ce99b023430800000000000000
+      internalID: 3761081394530945506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_181
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f586229af2d44f030800000000000000
+      internalID: 3527529275234347103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_182
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 38
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520ef89bcca0e36e0800000000000000
+      internalID: -1856034122027245531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_183
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 12
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbfe03bd7b0e5190800000000000000
+      internalID: -7971921655896278086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_184
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15b3943eaf3f8870800000000000000
+      internalID: 8687232223659930908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hellobstacles_185
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84805fdd907f6fa70800000000000000
+      internalID: 8860540938648619080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

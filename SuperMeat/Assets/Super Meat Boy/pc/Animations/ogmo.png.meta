@@ -1,0 +1,2792 @@
+fileFormatVersion: 2
+guid: 3c69032cb056f6fe7aaa2371f4c8e768
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4900920748787865220
+    second: ogmo_0
+  - first:
+      213: 7571818747959077616
+    second: ogmo_1
+  - first:
+      213: 5393725158679544014
+    second: ogmo_2
+  - first:
+      213: 3502381408806045666
+    second: ogmo_3
+  - first:
+      213: 4820150961195377142
+    second: ogmo_4
+  - first:
+      213: 2910436288607031129
+    second: ogmo_5
+  - first:
+      213: -4035187381552077297
+    second: ogmo_6
+  - first:
+      213: 6575039232800911525
+    second: ogmo_7
+  - first:
+      213: -6915995355842388039
+    second: ogmo_8
+  - first:
+      213: 912482270899769062
+    second: ogmo_9
+  - first:
+      213: 6812161438402406482
+    second: ogmo_10
+  - first:
+      213: 2182343850660981882
+    second: ogmo_11
+  - first:
+      213: 5285409048973066472
+    second: ogmo_12
+  - first:
+      213: 3014205964455433986
+    second: ogmo_13
+  - first:
+      213: -6693737975395454276
+    second: ogmo_14
+  - first:
+      213: 1703033629307033202
+    second: ogmo_15
+  - first:
+      213: 4176169233202546816
+    second: ogmo_16
+  - first:
+      213: 8021462779603329900
+    second: ogmo_17
+  - first:
+      213: 6680043200903907982
+    second: ogmo_18
+  - first:
+      213: 321761383165512100
+    second: ogmo_19
+  - first:
+      213: 4084600653648298755
+    second: ogmo_20
+  - first:
+      213: -4407405176912094674
+    second: ogmo_21
+  - first:
+      213: 5045401341006007314
+    second: ogmo_22
+  - first:
+      213: 3514396129550459610
+    second: ogmo_23
+  - first:
+      213: -5697487527281827403
+    second: ogmo_24
+  - first:
+      213: 3269851223227167379
+    second: ogmo_25
+  - first:
+      213: 1853807843297706308
+    second: ogmo_26
+  - first:
+      213: -8186765181537307593
+    second: ogmo_27
+  - first:
+      213: -8957402871883605501
+    second: ogmo_28
+  - first:
+      213: -8549451129046231266
+    second: ogmo_29
+  - first:
+      213: 6657374782908781028
+    second: ogmo_30
+  - first:
+      213: -6884029016695718860
+    second: ogmo_31
+  - first:
+      213: 5583937304943057344
+    second: ogmo_32
+  - first:
+      213: -8981341463811426745
+    second: ogmo_33
+  - first:
+      213: -5098187186112827343
+    second: ogmo_34
+  - first:
+      213: -6118592907275803795
+    second: ogmo_35
+  - first:
+      213: 5895747594253866849
+    second: ogmo_36
+  - first:
+      213: 8107490686436780814
+    second: ogmo_37
+  - first:
+      213: 1711951793089501091
+    second: ogmo_38
+  - first:
+      213: -3076830942092653817
+    second: ogmo_39
+  - first:
+      213: -4703303788454983690
+    second: ogmo_40
+  - first:
+      213: -7291730204529105173
+    second: ogmo_41
+  - first:
+      213: -7725225626542057684
+    second: ogmo_42
+  - first:
+      213: 3803664002124129832
+    second: ogmo_43
+  - first:
+      213: 5457444552157336975
+    second: ogmo_44
+  - first:
+      213: 8428599470665918990
+    second: ogmo_45
+  - first:
+      213: -1767451111211767273
+    second: ogmo_46
+  - first:
+      213: 4422314454834792780
+    second: ogmo_47
+  - first:
+      213: -5199861417022159662
+    second: ogmo_48
+  - first:
+      213: 1579808891086324290
+    second: ogmo_49
+  - first:
+      213: 9052707977301695681
+    second: ogmo_50
+  - first:
+      213: -4258065882780607839
+    second: ogmo_51
+  - first:
+      213: -6909721707687724007
+    second: ogmo_52
+  - first:
+      213: -3636071438592887734
+    second: ogmo_53
+  - first:
+      213: -5128167117757218432
+    second: ogmo_54
+  - first:
+      213: -4741746460288334383
+    second: ogmo_55
+  - first:
+      213: -2923660927515491784
+    second: ogmo_56
+  - first:
+      213: -8743563134806506344
+    second: ogmo_57
+  - first:
+      213: -6981729422980978811
+    second: ogmo_58
+  - first:
+      213: 5534293621717474677
+    second: ogmo_59
+  - first:
+      213: -6477781187534707459
+    second: ogmo_60
+  - first:
+      213: -444044332256652171
+    second: ogmo_61
+  - first:
+      213: -829122316642374648
+    second: ogmo_62
+  - first:
+      213: -6953169954329829241
+    second: ogmo_63
+  - first:
+      213: 9060595891806544230
+    second: ogmo_64
+  - first:
+      213: 5968517157614123596
+    second: ogmo_65
+  - first:
+      213: -424046117441697548
+    second: ogmo_66
+  - first:
+      213: 3941393061695000918
+    second: ogmo_67
+  - first:
+      213: 6757565406033260999
+    second: ogmo_68
+  - first:
+      213: -8299401056006326917
+    second: ogmo_69
+  - first:
+      213: -9072674529730611864
+    second: ogmo_70
+  - first:
+      213: 8460929448083914348
+    second: ogmo_71
+  - first:
+      213: -160885371437859064
+    second: ogmo_72
+  - first:
+      213: -245742307590550704
+    second: ogmo_73
+  - first:
+      213: -1249063691749650971
+    second: ogmo_74
+  - first:
+      213: 5007191083691784431
+    second: ogmo_75
+  - first:
+      213: -6420392745203742148
+    second: ogmo_76
+  - first:
+      213: -6669973883597022060
+    second: ogmo_77
+  - first:
+      213: -7864531158912211709
+    second: ogmo_78
+  - first:
+      213: 6361256636614945613
+    second: ogmo_79
+  - first:
+      213: -3556350847403341946
+    second: ogmo_80
+  - first:
+      213: 2773173554312577048
+    second: ogmo_81
+  - first:
+      213: -3956076509630110617
+    second: ogmo_82
+  - first:
+      213: 3366697264810683562
+    second: ogmo_83
+  - first:
+      213: -7527446238772582074
+    second: ogmo_84
+  - first:
+      213: 4610606473457475704
+    second: ogmo_85
+  - first:
+      213: -8400327853846172167
+    second: ogmo_86
+  - first:
+      213: 5554440711401428415
+    second: ogmo_87
+  - first:
+      213: 4650059216430614963
+    second: ogmo_88
+  - first:
+      213: -4503012172702514660
+    second: ogmo_89
+  - first:
+      213: 7961019017006272261
+    second: ogmo_90
+  - first:
+      213: -2295367128982706571
+    second: ogmo_91
+  - first:
+      213: 7305381197014210940
+    second: ogmo_92
+  - first:
+      213: 3697192709699587616
+    second: ogmo_93
+  - first:
+      213: -1898823580234052210
+    second: ogmo_94
+  - first:
+      213: 6666818575768293718
+    second: ogmo_95
+  - first:
+      213: 3906817464049879592
+    second: ogmo_96
+  - first:
+      213: -2030548214541685047
+    second: ogmo_97
+  - first:
+      213: 2708930015164760750
+    second: ogmo_98
+  - first:
+      213: -5680523908714282201
+    second: ogmo_99
+  - first:
+      213: -3157514720361173559
+    second: ogmo_100
+  - first:
+      213: 5846357601682375419
+    second: ogmo_101
+  - first:
+      213: 4724722772280092213
+    second: ogmo_102
+  - first:
+      213: -4066763371973611359
+    second: ogmo_103
+  - first:
+      213: -498453599990394367
+    second: ogmo_104
+  - first:
+      213: 5353948928310900215
+    second: ogmo_105
+  - first:
+      213: 8654874560973150978
+    second: ogmo_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ogmo_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 788
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48697df6471930440800000000000000
+      internalID: 4900920748787865220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 789
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa6eb7b801841960800000000000000
+      internalID: 7571818747959077616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 794
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec08e23647c5ada40800000000000000
+      internalID: 5393725158679544014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 748
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e701dbb555fa9030800000000000000
+      internalID: 3502381408806045666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 710
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1eecdc2cd94e240800000000000000
+      internalID: 4820150961195377142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 780
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f04d36262f36820800000000000000
+      internalID: 2910436288607031129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 763
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f062370b4722008c0800000000000000
+      internalID: -4035187381552077297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 768
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0fa5f985b3f3b50800000000000000
+      internalID: 6575039232800911525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 741
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf53cacdd27500a0800000000000000
+      internalID: -6915995355842388039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_9
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 757
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee82d47ac9c9ac00800000000000000
+      internalID: 912482270899769062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_10
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 730
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258e6906cb8a98e50800000000000000
+      internalID: 6812161438402406482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 725
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ce76c6b2e394e10800000000000000
+      internalID: 2182343850660981882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 718
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0cca8d68b895940800000000000000
+      internalID: 5285409048973066472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_13
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 735
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207da3fca5c94d920800000000000000
+      internalID: 3014205964455433986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_14
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 737
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2f20db6c01b13a0800000000000000
+      internalID: -6693737975395454276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 728
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276d363101462a710800000000000000
+      internalID: 1703033629307033202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 693
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08804f29acbb4f930800000000000000
+      internalID: 4176169233202546816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_17
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 719
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63264506e5f15f60800000000000000
+      internalID: 8021462779603329900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_18
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 694
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a042a16e744bc50800000000000000
+      internalID: 6680043200903907982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 694
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9c402f540277400800000000000000
+      internalID: 321761383165512100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 698
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303090247aa6fa830800000000000000
+      internalID: 4084600653648298755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 702
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2adfe0d750c5d2c0800000000000000
+      internalID: -4407405176912094674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 677
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c41f7b9cdd40640800000000000000
+      internalID: 5045401341006007314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 680
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2ecd5e8a4a5c030800000000000000
+      internalID: 3514396129550459610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 680
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1e520d7457ee0b0800000000000000
+      internalID: -5697487527281827403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 686
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392f4d4fc58d06d20800000000000000
+      internalID: 3269851223227167379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_26
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 586
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441c79d596c0ab910800000000000000
+      internalID: 1853807843297706308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_27
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 615
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734bee65174c26e80800000000000000
+      internalID: -8186765181537307593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a505fdb89e0b380800000000000000
+      internalID: -8957402871883605501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 668
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1713acbe7f3a5980800000000000000
+      internalID: -8549451129046231266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_30
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 655
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1dbefb71fb36c50800000000000000
+      internalID: 6657374782908781028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_31
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 675
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cbe5c15140770a0800000000000000
+      internalID: -6884029016695718860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 660
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9de25d4612e7d40800000000000000
+      internalID: 5583937304943057344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 654
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746780b168ddb5380800000000000000
+      internalID: -8981341463811426745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 653
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130fb4df3c99f39b0800000000000000
+      internalID: -5098187186112827343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_35
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 662
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63e9942b24661ba0800000000000000
+      internalID: -6118592907275803795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 647
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1679dd03337e1d150800000000000000
+      internalID: 5895747594253866849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_37
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 645
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b2ad0f2d7938070800000000000000
+      internalID: 8107490686436780814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 644
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a751b3e51312c710800000000000000
+      internalID: 1711951793089501091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 652
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b03a65f86ec45d0800000000000000
+      internalID: -3076830942092653817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 648
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f74462af128abeb0800000000000000
+      internalID: -4703303788454983690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_41
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 582
+        width: 28
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be66e0123029eca90800000000000000
+      internalID: -7291730204529105173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 612
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c275730093c7ac490800000000000000
+      internalID: -7725225626542057684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_43
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 640
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826ac8bd14459c430800000000000000
+      internalID: 3803664002124129832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_44
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 535
+        width: 109
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f859ab8c7ecbcbb40800000000000000
+      internalID: 5457444552157336975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 567
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a661bdf8668f470800000000000000
+      internalID: 8428599470665918990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 569
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a6a562490c877e0800000000000000
+      internalID: -1767451111211767273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_47
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 552
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49c085f0973f5d30800000000000000
+      internalID: 4422314454834792780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_48
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 507
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4822d579166d7b0800000000000000
+      internalID: -5199861417022159662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_49
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 535
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2424436f0db9ce510800000000000000
+      internalID: 1579808891086324290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc996a21fda1ad70800000000000000
+      internalID: 9052707977301695681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 534
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aad6aac3af48e4c0800000000000000
+      internalID: -4258065882780607839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_52
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 530
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cb77457bcbb10a0800000000000000
+      internalID: -6909721707687724007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_53
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 456
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a443ab49a441a8dc0800000000000000
+      internalID: -3636071438592887734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_54
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 443
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0810e353d2715d8b0800000000000000
+      internalID: -5128167117757218432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_55
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 456
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d54c8b97bee13eb0800000000000000
+      internalID: -4741746460288334383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_56
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 504
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83200cb60e11d67d0800000000000000
+      internalID: -2923660927515491784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_57
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 522
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89448ae77af98a680800000000000000
+      internalID: -8743563134806506344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_58
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 501
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5876351a41aeb1f90800000000000000
+      internalID: -6981729422980978811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_59
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 482
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d1e2d1ab2cdcc40800000000000000
+      internalID: 5534293621717474677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_60
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 490
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df42948a45c4a16a0800000000000000
+      internalID: -6477781187534707459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_61
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 411
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574115f480076d9f0800000000000000
+      internalID: -444044332256652171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_62
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 428
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cae2955ad5e74f0800000000000000
+      internalID: -829122316642374648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 476
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780604914c0618f90800000000000000
+      internalID: -6953169954329829241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 411
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6612e7065f3bdbd70800000000000000
+      internalID: 9060595891806544230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 434
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af9677bbe64d250800000000000000
+      internalID: 5968517157614123596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 452
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f801898d4c7d1af0800000000000000
+      internalID: -424046117441697548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_67
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 453
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65115827b14a2b630800000000000000
+      internalID: 3941393061695000918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_68
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 377
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1b4150fe1b7cd50800000000000000
+      internalID: 6757565406033260999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_69
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 377
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75bd3036ba92dc80800000000000000
+      internalID: -8299401056006326917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_70
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 433
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8653ca49592671280800000000000000
+      internalID: -9072674529730611864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_71
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 440
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6efeae41824b6570800000000000000
+      internalID: 8460929448083914348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_72
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 353
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fb3e96b9b64cdf0800000000000000
+      internalID: -160885371437859064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bc7c95ca2f69cf0800000000000000
+      internalID: -245742307590550704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_74
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 399
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed8c6fa03f6aaee0800000000000000
+      internalID: -1249063691749650971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_75
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 412
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8b3f9e2cd1d7540800000000000000
+      internalID: 5007191083691784431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 404
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ac2af90de26e6a0800000000000000
+      internalID: -6420392745203742148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_77
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 410
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c1117871e7f63a0800000000000000
+      internalID: -6669973883597022060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_78
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 348
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305eb0c34929bd290800000000000000
+      internalID: -7864531158912211709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 381
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ba7862539b74850800000000000000
+      internalID: 6361256636614945613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_80
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6874dd32fbd45aec0800000000000000
+      internalID: -3556350847403341946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_81
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 331
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8100f4d97aa4c7620800000000000000
+      internalID: 2773173554312577048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 263
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764ea3bef513919c0800000000000000
+      internalID: -3956076509630110617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_83
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 252
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aace1572359e8be20800000000000000
+      internalID: 3366697264810683562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_84
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 297
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6492c182783298790800000000000000
+      internalID: -7527446238772582074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_85
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 312
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870ac89d82a2cff30800000000000000
+      internalID: 4610606473457475704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_86
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdeda2e25a0c6b80800000000000000
+      internalID: -8400327853846172167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_87
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 269
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5dc09f566551d40800000000000000
+      internalID: 5554440711401428415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_88
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 297
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9c0e36834588040800000000000000
+      internalID: 4650059216430614963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_89
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 301
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c128ec279461281c0800000000000000
+      internalID: -4503012172702514660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 171
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fc9cedd983b7e60800000000000000
+      internalID: 7961019017006272261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_91
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 173
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576a0efe1c73520e0800000000000000
+      internalID: -2295367128982706571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_92
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 218
+        width: 92
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7999dc3e7de16560800000000000000
+      internalID: 7305381197014210940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_93
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 205
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ececf4e211f4330800000000000000
+      internalID: 3697192709699587616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_94
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 190
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d8301a30606a5e0800000000000000
+      internalID: -1898823580234052210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_95
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 218
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65115ae1c2c458c50800000000000000
+      internalID: 6666818575768293718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_96
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 100
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a4cfac8cdc73630800000000000000
+      internalID: 3906817464049879592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_97
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 138
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce60fc382b02d3e0800000000000000
+      internalID: -2030548214541685047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_98
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 59
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea20a4b0f7d089520800000000000000
+      internalID: 2708930015164760750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_99
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 114
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723c8fa0a99ba21b0800000000000000
+      internalID: -5680523908714282201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_100
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 110
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd2ecf47114e24d0800000000000000
+      internalID: -3157514720361173559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_101
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 138
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2ce2e634f622150800000000000000
+      internalID: 5846357601682375419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_102
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 59
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53624f72456919140800000000000000
+      internalID: 4724722772280092213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_103
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 26
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a071f38244ff87c0800000000000000
+      internalID: -4066763371973611359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_104
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102de8b77132519f0800000000000000
+      internalID: -498453599990394367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_105
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 30
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5fd811f2c0d4a40800000000000000
+      internalID: 5353948928310900215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogmo_106
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 8
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b9e56ce8a4c1870800000000000000
+      internalID: 8654874560973150978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

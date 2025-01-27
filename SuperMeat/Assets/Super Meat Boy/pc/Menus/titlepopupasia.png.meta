@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 3b758bc2cb9a76ad49b897d227842a64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4538185121639614201
+    second: titlepopupasia_0
+  - first:
+      213: -6796750484356760518
+    second: titlepopupasia_1
+  - first:
+      213: -1446501871531099992
+    second: titlepopupasia_2
+  - first:
+      213: -3530533121216944123
+    second: titlepopupasia_3
+  - first:
+      213: -8331359497347567821
+    second: titlepopupasia_4
+  - first:
+      213: -338706371198614179
+    second: titlepopupasia_5
+  - first:
+      213: 3469137431709035522
+    second: titlepopupasia_6
+  - first:
+      213: -890531189892558069
+    second: titlepopupasia_7
+  - first:
+      213: 3730952449038624750
+    second: titlepopupasia_8
+  - first:
+      213: 3695471741771404178
+    second: titlepopupasia_9
+  - first:
+      213: -5234970893734725258
+    second: titlepopupasia_10
+  - first:
+      213: -4470850631333824248
+    second: titlepopupasia_11
+  - first:
+      213: 7148193360666724806
+    second: titlepopupasia_12
+  - first:
+      213: 5942668456483998406
+    second: titlepopupasia_13
+  - first:
+      213: 4913007364907848109
+    second: titlepopupasia_14
+  - first:
+      213: -601709546364849160
+    second: titlepopupasia_15
+  - first:
+      213: -6543267612859941687
+    second: titlepopupasia_16
+  - first:
+      213: -2626856798992154420
+    second: titlepopupasia_17
+  - first:
+      213: 2908457862852175035
+    second: titlepopupasia_18
+  - first:
+      213: -3116643422286482099
+    second: titlepopupasia_19
+  - first:
+      213: -8155864340611455361
+    second: titlepopupasia_20
+  - first:
+      213: 2588625104878650398
+    second: titlepopupasia_21
+  - first:
+      213: 8935210551730219781
+    second: titlepopupasia_22
+  - first:
+      213: 1119509476874974393
+    second: titlepopupasia_23
+  - first:
+      213: 2388775856180359996
+    second: titlepopupasia_24
+  - first:
+      213: -5917390181829923022
+    second: titlepopupasia_25
+  - first:
+      213: 3383044731506749766
+    second: titlepopupasia_26
+  - first:
+      213: -44537703690845090
+    second: titlepopupasia_27
+  - first:
+      213: 797875163323859148
+    second: titlepopupasia_28
+  - first:
+      213: 4630135440406470846
+    second: titlepopupasia_29
+  - first:
+      213: -1299688171076929149
+    second: titlepopupasia_30
+  - first:
+      213: -4660018403632191224
+    second: titlepopupasia_31
+  - first:
+      213: -3700250123862169892
+    second: titlepopupasia_32
+  - first:
+      213: 8393028501081346737
+    second: titlepopupasia_33
+  - first:
+      213: 2954337735913053099
+    second: titlepopupasia_34
+  - first:
+      213: 8021475417053419538
+    second: titlepopupasia_35
+  - first:
+      213: -1162272524656052022
+    second: titlepopupasia_36
+  - first:
+      213: 632437882090642520
+    second: titlepopupasia_37
+  - first:
+      213: -4788058339498888337
+    second: titlepopupasia_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: titlepopupasia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 903
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6ca44e25fdafe30800000000000000
+      internalID: 4538185121639614201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_1
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 484
+        width: 415
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c73f8f1771da1a0800000000000000
+      internalID: -6796750484356760518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_2
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 611
+        width: 388
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87374363efcebe0800000000000000
+      internalID: -1446501871531099992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 334
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508ec12f4d6010fc0800000000000000
+      internalID: -3530533121216944123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 186
+        width: 335
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f6588bda0116c80800000000000000
+      internalID: -8331359497347567821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_5
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3
+        width: 308
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d558b85995cac4bf0800000000000000
+      internalID: -338706371198614179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_6
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 298
+        width: 100
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c27062d1ad42030800000000000000
+      internalID: 3469137431709035522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_7
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 244
+        width: 16
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b035c0dd99234a3f0800000000000000
+      internalID: -890531189892558069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 174
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee722d62c7107c330800000000000000
+      internalID: 3730952449038624750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 163
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29357cd38f3f84330800000000000000
+      internalID: 3695471741771404178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 162
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679be6d45b5a957b0800000000000000
+      internalID: -5234970893734725258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_11
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 173
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8093483d90954f1c0800000000000000
+      internalID: -4470850631333824248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_12
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 68
+        width: 117
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c988502dfb733360800000000000000
+      internalID: 7148193360666724806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 156
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cac5aeb979987250800000000000000
+      internalID: 5942668456483998406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 143
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1d53c0b228e2440800000000000000
+      internalID: 4913007364907848109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 135
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f336f60b5c46a7f0800000000000000
+      internalID: -601709546364849160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 140
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc3a2916c4a135a0800000000000000
+      internalID: -6543267612859941687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_17
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c044b8a78b8bd0800000000000000
+      internalID: -2626856798992154420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4ee7f340bec5820800000000000000
+      internalID: 2908457862852175035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 28
+        width: 121
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d457e03f1557fb4d0800000000000000
+      internalID: -3116643422286482099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f762495089c80de80800000000000000
+      internalID: -8155864340611455361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 127
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1443f851d4ace320800000000000000
+      internalID: 2588625104878650398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 118
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ba331f7ae300c70800000000000000
+      internalID: 8935210551730219781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 116
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4f0d310fb498f00800000000000000
+      internalID: 1119509476874974393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_24
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 118
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33f8a32cf2a62120800000000000000
+      internalID: 2388775856180359996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_25
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 112
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fa4a63bf431eda0800000000000000
+      internalID: -5917390181829923022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_26
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 119
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64177b8524df2fe20800000000000000
+      internalID: 3383044731506749766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 132
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e544568c135c16ff0800000000000000
+      internalID: -44537703690845090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_28
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 125
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc08605db3f921b00800000000000000
+      internalID: 797875163323859148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_29
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 110
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0ef5bc6ab814040800000000000000
+      internalID: 4630135440406470846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 105
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389be249e7496fde0800000000000000
+      internalID: -1299688171076929149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 102
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80968b4a3f9445fb0800000000000000
+      internalID: -4660018403632191224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_32
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 104
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a91bfd1216acc0800000000000000
+      internalID: -3700250123862169892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_33
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 107
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2deac14f60a7470800000000000000
+      internalID: 8393028501081346737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_34
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 115
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab11af948aeff820800000000000000
+      internalID: 2954337735913053099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2185ff76461025f60800000000000000
+      internalID: 8021475417053419538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_36
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 38
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8fdabfb47cedfe0800000000000000
+      internalID: -1162272524656052022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c538827eed6c800800000000000000
+      internalID: 632437882090642520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: titlepopupasia_38
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 49
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f637256fe466d8db0800000000000000
+      internalID: -4788058339498888337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7842 @@
+fileFormatVersion: 2
+guid: 369acd84a51e7e1e2a043874e8be3580
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6227994104505718047
+    second: ranimals_0
+  - first:
+      213: -4758319905104782875
+    second: ranimals_1
+  - first:
+      213: -6522110516023738699
+    second: ranimals_2
+  - first:
+      213: -2039046915565801901
+    second: ranimals_3
+  - first:
+      213: -3974607300832404386
+    second: ranimals_4
+  - first:
+      213: -4565630775015404862
+    second: ranimals_5
+  - first:
+      213: 4617565577577229272
+    second: ranimals_6
+  - first:
+      213: 8476531202487607651
+    second: ranimals_7
+  - first:
+      213: -6034461340307892463
+    second: ranimals_8
+  - first:
+      213: -1534172606133921758
+    second: ranimals_9
+  - first:
+      213: -3580450967498140002
+    second: ranimals_10
+  - first:
+      213: -4245501754813153096
+    second: ranimals_11
+  - first:
+      213: -1833203945876296237
+    second: ranimals_12
+  - first:
+      213: -5423551166131405646
+    second: ranimals_13
+  - first:
+      213: -6619667198417677060
+    second: ranimals_14
+  - first:
+      213: -1668128981620524630
+    second: ranimals_15
+  - first:
+      213: -2609435127135051028
+    second: ranimals_16
+  - first:
+      213: -5178209662295634397
+    second: ranimals_17
+  - first:
+      213: -5872405632053978750
+    second: ranimals_18
+  - first:
+      213: -8690117963718751070
+    second: ranimals_19
+  - first:
+      213: -3827085112230820034
+    second: ranimals_20
+  - first:
+      213: 2707106044871946125
+    second: ranimals_21
+  - first:
+      213: -2276392910825220264
+    second: ranimals_22
+  - first:
+      213: 8640649140512059609
+    second: ranimals_23
+  - first:
+      213: 6830158579303823523
+    second: ranimals_24
+  - first:
+      213: 6432570930938742596
+    second: ranimals_25
+  - first:
+      213: 7721818861372637156
+    second: ranimals_26
+  - first:
+      213: 5971822562704374633
+    second: ranimals_27
+  - first:
+      213: -6545582537918778216
+    second: ranimals_28
+  - first:
+      213: 1649559430985823141
+    second: ranimals_29
+  - first:
+      213: -7961178944188511069
+    second: ranimals_30
+  - first:
+      213: -3075995440965964250
+    second: ranimals_31
+  - first:
+      213: -3139276774237339060
+    second: ranimals_32
+  - first:
+      213: 7303592614819979542
+    second: ranimals_33
+  - first:
+      213: -596907272706067862
+    second: ranimals_34
+  - first:
+      213: 4567322366918710575
+    second: ranimals_35
+  - first:
+      213: -4580636772253962331
+    second: ranimals_36
+  - first:
+      213: -8704681893076562295
+    second: ranimals_37
+  - first:
+      213: 3248754119352659038
+    second: ranimals_38
+  - first:
+      213: -3976964752933459261
+    second: ranimals_39
+  - first:
+      213: 2844510049236570035
+    second: ranimals_40
+  - first:
+      213: 5064492026248560057
+    second: ranimals_41
+  - first:
+      213: 6218397933109690507
+    second: ranimals_42
+  - first:
+      213: 7279022479698324898
+    second: ranimals_43
+  - first:
+      213: 1121706391835316480
+    second: ranimals_44
+  - first:
+      213: 6062680244417348964
+    second: ranimals_45
+  - first:
+      213: 659287198768579996
+    second: ranimals_46
+  - first:
+      213: 2882205657244528799
+    second: ranimals_47
+  - first:
+      213: -6423055128170611627
+    second: ranimals_48
+  - first:
+      213: -6292871588234646629
+    second: ranimals_49
+  - first:
+      213: 7306227701382372266
+    second: ranimals_50
+  - first:
+      213: -9154600764095318899
+    second: ranimals_51
+  - first:
+      213: 6489532113995961326
+    second: ranimals_52
+  - first:
+      213: 2772239382838813264
+    second: ranimals_53
+  - first:
+      213: -6830727560523629636
+    second: ranimals_54
+  - first:
+      213: -5982763150969296818
+    second: ranimals_55
+  - first:
+      213: 1046742177910744630
+    second: ranimals_56
+  - first:
+      213: 1812146560183671806
+    second: ranimals_57
+  - first:
+      213: 2279420309794254404
+    second: ranimals_58
+  - first:
+      213: 6772511630376819509
+    second: ranimals_59
+  - first:
+      213: 6177653346318395578
+    second: ranimals_60
+  - first:
+      213: -2051182547029224812
+    second: ranimals_61
+  - first:
+      213: -8960804428877528936
+    second: ranimals_62
+  - first:
+      213: -1400926795125226925
+    second: ranimals_63
+  - first:
+      213: 580756083298175441
+    second: ranimals_64
+  - first:
+      213: -7824536501681195922
+    second: ranimals_65
+  - first:
+      213: -3739938615432006055
+    second: ranimals_66
+  - first:
+      213: 3996554411403664855
+    second: ranimals_67
+  - first:
+      213: -100619876691587596
+    second: ranimals_68
+  - first:
+      213: -5005829540469630591
+    second: ranimals_69
+  - first:
+      213: -90423370639138829
+    second: ranimals_70
+  - first:
+      213: 3837969200272847611
+    second: ranimals_71
+  - first:
+      213: 8973381692356376350
+    second: ranimals_72
+  - first:
+      213: -5321117832741695347
+    second: ranimals_73
+  - first:
+      213: 5496483522847440289
+    second: ranimals_74
+  - first:
+      213: 8671512432845647157
+    second: ranimals_75
+  - first:
+      213: 3178756359185969291
+    second: ranimals_76
+  - first:
+      213: -1852819545434013838
+    second: ranimals_77
+  - first:
+      213: -5193155701608323091
+    second: ranimals_78
+  - first:
+      213: -5995433908426482686
+    second: ranimals_79
+  - first:
+      213: 7315495128459549788
+    second: ranimals_80
+  - first:
+      213: 4096166618511431973
+    second: ranimals_81
+  - first:
+      213: 7763190039693850198
+    second: ranimals_82
+  - first:
+      213: -1777816284857818268
+    second: ranimals_83
+  - first:
+      213: 7568759740229637432
+    second: ranimals_84
+  - first:
+      213: 4923807847879663102
+    second: ranimals_85
+  - first:
+      213: 2188370895139636611
+    second: ranimals_86
+  - first:
+      213: -5471267684249892484
+    second: ranimals_87
+  - first:
+      213: 5071417007205710425
+    second: ranimals_88
+  - first:
+      213: -3559215845015454650
+    second: ranimals_89
+  - first:
+      213: 7539558305000358634
+    second: ranimals_90
+  - first:
+      213: -1694120918728608774
+    second: ranimals_91
+  - first:
+      213: -4209707861050507853
+    second: ranimals_92
+  - first:
+      213: 1079153307492665593
+    second: ranimals_93
+  - first:
+      213: 4770975229282875585
+    second: ranimals_94
+  - first:
+      213: 4474219703065962990
+    second: ranimals_95
+  - first:
+      213: 5251224275284420094
+    second: ranimals_96
+  - first:
+      213: -1013698185820692134
+    second: ranimals_97
+  - first:
+      213: 4305069398848865836
+    second: ranimals_98
+  - first:
+      213: -925694018395729398
+    second: ranimals_99
+  - first:
+      213: 8462003873686447101
+    second: ranimals_100
+  - first:
+      213: 9098251058510779915
+    second: ranimals_101
+  - first:
+      213: 6429363932231199539
+    second: ranimals_102
+  - first:
+      213: -5103231661080898237
+    second: ranimals_103
+  - first:
+      213: 867081992787402201
+    second: ranimals_104
+  - first:
+      213: -5682422264075698666
+    second: ranimals_105
+  - first:
+      213: 8520992548338772004
+    second: ranimals_106
+  - first:
+      213: -2234686392197191788
+    second: ranimals_107
+  - first:
+      213: -2205980078434346724
+    second: ranimals_108
+  - first:
+      213: -4057259018748093138
+    second: ranimals_109
+  - first:
+      213: -3219848017195211579
+    second: ranimals_110
+  - first:
+      213: 240830234447266549
+    second: ranimals_111
+  - first:
+      213: 8121353157087683786
+    second: ranimals_112
+  - first:
+      213: -8074406849402063589
+    second: ranimals_113
+  - first:
+      213: -8917268789036752547
+    second: ranimals_114
+  - first:
+      213: 1845737891390023502
+    second: ranimals_115
+  - first:
+      213: -806665642972236434
+    second: ranimals_116
+  - first:
+      213: 6941042055327230806
+    second: ranimals_117
+  - first:
+      213: 4482414440967788948
+    second: ranimals_118
+  - first:
+      213: 5144515969382298372
+    second: ranimals_119
+  - first:
+      213: 4913237468914159687
+    second: ranimals_120
+  - first:
+      213: -7087167853187213788
+    second: ranimals_121
+  - first:
+      213: -3383103058070363745
+    second: ranimals_122
+  - first:
+      213: -238130169508956025
+    second: ranimals_123
+  - first:
+      213: -2710518985096254412
+    second: ranimals_124
+  - first:
+      213: 4008941922670768573
+    second: ranimals_125
+  - first:
+      213: 8541276788574150524
+    second: ranimals_126
+  - first:
+      213: -6558917941140922258
+    second: ranimals_127
+  - first:
+      213: -2174524389622309541
+    second: ranimals_128
+  - first:
+      213: 2297934380461183187
+    second: ranimals_129
+  - first:
+      213: -1859550450622278307
+    second: ranimals_130
+  - first:
+      213: 2504247539935213003
+    second: ranimals_131
+  - first:
+      213: -7212767623082737219
+    second: ranimals_132
+  - first:
+      213: 6404004762441352700
+    second: ranimals_133
+  - first:
+      213: 5667529850793664000
+    second: ranimals_134
+  - first:
+      213: 7145556146535345555
+    second: ranimals_135
+  - first:
+      213: -1723721547040011014
+    second: ranimals_136
+  - first:
+      213: -5853696184265140232
+    second: ranimals_137
+  - first:
+      213: -4686957889698118458
+    second: ranimals_138
+  - first:
+      213: -6409784983159191634
+    second: ranimals_139
+  - first:
+      213: -5630648905374033116
+    second: ranimals_140
+  - first:
+      213: -1989111309066463638
+    second: ranimals_141
+  - first:
+      213: 8726719056463409534
+    second: ranimals_142
+  - first:
+      213: -6307397825948896026
+    second: ranimals_143
+  - first:
+      213: 5495823628053581753
+    second: ranimals_144
+  - first:
+      213: 3668216523243412877
+    second: ranimals_145
+  - first:
+      213: 1273584952987238645
+    second: ranimals_146
+  - first:
+      213: -2285604572087172503
+    second: ranimals_147
+  - first:
+      213: -4387745721061139224
+    second: ranimals_148
+  - first:
+      213: -3112793376784402446
+    second: ranimals_149
+  - first:
+      213: -1396928997153607075
+    second: ranimals_150
+  - first:
+      213: -4703280243979709437
+    second: ranimals_151
+  - first:
+      213: -2682541249230799803
+    second: ranimals_152
+  - first:
+      213: -7310944747293662785
+    second: ranimals_153
+  - first:
+      213: 2511295886742971586
+    second: ranimals_154
+  - first:
+      213: -4493676842890143694
+    second: ranimals_155
+  - first:
+      213: -8352569048346052209
+    second: ranimals_156
+  - first:
+      213: 6247246684837316242
+    second: ranimals_157
+  - first:
+      213: -5162989916699979844
+    second: ranimals_158
+  - first:
+      213: 14116415249948179
+    second: ranimals_159
+  - first:
+      213: -8079638664627919450
+    second: ranimals_160
+  - first:
+      213: -4818390903417400205
+    second: ranimals_161
+  - first:
+      213: 4510039694602225407
+    second: ranimals_162
+  - first:
+      213: -6638318612302790130
+    second: ranimals_163
+  - first:
+      213: 259622766735509885
+    second: ranimals_164
+  - first:
+      213: -2732573865138706912
+    second: ranimals_165
+  - first:
+      213: -1047481010515058365
+    second: ranimals_166
+  - first:
+      213: -6458957001004152845
+    second: ranimals_167
+  - first:
+      213: 8498946770140546181
+    second: ranimals_168
+  - first:
+      213: -5942425941531356159
+    second: ranimals_169
+  - first:
+      213: -1022727043331631785
+    second: ranimals_170
+  - first:
+      213: -3485455337082621452
+    second: ranimals_171
+  - first:
+      213: 3990913498404803198
+    second: ranimals_172
+  - first:
+      213: 5381835960646313277
+    second: ranimals_173
+  - first:
+      213: -2553008042365690934
+    second: ranimals_174
+  - first:
+      213: -5732551079716187742
+    second: ranimals_175
+  - first:
+      213: -2317288730783856035
+    second: ranimals_176
+  - first:
+      213: -2325646549184940795
+    second: ranimals_177
+  - first:
+      213: 6720843298666179124
+    second: ranimals_178
+  - first:
+      213: -1097915237336822815
+    second: ranimals_179
+  - first:
+      213: -6143377355725845296
+    second: ranimals_180
+  - first:
+      213: -9095575014492310569
+    second: ranimals_181
+  - first:
+      213: 5901520320711928305
+    second: ranimals_182
+  - first:
+      213: -4697989449388807122
+    second: ranimals_183
+  - first:
+      213: -1354473069383318670
+    second: ranimals_184
+  - first:
+      213: 2499852410957306406
+    second: ranimals_185
+  - first:
+      213: 5134493803590198746
+    second: ranimals_186
+  - first:
+      213: 8580075695619156980
+    second: ranimals_187
+  - first:
+      213: 1259954447840716304
+    second: ranimals_188
+  - first:
+      213: 9070694404277170979
+    second: ranimals_189
+  - first:
+      213: -5666188024994436851
+    second: ranimals_190
+  - first:
+      213: -3950543985719718829
+    second: ranimals_191
+  - first:
+      213: 6209253717802915842
+    second: ranimals_192
+  - first:
+      213: 8419098835838218871
+    second: ranimals_193
+  - first:
+      213: 2150778547107287321
+    second: ranimals_194
+  - first:
+      213: 5598122870838833925
+    second: ranimals_195
+  - first:
+      213: -5123689806411328702
+    second: ranimals_196
+  - first:
+      213: -6327912756246116323
+    second: ranimals_197
+  - first:
+      213: 5173223498508631794
+    second: ranimals_198
+  - first:
+      213: 6549810807940160432
+    second: ranimals_199
+  - first:
+      213: -703984624767963946
+    second: ranimals_200
+  - first:
+      213: 3722815336332894393
+    second: ranimals_201
+  - first:
+      213: 1674875615385611775
+    second: ranimals_202
+  - first:
+      213: -7224280156449298642
+    second: ranimals_203
+  - first:
+      213: -6771579460965855057
+    second: ranimals_204
+  - first:
+      213: 4897391812652651929
+    second: ranimals_205
+  - first:
+      213: 7795045293871321734
+    second: ranimals_206
+  - first:
+      213: 6290683160233525686
+    second: ranimals_207
+  - first:
+      213: -5785158787446076062
+    second: ranimals_208
+  - first:
+      213: -2272119740250942977
+    second: ranimals_209
+  - first:
+      213: 6641837489245539732
+    second: ranimals_210
+  - first:
+      213: 4125502562743269603
+    second: ranimals_211
+  - first:
+      213: -3096760077361418510
+    second: ranimals_212
+  - first:
+      213: 3044483755460121974
+    second: ranimals_213
+  - first:
+      213: -6080426651538037130
+    second: ranimals_214
+  - first:
+      213: 1821915730586904166
+    second: ranimals_215
+  - first:
+      213: 4003445428755582710
+    second: ranimals_216
+  - first:
+      213: 4304196612326070155
+    second: ranimals_217
+  - first:
+      213: 1231268574628824921
+    second: ranimals_218
+  - first:
+      213: 787913672081022323
+    second: ranimals_219
+  - first:
+      213: 105496950756547102
+    second: ranimals_220
+  - first:
+      213: -3130164790035300055
+    second: ranimals_221
+  - first:
+      213: -142120005939854222
+    second: ranimals_222
+  - first:
+      213: 6545990885955082185
+    second: ranimals_223
+  - first:
+      213: -1359945519493358376
+    second: ranimals_224
+  - first:
+      213: -6238604340839652547
+    second: ranimals_225
+  - first:
+      213: -8689762188930135371
+    second: ranimals_226
+  - first:
+      213: -4825928591721318944
+    second: ranimals_227
+  - first:
+      213: 5533137062748530585
+    second: ranimals_228
+  - first:
+      213: 3865582664333223187
+    second: ranimals_229
+  - first:
+      213: -6585094546003336598
+    second: ranimals_230
+  - first:
+      213: 4659301798033426049
+    second: ranimals_231
+  - first:
+      213: -5434763164222564470
+    second: ranimals_232
+  - first:
+      213: -4939026719336468547
+    second: ranimals_233
+  - first:
+      213: -986295298550448585
+    second: ranimals_234
+  - first:
+      213: -3916048236966666234
+    second: ranimals_235
+  - first:
+      213: 4907926763522071797
+    second: ranimals_236
+  - first:
+      213: -1898626124242793258
+    second: ranimals_237
+  - first:
+      213: -3573866068576116253
+    second: ranimals_238
+  - first:
+      213: 8854614235380661012
+    second: ranimals_239
+  - first:
+      213: -8225976951860432091
+    second: ranimals_240
+  - first:
+      213: 493883782039880555
+    second: ranimals_241
+  - first:
+      213: 6503625931955968289
+    second: ranimals_242
+  - first:
+      213: -287280268508474806
+    second: ranimals_243
+  - first:
+      213: -7840304751450876021
+    second: ranimals_244
+  - first:
+      213: -4691392604508373988
+    second: ranimals_245
+  - first:
+      213: 3340520425561252848
+    second: ranimals_246
+  - first:
+      213: -8804021480118975116
+    second: ranimals_247
+  - first:
+      213: -6755393870179861991
+    second: ranimals_248
+  - first:
+      213: 6348369469320398581
+    second: ranimals_249
+  - first:
+      213: -7363835776227136639
+    second: ranimals_250
+  - first:
+      213: 1986394328116937463
+    second: ranimals_251
+  - first:
+      213: -593864600329174421
+    second: ranimals_252
+  - first:
+      213: 1491453551969709773
+    second: ranimals_253
+  - first:
+      213: -5628051616252432094
+    second: ranimals_254
+  - first:
+      213: 1773330688999141119
+    second: ranimals_255
+  - first:
+      213: 4231636444745449807
+    second: ranimals_256
+  - first:
+      213: -1684462901495402084
+    second: ranimals_257
+  - first:
+      213: 4550891342641531313
+    second: ranimals_258
+  - first:
+      213: 6913612651427103561
+    second: ranimals_259
+  - first:
+      213: -4056447542002502784
+    second: ranimals_260
+  - first:
+      213: 4614697232172358485
+    second: ranimals_261
+  - first:
+      213: -4558544444549617223
+    second: ranimals_262
+  - first:
+      213: 1999067832602860151
+    second: ranimals_263
+  - first:
+      213: 1138427999838306883
+    second: ranimals_264
+  - first:
+      213: 5154063566649234262
+    second: ranimals_265
+  - first:
+      213: -6394869155244435409
+    second: ranimals_266
+  - first:
+      213: -6125074779535023305
+    second: ranimals_267
+  - first:
+      213: 3983651307862114146
+    second: ranimals_268
+  - first:
+      213: -4965455904165551552
+    second: ranimals_269
+  - first:
+      213: 6997520508776914889
+    second: ranimals_270
+  - first:
+      213: -4651411711556665028
+    second: ranimals_271
+  - first:
+      213: -3340055764047313883
+    second: ranimals_272
+  - first:
+      213: -2896043808542752405
+    second: ranimals_273
+  - first:
+      213: -7703743539566281881
+    second: ranimals_274
+  - first:
+      213: -9162490597145475501
+    second: ranimals_275
+  - first:
+      213: -7303186742899963100
+    second: ranimals_276
+  - first:
+      213: -2111360514434666130
+    second: ranimals_277
+  - first:
+      213: 4707220580259200263
+    second: ranimals_278
+  - first:
+      213: 4611424938110399610
+    second: ranimals_279
+  - first:
+      213: 9188482675826842565
+    second: ranimals_280
+  - first:
+      213: -8383891253618474293
+    second: ranimals_281
+  - first:
+      213: -5565478579364331931
+    second: ranimals_282
+  - first:
+      213: 1378755535782535784
+    second: ranimals_283
+  - first:
+      213: 6721409599877553994
+    second: ranimals_284
+  - first:
+      213: 5549187546921523237
+    second: ranimals_285
+  - first:
+      213: 271040396264999544
+    second: ranimals_286
+  - first:
+      213: -299337210163743021
+    second: ranimals_287
+  - first:
+      213: -3297773809474489202
+    second: ranimals_288
+  - first:
+      213: -6002119949978581014
+    second: ranimals_289
+  - first:
+      213: -410937543534399685
+    second: ranimals_290
+  - first:
+      213: 4888220147433622477
+    second: ranimals_291
+  - first:
+      213: 7824826800236639040
+    second: ranimals_292
+  - first:
+      213: -8276205130808005117
+    second: ranimals_293
+  - first:
+      213: 5879509372746555251
+    second: ranimals_294
+  - first:
+      213: 267991777940185686
+    second: ranimals_295
+  - first:
+      213: -847600901450712259
+    second: ranimals_296
+  - first:
+      213: 7810485989918754853
+    second: ranimals_297
+  - first:
+      213: -9060425228467248128
+    second: ranimals_298
+  - first:
+      213: 662650406391358040
+    second: ranimals_299
+  - first:
+      213: 1411617200244562023
+    second: ranimals_300
+  - first:
+      213: -4576036060969223361
+    second: ranimals_301
+  - first:
+      213: -2793663891503109520
+    second: ranimals_302
+  - first:
+      213: 2757329145447983006
+    second: ranimals_303
+  - first:
+      213: 8792106224493988808
+    second: ranimals_304
+  - first:
+      213: -8871584303282531366
+    second: ranimals_305
+  - first:
+      213: -5228229226530899981
+    second: ranimals_306
+  - first:
+      213: -9078450966488964497
+    second: ranimals_307
+  - first:
+      213: 5973197540943875472
+    second: ranimals_308
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ranimals_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 988
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f155a4604a74e6650800000000000000
+      internalID: 6227994104505718047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 975
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e91f88c14d07fdb0800000000000000
+      internalID: -4758319905104782875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 957
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beb0929a0fcc75a0800000000000000
+      internalID: -6522110516023738699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_3
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 974
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e285532a9d3b3e0800000000000000
+      internalID: -2039046915565801901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 981
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cd530e7bb57d8c0800000000000000
+      internalID: -3974607300832404386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 973
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca8d97fffe93a0c0800000000000000
+      internalID: -4565630775015404862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 964
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbef8a8d63e41040800000000000000
+      internalID: 4617565577577229272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 963
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361e9c3d730b2a570800000000000000
+      internalID: 8476531202487607651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 953
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117de180269414ca0800000000000000
+      internalID: -6034461340307892463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_9
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 945
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2289043a42685bae0800000000000000
+      internalID: -1534172606133921758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_10
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 979
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96d19aa0deaf4ec0800000000000000
+      internalID: -3580450967498140002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_11
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 974
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0801bc5a2f415c0800000000000000
+      internalID: -4245501754813153096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 959
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dde23559b62f86e0800000000000000
+      internalID: -1833203945876296237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 942
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcf49913fcabb4b0800000000000000
+      internalID: -5423551166131405646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 930
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4520b61c73224a0800000000000000
+      internalID: -6619667198417677060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_15
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 930
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa979f2878d99d8e0800000000000000
+      internalID: -1668128981620524630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 929
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce260b6c39c69cbd0800000000000000
+      internalID: -2609435127135051028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 930
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e8f5a5fbd4328b0800000000000000
+      internalID: -5178209662295634397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_18
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 924
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2895b64e036018ea0800000000000000
+      internalID: -5872405632053978750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_19
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 874
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac8d4411cf766780800000000000000
+      internalID: -8690117963718751070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 912
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37cb400e5673eac0800000000000000
+      internalID: -3827085112230820034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 915
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fa7edda92919520800000000000000
+      internalID: 2707106044871946125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 911
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8579b0d55b0a860e0800000000000000
+      internalID: -2276392910825220264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_23
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 904
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d07109fc90c9e770800000000000000
+      internalID: 8640649140512059609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_24
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 887
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8bdf64a0999ce50800000000000000
+      internalID: 6830158579303823523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_25
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 899
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4478b133e25154950800000000000000
+      internalID: 6432570930938742596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_26
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 919
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eff60ca759692b60800000000000000
+      internalID: 7721818861372637156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_27
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 898
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b38af0bfc20e250800000000000000
+      internalID: 5971822562704374633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_28
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 910
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894f95b9c5b6925a0800000000000000
+      internalID: -6545582537918778216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 905
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a33ecf009964e610800000000000000
+      internalID: 1649559430985823141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_30
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 905
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac035e2ee5348190800000000000000
+      internalID: -7961178944188511069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 905
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ea08a917edf45d0800000000000000
+      internalID: -3075995440965964250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_32
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 904
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4203fb086c0f64d0800000000000000
+      internalID: -3139276774237339060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 900
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611e28e79c29b5560800000000000000
+      internalID: 7303592614819979542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_34
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 894
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62f18e7ffb57b7f0800000000000000
+      internalID: -596907272706067862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_35
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 898
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25d2e67e73626f30800000000000000
+      internalID: 4567322366918710575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_36
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 901
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afe5b8ff1f4e60c0800000000000000
+      internalID: -4580636772253962331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_37
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 894
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e856800f1c23780800000000000000
+      internalID: -8704681893076562295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_38
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 910
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c2a9ea8a4e51d20800000000000000
+      internalID: 3248754119352659038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_39
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 908
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cae629c0abfec8c0800000000000000
+      internalID: -3976964752933459261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 896
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf46c4a1dab97720800000000000000
+      internalID: 2844510049236570035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 895
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdf7504aa0b84640800000000000000
+      internalID: 5064492026248560057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 900
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80c60349ff2c4650800000000000000
+      internalID: 6218397933109690507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_43
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 895
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad608e1168440560800000000000000
+      internalID: 7279022479698324898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 896
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00111a3350a119f00800000000000000
+      internalID: 1121706391835316480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 898
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46546439f87f22450800000000000000
+      internalID: 6062680244417348964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 896
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c954097d632462900800000000000000
+      internalID: 659287198768579996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 894
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f907ea156c6aff720800000000000000
+      internalID: 2882205657244528799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_48
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 899
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cb3a84469bcd6a0800000000000000
+      internalID: -6423055128170611627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_49
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 890
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b202ea1aa3ba8a0800000000000000
+      internalID: -6292871588234646629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_50
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 884
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabd305626fe46560800000000000000
+      internalID: 7306227701382372266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_51
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 875
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d843493bb1354f080800000000000000
+      internalID: -9154600764095318899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_52
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 864
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3183d13137f0a50800000000000000
+      internalID: 6489532113995961326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_53
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 878
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052a47ed709f87620800000000000000
+      internalID: 2772239382838813264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_54
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 871
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbb48579716431a0800000000000000
+      internalID: -6830727560523629636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_55
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 883
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48ad2bbc94f8fca0800000000000000
+      internalID: -5982763150969296818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_56
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 883
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636e9c50776c68e00800000000000000
+      internalID: 1046742177910744630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_57
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 861
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb91b002b9062910800000000000000
+      internalID: 1812146560183671806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_58
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 880
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ee813e1b022af10800000000000000
+      internalID: 2279420309794254404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_59
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 877
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bdfcd027bccfd50800000000000000
+      internalID: 6772511630376819509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_60
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 863
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8afc4ecfe6bb550800000000000000
+      internalID: 6177653346318395578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_61
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 864
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49297d2575cb883e0800000000000000
+      internalID: -2051182547029224812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_62
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 854
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890020b29d3d4a380800000000000000
+      internalID: -8960804428877528936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_63
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 857
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3520c349088ee8ce0800000000000000
+      internalID: -1400926795125226925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_64
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 862
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9822ea4924f0800800000000000000
+      internalID: 580756083298175441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_65
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 854
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64f6350289a96390800000000000000
+      internalID: -7824536501681195922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_66
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 854
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956b861f4a1191cc0800000000000000
+      internalID: -3739938615432006055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_67
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 851
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd5c31001d967730800000000000000
+      internalID: 3996554411403664855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_68
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 825
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd447851c68a9ef0800000000000000
+      internalID: -100619876691587596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_69
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 847
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18996221e88b78ab0800000000000000
+      internalID: -5005829540469630591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_70
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 839
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff19a96c60cebef0800000000000000
+      internalID: -90423370639138829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_71
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 843
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2372937a4334530800000000000000
+      internalID: 3837969200272847611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_72
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 853
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1735ee2b1bd78c70800000000000000
+      internalID: 8973381692356376350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_73
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 839
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d805f6b06879726b0800000000000000
+      internalID: -5321117832741695347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_74
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adfb1574ae674c40800000000000000
+      internalID: 5496483522847440289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_75
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 822
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53de5213d96675870800000000000000
+      internalID: 8671512432845647157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_76
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 824
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b803bc021163d1c20800000000000000
+      internalID: 3178756359185969291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_77
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 844
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f3189a0767946e0800000000000000
+      internalID: -1852819545434013838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_78
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 837
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7675667643ee7b0800000000000000
+      internalID: -5193155701608323091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_79
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 831
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c58ed10a0fbcca0800000000000000
+      internalID: -5995433908426482686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c9ee76f0cd58560800000000000000
+      internalID: 7315495128459549788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_81
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 833
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529df2d46d188d830800000000000000
+      internalID: 4096166618511431973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_82
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 830
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6567dcfb5346cbb60800000000000000
+      internalID: 7763190039693850198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_83
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 817
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4632529128de357e0800000000000000
+      internalID: -1777816284857818268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_84
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 831
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8355aaaf1e2a90960800000000000000
+      internalID: 7568759740229637432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_85
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 820
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdd5237621e45440800000000000000
+      internalID: 4923807847879663102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3850a911cb7ae5e10800000000000000
+      internalID: 2188370895139636611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 796
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79063977072214b0800000000000000
+      internalID: -5471267684249892484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_88
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 812
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95afe5606ea416640800000000000000
+      internalID: 5071417007205710425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 811
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c79e6eb002b9ec0800000000000000
+      internalID: -3559215845015454650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_90
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 762
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae284e40554e1a860800000000000000
+      internalID: 7539558305000358634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_91
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 702
+        width: 58
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af37f9010064d78e0800000000000000
+      internalID: -1694120918728608774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_92
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 801
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd3aed110d1495c0800000000000000
+      internalID: -4209707861050507853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_93
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 781
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8c94f273ce9fe00800000000000000
+      internalID: 1079153307492665593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_94
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 718
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8f79d71b8e53240800000000000000
+      internalID: 4770975229282875585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_95
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 792
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9ec405d1f971e30800000000000000
+      internalID: 4474219703065962990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_96
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 772
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef56c3cf7a810e840800000000000000
+      internalID: 5251224275284420094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_97
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 740
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5123bceede9ee1f0800000000000000
+      internalID: -1013698185820692134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_98
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 736
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c268acb1fcdaebb30800000000000000
+      internalID: 4305069398848865836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_99
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 759
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0291ded1364723f0800000000000000
+      internalID: -925694018395729398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_100
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 775
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df36f0380b31f6570800000000000000
+      internalID: 8462003873686447101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_101
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 751
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b065bd3122b734e70800000000000000
+      internalID: 9098251058510779915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b6950ae60b93950800000000000000
+      internalID: 6429363932231199539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_103
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 750
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3451fb2a7ddad29b0800000000000000
+      internalID: -5103231661080898237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_104
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 739
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd1b3b7a7e780c00800000000000000
+      internalID: 867081992787402201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_105
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 748
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e3ffdbe0bf321b0800000000000000
+      internalID: -5682422264075698666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_106
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 722
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428ab799395a04670800000000000000
+      internalID: 8520992548338772004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_107
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 736
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497efa0f09cccf0e0800000000000000
+      internalID: -2234686392197191788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_108
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 743
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1915537ec8c261e0800000000000000
+      internalID: -2205980078434346724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_109
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 732
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d15c13b68b1b7c0800000000000000
+      internalID: -4057259018748093138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_110
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 714
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c46550b94dc053d0800000000000000
+      internalID: -3219848017195211579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_111
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 717
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2476f72d9975300800000000000000
+      internalID: 240830234447266549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_112
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 700
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac465b7eaa7d4b070800000000000000
+      internalID: 8121353157087683786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 698
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15b86120c1f1ff80800000000000000
+      internalID: -8074406849402063589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_114
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 667
+        width: 111
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5169c6384f7f3480800000000000000
+      internalID: -8917268789036752547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_115
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 714
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47e7c445d06d9910800000000000000
+      internalID: 1845737891390023502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_116
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 726
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65b0222fd52ec4f0800000000000000
+      internalID: -806665642972236434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_117
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 691
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ba3de59f8835060800000000000000
+      internalID: 6941042055327230806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_118
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 725
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49957f96f2cb43e30800000000000000
+      internalID: 4482414440967788948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_119
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 652
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4033b50740ef46740800000000000000
+      internalID: 5144515969382298372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_120
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 699
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74094cf42735f2440800000000000000
+      internalID: 4913237468914159687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_121
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 665
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426553f036255ad90800000000000000
+      internalID: -7087167853187213788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_122
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 675
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91ad2171bdcc01d0800000000000000
+      internalID: -3383103058070363745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_123
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 669
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7887d1c5fddf1bcf0800000000000000
+      internalID: -238130169508956025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_124
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 667
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ca260185d426ad0800000000000000
+      internalID: -2710518985096254412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_125
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 658
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db176f9307f92a730800000000000000
+      internalID: 4008941922670768573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_126
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 684
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f504f4cf5b88670800000000000000
+      internalID: 8541276788574150524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_127
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 627
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60eb5712ea0af4a0800000000000000
+      internalID: -6558917941140922258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d9329b69982d1e0800000000000000
+      internalID: -2174524389622309541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 651
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0db80e427e3ef10800000000000000
+      internalID: 2297934380461183187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_130
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 650
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55ddbca7bc8136e0800000000000000
+      internalID: -1859550450622278307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_131
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 654
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5fb779edfd0c220800000000000000
+      internalID: 2504247539935213003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_132
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 647
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db107bacf0a17eb90800000000000000
+      internalID: -7212767623082737219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_133
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 648
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50a3dc6689fd850800000000000000
+      internalID: 6404004762441352700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_134
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 573
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e9a761f5c17ae40800000000000000
+      internalID: 5667529850793664000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_135
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 656
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d29dcd47d1a2360800000000000000
+      internalID: 7145556146535345555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_136
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 654
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc4ef8b26c1418e0800000000000000
+      internalID: -1723721547040011014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_137
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 646
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f711d9a55e73cea0800000000000000
+      internalID: -5853696184265140232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c44453c1a494feb0800000000000000
+      internalID: -4686957889698118458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_139
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 624
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7c920b48edb07a0800000000000000
+      internalID: -6409784983159191634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_140
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 646
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b1d3c27aaebd1b0800000000000000
+      internalID: -5630648905374033116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_141
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 608
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66916c9dc14564e0800000000000000
+      internalID: -1989111309066463638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_142
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 631
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e713227eeb88b1970800000000000000
+      internalID: 8726719056463409534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_143
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 618
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4be37681f9778a0800000000000000
+      internalID: -6307397825948896026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_144
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 626
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf055ab876154c40800000000000000
+      internalID: 5495823628053581753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_145
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 560
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d542b2e7f18e230800000000000000
+      internalID: 3668216523243412877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_146
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 599
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0461a54ceaca110800000000000000
+      internalID: 1273584952987238645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_147
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 609
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9624cb750c6e740e0800000000000000
+      internalID: -2285604572087172503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_148
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 579
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec196393889b13c0800000000000000
+      internalID: -4387745721061139224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_149
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 580
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7b3958ae22dc4d0800000000000000
+      internalID: -3112793376784402446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_150
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 596
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5277347a7c1d9ce0800000000000000
+      internalID: -1396928997153607075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_151
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 600
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3041a7289879abeb0800000000000000
+      internalID: -4703280243979709437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_152
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 589
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cf34052f2b5cad0800000000000000
+      internalID: -2682541249230799803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_153
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 588
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1ad05cc7e4a8a90800000000000000
+      internalID: -7310944747293662785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_154
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 572
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4e637bd4ae9d220800000000000000
+      internalID: 2511295886742971586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_155
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 579
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238522c48b043a1c0800000000000000
+      internalID: -4493676842890143694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_156
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 510
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89396f44b6b51c80800000000000000
+      internalID: -8352569048346052209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_157
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 554
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29607f1b2cda2b650800000000000000
+      internalID: 6247246684837316242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_158
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 561
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf8c2486006958b0800000000000000
+      internalID: -5162989916699979844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_159
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 525
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e997c0ec6223000800000000000000
+      internalID: 14116415249948179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_160
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 520
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a56759317b5fdf80800000000000000
+      internalID: -8079638664627919450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_161
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 553
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37415d49003a12db0800000000000000
+      internalID: -4818390903417400205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_162
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 528
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff64daff431e69e30800000000000000
+      internalID: 4510039694602225407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_163
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 538
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0204d7b464ffd3a0800000000000000
+      internalID: -6638318612302790130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_164
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 505
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79cfd2e78d5a9300800000000000000
+      internalID: 259622766735509885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02624e52c82f31ad0800000000000000
+      internalID: -2732573865138706912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_166
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 506
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341684b12999671f0800000000000000
+      internalID: -1047481010515058365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_167
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 506
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f700af14dc2d56a0800000000000000
+      internalID: -6458957001004152845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_168
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 484
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5844e2fde0352f570800000000000000
+      internalID: 8498946770140546181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_169
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 487
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10415fa2713488da0800000000000000
+      internalID: -5942425941531356159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_170
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 505
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75558083c2b8ec1f0800000000000000
+      internalID: -1022727043331631785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_171
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 496
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f173b076dc21afc0800000000000000
+      internalID: -3485455337082621452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_172
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 503
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72dab99ea2926730800000000000000
+      internalID: 3990913498404803198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_173
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 476
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d352fb1ca4f10ba40800000000000000
+      internalID: 5381835960646313277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_174
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 468
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbd31e36b4e19cd0800000000000000
+      internalID: -2553008042365690934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_175
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 493
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a11cb45a23e170b0800000000000000
+      internalID: -5732551079716187742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_176
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 463
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5acc974d2657dfd0800000000000000
+      internalID: -2317288730783856035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_177
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 468
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505f7ba09c4a9bfd0800000000000000
+      internalID: -2325646549184940795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_178
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 461
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43aef002f5b354d50800000000000000
+      internalID: 6720843298666179124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_179
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 473
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebcc0d98eb63c0f0800000000000000
+      internalID: -1097915237336822815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_180
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 463
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc48ce08d65ebaa0800000000000000
+      internalID: -6143377355725845296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_181
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 474
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d37449f6b606c180800000000000000
+      internalID: -9095575014492310569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_182
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 469
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9a8cec67966e150800000000000000
+      internalID: 5901520320711928305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_183
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 440
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ca5ae9c736dceb0800000000000000
+      internalID: -4697989449388807122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_184
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 454
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27303917be1f33de0800000000000000
+      internalID: -1354473069383318670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_185
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 438
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a9302e58241b220800000000000000
+      internalID: 2499852410957306406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_186
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 450
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5207029e2614740800000000000000
+      internalID: 5134493803590198746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_187
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 444
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fba75fc26d821770800000000000000
+      internalID: 8580075695619156980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_188
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 460
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01628b015e14c7110800000000000000
+      internalID: 1259954447840716304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_189
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 337
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3237019808491ed70800000000000000
+      internalID: 9070694404277170979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_190
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 437
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0962a31308ad51b0800000000000000
+      internalID: -5666188024994436851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_191
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 432
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cce950d29dc29c0800000000000000
+      internalID: -3950543985719718829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_192
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 442
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2089ae9bb53bb2650800000000000000
+      internalID: 6209253717802915842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_193
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 342
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772ba0fe8c5a6d470800000000000000
+      internalID: 8419098835838218871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_194
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 367
+        width: 101
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9115cda71b919dd10800000000000000
+      internalID: 2150778547107287321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_195
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 390
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503b655471780bd40800000000000000
+      internalID: 5598122870838833925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_196
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 338
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243109d744ff4e8b0800000000000000
+      internalID: -5123689806411328702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_197
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 404
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18894affdcbe28a0800000000000000
+      internalID: -6327912756246116323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_198
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 413
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe7f4cec5bfac740800000000000000
+      internalID: 5173223498508631794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_199
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 406
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb99493a3a95ea50800000000000000
+      internalID: 6549810807940160432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_200
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 409
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc6e51b6b1fa36f0800000000000000
+      internalID: -703984624767963946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_201
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0af76f2d81aa330800000000000000
+      internalID: 3722815336332894393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_202
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 375
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffde5029f7a5e3710800000000000000
+      internalID: 1674875615385611775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_203
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 378
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27afec39733ebb90800000000000000
+      internalID: -7224280156449298642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_204
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 378
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa09ccc8b548602a0800000000000000
+      internalID: -6771579460965855057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_205
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 382
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9955117f7e707f340800000000000000
+      internalID: 4897391812652651929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_206
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 345
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682d74515609d2c60800000000000000
+      internalID: 7795045293871321734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_207
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 381
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b14048310ffc4750800000000000000
+      internalID: 6290683160233525686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_208
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 387
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d0c01ebbcf6bfa0800000000000000
+      internalID: -5785158787446076062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_209
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 316
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1903b622fc770e0800000000000000
+      internalID: -2272119740250942977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_210
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 357
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d4a5aa10c8c2c50800000000000000
+      internalID: 6641837489245539732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_211
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 361
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8b64419bab04930800000000000000
+      internalID: 4125502562743269603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_212
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 368
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fee242fd191605d0800000000000000
+      internalID: -3096760077361418510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_213
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 360
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675d5a068dd204a20800000000000000
+      internalID: 3044483755460121974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_214
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 361
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676e1480d2cfd9ba0800000000000000
+      internalID: -6080426651538037130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_215
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 361
+        width: 75
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666245c34beb84910800000000000000
+      internalID: 1821915730586904166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_216
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 349
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe43a208681f8730800000000000000
+      internalID: 4003445428755582710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_217
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 349
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b879229a3049bbb30800000000000000
+      internalID: 4304196612326070155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_218
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 300
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9574addbe38561110800000000000000
+      internalID: 1231268574628824921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_219
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 295
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d101a6f4b3fea00800000000000000
+      internalID: 787913672081022323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 307
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a1bb2faecc67100800000000000000
+      internalID: 105496950756547102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_221
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 269
+        width: 52
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921c28135bb6f84d0800000000000000
+      internalID: -3130164790035300055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_222
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 220
+        width: 65
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2748a7a8b96170ef0800000000000000
+      internalID: -142120005939854222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_223
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 311
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c71c44570808da50800000000000000
+      internalID: 6545990885955082185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_224
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 335
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcd6bc51c0802de0800000000000000
+      internalID: -1359945519493358376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_225
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 289
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33ea02d7660c69a0800000000000000
+      internalID: -6238604340839652547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_226
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 250
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac23a5453c76780800000000000000
+      internalID: -8689762188930135371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_227
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 263
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5bc03c38bd60db0800000000000000
+      internalID: -4825928591721318944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_228
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 319
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997acaeb7d6a9cc40800000000000000
+      internalID: 5533137062748530585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_229
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 315
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3156d75d3fe45a530800000000000000
+      internalID: 3865582664333223187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_230
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 294
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62eb15566b0d94a0800000000000000
+      internalID: -6585094546003336598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_231
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 306
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1860f1d9c4a29a040800000000000000
+      internalID: 4659301798033426049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_232
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 255
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87d22e52b7d394b0800000000000000
+      internalID: -5434763164222564470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_233
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 303
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf69c9ed5d057bb0800000000000000
+      internalID: -4939026719336468547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_234
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 273
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e334ec6a9ff42f0800000000000000
+      internalID: -986295298550448585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_235
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600ae4860e667a9c0800000000000000
+      internalID: -3916048236966666234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_236
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 257
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc9d5b53657c1440800000000000000
+      internalID: 4907926763522071797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_237
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 270
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc4b3f6999b6a5e0800000000000000
+      internalID: -1898626124242793258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_238
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 251
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1e2bbeeb3176ec0800000000000000
+      internalID: -3573866068576116253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_239
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 255
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b3bfabbb8e1ea70800000000000000
+      internalID: 8854614235380661012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_240
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 260
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523fecd9b8577dd80800000000000000
+      internalID: -8225976951860432091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_241
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6340dcdea0aad600800000000000000
+      internalID: 493883782039880555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_242
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 270
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1291142d355814a50800000000000000
+      internalID: 6503625931955968289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_243
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 236
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42d29c2e10630cf0800000000000000
+      internalID: -287280268508474806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_244
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 246
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8796f64e54a13390800000000000000
+      internalID: -7840304751450876021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_245
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 245
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c32624843d4eeb0800000000000000
+      internalID: -4691392604508373988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_246
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 206
+        width: 179
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3e382d0a9eb5e20800000000000000
+      internalID: 3340520425561252848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_247
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 261
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475899a0c15d1d580800000000000000
+      internalID: -8804021480118975116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91af31211150042a0800000000000000
+      internalID: -6755393870179861991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_249
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 225
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f607c1b560f91850800000000000000
+      internalID: 6348369469320398581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_250
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 162
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b2ba570666ec990800000000000000
+      internalID: -7363835776227136639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_251
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 235
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2c247fd17119b10800000000000000
+      internalID: 1986394328116937463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_252
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 216
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6243bcda4b22c7f0800000000000000
+      internalID: -593864600329174421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_253
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce262c7a15b2b410800000000000000
+      internalID: 1491453551969709773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_254
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f5bbafd425e1b0800000000000000
+      internalID: -5628051616252432094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_255
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffea71bbdd22c9810800000000000000
+      internalID: 1773330688999141119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_256
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 239
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4146a32deac9ba30800000000000000
+      internalID: 4231636444745449807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_257
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 233
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91fa0f6ae59f98e0800000000000000
+      internalID: -1684462901495402084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_258
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 210
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b98c818093082f30800000000000000
+      internalID: 4550891342641531313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_259
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 210
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94385fa931612ff50800000000000000
+      internalID: 6913612651427103561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_260
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 208
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0833fe8d37a94b7c0800000000000000
+      internalID: -4056447542002502784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_261
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 235
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b9c95dea2ba0040800000000000000
+      internalID: 4614697232172358485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_262
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b92ac9dafbccb0c0800000000000000
+      internalID: -4558544444549617223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_263
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 208
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a143c2a9d1ebb10800000000000000
+      internalID: 1999067832602860151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_264
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 163
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34288b4fb328ccf00800000000000000
+      internalID: 1138427999838306883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_265
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 209
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65319e7a189e68740800000000000000
+      internalID: 5154063566649234262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_266
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 208
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f289d80826cd047a0800000000000000
+      internalID: -6394869155244435409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_267
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 121
+        width: 137
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7336c17a0fc5ffaa0800000000000000
+      internalID: -6125074779535023305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_268
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 197
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f342a12c5c84730800000000000000
+      internalID: 3983651307862114146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_269
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 178
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042a85cc928271bb0800000000000000
+      internalID: -4965455904165551552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_270
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 101
+        width: 152
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf982a04df2c1160800000000000000
+      internalID: 6997520508776914889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_271
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 193
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31c29c41bdd27fb0800000000000000
+      internalID: -4651411711556665028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_272
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 182
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524c6fd9afcb5a1d0800000000000000
+      internalID: -3340055764047313883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_273
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6107d1008f2fc7d0800000000000000
+      internalID: -2896043808542752405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_274
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 173
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bf073211ec61590800000000000000
+      internalID: -7703743539566281881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_275
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 178
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356894bc85b48d080800000000000000
+      internalID: -9162490597145475501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_276
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 80
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b0b1de95ed5aa90800000000000000
+      internalID: -7303186742899963100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_277
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 122
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61f5507cc0f2b2e0800000000000000
+      internalID: -2111360514434666130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_278
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 109
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70df1c58d28635140800000000000000
+      internalID: 4707220580259200263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_279
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 121
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74b2708c821fff30800000000000000
+      internalID: 4611424938110399610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_280
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 88
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb5d7d9f4c048f70800000000000000
+      internalID: 9188482675826842565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_281
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 90
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc20198135f66ab80800000000000000
+      internalID: -8383891253618474293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_282
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 47
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e71ff18b273c2b0800000000000000
+      internalID: -5565478579364331931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_283
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 63
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862eb66dad2522310800000000000000
+      internalID: 1378755535782535784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_284
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 99
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f1a966b6e374d50800000000000000
+      internalID: 6721409599877553994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_285
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 85
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528574e4caca20d40800000000000000
+      internalID: 5549187546921523237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_286
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 53
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a082bedcde2c300800000000000000
+      internalID: 271040396264999544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_287
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 50
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d63220b46a88dbf0800000000000000
+      internalID: -299337210163743021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_288
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 15
+        width: 140
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84bfa05134fb32d0800000000000000
+      internalID: -3297773809474489202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_289
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7cd32c4bf24bca0800000000000000
+      internalID: -6002119949978581014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_290
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fa2cc3b7e0c4af0800000000000000
+      internalID: -410937543534399685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_291
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb40bf335276d340800000000000000
+      internalID: 4888220147433622477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_292
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 170
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043bf01648e579c60800000000000000
+      internalID: 7824826800236639040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_293
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 31
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e6ce16843052d80800000000000000
+      internalID: -8276205130808005117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_294
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f5320af96389150800000000000000
+      internalID: 5879509372746555251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_295
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 23
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652a9d62a1918b300800000000000000
+      internalID: 267991777940185686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_296
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 24
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bbabd8877bc34f0800000000000000
+      internalID: -847600901450712259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_297
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528c54840ab646c60800000000000000
+      internalID: 7810485989918754853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_298
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 28
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004e8374247e24280800000000000000
+      internalID: -9060425228467248128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_299
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 26
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852a933a805323900800000000000000
+      internalID: 662650406391358040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_300
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 7
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76898635d52179310800000000000000
+      internalID: 1411617200244562023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_301
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 15
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b3d8a8277ae70c0800000000000000
+      internalID: -4576036060969223361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_302
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a2f1dfd79ea39d0800000000000000
+      internalID: -2793663891503109520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_303
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e972243bf30044620800000000000000
+      internalID: 2757329145447983006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_304
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb07725706d30a70800000000000000
+      internalID: 8792106224493988808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_305
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d9ef641dc1e480800000000000000
+      internalID: -8871584303282531366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_306
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 17
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f77f4408399177b0800000000000000
+      internalID: -5228229226530899981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_307
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62af9712fcd20280800000000000000
+      internalID: -9078450966488964497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranimals_308
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d4231248f05e250800000000000000
+      internalID: 5973197540943875472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2667 @@
+fileFormatVersion: 2
+guid: f5c7ee942a5413ef3a6a129b4810d3c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -655656266405660901
+    second: commander_videobackup_0
+  - first:
+      213: 4876086456005282672
+    second: commander_videobackup_1
+  - first:
+      213: -6721968734207487753
+    second: commander_videobackup_2
+  - first:
+      213: 1001682581025279839
+    second: commander_videobackup_3
+  - first:
+      213: -2280625834392776338
+    second: commander_videobackup_4
+  - first:
+      213: 1947174413076034568
+    second: commander_videobackup_5
+  - first:
+      213: -3486849144890810108
+    second: commander_videobackup_6
+  - first:
+      213: -5086685455593823360
+    second: commander_videobackup_7
+  - first:
+      213: 1722088889666640988
+    second: commander_videobackup_8
+  - first:
+      213: 1127174846707494803
+    second: commander_videobackup_9
+  - first:
+      213: 6152516070829806653
+    second: commander_videobackup_10
+  - first:
+      213: 1374925722681525553
+    second: commander_videobackup_11
+  - first:
+      213: -8328529755145540491
+    second: commander_videobackup_12
+  - first:
+      213: 856851962632776795
+    second: commander_videobackup_13
+  - first:
+      213: -3137288470713908275
+    second: commander_videobackup_14
+  - first:
+      213: 4983683046338124199
+    second: commander_videobackup_15
+  - first:
+      213: -8826994721174289670
+    second: commander_videobackup_16
+  - first:
+      213: -7208503948344525409
+    second: commander_videobackup_17
+  - first:
+      213: 5366856800726645882
+    second: commander_videobackup_18
+  - first:
+      213: 3142515273588594056
+    second: commander_videobackup_19
+  - first:
+      213: -941712381842942721
+    second: commander_videobackup_20
+  - first:
+      213: -5776214943464925054
+    second: commander_videobackup_21
+  - first:
+      213: -1352298287947206126
+    second: commander_videobackup_22
+  - first:
+      213: -4911635789214063315
+    second: commander_videobackup_23
+  - first:
+      213: 7859104893254987729
+    second: commander_videobackup_24
+  - first:
+      213: 5784154460403619310
+    second: commander_videobackup_25
+  - first:
+      213: 7521225328996923025
+    second: commander_videobackup_26
+  - first:
+      213: -2775324852264558354
+    second: commander_videobackup_27
+  - first:
+      213: 8777995046698856904
+    second: commander_videobackup_28
+  - first:
+      213: 9128946494022571138
+    second: commander_videobackup_29
+  - first:
+      213: -4096666297831309581
+    second: commander_videobackup_30
+  - first:
+      213: -8446623479749258024
+    second: commander_videobackup_31
+  - first:
+      213: -2462827802735415223
+    second: commander_videobackup_32
+  - first:
+      213: 1416568394388470250
+    second: commander_videobackup_33
+  - first:
+      213: 6686774961457547379
+    second: commander_videobackup_34
+  - first:
+      213: -2971186637196081702
+    second: commander_videobackup_35
+  - first:
+      213: -2787825677668567593
+    second: commander_videobackup_36
+  - first:
+      213: 8741056899044320525
+    second: commander_videobackup_37
+  - first:
+      213: -2194815396418184134
+    second: commander_videobackup_38
+  - first:
+      213: 1850039189278802818
+    second: commander_videobackup_39
+  - first:
+      213: 3730385312101992048
+    second: commander_videobackup_40
+  - first:
+      213: 1780614616781684546
+    second: commander_videobackup_41
+  - first:
+      213: 1698487687823886809
+    second: commander_videobackup_42
+  - first:
+      213: 5717156116663273469
+    second: commander_videobackup_43
+  - first:
+      213: -1457189711297826463
+    second: commander_videobackup_44
+  - first:
+      213: -2725969880695726962
+    second: commander_videobackup_45
+  - first:
+      213: 5052563588415879467
+    second: commander_videobackup_46
+  - first:
+      213: 2874822763851310101
+    second: commander_videobackup_47
+  - first:
+      213: -885116868278794968
+    second: commander_videobackup_48
+  - first:
+      213: 612735628185822918
+    second: commander_videobackup_49
+  - first:
+      213: 8245645936186893378
+    second: commander_videobackup_50
+  - first:
+      213: -4077106469967382225
+    second: commander_videobackup_51
+  - first:
+      213: 3233326475714589737
+    second: commander_videobackup_52
+  - first:
+      213: 3898040311500347587
+    second: commander_videobackup_53
+  - first:
+      213: -381470578320090914
+    second: commander_videobackup_54
+  - first:
+      213: 7673187885859079826
+    second: commander_videobackup_55
+  - first:
+      213: -7615302989372050256
+    second: commander_videobackup_56
+  - first:
+      213: -137834278527395163
+    second: commander_videobackup_57
+  - first:
+      213: -5681971327500509038
+    second: commander_videobackup_58
+  - first:
+      213: -1989491937115156237
+    second: commander_videobackup_59
+  - first:
+      213: 602142650031858137
+    second: commander_videobackup_60
+  - first:
+      213: 5020651373330333255
+    second: commander_videobackup_61
+  - first:
+      213: -9022964179074969812
+    second: commander_videobackup_62
+  - first:
+      213: 3822509725649717183
+    second: commander_videobackup_63
+  - first:
+      213: -2727186745560063573
+    second: commander_videobackup_64
+  - first:
+      213: -6485782261161386213
+    second: commander_videobackup_65
+  - first:
+      213: -9172875220718584529
+    second: commander_videobackup_66
+  - first:
+      213: -3069870627169381917
+    second: commander_videobackup_67
+  - first:
+      213: 6616681673066904391
+    second: commander_videobackup_68
+  - first:
+      213: -5960373924962475662
+    second: commander_videobackup_69
+  - first:
+      213: -2582516817697817439
+    second: commander_videobackup_70
+  - first:
+      213: -6177513421272530702
+    second: commander_videobackup_71
+  - first:
+      213: -8145739771492184130
+    second: commander_videobackup_72
+  - first:
+      213: 7915831212174459979
+    second: commander_videobackup_73
+  - first:
+      213: -2573715885152078165
+    second: commander_videobackup_74
+  - first:
+      213: 6582840050567535009
+    second: commander_videobackup_75
+  - first:
+      213: -586039217356350442
+    second: commander_videobackup_76
+  - first:
+      213: 1311272882892432987
+    second: commander_videobackup_77
+  - first:
+      213: 290065111510681122
+    second: commander_videobackup_78
+  - first:
+      213: -716756823394401157
+    second: commander_videobackup_79
+  - first:
+      213: 4511359209254317418
+    second: commander_videobackup_80
+  - first:
+      213: -3131771120383238678
+    second: commander_videobackup_81
+  - first:
+      213: 1345573567833754010
+    second: commander_videobackup_82
+  - first:
+      213: -2935964103955299399
+    second: commander_videobackup_83
+  - first:
+      213: 1229558980092903477
+    second: commander_videobackup_84
+  - first:
+      213: -2076298463819936274
+    second: commander_videobackup_85
+  - first:
+      213: 2388892830780388932
+    second: commander_videobackup_86
+  - first:
+      213: -691377651715790589
+    second: commander_videobackup_87
+  - first:
+      213: -6154807496254562477
+    second: commander_videobackup_88
+  - first:
+      213: 8733329946847895263
+    second: commander_videobackup_89
+  - first:
+      213: -18249511119233364
+    second: commander_videobackup_90
+  - first:
+      213: 3334786284684885128
+    second: commander_videobackup_91
+  - first:
+      213: 3951142701074457098
+    second: commander_videobackup_92
+  - first:
+      213: -5385295547715001145
+    second: commander_videobackup_93
+  - first:
+      213: 1642561200672800773
+    second: commander_videobackup_94
+  - first:
+      213: -4287072753142013534
+    second: commander_videobackup_95
+  - first:
+      213: -7068100800165012547
+    second: commander_videobackup_96
+  - first:
+      213: -1287019787990276253
+    second: commander_videobackup_97
+  - first:
+      213: -6569670517664955260
+    second: commander_videobackup_98
+  - first:
+      213: -4569340243389069384
+    second: commander_videobackup_99
+  - first:
+      213: 3964999526846550792
+    second: commander_videobackup_100
+  - first:
+      213: -5621886345978415369
+    second: commander_videobackup_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: commander_videobackup_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 241
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17b12a7914a6e6f0800000000000000
+      internalID: -655656266405660901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 624
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bc9401cc65ba340800000000000000
+      internalID: 4876086456005282672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 678
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0d74efc05c6b2a0800000000000000
+      internalID: -6721968734207487753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 621
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f45b31001b6ed00800000000000000
+      internalID: 1001682581025279839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 600
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61907b03e69950e0800000000000000
+      internalID: -2280625834392776338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 629
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8047027efc0c50b10800000000000000
+      internalID: 1947174413076034568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 650
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401a8654d293c9fc0800000000000000
+      internalID: -3486849144890810108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 593
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0832f2f47867869b0800000000000000
+      internalID: -5086685455593823360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_8
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 603
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c1a3c98b616e710800000000000000
+      internalID: 1722088889666640988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 466
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f61c11d8784af00800000000000000
+      internalID: 1127174846707494803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 479
+        width: 142
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3451bcd4c0226550800000000000000
+      internalID: 6152516070829806653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 516
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135cafcf8a7b41310800000000000000
+      internalID: 1374925722681525553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_12
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 530
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c674b605e1b6c80800000000000000
+      internalID: -8328529755145540491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 368
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ca2d9f15624eb00800000000000000
+      internalID: 856851962632776795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 416
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc34b2902cc1674d0800000000000000
+      internalID: -3137288470713908275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 374
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9de127359992540800000000000000
+      internalID: 4983683046338124199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_16
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 437
+        width: 85
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2882a8117308580800000000000000
+      internalID: -8826994721174289670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 459
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d7cece9df36fb90800000000000000
+      internalID: -7208503948344525409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_18
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 368
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c73bf43d7ea7a40800000000000000
+      internalID: 5366856800726645882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 378
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885dc77ddf47c9b20800000000000000
+      internalID: 3142515273588594056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_20
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 369
+        width: 153
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff41aaff39d5ee2f0800000000000000
+      internalID: -941712381842942721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 319
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2885874dc13c6dfa0800000000000000
+      internalID: -5776214943464925054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 241
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212b9843fdbab3de0800000000000000
+      internalID: -1352298287947206126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 340
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25eccdc54d56dbb0800000000000000
+      internalID: -4911635789214063315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 333
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df6ff6d246211d60800000000000000
+      internalID: 7859104893254987729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 235
+        width: 136
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5595206d1754050800000000000000
+      internalID: 5784154460403619310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196388a6692c06860800000000000000
+      internalID: 7521225328996923025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 326
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0257c40c01c79d0800000000000000
+      internalID: -2775324852264558354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 277
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1bf96bcf3b1d970800000000000000
+      internalID: 8777995046698856904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 305
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28453c5187880be70800000000000000
+      internalID: 9128946494022571138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_30
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 312
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe337a05b7b527c0800000000000000
+      internalID: -4096666297831309581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_31
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 298
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4521282b097ca80800000000000000
+      internalID: -8446623479749258024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 284
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940fffa792742ddd0800000000000000
+      internalID: -2462827802735415223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9f19b0379a8a310800000000000000
+      internalID: 1416568394388470250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_34
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 171
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37847ae36623ccc50800000000000000
+      internalID: 6686774961457547379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 263
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad54a88de7934c6d0800000000000000
+      internalID: -2971186637196081702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_36
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 249
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d53ad21157af49d0800000000000000
+      internalID: -2787825677668567593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 150
+        width: 108
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05a30500f87e4970800000000000000
+      internalID: 8741056899044320525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_38
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 249
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c9fec86037a81e0800000000000000
+      internalID: -2194815396418184134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_39
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 235
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283c38937d8aca910800000000000000
+      internalID: 1850039189278802818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_40
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 249
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0768c2b4dadf4c330800000000000000
+      internalID: 3730385312101992048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 235
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ff3235f8306b810800000000000000
+      internalID: 1780614616781684546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_42
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 235
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d90e189d8d329710800000000000000
+      internalID: 1698487687823886809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 235
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df78a23823b675f40800000000000000
+      internalID: 5717156116663273469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_44
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 249
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1613db79da507cbe0800000000000000
+      internalID: -1457189711297826463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 221
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c97b816d86b2ad0800000000000000
+      internalID: -2725969880695726962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29f99460df4e1640800000000000000
+      internalID: 5052563588415879467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 228
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514609f721c65e720800000000000000
+      internalID: 2874822763851310101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_48
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 143
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8254989d5ee67b3f0800000000000000
+      internalID: -885116868278794968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_49
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 143
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6ed33becfd08800800000000000000
+      internalID: 612735628185822918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 206
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244201aaa4b6e6270800000000000000
+      internalID: 8245645936186893378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 214
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29b52a54453b67c0800000000000000
+      internalID: -4077106469967382225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_52
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 213
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92475db7c451fdc20800000000000000
+      internalID: 3233326475714589737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_53
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 213
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c89127b20f981630800000000000000
+      internalID: 3898040311500347587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8d7f6b78eb4baf0800000000000000
+      internalID: -381470578320090914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_55
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 192
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29606775ab3ac7a60800000000000000
+      internalID: 7673187885859079826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 185
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4328d5742015690800000000000000
+      internalID: -7615302989372050256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_57
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 179
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa90863470561ef0800000000000000
+      internalID: -137834278527395163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290a0689e259521b0800000000000000
+      internalID: -5681971327500509038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f05fbcbf97e364e0800000000000000
+      internalID: -1989491937115156237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1e247cc8d3b5800800000000000000
+      internalID: 602142650031858137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_61
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 143
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e7e60d2dfeca540800000000000000
+      internalID: 5020651373330333255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 122
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f892582edf7c280800000000000000
+      internalID: -9022964179074969812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_63
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7c3dbc7584c0530800000000000000
+      internalID: 3822509725649717183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 122
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba12dbaaa16172ad0800000000000000
+      internalID: -2727186745560063573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_65
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 122
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f12f8856fddf5a0800000000000000
+      internalID: -6485782261161386213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_66
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2df514369663b080800000000000000
+      internalID: -9172875220718584529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 122
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1d921fde0a565d0800000000000000
+      internalID: -3069870627169381917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_68
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7dfaccec23db50800000000000000
+      internalID: 6616681673066904391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_69
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 122
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2716c12ae7f784da0800000000000000
+      internalID: -5960373924962475662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_70
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 122
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac36a613ae092cd0800000000000000
+      internalID: -2582516817697817439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 108
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0c7d1f540154aa0800000000000000
+      internalID: -6177513421272530702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_72
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 122
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfcf67f5d484fe80800000000000000
+      internalID: -8145739771492184130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_73
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 122
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44cb9f2c8eaadd60800000000000000
+      internalID: 7915831212174459979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 122
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6fab0e903584cd0800000000000000
+      internalID: -2573715885152078165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_75
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 115
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9da4b0622fa5b50800000000000000
+      internalID: 6582840050567535009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_76
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 108
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cd601df68fdd7f0800000000000000
+      internalID: -586039217356350442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_77
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 108
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56e7645db3923210800000000000000
+      internalID: 1311272882892432987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_78
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 24
+        width: 144
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226045d9ea4860400800000000000000
+      internalID: 290065111510681122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_79
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 24
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b744d3777719d06f0800000000000000
+      internalID: -716756823394401157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d6ac17c419b9e30800000000000000
+      internalID: 4511359209254317418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeddab342c6b984d0800000000000000
+      internalID: -3131771120383238678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99c2e1e7007ca210800000000000000
+      internalID: 1345573567833754010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_83
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3427ee33c5147d0800000000000000
+      internalID: -2935964103955299399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_84
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 108
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53044deb065401110800000000000000
+      internalID: 1229558980092903477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_85
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedc2504c818f23e0800000000000000
+      internalID: -2076298463819936274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44674296f5d072120800000000000000
+      internalID: 2388892830780388932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_87
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 94
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30926d750bbb766f0800000000000000
+      internalID: -691377651715790589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_88
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 94
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fd5d4113bb59aa0800000000000000
+      internalID: -6154807496254562477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_89
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 59
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde5624c055033970800000000000000
+      internalID: 8733329946847895263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 73
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caed9649a2a2fbff0800000000000000
+      internalID: -18249511119233364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_91
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cbc7c157a874e20800000000000000
+      internalID: 3334786284684885128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02ab624a5745d630800000000000000
+      internalID: 3951142701074457098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_93
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 59
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c464fb5b369345b0800000000000000
+      internalID: -5385295547715001145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_94
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 66
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50001f795bc8bc610800000000000000
+      internalID: 1642561200672800773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 52
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1e6be7b024184c0800000000000000
+      internalID: -4287072753142013534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_96
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 24
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb928945cf09ed90800000000000000
+      internalID: -7068100800165012547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367e0fd5256932ee0800000000000000
+      internalID: -1287019787990276253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_98
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 38
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4844937c877d3d4a0800000000000000
+      internalID: -6569670517664955260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 24
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7c5ee02417690c0800000000000000
+      internalID: -4569340243389069384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803d74cef02860730800000000000000
+      internalID: 3964999526846550792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: commander_videobackup_101
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f67654872c0bf1b0800000000000000
+      internalID: -5621886345978415369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

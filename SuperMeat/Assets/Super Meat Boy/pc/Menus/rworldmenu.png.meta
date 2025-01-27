@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: bdd954380363a5e7190add362b42b7a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7116031788852178276
+    second: rworldmenu_0
+  - first:
+      213: -8021819602303632941
+    second: rworldmenu_1
+  - first:
+      213: 3968976421080308136
+    second: rworldmenu_2
+  - first:
+      213: 7785487048657849527
+    second: rworldmenu_3
+  - first:
+      213: 954048017167050428
+    second: rworldmenu_4
+  - first:
+      213: 1083891010346810469
+    second: rworldmenu_5
+  - first:
+      213: -1544522049839985382
+    second: rworldmenu_6
+  - first:
+      213: 8954784622767166145
+    second: rworldmenu_7
+  - first:
+      213: 7835592659179312173
+    second: rworldmenu_8
+  - first:
+      213: 370919188456662265
+    second: rworldmenu_9
+  - first:
+      213: 5529551098648578032
+    second: rworldmenu_10
+  - first:
+      213: -1736263261749898475
+    second: rworldmenu_11
+  - first:
+      213: 5920686844090226300
+    second: rworldmenu_12
+  - first:
+      213: -8971313892127375409
+    second: rworldmenu_13
+  - first:
+      213: 1370010266288440997
+    second: rworldmenu_14
+  - first:
+      213: -7539658029039982230
+    second: rworldmenu_15
+  - first:
+      213: -3318506159825762121
+    second: rworldmenu_16
+  - first:
+      213: -2057553972833332271
+    second: rworldmenu_17
+  - first:
+      213: 1665261463028951229
+    second: rworldmenu_18
+  - first:
+      213: 5340382523326910775
+    second: rworldmenu_19
+  - first:
+      213: -2988509584124689528
+    second: rworldmenu_20
+  - first:
+      213: 3864949164220662118
+    second: rworldmenu_21
+  - first:
+      213: -9183776830844280836
+    second: rworldmenu_22
+  - first:
+      213: -6059520006805136653
+    second: rworldmenu_23
+  - first:
+      213: 2850217753788838022
+    second: rworldmenu_24
+  - first:
+      213: 7438431721851374465
+    second: rworldmenu_25
+  - first:
+      213: -5852718486316700623
+    second: rworldmenu_26
+  - first:
+      213: 5635216807456970095
+    second: rworldmenu_27
+  - first:
+      213: 8659294385651293104
+    second: rworldmenu_28
+  - first:
+      213: 7234325062938452647
+    second: rworldmenu_29
+  - first:
+      213: -7091308004264424648
+    second: rworldmenu_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rworldmenu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 1022
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9214175ac6ce3d90800000000000000
+      internalID: -7116031788852178276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_1
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 656
+        width: 121
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d93d68b295cca090800000000000000
+      internalID: -8021819602303632941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 110
+        width: 334
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a99464c603a41730800000000000000
+      internalID: 3968976421080308136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 235
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcc7a2b83b9b0c60800000000000000
+      internalID: 7785487048657849527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 278
+        width: 50
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb668e9ed957d3d00800000000000000
+      internalID: 954048017167050428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 307
+        width: 110
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cf5f69121ca0f00800000000000000
+      internalID: 1083891010346810469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_6
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 59
+        width: 163
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d878ff061c09ae0800000000000000
+      internalID: -1544522049839985382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_7
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 240
+        width: 149
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2da208b29c54c70800000000000000
+      internalID: 8954784622767166145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_8
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 249
+        width: 120
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d249a0f320e9dbc60800000000000000
+      internalID: 7835592659179312173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 236
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4e5546905c52500800000000000000
+      internalID: 370919188456662265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_10
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 28
+        width: 239
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7c15a6d69ecbc40800000000000000
+      internalID: 5529551098648578032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_11
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 192
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51316d633cd87e7e0800000000000000
+      internalID: -1736263261749898475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 117
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c769358c0518a2250800000000000000
+      internalID: 5920686844090226300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 137
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf78331c8d7f7380800000000000000
+      internalID: -8971313892127375409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 141
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6c2cc1411430310800000000000000
+      internalID: 1370010266288440997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_15
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 106
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69662b28f0cd5790800000000000000
+      internalID: -7539658029039982230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 110
+        width: 69
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8c3a6da3c42f1d0800000000000000
+      internalID: -3318506159825762121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 241
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3531720991273e0800000000000000
+      internalID: -2057553972833332271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3
+        width: 139
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8ecf94a723c1710800000000000000
+      internalID: 1665261463028951229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 21
+        width: 165
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731da934c99dc1a40800000000000000
+      internalID: 5340382523326910775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_20
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 63
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883c566fd5ea686d0800000000000000
+      internalID: -2988509584124689528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_21
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 86
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661c05899ce03a530800000000000000
+      internalID: 3864949164220662118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_22
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 11
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff501d41abac8080800000000000000
+      internalID: -9183776830844280836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_23
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 5
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fad10598a248eba0800000000000000
+      internalID: -6059520006805136653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_24
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1
+        width: 91
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680781b22f10e8720800000000000000
+      internalID: 2850217753788838022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_25
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 0
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bc2f29d3e9a3760800000000000000
+      internalID: 7438431721851374465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_26
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 15
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c2bb4bb87f6cea0800000000000000
+      internalID: -5852718486316700623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_27
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 14
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6598c864df443e40800000000000000
+      internalID: 5635216807456970095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_28
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb97466d5efb2870800000000000000
+      internalID: 8659294385651293104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_29
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 5
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2e62ec05c756460800000000000000
+      internalID: 7234325062938452647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rworldmenu_30
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 0
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b4fe401fc969d90800000000000000
+      internalID: -7091308004264424648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

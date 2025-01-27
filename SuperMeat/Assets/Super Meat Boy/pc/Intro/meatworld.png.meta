@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: 67ebca4cdeb5b0eb48d1ed39d39777d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2799311892740074696
+    second: meatworld_0
+  - first:
+      213: -111328927099832337
+    second: meatworld_1
+  - first:
+      213: -6361303246321432008
+    second: meatworld_2
+  - first:
+      213: -1629306232227612375
+    second: meatworld_3
+  - first:
+      213: -1767536905530375536
+    second: meatworld_4
+  - first:
+      213: -8651044299247173630
+    second: meatworld_5
+  - first:
+      213: 5295463786118733575
+    second: meatworld_6
+  - first:
+      213: 4937121341859782342
+    second: meatworld_7
+  - first:
+      213: -5812329677594370297
+    second: meatworld_8
+  - first:
+      213: -5125893794098144524
+    second: meatworld_9
+  - first:
+      213: -270682738236704280
+    second: meatworld_10
+  - first:
+      213: -2726658767649602626
+    second: meatworld_11
+  - first:
+      213: -4651533513404278612
+    second: meatworld_12
+  - first:
+      213: -657058463598876119
+    second: meatworld_13
+  - first:
+      213: 9071839588777892623
+    second: meatworld_14
+  - first:
+      213: 1621462828612814064
+    second: meatworld_15
+  - first:
+      213: -5202340864318083184
+    second: meatworld_16
+  - first:
+      213: -1097419493931137666
+    second: meatworld_17
+  - first:
+      213: -7776471074594098452
+    second: meatworld_18
+  - first:
+      213: -8545112983986527480
+    second: meatworld_19
+  - first:
+      213: 1832738451496744907
+    second: meatworld_20
+  - first:
+      213: 3660552079010268756
+    second: meatworld_21
+  - first:
+      213: 1833632606010574655
+    second: meatworld_22
+  - first:
+      213: -842892408784699667
+    second: meatworld_23
+  - first:
+      213: -9845482388219240
+    second: meatworld_24
+  - first:
+      213: -5128442261042062540
+    second: meatworld_25
+  - first:
+      213: -2047577647533864624
+    second: meatworld_26
+  - first:
+      213: -7187477971474338519
+    second: meatworld_27
+  - first:
+      213: 3828729793144098166
+    second: meatworld_28
+  - first:
+      213: -7500578719008726195
+    second: meatworld_29
+  - first:
+      213: -7452398927156401950
+    second: meatworld_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meatworld_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 165
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc6c46c55729d620800000000000000
+      internalID: 2799311892740074696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 827
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe73dfe3eea747ef0800000000000000
+      internalID: -111328927099832337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 792
+        width: 75
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ac87ea66c18b7a0800000000000000
+      internalID: -6361303246321432008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 840
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9293ebd3d9a8369e0800000000000000
+      internalID: -1629306232227612375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 840
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092087a9c827877e0800000000000000
+      internalID: -1767536905530375536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 846
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20044378b0151f780800000000000000
+      internalID: -8651044299247173630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 810
+        width: 82
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f5d84c1444d7940800000000000000
+      internalID: 5295463786118733575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_7
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 728
+        width: 351
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce5d82d3bd248440800000000000000
+      internalID: 4937121341859782342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_8
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 764
+        width: 193
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fd68904f4765fa0800000000000000
+      internalID: -5812329677594370297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 122
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa966e90ca2dd8b0800000000000000
+      internalID: -5125893794098144524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 513
+        width: 100
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e93294db775e3cf0800000000000000
+      internalID: -270682738236704280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 564
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb38a8a1c46f82ad0800000000000000
+      internalID: -2726658767649602626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 542
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca896b81aee627fb0800000000000000
+      internalID: -4651533513404278612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 528
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a66800fc8a1e6f0800000000000000
+      internalID: -657058463598876119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 581
+        width: 36
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b9e649a06a5ed70800000000000000
+      internalID: 9071839588777892623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 138
+        width: 350
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f487fb0ad7908610800000000000000
+      internalID: 1621462828612814064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_16
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 241
+        width: 189
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f62dd0c829dc7b0800000000000000
+      internalID: -5202340864318083184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 535
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7545aed8ce25c0f0800000000000000
+      internalID: -1097419493931137666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 227
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2f7b852cc641490800000000000000
+      internalID: -7776471074594098452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 119
+        width: 59
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803a7e7d309a96980800000000000000
+      internalID: -8545112983986527480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 251
+        width: 150
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7b9af49e13f6910800000000000000
+      internalID: 1832738451496744907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 302
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456893fa8b4ecc230800000000000000
+      internalID: 3660552079010268756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 272
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3785d1e32f527910800000000000000
+      internalID: 1833632606010574655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 168
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeb38ee1d17d44f0800000000000000
+      internalID: -842892408784699667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_24
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 160
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a9b9ff5950ddff0800000000000000
+      internalID: -9845482388219240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_25
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 120
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b9c7b6fec14d8b0800000000000000
+      internalID: -5128442261042062540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 129
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059c6b46afa8593e0800000000000000
+      internalID: -2047577647533864624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_27
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 40
+        width: 151
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92da357add2f04c90800000000000000
+      internalID: -7187477971474338519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 36
+        width: 204
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d0f4d1671622530800000000000000
+      internalID: 3828729793144098166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_29
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 165
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4361a3156798e790800000000000000
+      internalID: -7500578719008726195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatworld_30
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 59
+        width: 170
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8275609a2c39890800000000000000
+      internalID: -7452398927156401950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

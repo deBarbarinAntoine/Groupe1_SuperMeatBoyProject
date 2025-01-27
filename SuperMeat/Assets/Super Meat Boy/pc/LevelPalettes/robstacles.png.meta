@@ -1,0 +1,8042 @@
+fileFormatVersion: 2
+guid: 99d481a613aba56109fbca29fc6630db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3787045766018686380
+    second: robstacles_0
+  - first:
+      213: 7659145013664115121
+    second: robstacles_1
+  - first:
+      213: 3556869725530215542
+    second: robstacles_2
+  - first:
+      213: 1839950455188011576
+    second: robstacles_3
+  - first:
+      213: 5334286711242957745
+    second: robstacles_4
+  - first:
+      213: 1686816085520176411
+    second: robstacles_5
+  - first:
+      213: 5212452431170770946
+    second: robstacles_6
+  - first:
+      213: -8032925280398198529
+    second: robstacles_7
+  - first:
+      213: 8018517176166311129
+    second: robstacles_8
+  - first:
+      213: -5306231908826514825
+    second: robstacles_9
+  - first:
+      213: -4922485528379572618
+    second: robstacles_10
+  - first:
+      213: 4442364051213799188
+    second: robstacles_11
+  - first:
+      213: -7879052058940430850
+    second: robstacles_12
+  - first:
+      213: -6673480422294732164
+    second: robstacles_13
+  - first:
+      213: -8565076148479085185
+    second: robstacles_14
+  - first:
+      213: 6988174223764789030
+    second: robstacles_15
+  - first:
+      213: -6479907515396652444
+    second: robstacles_16
+  - first:
+      213: 4680416714192595166
+    second: robstacles_17
+  - first:
+      213: -6609662054822772151
+    second: robstacles_18
+  - first:
+      213: -7127926591618099474
+    second: robstacles_19
+  - first:
+      213: -6209487053431715273
+    second: robstacles_20
+  - first:
+      213: 5068606852630435530
+    second: robstacles_21
+  - first:
+      213: -5834145676888220006
+    second: robstacles_22
+  - first:
+      213: -2422319042371607500
+    second: robstacles_23
+  - first:
+      213: -3629534923719392763
+    second: robstacles_24
+  - first:
+      213: 4266030883926336249
+    second: robstacles_25
+  - first:
+      213: -4287667156892503488
+    second: robstacles_26
+  - first:
+      213: 5836031319764487002
+    second: robstacles_27
+  - first:
+      213: -1791427169164197492
+    second: robstacles_28
+  - first:
+      213: 3197826746023680853
+    second: robstacles_29
+  - first:
+      213: 1403327783393824899
+    second: robstacles_30
+  - first:
+      213: 8605322853936881987
+    second: robstacles_31
+  - first:
+      213: 5986063110051537348
+    second: robstacles_32
+  - first:
+      213: -6739126242273987551
+    second: robstacles_33
+  - first:
+      213: -4611407034358571
+    second: robstacles_34
+  - first:
+      213: -1578944481653247820
+    second: robstacles_35
+  - first:
+      213: -4885704108144335138
+    second: robstacles_36
+  - first:
+      213: 5471141397104387841
+    second: robstacles_37
+  - first:
+      213: -1233045237554689366
+    second: robstacles_38
+  - first:
+      213: 523119815549946501
+    second: robstacles_39
+  - first:
+      213: -1658414228378012952
+    second: robstacles_40
+  - first:
+      213: -5765674245017318169
+    second: robstacles_41
+  - first:
+      213: -8199266722560073475
+    second: robstacles_42
+  - first:
+      213: -2365574177833254898
+    second: robstacles_43
+  - first:
+      213: 1109903569258913744
+    second: robstacles_44
+  - first:
+      213: -5947288508430247906
+    second: robstacles_45
+  - first:
+      213: 9062581080942900122
+    second: robstacles_46
+  - first:
+      213: -6329918226727990299
+    second: robstacles_47
+  - first:
+      213: -4497754615602093484
+    second: robstacles_48
+  - first:
+      213: 6950154707006002769
+    second: robstacles_49
+  - first:
+      213: 812687265636411941
+    second: robstacles_50
+  - first:
+      213: 8821615913749765316
+    second: robstacles_51
+  - first:
+      213: 3874763367885638490
+    second: robstacles_52
+  - first:
+      213: -130998211760323115
+    second: robstacles_53
+  - first:
+      213: -6156318586239824728
+    second: robstacles_54
+  - first:
+      213: -3827579618444927555
+    second: robstacles_55
+  - first:
+      213: 444395297638745470
+    second: robstacles_56
+  - first:
+      213: -6426347352163560221
+    second: robstacles_57
+  - first:
+      213: -9148466080076691012
+    second: robstacles_58
+  - first:
+      213: 4459699555983075792
+    second: robstacles_59
+  - first:
+      213: -8812070540134431019
+    second: robstacles_60
+  - first:
+      213: 6317969221190783319
+    second: robstacles_61
+  - first:
+      213: -8822244727187233
+    second: robstacles_62
+  - first:
+      213: -8007934714579180457
+    second: robstacles_63
+  - first:
+      213: -6057347183587556429
+    second: robstacles_64
+  - first:
+      213: 3006057601466747131
+    second: robstacles_65
+  - first:
+      213: -1239585992831293768
+    second: robstacles_66
+  - first:
+      213: -3366347486058583634
+    second: robstacles_67
+  - first:
+      213: 1011903423510018205
+    second: robstacles_68
+  - first:
+      213: 7697295517508101527
+    second: robstacles_69
+  - first:
+      213: 7704264665061189445
+    second: robstacles_70
+  - first:
+      213: 8488088780015985923
+    second: robstacles_71
+  - first:
+      213: -2692187591254071499
+    second: robstacles_72
+  - first:
+      213: 5341272538150283836
+    second: robstacles_73
+  - first:
+      213: -9072128537967888855
+    second: robstacles_74
+  - first:
+      213: 6570994066507145054
+    second: robstacles_75
+  - first:
+      213: -7919309771009423698
+    second: robstacles_76
+  - first:
+      213: 5701741258640209894
+    second: robstacles_77
+  - first:
+      213: -3444287698955589232
+    second: robstacles_78
+  - first:
+      213: 5761374708739141976
+    second: robstacles_79
+  - first:
+      213: -3790374163158648699
+    second: robstacles_80
+  - first:
+      213: -3128312746869460416
+    second: robstacles_81
+  - first:
+      213: -2777881867878255796
+    second: robstacles_82
+  - first:
+      213: -3559081572118417013
+    second: robstacles_83
+  - first:
+      213: -2557873742384115354
+    second: robstacles_84
+  - first:
+      213: 5081708170376391753
+    second: robstacles_85
+  - first:
+      213: 1554061604978802019
+    second: robstacles_86
+  - first:
+      213: 7320980600978667091
+    second: robstacles_87
+  - first:
+      213: 5662968157554677813
+    second: robstacles_88
+  - first:
+      213: -8657705749294682514
+    second: robstacles_89
+  - first:
+      213: 7759997274500680071
+    second: robstacles_90
+  - first:
+      213: -3620805380297177450
+    second: robstacles_91
+  - first:
+      213: 576503306916007732
+    second: robstacles_92
+  - first:
+      213: 2347092783211803799
+    second: robstacles_93
+  - first:
+      213: 3238173610048505849
+    second: robstacles_94
+  - first:
+      213: -22268237067504456
+    second: robstacles_95
+  - first:
+      213: -581634851099755516
+    second: robstacles_96
+  - first:
+      213: 8727651766130303129
+    second: robstacles_97
+  - first:
+      213: -2770761997503229335
+    second: robstacles_98
+  - first:
+      213: -5746591886748957712
+    second: robstacles_99
+  - first:
+      213: -5957799538680756673
+    second: robstacles_100
+  - first:
+      213: -4826445036831778808
+    second: robstacles_101
+  - first:
+      213: -6611948225819993130
+    second: robstacles_102
+  - first:
+      213: -5144456864059487953
+    second: robstacles_103
+  - first:
+      213: -98064709095979490
+    second: robstacles_104
+  - first:
+      213: -3529296241500152523
+    second: robstacles_105
+  - first:
+      213: 1178506681166893309
+    second: robstacles_106
+  - first:
+      213: -1526915925778162997
+    second: robstacles_107
+  - first:
+      213: 3949098833390742164
+    second: robstacles_108
+  - first:
+      213: 1508468957271283003
+    second: robstacles_109
+  - first:
+      213: -1002059944310376103
+    second: robstacles_110
+  - first:
+      213: 7609354818436711024
+    second: robstacles_111
+  - first:
+      213: 5502929032376782452
+    second: robstacles_112
+  - first:
+      213: -6660310031083017541
+    second: robstacles_113
+  - first:
+      213: -3210933179003867814
+    second: robstacles_114
+  - first:
+      213: -2579666658336539477
+    second: robstacles_115
+  - first:
+      213: -5827681788846370126
+    second: robstacles_116
+  - first:
+      213: -8416529022919881162
+    second: robstacles_117
+  - first:
+      213: -8885477544523020756
+    second: robstacles_118
+  - first:
+      213: -8577797390108454276
+    second: robstacles_119
+  - first:
+      213: 474223247564206575
+    second: robstacles_120
+  - first:
+      213: 176913456161470784
+    second: robstacles_121
+  - first:
+      213: -6607841111445971323
+    second: robstacles_122
+  - first:
+      213: 7747661135587610198
+    second: robstacles_123
+  - first:
+      213: 5098280203835022027
+    second: robstacles_124
+  - first:
+      213: -6964774213484314950
+    second: robstacles_125
+  - first:
+      213: -3632392369600623747
+    second: robstacles_126
+  - first:
+      213: -4255985285714635390
+    second: robstacles_127
+  - first:
+      213: 6021709648859518385
+    second: robstacles_128
+  - first:
+      213: 2235265112080240336
+    second: robstacles_129
+  - first:
+      213: -8438829089215651756
+    second: robstacles_130
+  - first:
+      213: 6616297414714126339
+    second: robstacles_131
+  - first:
+      213: 4846661715687317284
+    second: robstacles_132
+  - first:
+      213: -3436198351591867462
+    second: robstacles_133
+  - first:
+      213: 8117031786596792895
+    second: robstacles_134
+  - first:
+      213: -3830988789699347826
+    second: robstacles_135
+  - first:
+      213: 6233532505723374786
+    second: robstacles_136
+  - first:
+      213: 7986812322935386479
+    second: robstacles_137
+  - first:
+      213: -8722300758427432656
+    second: robstacles_138
+  - first:
+      213: 5588354314217761812
+    second: robstacles_139
+  - first:
+      213: -7363551312136949862
+    second: robstacles_140
+  - first:
+      213: 29389408768338751
+    second: robstacles_141
+  - first:
+      213: -5689405755052048120
+    second: robstacles_142
+  - first:
+      213: 8670124755979324360
+    second: robstacles_143
+  - first:
+      213: 5418557586220380979
+    second: robstacles_144
+  - first:
+      213: 8005911977092916782
+    second: robstacles_145
+  - first:
+      213: -1771220783650771929
+    second: robstacles_146
+  - first:
+      213: -2613000374906738415
+    second: robstacles_147
+  - first:
+      213: 7825196646794802082
+    second: robstacles_148
+  - first:
+      213: 427647566392717741
+    second: robstacles_149
+  - first:
+      213: -5885559796496427219
+    second: robstacles_150
+  - first:
+      213: -4335425446235024291
+    second: robstacles_151
+  - first:
+      213: 8017663255703422594
+    second: robstacles_152
+  - first:
+      213: 4969300323720560143
+    second: robstacles_153
+  - first:
+      213: 3263150270312757272
+    second: robstacles_154
+  - first:
+      213: -1209809781645503151
+    second: robstacles_155
+  - first:
+      213: 6753950208230010641
+    second: robstacles_156
+  - first:
+      213: -3366235697411813073
+    second: robstacles_157
+  - first:
+      213: 8630091130609089949
+    second: robstacles_158
+  - first:
+      213: 2900067936680592330
+    second: robstacles_159
+  - first:
+      213: -5305059841672814491
+    second: robstacles_160
+  - first:
+      213: -8382117658016057511
+    second: robstacles_161
+  - first:
+      213: 4908021152164799904
+    second: robstacles_162
+  - first:
+      213: -7080800011795459146
+    second: robstacles_163
+  - first:
+      213: -3483900032353158972
+    second: robstacles_164
+  - first:
+      213: -5248933881481409481
+    second: robstacles_165
+  - first:
+      213: 9204297961959513423
+    second: robstacles_166
+  - first:
+      213: -7736936612108556042
+    second: robstacles_167
+  - first:
+      213: 7314566581433825851
+    second: robstacles_168
+  - first:
+      213: -8933889730670975094
+    second: robstacles_169
+  - first:
+      213: -1599239744067416737
+    second: robstacles_170
+  - first:
+      213: 1464720923733819386
+    second: robstacles_171
+  - first:
+      213: 1938354044232249672
+    second: robstacles_172
+  - first:
+      213: -7872117323443618692
+    second: robstacles_173
+  - first:
+      213: 4769359190860853059
+    second: robstacles_174
+  - first:
+      213: 8279342644299126118
+    second: robstacles_175
+  - first:
+      213: 2301743423275544071
+    second: robstacles_176
+  - first:
+      213: -8152644703343565704
+    second: robstacles_177
+  - first:
+      213: -6248561678802952399
+    second: robstacles_178
+  - first:
+      213: -8881144249069842779
+    second: robstacles_179
+  - first:
+      213: 1047030484614885364
+    second: robstacles_180
+  - first:
+      213: 1637760327806094615
+    second: robstacles_181
+  - first:
+      213: 4951071520652177722
+    second: robstacles_182
+  - first:
+      213: -8027835235709469328
+    second: robstacles_183
+  - first:
+      213: 2063477764282469032
+    second: robstacles_184
+  - first:
+      213: 1762797577150569058
+    second: robstacles_185
+  - first:
+      213: 8535484464491746281
+    second: robstacles_186
+  - first:
+      213: -3034517134396720638
+    second: robstacles_187
+  - first:
+      213: -6503070609463351090
+    second: robstacles_188
+  - first:
+      213: -1288574282427546458
+    second: robstacles_189
+  - first:
+      213: -4282547771622325983
+    second: robstacles_190
+  - first:
+      213: 2436858641340346690
+    second: robstacles_191
+  - first:
+      213: 7903581019747522001
+    second: robstacles_192
+  - first:
+      213: -5863732548123001024
+    second: robstacles_193
+  - first:
+      213: 6033042406409895704
+    second: robstacles_194
+  - first:
+      213: -4521693507388739947
+    second: robstacles_195
+  - first:
+      213: -8473443356701244665
+    second: robstacles_196
+  - first:
+      213: 8019858737509805624
+    second: robstacles_197
+  - first:
+      213: 606026128471454972
+    second: robstacles_198
+  - first:
+      213: -2623487131592992372
+    second: robstacles_199
+  - first:
+      213: 6689915239256034050
+    second: robstacles_200
+  - first:
+      213: 6196544773967309740
+    second: robstacles_201
+  - first:
+      213: -2678464188495313573
+    second: robstacles_202
+  - first:
+      213: 4232982437462624073
+    second: robstacles_203
+  - first:
+      213: 3376874301690643250
+    second: robstacles_204
+  - first:
+      213: 302335064671385373
+    second: robstacles_205
+  - first:
+      213: -3536705429054417222
+    second: robstacles_206
+  - first:
+      213: 1290702715274948631
+    second: robstacles_207
+  - first:
+      213: -590795005746028050
+    second: robstacles_208
+  - first:
+      213: -1134798838551988798
+    second: robstacles_209
+  - first:
+      213: -9043845201860351035
+    second: robstacles_210
+  - first:
+      213: -8974902395311044571
+    second: robstacles_211
+  - first:
+      213: -4262941443720374165
+    second: robstacles_212
+  - first:
+      213: -6285277978221937425
+    second: robstacles_213
+  - first:
+      213: -2344436297631983671
+    second: robstacles_214
+  - first:
+      213: -7631075942952407219
+    second: robstacles_215
+  - first:
+      213: 1465905756742923546
+    second: robstacles_216
+  - first:
+      213: -9109736185531346254
+    second: robstacles_217
+  - first:
+      213: -4438124534687857070
+    second: robstacles_218
+  - first:
+      213: -6221869547868083113
+    second: robstacles_219
+  - first:
+      213: -4380443064236320773
+    second: robstacles_220
+  - first:
+      213: -6449835320980982541
+    second: robstacles_221
+  - first:
+      213: 2440631396982735622
+    second: robstacles_222
+  - first:
+      213: -5556458073490956120
+    second: robstacles_223
+  - first:
+      213: -5053324865199631027
+    second: robstacles_224
+  - first:
+      213: -7552398863020540857
+    second: robstacles_225
+  - first:
+      213: -7695611969041775394
+    second: robstacles_226
+  - first:
+      213: 1324434893234855637
+    second: robstacles_227
+  - first:
+      213: -110211653885972672
+    second: robstacles_228
+  - first:
+      213: -169897296889619828
+    second: robstacles_229
+  - first:
+      213: 218035183073495953
+    second: robstacles_230
+  - first:
+      213: -7459986996020781410
+    second: robstacles_231
+  - first:
+      213: 8318438565053207105
+    second: robstacles_232
+  - first:
+      213: -35904437707793776
+    second: robstacles_233
+  - first:
+      213: 8919560550760302431
+    second: robstacles_234
+  - first:
+      213: 6844580036431408788
+    second: robstacles_235
+  - first:
+      213: -1182581530026806869
+    second: robstacles_236
+  - first:
+      213: -3838488895852606323
+    second: robstacles_237
+  - first:
+      213: -5217659845263900057
+    second: robstacles_238
+  - first:
+      213: 1242893043550254786
+    second: robstacles_239
+  - first:
+      213: -2276340134881136271
+    second: robstacles_240
+  - first:
+      213: 6055175337802317483
+    second: robstacles_241
+  - first:
+      213: -8883196072079623261
+    second: robstacles_242
+  - first:
+      213: -658804035372068316
+    second: robstacles_243
+  - first:
+      213: -6524855312176201903
+    second: robstacles_244
+  - first:
+      213: -6947460128979065100
+    second: robstacles_245
+  - first:
+      213: -2445949416928560280
+    second: robstacles_246
+  - first:
+      213: -6856922824578593153
+    second: robstacles_247
+  - first:
+      213: 5111323134320218597
+    second: robstacles_248
+  - first:
+      213: 6549503547422981077
+    second: robstacles_249
+  - first:
+      213: -3886938415254581413
+    second: robstacles_250
+  - first:
+      213: -6147249093540641645
+    second: robstacles_251
+  - first:
+      213: 2437941848339408316
+    second: robstacles_252
+  - first:
+      213: 3623947965264047289
+    second: robstacles_253
+  - first:
+      213: 6836080872950764382
+    second: robstacles_254
+  - first:
+      213: -6051621720241667471
+    second: robstacles_255
+  - first:
+      213: 115550836647321974
+    second: robstacles_256
+  - first:
+      213: 5399305935759360468
+    second: robstacles_257
+  - first:
+      213: -5551063502610376511
+    second: robstacles_258
+  - first:
+      213: 1517216504727024869
+    second: robstacles_259
+  - first:
+      213: -7402300735220410456
+    second: robstacles_260
+  - first:
+      213: -3094107958023960234
+    second: robstacles_261
+  - first:
+      213: -2731802226691575688
+    second: robstacles_262
+  - first:
+      213: -126392775551102988
+    second: robstacles_263
+  - first:
+      213: -6184168502445124648
+    second: robstacles_264
+  - first:
+      213: -8702776773232263290
+    second: robstacles_265
+  - first:
+      213: 5508705471418676020
+    second: robstacles_266
+  - first:
+      213: -564195625195920123
+    second: robstacles_267
+  - first:
+      213: -6972764775302774095
+    second: robstacles_268
+  - first:
+      213: -7198338336963783856
+    second: robstacles_269
+  - first:
+      213: -1123350697353348125
+    second: robstacles_270
+  - first:
+      213: 5840050957703896786
+    second: robstacles_271
+  - first:
+      213: 8134260555125761131
+    second: robstacles_272
+  - first:
+      213: -8647658502602991441
+    second: robstacles_273
+  - first:
+      213: -2375491572576996820
+    second: robstacles_274
+  - first:
+      213: -1181048587405129576
+    second: robstacles_275
+  - first:
+      213: 8581943693677169735
+    second: robstacles_276
+  - first:
+      213: -8428447367984357192
+    second: robstacles_277
+  - first:
+      213: 8439678312150091609
+    second: robstacles_278
+  - first:
+      213: 8285319388656478902
+    second: robstacles_279
+  - first:
+      213: -8508173374428697762
+    second: robstacles_280
+  - first:
+      213: -5823856058844266747
+    second: robstacles_281
+  - first:
+      213: 6192955272693486284
+    second: robstacles_282
+  - first:
+      213: 5825976371758887956
+    second: robstacles_283
+  - first:
+      213: 2289855331207287882
+    second: robstacles_284
+  - first:
+      213: 5200685578938181237
+    second: robstacles_285
+  - first:
+      213: 5806219345370552637
+    second: robstacles_286
+  - first:
+      213: 8443202581756667646
+    second: robstacles_287
+  - first:
+      213: -2881933676404545051
+    second: robstacles_288
+  - first:
+      213: 1453121502410023081
+    second: robstacles_289
+  - first:
+      213: 9177835348436682138
+    second: robstacles_290
+  - first:
+      213: 4630123935835686208
+    second: robstacles_291
+  - first:
+      213: 7761842688319272258
+    second: robstacles_292
+  - first:
+      213: -7404185752300818973
+    second: robstacles_293
+  - first:
+      213: 7330270498953404501
+    second: robstacles_294
+  - first:
+      213: 1855936024902442951
+    second: robstacles_295
+  - first:
+      213: 2624844364702890023
+    second: robstacles_296
+  - first:
+      213: 4826859391813177018
+    second: robstacles_297
+  - first:
+      213: -4733550556205713668
+    second: robstacles_298
+  - first:
+      213: 3086177711148324285
+    second: robstacles_299
+  - first:
+      213: 6923583140808323101
+    second: robstacles_300
+  - first:
+      213: 3961743767156760007
+    second: robstacles_301
+  - first:
+      213: 5153328046183200999
+    second: robstacles_302
+  - first:
+      213: 4015772723409003709
+    second: robstacles_303
+  - first:
+      213: -6576934696432173888
+    second: robstacles_304
+  - first:
+      213: 5156645355798694901
+    second: robstacles_305
+  - first:
+      213: 4891719631667713458
+    second: robstacles_306
+  - first:
+      213: -1567681641339512310
+    second: robstacles_307
+  - first:
+      213: 8532360568721448392
+    second: robstacles_308
+  - first:
+      213: 3939865346380693716
+    second: robstacles_309
+  - first:
+      213: 3003868519231360675
+    second: robstacles_310
+  - first:
+      213: 625313004674600993
+    second: robstacles_311
+  - first:
+      213: -6953540777059116236
+    second: robstacles_312
+  - first:
+      213: -3923333326713211430
+    second: robstacles_313
+  - first:
+      213: -77261902130501392
+    second: robstacles_314
+  - first:
+      213: 8711659599083658997
+    second: robstacles_315
+  - first:
+      213: 489759878587504801
+    second: robstacles_316
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robstacles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 879
+        width: 75
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadd0bf3f0a4e8430800000000000000
+      internalID: 3787045766018686380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 817
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b967ae5fcfba4a60800000000000000
+      internalID: 7659145013664115121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 966
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674d1969b2a8c5130800000000000000
+      internalID: 3556869725530215542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_3
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 904
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83abcc5c031d88910800000000000000
+      internalID: 1839950455188011576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_4
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 981
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b329b96081370a40800000000000000
+      internalID: 5334286711242957745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 988
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1558daea46c86710800000000000000
+      internalID: 1686816085520176411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 954
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2081e809ed9565840800000000000000
+      internalID: 5212452431170770946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_7
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 981
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff83c9a8401558090800000000000000
+      internalID: -8032925280398198529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_8
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 961
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4e2c643ee774f60800000000000000
+      internalID: 8018517176166311129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_9
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 968
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a7d8a413a7c56b0800000000000000
+      internalID: -5306231908826514825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 945
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e3fec0e71dfabb0800000000000000
+      internalID: -4922485528379572618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 912
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f4093619276ad30800000000000000
+      internalID: 4442364051213799188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_12
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 905
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5ab0cb5ebf7a290800000000000000
+      internalID: -7879052058940430850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 929
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72499dd9e80363a0800000000000000
+      internalID: -6673480422294732164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 946
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75bbb76f9cb22980800000000000000
+      internalID: -8565076148479085185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_15
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 927
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6279a0c7e6bfaf060800000000000000
+      internalID: 6988174223764789030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 921
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462066f527eb216a0800000000000000
+      internalID: -6479907515396652444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_17
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 931
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed82042243e24f040800000000000000
+      internalID: 4680416714192595166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_18
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 918
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94209e07163c544a0800000000000000
+      internalID: -6609662054822772151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_19
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 926
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6da81c784841d90800000000000000
+      internalID: -7127926591618099474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 907
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ac0d69c6873d9a0800000000000000
+      internalID: -6209487053431715273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 910
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6d52de31f475640800000000000000
+      internalID: 5068606852630435530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 900
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e5231ea63f80fa0800000000000000
+      internalID: -5834145676888220006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_23
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 891
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434a6ca3aa1326ed0800000000000000
+      internalID: -2422319042371607500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_24
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 895
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502c4db873d41adc0800000000000000
+      internalID: -3629534923719392763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_25
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 906
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2664d8c7cf33b30800000000000000
+      internalID: 4266030883926336249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_26
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 891
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042305610752f74c0800000000000000
+      internalID: -4287667156892503488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_27
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 913
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bcd90909fbdf050800000000000000
+      internalID: 5836031319764487002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 876
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c810cf42b729327e0800000000000000
+      internalID: -1791427169164197492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_29
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 881
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b1cf19b76f06c20800000000000000
+      internalID: 3197826746023680853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_30
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 882
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38010a01f2f997310800000000000000
+      internalID: 1403327783393824899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_31
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 877
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341657eea8f3c6770800000000000000
+      internalID: 8605322853936881987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_32
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 897
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c121bddea4c21350800000000000000
+      internalID: 5986063110051537348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_33
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 880
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124feb85360d972a0800000000000000
+      internalID: -6739126242273987551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_34
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 809
+        width: 97
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d46dc123fd9feff0800000000000000
+      internalID: -4611407034358571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 889
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0befa0c56761ae0800000000000000
+      internalID: -1578944481653247820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_36
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 866
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6e36ccffd723cb0800000000000000
+      internalID: -4885704108144335138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_37
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 809
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10767520d166deb40800000000000000
+      internalID: 5471141397104387841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_38
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 803
+        width: 140
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaac09fa3e753eee0800000000000000
+      internalID: -1233045237554689366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_39
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 838
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a82dc53be724700800000000000000
+      internalID: 523119815549946501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_40
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 859
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e23313cb012cf8e0800000000000000
+      internalID: -1658414228378012952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 832
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eccf1f62d53cffa0800000000000000
+      internalID: -5765674245017318169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_42
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 827
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0202f7b5a563e80800000000000000
+      internalID: -8199266722560073475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_43
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 785
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00896091dacb2fd0800000000000000
+      internalID: -2365574177833254898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 814
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df9d9c6a6b276f00800000000000000
+      internalID: 1109903569258913744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_45
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 809
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1890469c9cf67da0800000000000000
+      internalID: -5947288508430247906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 821
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93f6cd3a71c4cd70800000000000000
+      internalID: 9062581080942900122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 381
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb8b9ef8ec9728a0800000000000000
+      internalID: -6329918226727990299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_48
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 768
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452e92ad104c491c0800000000000000
+      internalID: -4497754615602093484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_49
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 758
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1561a1de1e8e37060800000000000000
+      internalID: 6950154707006002769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_50
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 684
+        width: 87
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aedb523ce374b00800000000000000
+      internalID: 812687265636411941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_51
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 785
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccdcf34fecac6a70800000000000000
+      internalID: 8821615913749765316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_52
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 785
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b0583f0cce5c530800000000000000
+      internalID: 3874763367885638490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_53
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 788
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d580d902d99e2ef0800000000000000
+      internalID: -130998211760323115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_54
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 781
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac4a070ddc509aa0800000000000000
+      internalID: -6156318586239824728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_55
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 763
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd901dcd94b1eac0800000000000000
+      internalID: -3827579618444927555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_56
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 750
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e758c9f2b2fca2600800000000000000
+      internalID: 444395297638745470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_57
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 745
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4d407a12701d6a0800000000000000
+      internalID: -6426347352163560221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_58
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 743
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb98151229e1a0180800000000000000
+      internalID: -9148466080076691012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_59
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 764
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9a65f1e1904ed30800000000000000
+      internalID: 4459699555983075792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_60
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 764
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d64a97388c35b580800000000000000
+      internalID: -8812070540134431019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_61
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 741
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7519dea588feda750800000000000000
+      internalID: 6317969221190783319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_62
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 742
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd81ae41738a0eff0800000000000000
+      internalID: -8822244727187233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_63
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 746
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7542df01ec91ed090800000000000000
+      internalID: -8007934714579180457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_64
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 747
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b30d0964daffeba0800000000000000
+      internalID: -6057347183587556429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_65
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 749
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8c9c53679a7b920800000000000000
+      internalID: 3006057601466747131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_66
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 749
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6adbc6b1b1ccee0800000000000000
+      internalID: -1239585992831293768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 740
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9e2fe0cc45841d0800000000000000
+      internalID: -3366347486058583634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 727
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98f0596dc00b0e00800000000000000
+      internalID: 1011903423510018205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_69
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 711
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795e64cbd7942da60800000000000000
+      internalID: 7697295517508101527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_70
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 723
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547e098d4eb0bea60800000000000000
+      internalID: 7704264665061189445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_71
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 688
+        width: 99
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305e4da06cfbbc570800000000000000
+      internalID: 8488088780015985923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_72
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 691
+        width: 89
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537269a46ad63aad0800000000000000
+      internalID: -2692187591254071499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_73
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 723
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a2ffcf213002a40800000000000000
+      internalID: 5341272538150283836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_74
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 719
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9267db13923591280800000000000000
+      internalID: -9072128537967888855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_75
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 732
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f9b53f94cd03b50800000000000000
+      internalID: 6570994066507145054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_76
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 689
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea604b8b8b5f81290800000000000000
+      internalID: -7919309771009423698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_77
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 709
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e730723777a02f40800000000000000
+      internalID: 5701741258640209894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_78
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 687
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099218f169e6330d0800000000000000
+      internalID: -3444287698955589232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_79
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 717
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851f054c5c384ff40800000000000000
+      internalID: 5761374708739141976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_80
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 711
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5883c17e7c2e56bc0800000000000000
+      internalID: -3790374163158648699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_81
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 686
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042f48891200694d0800000000000000
+      internalID: -3128312746869460416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_82
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 702
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c433e15b82bf279d0800000000000000
+      internalID: -2777881867878255796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_83
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 689
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b813e3fba2a9b9ec0800000000000000
+      internalID: -3559081572118417013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_84
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 701
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66155ec226b908cd0800000000000000
+      internalID: -2557873742384115354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_85
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c2c7b28aad58640800000000000000
+      internalID: 5081708170376391753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_86
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 688
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36db5d3cbc2219510800000000000000
+      internalID: 1554061604978802019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_87
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 678
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356fbd08119599560800000000000000
+      internalID: 7320980600978667091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_88
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 690
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538156d1987e69e40800000000000000
+      internalID: 5662968157554677813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_89
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 680
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eee63dd76a9d780800000000000000
+      internalID: -8657705749294682514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_90
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 683
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789cc9c286c01bb60800000000000000
+      internalID: 7759997274500680071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_91
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 689
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6964092c0b050cdc0800000000000000
+      internalID: -3620805380297177450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_92
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 670
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f019404b6200800800000000000000
+      internalID: 576503306916007732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_93
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 668
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794f83e637c829020800000000000000
+      internalID: 2347092783211803799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_94
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 681
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f74cf3edbd40fc20800000000000000
+      internalID: 3238173610048505849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_95
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 613
+        width: 163
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b431d70823e0bff0800000000000000
+      internalID: -22268237067504456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_96
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 670
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c363f3f2e9de7f0800000000000000
+      internalID: -581634851099755516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_97
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 676
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990e18b4a09de1970800000000000000
+      internalID: 8727651766130303129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_98
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 672
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9621ba5b4a64c89d0800000000000000
+      internalID: -2770761997503229335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_99
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 620
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3cf2130210040b0800000000000000
+      internalID: -5746591886748957712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_100
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 626
+        width: 268
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3682f5a2e4a15da0800000000000000
+      internalID: -5957799538680756673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_101
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 677
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d1b38fc5050db0800000000000000
+      internalID: -4826445036831778808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_102
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 657
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db99b6ce14ad34a0800000000000000
+      internalID: -6611948225819993130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_103
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 660
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f290a671db73b98b0800000000000000
+      internalID: -5144456864059487953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_104
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 657
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e160559aaaa93aef0800000000000000
+      internalID: -98064709095979490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_105
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 649
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d134274cb650fc0800000000000000
+      internalID: -3529296241500152523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_106
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 641
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df090602595ea5010800000000000000
+      internalID: 1178506681166893309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_107
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 623
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca1b123e0e4fcae0800000000000000
+      internalID: -1526915925778162997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_108
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 643
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a2a2b37740ec630800000000000000
+      internalID: 3949098833390742164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_109
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 640
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35dbd046882fe410800000000000000
+      internalID: 1508468957271283003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_110
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 624
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9597bbf2ac7f712f0800000000000000
+      internalID: -1002059944310376103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_111
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 623
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072c3da24ebd99960800000000000000
+      internalID: 7609354818436711024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_112
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 619
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e80079cc45e5c40800000000000000
+      internalID: 5502929032376782452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_113
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 552
+        width: 88
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba63578053d193a0800000000000000
+      internalID: -6660310031083017541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_114
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 552
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d65f339497073d0800000000000000
+      internalID: -3210933179003867814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_115
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 543
+        width: 215
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac7ee687de233cd0800000000000000
+      internalID: -2579666658336539477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_116
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 612
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b29cc71a4aef1fa0800000000000000
+      internalID: -5827681788846370126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_117
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 579
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e4813427b723b80800000000000000
+      internalID: -8416529022919881162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_118
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 590
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26cef2204170b480800000000000000
+      internalID: -8885477544523020756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_119
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 593
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72105788ba85f880800000000000000
+      internalID: -8577797390108454276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_120
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 603
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1fb47f787c49600800000000000000
+      internalID: 474223247564206575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_121
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 576
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049bd7ed9d5847200800000000000000
+      internalID: 176913456161470784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_122
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 584
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e5a0cd48b3c44a0800000000000000
+      internalID: -6607841111445971323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_123
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 545
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e8cc201c8358b60800000000000000
+      internalID: 7747661135587610198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_124
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 550
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca1ef265dab0c640800000000000000
+      internalID: 5098280203835022027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_125
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 576
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe7778f0c6285f90800000000000000
+      internalID: -6964774213484314950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_126
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 569
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b8d159266279dc0800000000000000
+      internalID: -3632392369600623747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_127
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 558
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28590bb8ee3bfe4c0800000000000000
+      internalID: -4255985285714635390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_128
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 539
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b550d07509619350800000000000000
+      internalID: 6021709648859518385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_129
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 549
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0decd58c6c1450f10800000000000000
+      internalID: 2235265112080240336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_130
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 545
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450611977a143ea80800000000000000
+      internalID: -8438829089215651756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_131
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 543
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300fe5ca17fc1db50800000000000000
+      internalID: 6616297414714126339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_132
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 543
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f1706d62dc24340800000000000000
+      internalID: 4846661715687317284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_133
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 539
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb75931ecb2050d0800000000000000
+      internalID: -3436198351591867462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_134
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 530
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3af7ae676d75a070800000000000000
+      internalID: 8117031786596792895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_135
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 469
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a77734ef795dac0800000000000000
+      internalID: -3830988789699347826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_136
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 430
+        width: 163
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc0e7b89c4f18650800000000000000
+      internalID: 6233532505723374786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_137
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 526
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61b644ed7bd6de60800000000000000
+      internalID: 7986812322935386479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_138
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 525
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03900d54ca924f680800000000000000
+      internalID: -8722300758427432656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_139
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 440
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ca8f1f3a2dd8d40800000000000000
+      internalID: 5588354314217761812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_140
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 471
+        width: 132
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f27ba68196fc990800000000000000
+      internalID: -7363551312136949862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_141
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 524
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3babc5f289686000800000000000000
+      internalID: 29389408768338751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_142
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 495
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8014f0b0c9b2b01b0800000000000000
+      internalID: -5689405755052048120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_143
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 503
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbc77e7788725870800000000000000
+      internalID: 8670124755979324360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_144
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 506
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333f9a97a65923b40800000000000000
+      internalID: 5418557586220380979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_145
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 504
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e262ba9a686ba1f60800000000000000
+      internalID: 8005911977092916782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_146
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 488
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ce4b3e41c5b67e0800000000000000
+      internalID: -1771220783650771929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_147
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 476
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119a8b7d002ccbbd0800000000000000
+      internalID: -2613000374906738415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_148
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 485
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a338cdf3eea89c60800000000000000
+      internalID: 7825196646794802082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_149
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 481
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1f5e3223f4fe500800000000000000
+      internalID: 427647566392717741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_150
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 473
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2792815c8a425ea0800000000000000
+      internalID: -5885559796496427219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_151
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 473
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54d8f6d68975d3c0800000000000000
+      internalID: -4335425446235024291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_152
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 438
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28687ec6046744f60800000000000000
+      internalID: 8017663255703422594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_153
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 441
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ef891e05086f440800000000000000
+      internalID: 4969300323720560143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_154
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 455
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81836b6c1e9094d20800000000000000
+      internalID: 3263150270312757272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_155
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 448
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1551a37d964e53fe0800000000000000
+      internalID: -1209809781645503151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_156
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 441
+        width: 73
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fa9303ee9dabd50800000000000000
+      internalID: 6753950208230010641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_157
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 463
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f219781e77ab841d0800000000000000
+      internalID: -3366235697411813073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_158
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 455
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d343bb82e34c770800000000000000
+      internalID: 8630091130609089949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_159
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 370
+        width: 47
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3c8565c6c1f3820800000000000000
+      internalID: 2900067936680592330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_160
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 438
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560e6e07e24a066b0800000000000000
+      internalID: -5305059841672814491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_161
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 437
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9577c60866cbcab80800000000000000
+      internalID: -8382117658016057511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_162
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 446
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5e2eceb3bcc1440800000000000000
+      internalID: 4908021152164799904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_163
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 439
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3995ba7e1fbbd90800000000000000
+      internalID: -7080800011795459146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_164
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 444
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c83e9a0163b6afc0800000000000000
+      internalID: -3483900032353158972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_165
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 424
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cc9c0e17a0827b0800000000000000
+      internalID: -5248933881481409481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_166
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 297
+        width: 158
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dd27dda3c3cbf70800000000000000
+      internalID: 9204297961959513423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_167
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 416
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f82e81b421e0a490800000000000000
+      internalID: -7736936612108556042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_168
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 418
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a7e443d8f828560800000000000000
+      internalID: 7314566581433825851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_169
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 369
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87a8dcaf92740480800000000000000
+      internalID: -8933889730670975094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_170
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 418
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dcc280deb5ec9e0800000000000000
+      internalID: -1599239744067416737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_171
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 382
+        width: 126
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff7c327bebb35410800000000000000
+      internalID: 1464720923733819386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_172
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841b76fbbba66ea10800000000000000
+      internalID: 1938354044232249672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 413
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cb1f9a00f90c290800000000000000
+      internalID: -7872117323443618692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_174
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 402
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f61893aea203240800000000000000
+      internalID: 4769359190860853059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_175
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 407
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6655137e44226e270800000000000000
+      internalID: 8279342644299126118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_176
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 413
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e2e64c27f61ff10800000000000000
+      internalID: 2301743423275544071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_177
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 417
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874ac3d36dcfbde80800000000000000
+      internalID: -8152644703343565704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_178
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 410
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fd4d96246a849a0800000000000000
+      internalID: -6248561678802952399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_179
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 414
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae403b1c56dfb480800000000000000
+      internalID: -8881144249069842779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_180
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 410
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffa978adacc78e00800000000000000
+      internalID: 1047030484614885364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_181
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 389
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d0c16475e7ab610800000000000000
+      internalID: 1637760327806094615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_182
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 398
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31b60ee05db5b440800000000000000
+      internalID: 4951071520652177722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_183
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 393
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d3c2ce266679090800000000000000
+      internalID: -8027835235709469328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_184
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 399
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa49f50812f2ac10800000000000000
+      internalID: 2063477764282469032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_185
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 393
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a9af48e07b67810800000000000000
+      internalID: 1762797577150569058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_186
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 399
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e355e3c5e1247670800000000000000
+      internalID: 8535484464491746281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_187
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 354
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a727b6eba33e5d0800000000000000
+      internalID: -3034517134396720638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_188
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 390
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec867a54cb370c5a0800000000000000
+      internalID: -6503070609463351090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_189
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 390
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4c33d64801e1ee0800000000000000
+      internalID: -1288574282427546458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_190
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1218fcadd755194c0800000000000000
+      internalID: -4282547771622325983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_191
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 361
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241bee4f50671d120800000000000000
+      internalID: 2436858641340346690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_192
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 367
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5129fff092fad60800000000000000
+      internalID: 7903581019747522001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_193
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 360
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f7b3b9056df9ea0800000000000000
+      internalID: -5863732548123001024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_194
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 369
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ffdecaa1ca9b350800000000000000
+      internalID: 6033042406409895704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_195
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 372
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e67e446b7bf31c0800000000000000
+      internalID: -4521693507388739947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_196
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 374
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703cd6b4928486a80800000000000000
+      internalID: -8473443356701244665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_197
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 363
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ea51ed7034c4f60800000000000000
+      internalID: 8019858737509805624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_198
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 374
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf475209d89096800800000000000000
+      internalID: 606026128471454972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_199
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 350
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8957988a50879bd0800000000000000
+      internalID: -2623487131592992372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_200
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 365
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b0455277a57dc50800000000000000
+      internalID: 6689915239256034050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_201
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 301
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabef1724ac8ef550800000000000000
+      internalID: 6196544773967309740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_202
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 301
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55c12df20f24dad0800000000000000
+      internalID: -2678464188495313573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_203
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 301
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9474d6d79139eba30800000000000000
+      internalID: 4232982437462624073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_204
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 346
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2338a6339411dde20800000000000000
+      internalID: 3376874301690643250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_205
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 301
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17f1e4b32c123400800000000000000
+      internalID: 302335064671385373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_206
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 362
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6140a86291beec0800000000000000
+      internalID: -3536705429054417222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_207
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 353
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7107896f74f79e110800000000000000
+      internalID: 1290702715274948631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_208
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1ee6b82131dc7f0800000000000000
+      internalID: -590795005746028050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_209
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5359008726040f0800000000000000
+      internalID: -1134798838551988798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_210
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 345
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb2e7b84becd7280800000000000000
+      internalID: -9043845201860351035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_211
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 339
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528cea192ddb27380800000000000000
+      internalID: -8974902395311044571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_212
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 329
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6891ccc75df6d4c0800000000000000
+      internalID: -4262941443720374165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_213
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 326
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecfe79caf436c8a0800000000000000
+      internalID: -6285277978221937425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_214
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 326
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c71d11db93e67fd0800000000000000
+      internalID: -2344436297631983671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_215
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 328
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fea4e6cd8f81690800000000000000
+      internalID: -7631075942952407219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_216
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 324
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15bcd0e481f75410800000000000000
+      internalID: 1465905756742923546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_217
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 331
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2d1e76437b39180800000000000000
+      internalID: -9109736185531346254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_218
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 317
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2560cf8ff3d9862c0800000000000000
+      internalID: -4438124534687857070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_219
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 299
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ca0807c9a77a9a0800000000000000
+      internalID: -6221869547868083113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7de5ddd3a8533c0800000000000000
+      internalID: -4380443064236320773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_221
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 266
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f43921c2f49d76a0800000000000000
+      internalID: -6449835320980982541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_222
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 306
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60342d4135dded120800000000000000
+      internalID: 2440631396982735622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_223
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 300
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0683052de73e2b0800000000000000
+      internalID: -5556458073490956120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_224
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 304
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45902b0fcbfed9b0800000000000000
+      internalID: -5053324865199631027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_225
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 303
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cb8979f3d703790800000000000000
+      internalID: -7552398863020540857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_226
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 301
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed44500ffa1b33590800000000000000
+      internalID: -7695611969041775394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_227
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 195
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de556ba486516210800000000000000
+      internalID: 1324434893234855637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_228
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 185
+        width: 125
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fa400b513787ef0800000000000000
+      internalID: -110211653885972672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_229
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 191
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a58920f4764adf0800000000000000
+      internalID: -169897296889619828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_230
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 205
+        width: 106
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b02a308dd960300800000000000000
+      internalID: 218035183073495953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_231
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 183
+        width: 164
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ed5211a5dc87890800000000000000
+      internalID: -7459986996020781410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_232
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 288
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14218eb4dc7017370800000000000000
+      internalID: 8318438565053207105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_233
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 290
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a1198aa11708ff0800000000000000
+      internalID: -35904437707793776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_234
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 281
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57c7a42015a8cb70800000000000000
+      internalID: 8919560550760302431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_235
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 260
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e693c6745dcfe50800000000000000
+      internalID: 6844580036431408788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_236
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 236
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba170d03d50a69fe0800000000000000
+      internalID: -1182581530026806869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_237
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 237
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c8c68bfa2fabac0800000000000000
+      internalID: -3838488895852606323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_238
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 187
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c93cd3062797b0800000000000000
+      internalID: -5217659845263900057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_239
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 234
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6fd9253a4af3110800000000000000
+      internalID: 1242893043550254786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_240
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 222
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171f17835b0d860e0800000000000000
+      internalID: -2276340134881136271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_241
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 240
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeb96653ed480450800000000000000
+      internalID: 6055175337802317483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_242
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 246
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab7c85dc3c88b480800000000000000
+      internalID: -8883196072079623261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_243
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 225
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422dd0768357bd6f0800000000000000
+      internalID: -658804035372068316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_244
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 211
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fbaeae9ae0375a0800000000000000
+      internalID: -6524855312176201903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_245
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 217
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6630962d9a59f90800000000000000
+      internalID: -6947460128979065100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_246
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 187
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b3669e6fd3e0ed0800000000000000
+      internalID: -2445949416928560280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_247
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 207
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e89b4450157d0a0800000000000000
+      internalID: -6856922824578593153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_248
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 213
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e194694f411fe640800000000000000
+      internalID: 5111323134320218597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_249
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 225
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbbe4f86c284ea50800000000000000
+      internalID: 6549503547422981077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_250
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 187
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f4eeeea12de0ac0800000000000000
+      internalID: -3886938415254581413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_251
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 220
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3940ba9d48590baa0800000000000000
+      internalID: -6147249093540641645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_252
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 220
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5645db13f45d120800000000000000
+      internalID: 2437941848339408316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_253
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 222
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc20125979da4230800000000000000
+      internalID: 3623947965264047289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_254
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 178
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e539218b553aede50800000000000000
+      internalID: 6836080872950764382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_255
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 181
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17205f9bb12540ca0800000000000000
+      internalID: -6051621720241667471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_256
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 191
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671ecdbafd48a9100800000000000000
+      internalID: 115550836647321974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_257
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 210
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1489e44203eea40800000000000000
+      internalID: 5399305935759360468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_258
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 193
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8d549b729a6f2b0800000000000000
+      internalID: -5551063502610376511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_259
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e43d9b5f5c3e0510800000000000000
+      internalID: 1517216504727024869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_260
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 178
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7139c43beb54990800000000000000
+      internalID: -7402300735220410456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_261
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 187
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659c54994358f05d0800000000000000
+      internalID: -3094107958023960234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_262
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 195
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8707d693950b61ad0800000000000000
+      internalID: -2731802226691575688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_263
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 188
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffc917b076fe3ef0800000000000000
+      internalID: -126392775551102988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_264
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 181
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3599c138b6d2aa0800000000000000
+      internalID: -6184168502445124648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_265
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 183
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f78ff42a6893780800000000000000
+      internalID: -8702776773232263290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_266
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 179
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433392c907ad27c40800000000000000
+      internalID: 5508705471418676020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_267
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 187
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5052e5071139b28f0800000000000000
+      internalID: -564195625195920123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_268
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 181
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2c8b15163cb3f90800000000000000
+      internalID: -6972764775302774095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_269
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 182
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0539234cb6d5a1c90800000000000000
+      internalID: -7198338336963783856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_270
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 183
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebf0161e7e0960f0800000000000000
+      internalID: -1123350697353348125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_271
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 180
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dede1477670c0150800000000000000
+      internalID: 5840050957703896786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_272
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b642eb2b0e2b2e070800000000000000
+      internalID: 8134260555125761131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_273
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 182
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8567db8685df780800000000000000
+      internalID: -8647658502602991441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_274
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 179
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c223d99200f880fd0800000000000000
+      internalID: -2375491572576996820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_275
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 188
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8988d3531921c9fe0800000000000000
+      internalID: -1181048587405129576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_276
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 54
+        width: 121
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c08000250391770800000000000000
+      internalID: 8581943693677169735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_277
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 130
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0673f46c3280b80800000000000000
+      internalID: -8428447367984357192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_278
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 54
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9574646a5b2cf1570800000000000000
+      internalID: 8439678312150091609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_279
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 137
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baa683261e5bf270800000000000000
+      internalID: 8285319388656478902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_280
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 40
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5badb9e465ece980800000000000000
+      internalID: -8508173374428697762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_281
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 40
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fb49545c18d2fa0800000000000000
+      internalID: -5823856058844266747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_282
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 40
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc217c2420cc1f550800000000000000
+      internalID: 6192955272693486284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_283
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 40
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414f18c84a60ad050800000000000000
+      internalID: 5825976371758887956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_284
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 140
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4415a3aa4337cf10800000000000000
+      internalID: 2289855331207287882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_285
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 48
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5766b19cafb8c2840800000000000000
+      internalID: 5200685578938181237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_286
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 141
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3910d06bb5d39050800000000000000
+      internalID: 5806219345370552637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_287
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 103
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6644c93084c2570800000000000000
+      internalID: 8443202581756667646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_288
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 117
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9eba727905108d0800000000000000
+      internalID: -2881933676404545051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_289
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 114
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0a1a6be468a2410800000000000000
+      internalID: 1453121502410023081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_290
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 99
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9587968f983e5f70800000000000000
+      internalID: 9177835348436682138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_291
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 113
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045058d2031814040800000000000000
+      internalID: 4630123935835686208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_292
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 108
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245bbbf0dca97bb60800000000000000
+      internalID: 7761842688319272258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_293
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 101
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ede91f894c0f3990800000000000000
+      internalID: -7404185752300818973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_294
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550a4ad6e2a5ab560800000000000000
+      internalID: 7330270498953404501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_295
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf19224bfb91c910800000000000000
+      internalID: 1855936024902442951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_296
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7283dccea025d6420800000000000000
+      internalID: 2624844364702890023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_297
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 144
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe48c50b037cf240800000000000000
+      internalID: 4826859391813177018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_298
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 27
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6710b39dc0f4eb0800000000000000
+      internalID: -4733550556205713668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_299
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 105
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db559bae64e44da20800000000000000
+      internalID: 3086177711148324285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_300
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 28
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1073c01f22851060800000000000000
+      internalID: 6923583140808323101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_301
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 41
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd1f7c47f0faf630800000000000000
+      internalID: 3961743767156760007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_302
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 20
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8bec3fd8c448740800000000000000
+      internalID: 5153328046183200999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_303
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 25
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db42f75f304eab730800000000000000
+      internalID: 4015772723409003709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_304
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 8
+        width: 134
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccf73c5db80ab4a0800000000000000
+      internalID: -6576934696432173888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_305
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 13
+        width: 79
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb8c0941a5109740800000000000000
+      internalID: 5156645355798694901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_306
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 34
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5db5a6611e2e340800000000000000
+      internalID: 4891719631667713458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_307
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 24
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a9e076ad97e3ae0800000000000000
+      internalID: -1567681641339512310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_308
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd113a1bb8096670800000000000000
+      internalID: 8532360568721448392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_309
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 20
+        width: 130
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d084e188a63da630800000000000000
+      internalID: 3939865346380693716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_310
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1
+        width: 101
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae83c8c082efa920800000000000000
+      internalID: 3003868519231360675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_311
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120df0d5dde8da800800000000000000
+      internalID: 625313004674600993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_312
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b9234318f008f90800000000000000
+      internalID: -6953540777059116236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_313
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 21
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5bec540258d89c0800000000000000
+      internalID: -3923333326713211430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_314
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 13
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f827d895b28deef0800000000000000
+      internalID: -77261902130501392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_315
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 15
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fed08fbf3806e870800000000000000
+      internalID: 8711659599083658997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robstacles_316
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a85274c30afbc600800000000000000
+      internalID: 489759878587504801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

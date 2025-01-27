@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: bb9bba89dcaa470e48d70a6ea4df30e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8320994039191852937
+    second: hospitaltiles01x_0
+  - first:
+      213: 1349810435985878636
+    second: hospitaltiles01x_1
+  - first:
+      213: -5477976147132588496
+    second: hospitaltiles01x_2
+  - first:
+      213: -6519625089565375681
+    second: hospitaltiles01x_3
+  - first:
+      213: 2244664260038763455
+    second: hospitaltiles01x_4
+  - first:
+      213: -3554467361648794702
+    second: hospitaltiles01x_5
+  - first:
+      213: 4042010599625156538
+    second: hospitaltiles01x_6
+  - first:
+      213: -2806218221637896663
+    second: hospitaltiles01x_7
+  - first:
+      213: -7799834854758020110
+    second: hospitaltiles01x_8
+  - first:
+      213: -8009424889597609959
+    second: hospitaltiles01x_9
+  - first:
+      213: 5814488850949594456
+    second: hospitaltiles01x_10
+  - first:
+      213: 5753693136668488035
+    second: hospitaltiles01x_11
+  - first:
+      213: -5261534913363920832
+    second: hospitaltiles01x_12
+  - first:
+      213: -6354554523242505113
+    second: hospitaltiles01x_13
+  - first:
+      213: -7177889166823000682
+    second: hospitaltiles01x_14
+  - first:
+      213: 7595437418080471498
+    second: hospitaltiles01x_15
+  - first:
+      213: -7352830872842216363
+    second: hospitaltiles01x_16
+  - first:
+      213: 8591199310321062879
+    second: hospitaltiles01x_17
+  - first:
+      213: 9041215041831265740
+    second: hospitaltiles01x_18
+  - first:
+      213: -4106240888453231927
+    second: hospitaltiles01x_19
+  - first:
+      213: -1046076644431657682
+    second: hospitaltiles01x_20
+  - first:
+      213: 889892554702926994
+    second: hospitaltiles01x_21
+  - first:
+      213: 555962669869390911
+    second: hospitaltiles01x_22
+  - first:
+      213: -5270822701559532968
+    second: hospitaltiles01x_23
+  - first:
+      213: -8759491232404807044
+    second: hospitaltiles01x_24
+  - first:
+      213: -4924946899881345159
+    second: hospitaltiles01x_25
+  - first:
+      213: -8435155108169808981
+    second: hospitaltiles01x_26
+  - first:
+      213: 8713955456126480638
+    second: hospitaltiles01x_27
+  - first:
+      213: 4304910837391214758
+    second: hospitaltiles01x_28
+  - first:
+      213: -1150228180350230915
+    second: hospitaltiles01x_29
+  - first:
+      213: -3772159048172064144
+    second: hospitaltiles01x_30
+  - first:
+      213: 3653181657613551390
+    second: hospitaltiles01x_31
+  - first:
+      213: -8682764775709182009
+    second: hospitaltiles01x_32
+  - first:
+      213: 2764860072258512727
+    second: hospitaltiles01x_33
+  - first:
+      213: 3200452719331845311
+    second: hospitaltiles01x_34
+  - first:
+      213: 1348435420756186887
+    second: hospitaltiles01x_35
+  - first:
+      213: -1247729580354038118
+    second: hospitaltiles01x_36
+  - first:
+      213: -8975954755039121065
+    second: hospitaltiles01x_37
+  - first:
+      213: -7844344892241111112
+    second: hospitaltiles01x_38
+  - first:
+      213: -5381483949919201509
+    second: hospitaltiles01x_39
+  - first:
+      213: 3486271716758853869
+    second: hospitaltiles01x_40
+  - first:
+      213: -8072604768859776633
+    second: hospitaltiles01x_41
+  - first:
+      213: -5546931661935824190
+    second: hospitaltiles01x_42
+  - first:
+      213: -2867767060144675476
+    second: hospitaltiles01x_43
+  - first:
+      213: 3341076687469664534
+    second: hospitaltiles01x_44
+  - first:
+      213: -6155905879719717087
+    second: hospitaltiles01x_45
+  - first:
+      213: 6923535843124372207
+    second: hospitaltiles01x_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hospitaltiles01x_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 544
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778a3d30204e58c80800000000000000
+      internalID: -8320994039191852937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ead0f907d7bb210800000000000000
+      internalID: 1349810435985878636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 544
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e591eb7b15af3b0800000000000000
+      internalID: -5477976147132588496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 544
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f334bb30683a585a0800000000000000
+      internalID: -6519625089565375681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 544
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb320a37046a62f10800000000000000
+      internalID: 2244664260038763455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 544
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3243754cefbaec0800000000000000
+      internalID: -3554467361648794702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 544
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab76501993b181830800000000000000
+      internalID: 4042010599625156538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 544
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9267b09356f4e09d0800000000000000
+      internalID: -2806218221637896663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_8
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 544
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb007f568b61c390800000000000000
+      internalID: -7799834854758020110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 544
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918bc58af7ec8d090800000000000000
+      internalID: -8009424889597609959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 484
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dd15fadc631b050800000000000000
+      internalID: 5814488850949594456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 484
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3617ab56c6939df40800000000000000
+      internalID: 5753693136668488035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 484
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048b0a38fd54bf6b0800000000000000
+      internalID: -5261534913363920832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 484
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c5748345610d7a0800000000000000
+      internalID: -6354554523242505113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 484
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695f36635d3036c90800000000000000
+      internalID: -7177889166823000682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 484
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac98562e61a686960800000000000000
+      internalID: 7595437418080471498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 484
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cd6b2374f75f990800000000000000
+      internalID: -7352830872842216363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_17
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 484
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3944e21421a3770800000000000000
+      internalID: 8591199310321062879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_18
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 484
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5654a9d29d87d70800000000000000
+      internalID: 9041215041831265740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 484
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca8f81faa3b307c0800000000000000
+      internalID: -4106240888453231927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 424
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2581d095d69b71f0800000000000000
+      internalID: -1046076644431657682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 424
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294355b4098895c00800000000000000
+      internalID: 889892554702926994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 424
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c51f54a1d27b700800000000000000
+      internalID: 555962669869390911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 424
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852ba7fcda64ad6b0800000000000000
+      internalID: -5270822701559532968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_24
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 424
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72ec574229007680800000000000000
+      internalID: -8759491232404807044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 424
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f39e653e217abb0800000000000000
+      internalID: -4924946899881345159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 424
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba38738de1f40fa80800000000000000
+      internalID: -8435155108169808981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 424
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0fefe91503ee870800000000000000
+      internalID: 8713955456126480638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_28
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 424
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8ce64299d1ebb30800000000000000
+      internalID: 4304910837391214758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 424
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e949b60919900f0800000000000000
+      internalID: -1150228180350230915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072bd69d45996abc0800000000000000
+      internalID: -3772159048172064144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17470abc55b2b230800000000000000
+      internalID: 3653181657613551390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c77493907f908780800000000000000
+      internalID: -8682764775709182009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_33
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75721ac3691ce5620800000000000000
+      internalID: 2764860072258512727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb42530aaca4a6c20800000000000000
+      internalID: 3200452719331845311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_35
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 322
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7071ab0feda96b210800000000000000
+      internalID: 1348435420756186887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a961043be8c2faee0800000000000000
+      internalID: -1247729580354038118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_37
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7513ae9f4b00f6380800000000000000
+      internalID: -8975954755039121065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_38
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b79152b1e9432390800000000000000
+      internalID: -7844344892241111112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 304
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1799902cd02155b0800000000000000
+      internalID: -5381483949919201509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de817e3c7a9b16030800000000000000
+      internalID: 3486271716758853869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_41
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 304
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7891df3bbb858ff80800000000000000
+      internalID: -8072604768859776633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_42
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 304
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2b2f8da075503b0800000000000000
+      internalID: -5546931661935824190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_43
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 304
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65a2898d05a338d0800000000000000
+      internalID: -2867767060144675476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 304
+        width: 6
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619d7f3ab83ed5e20800000000000000
+      internalID: 3341076687469664534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_45
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1275190c734d19aa0800000000000000
+      internalID: -6155905879719717087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitaltiles01x_46
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 4
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2ec17ba27551060800000000000000
+      internalID: 6923535843124372207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

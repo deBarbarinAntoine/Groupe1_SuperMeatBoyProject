@@ -1,0 +1,2617 @@
+fileFormatVersion: 2
+guid: 0c26a71c1978ec842903657e2e583a63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7003760170683250945
+    second: menubgirl_0
+  - first:
+      213: -59241518802890140
+    second: menubgirl_1
+  - first:
+      213: -7820976029916785482
+    second: menubgirl_2
+  - first:
+      213: -2191503978230366515
+    second: menubgirl_3
+  - first:
+      213: -4521613562725845135
+    second: menubgirl_4
+  - first:
+      213: 7592074499703725348
+    second: menubgirl_5
+  - first:
+      213: -2957066509643068288
+    second: menubgirl_6
+  - first:
+      213: 4174130876749369584
+    second: menubgirl_7
+  - first:
+      213: 1614692750000623607
+    second: menubgirl_8
+  - first:
+      213: -6244371682065948526
+    second: menubgirl_9
+  - first:
+      213: -4494648593905525698
+    second: menubgirl_10
+  - first:
+      213: 865623301982493967
+    second: menubgirl_11
+  - first:
+      213: 5460598347181344714
+    second: menubgirl_12
+  - first:
+      213: 530692483196874950
+    second: menubgirl_13
+  - first:
+      213: -9112170674796470047
+    second: menubgirl_14
+  - first:
+      213: -9063331034492437795
+    second: menubgirl_15
+  - first:
+      213: -478060956147795700
+    second: menubgirl_16
+  - first:
+      213: -6034888482944973201
+    second: menubgirl_17
+  - first:
+      213: -5003672298087365713
+    second: menubgirl_18
+  - first:
+      213: 2406548026646547639
+    second: menubgirl_19
+  - first:
+      213: -8064053128251511144
+    second: menubgirl_20
+  - first:
+      213: -2048991216041550354
+    second: menubgirl_21
+  - first:
+      213: -6258661495648935191
+    second: menubgirl_22
+  - first:
+      213: 6451196931272365773
+    second: menubgirl_23
+  - first:
+      213: 1838652174178408722
+    second: menubgirl_24
+  - first:
+      213: -1291929597495788613
+    second: menubgirl_25
+  - first:
+      213: 362922037716249182
+    second: menubgirl_26
+  - first:
+      213: -300454711633693828
+    second: menubgirl_27
+  - first:
+      213: -2055109881520133436
+    second: menubgirl_28
+  - first:
+      213: 445990714278947310
+    second: menubgirl_29
+  - first:
+      213: 1321525765478562047
+    second: menubgirl_30
+  - first:
+      213: 3899528723309148227
+    second: menubgirl_31
+  - first:
+      213: -1802788814961128843
+    second: menubgirl_32
+  - first:
+      213: -5791217725417424036
+    second: menubgirl_33
+  - first:
+      213: -9167324036825992444
+    second: menubgirl_34
+  - first:
+      213: 9072296611870905883
+    second: menubgirl_35
+  - first:
+      213: 2313933274278528213
+    second: menubgirl_36
+  - first:
+      213: -3195926477952128384
+    second: menubgirl_37
+  - first:
+      213: -5205961058564572578
+    second: menubgirl_38
+  - first:
+      213: -876164292478613295
+    second: menubgirl_39
+  - first:
+      213: 44367664281317072
+    second: menubgirl_40
+  - first:
+      213: 5251592792265200158
+    second: menubgirl_41
+  - first:
+      213: 3774953485334103809
+    second: menubgirl_42
+  - first:
+      213: 2747046090893694471
+    second: menubgirl_43
+  - first:
+      213: 7596714800571505043
+    second: menubgirl_44
+  - first:
+      213: 3787625718938634573
+    second: menubgirl_45
+  - first:
+      213: -2197544879621174048
+    second: menubgirl_46
+  - first:
+      213: 6565205827147567710
+    second: menubgirl_47
+  - first:
+      213: 2626869174118750048
+    second: menubgirl_48
+  - first:
+      213: 7507938359115109611
+    second: menubgirl_49
+  - first:
+      213: -8105678553981038018
+    second: menubgirl_50
+  - first:
+      213: -8627729721827233609
+    second: menubgirl_51
+  - first:
+      213: 2531428510109598748
+    second: menubgirl_52
+  - first:
+      213: 5786413505951781289
+    second: menubgirl_53
+  - first:
+      213: -2696532817012425588
+    second: menubgirl_54
+  - first:
+      213: -2070210472910537502
+    second: menubgirl_55
+  - first:
+      213: 2010812034208930310
+    second: menubgirl_56
+  - first:
+      213: 2935729490936580081
+    second: menubgirl_57
+  - first:
+      213: -2143206527109825958
+    second: menubgirl_58
+  - first:
+      213: 3458460753328463148
+    second: menubgirl_59
+  - first:
+      213: -4147498003695471132
+    second: menubgirl_60
+  - first:
+      213: 1087057071670052113
+    second: menubgirl_61
+  - first:
+      213: -2873800787322829970
+    second: menubgirl_62
+  - first:
+      213: 3420306164695228192
+    second: menubgirl_63
+  - first:
+      213: -9000446502159888422
+    second: menubgirl_64
+  - first:
+      213: 7908139312585601845
+    second: menubgirl_65
+  - first:
+      213: 160356421362848105
+    second: menubgirl_66
+  - first:
+      213: 955759200142242726
+    second: menubgirl_67
+  - first:
+      213: 5883507378436128297
+    second: menubgirl_68
+  - first:
+      213: -4115180945823240385
+    second: menubgirl_69
+  - first:
+      213: -3570979402085999101
+    second: menubgirl_70
+  - first:
+      213: -830099401930788072
+    second: menubgirl_71
+  - first:
+      213: -6356149632765070849
+    second: menubgirl_72
+  - first:
+      213: 1377335407369504576
+    second: menubgirl_73
+  - first:
+      213: -2674014791847880853
+    second: menubgirl_74
+  - first:
+      213: -7531953561266166498
+    second: menubgirl_75
+  - first:
+      213: -4662839950815986349
+    second: menubgirl_76
+  - first:
+      213: -4097956003288755209
+    second: menubgirl_77
+  - first:
+      213: -2443919564810980217
+    second: menubgirl_78
+  - first:
+      213: -3293275020321782590
+    second: menubgirl_79
+  - first:
+      213: -4839178720187819036
+    second: menubgirl_80
+  - first:
+      213: -7397254543115741193
+    second: menubgirl_81
+  - first:
+      213: -2285754006768505765
+    second: menubgirl_82
+  - first:
+      213: 852467159764235224
+    second: menubgirl_83
+  - first:
+      213: -475977538285166408
+    second: menubgirl_84
+  - first:
+      213: -7309501565750541443
+    second: menubgirl_85
+  - first:
+      213: -3587461384030038925
+    second: menubgirl_86
+  - first:
+      213: -1206405116980844020
+    second: menubgirl_87
+  - first:
+      213: 7686729553900120372
+    second: menubgirl_88
+  - first:
+      213: 2808441787564242830
+    second: menubgirl_89
+  - first:
+      213: -2637588411339193388
+    second: menubgirl_90
+  - first:
+      213: 1707082955689731620
+    second: menubgirl_91
+  - first:
+      213: 1758600279207855495
+    second: menubgirl_92
+  - first:
+      213: 4457875605705131801
+    second: menubgirl_93
+  - first:
+      213: 3898659945622399923
+    second: menubgirl_94
+  - first:
+      213: 8178602790668368762
+    second: menubgirl_95
+  - first:
+      213: -5787406437122667052
+    second: menubgirl_96
+  - first:
+      213: -7474855691475192019
+    second: menubgirl_97
+  - first:
+      213: -2673341914084309779
+    second: menubgirl_98
+  - first:
+      213: 3087233119684653688
+    second: menubgirl_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menubgirl_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 327
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff645667b35adce90800000000000000
+      internalID: -7003760170683250945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 979
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4629ccb07288d2ff0800000000000000
+      internalID: -59241518802890140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_2
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 987
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b417f3fcbf467390800000000000000
+      internalID: -7820976029916785482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_3
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 970
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce39bd2eb63691e0800000000000000
+      internalID: -2191503978230366515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_4
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 981
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1773326db600041c0800000000000000
+      internalID: -4521613562725845135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 928
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d542f68877c5960800000000000000
+      internalID: 7592074499703725348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_6
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 938
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c458b3da366f6d0800000000000000
+      internalID: -2957066509643068288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_7
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 906
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0d2aabaed7de930800000000000000
+      internalID: 4174130876749369584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_8
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 882
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff8f29408a886610800000000000000
+      internalID: 1614692750000623607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_9
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 885
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29063fc0a098759a0800000000000000
+      internalID: -6244371682065948526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_10
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 884
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c5d02eaeccf91c0800000000000000
+      internalID: -4494648593905525698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 861
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d97ff8ecf430c00800000000000000
+      internalID: 865623301982493967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_12
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 843
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac744d8e341f7cb40800000000000000
+      internalID: 5460598347181344714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_13
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 866
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c07be170066d5700800000000000000
+      internalID: 530692483196874950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_14
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 868
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e06604bc011b8180800000000000000
+      internalID: -9112170674796470047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_15
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 852
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddafd479174983280800000000000000
+      internalID: -9063331034492437795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_16
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 832
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09b3dfd7169d59f0800000000000000
+      internalID: -478060956147795700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_17
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 831
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6608f226e4cf3ca0800000000000000
+      internalID: -6034888482944973201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_18
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 822
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa34a043e826f8ab0800000000000000
+      internalID: -5003672298087365713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_19
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 834
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc4f270ea6c56120800000000000000
+      internalID: 2406548026646547639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_20
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 812
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ee0b0b76ab61090800000000000000
+      internalID: -8064053128251511144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_21
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 820
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed92f358558093e0800000000000000
+      internalID: -2048991216041550354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_22
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 807
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e22e6e8784c429a0800000000000000
+      internalID: -6258661495648935191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_23
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 804
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc65498dd61478950800000000000000
+      internalID: 6451196931272365773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_24
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 814
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219576b2964348910800000000000000
+      internalID: 1838652174178408722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_25
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 817
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb337240e4221ee0800000000000000
+      internalID: -1291929597495788613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_26
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 799
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aec33abab590500800000000000000
+      internalID: 362922037716249182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_27
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 800
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c733bf9180294dbf0800000000000000
+      internalID: -300454711633693828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_28
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 801
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cae8918378ca73e0800000000000000
+      internalID: -2055109881520133436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_29
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 785
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee928b1113a703600800000000000000
+      internalID: 445990714278947310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_30
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 794
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff830e49ea0075210800000000000000
+      internalID: 1321525765478562047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_31
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 767
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348364896b8ed1630800000000000000
+      internalID: 3899528723309148227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 781
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ac137df153bf6e0800000000000000
+      internalID: -1802788814961128843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_33
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b7c83792671afa0800000000000000
+      internalID: -5791217725417424036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 761
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403361ceb5f17c080800000000000000
+      internalID: -9167324036825992444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_35
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 758
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b169b8f83b547ed70800000000000000
+      internalID: 9072296611870905883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_36
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 582
+        width: 206
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4045f9d0ebc1020800000000000000
+      internalID: 2313933274278528213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_37
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 741
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ae5611dc9c5a3d0800000000000000
+      internalID: -3195926477952128384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_38
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 747
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5afdb5eff5b0c7b0800000000000000
+      internalID: -5205961058564572578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 732
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d84ee5d73d37d3f0800000000000000
+      internalID: -876164292478613295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_40
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 729
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de6005d720ad9000800000000000000
+      internalID: 44367664281317072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 732
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1218f702d761e840800000000000000
+      internalID: 5251592792265200158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_42
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 737
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10746f0c134536430800000000000000
+      internalID: 3774953485334103809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_43
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 711
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706185d7dd77f1620800000000000000
+      internalID: 2747046090893694471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_44
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 724
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399540cacd3fc6960800000000000000
+      internalID: 7596714800571505043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_45
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 346
+        width: 200
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49887f0689509430800000000000000
+      internalID: 3787625718938634573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 564
+        width: 39
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec83383390c081e0800000000000000
+      internalID: -2197544879621174048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 583
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5294747aeb4c1b50800000000000000
+      internalID: 6565205827147567710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_48
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 702
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06795ca9893847420800000000000000
+      internalID: 2626869174118750048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_49
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 601
+        width: 41
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4d59aa82e813860800000000000000
+      internalID: 7507938359115109611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 639
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3255760d48d28f80800000000000000
+      internalID: -8105678553981038018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_51
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 662
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b078689785244880800000000000000
+      internalID: -8627729721827233609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 605
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14016f51d0712320800000000000000
+      internalID: 2531428510109598748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_53
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 584
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a157c90d687d4050800000000000000
+      internalID: 5786413505951781289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 584
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c7ac490bdf39ad0800000000000000
+      internalID: -2696532817012425588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_55
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 625
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecbfd71b822543e0800000000000000
+      internalID: -2070210472910537502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_56
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 597
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a9a1134e6d7eb10800000000000000
+      internalID: 2010812034208930310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 553
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7c9e7fa6ecdb820800000000000000
+      internalID: 2935729490936580081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 591
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5af15fc40dc142e0800000000000000
+      internalID: -2143206527109825958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_59
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 582
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dd5cf3bbbeeff20800000000000000
+      internalID: 3458460753328463148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_60
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 597
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5f61f3a802176c0800000000000000
+      internalID: -4147498003695471132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_61
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 597
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115487fa5a0061f00800000000000000
+      internalID: 1087057071670052113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 568
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e638264f8653e18d0800000000000000
+      internalID: -2873800787322829970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 569
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fdcb1d55e577f20800000000000000
+      internalID: 3420306164695228192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_64
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 534
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf4adab79df71380800000000000000
+      internalID: -9000446502159888422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_65
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 554
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53377f04eca5fbd60800000000000000
+      internalID: 7908139312585601845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_66
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 578
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96119ccc053b93200800000000000000
+      internalID: 160356421362848105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_67
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 396
+        width: 207
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a33a4fbde9834d00800000000000000
+      internalID: 955759200142242726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_68
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 560
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e331dd9ca66a150800000000000000
+      internalID: 5883507378436128297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_69
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 519
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fefb1abb0f3e6c0800000000000000
+      internalID: -4115180945823240385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 549
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e5d665725517ec0800000000000000
+      internalID: -3570979402085999101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 559
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813b6a3fdf4ea74f0800000000000000
+      internalID: -830099401930788072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_72
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 514
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1fec7d59b6ac7a0800000000000000
+      internalID: -6356149632765070849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_73
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 529
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047c3dc61474d1310800000000000000
+      internalID: 1377335407369504576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_74
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 531
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6754cfd6bdf3ead0800000000000000
+      internalID: -2674014791847880853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_75
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 516
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15edfb5420297790800000000000000
+      internalID: -7531953561266166498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_76
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 546
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dfc1ff4c34a4fb0800000000000000
+      internalID: -4662839950815986349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_77
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 533
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f35bc61ab22127c0800000000000000
+      internalID: -4097956003288755209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_78
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 540
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78470dfaa14751ed0800000000000000
+      internalID: -2443919564810980217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c48d0a41dfeb42d0800000000000000
+      internalID: -3293275020321782590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 518
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb5392d798c7dcb0800000000000000
+      internalID: -4839178720187819036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_81
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 534
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f711747f2ca75990800000000000000
+      internalID: -7397254543115741193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_82
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 525
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c23ae57de5740e0800000000000000
+      internalID: -2285754006768505765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_83
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 517
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3fe608d5294db00800000000000000
+      internalID: 852467159764235224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 512
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0a27563fcf469f0800000000000000
+      internalID: -475977538285166408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_85
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 502
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d730748ad0f6f8a90800000000000000
+      internalID: -7309501565750541443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374557fd0e6c63ec0800000000000000
+      internalID: -3587461384030038925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_87
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 273
+        width: 32
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0aa42b10fcf14fe0800000000000000
+      internalID: -1206405116980844020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_88
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 480
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439a6b0adcfbcaa60800000000000000
+      internalID: 7686729553900120372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_89
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 485
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8731201de699f620800000000000000
+      internalID: 2808441787564242830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_90
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 483
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3c07e7057656bd0800000000000000
+      internalID: -2637588411339193388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_91
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 487
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426a20857e6c0b710800000000000000
+      internalID: 1707082955689731620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_92
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 262
+        width: 169
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7854610f2adc76810800000000000000
+      internalID: 1758600279207855495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_93
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 469
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9170fea9e3e8ddd30800000000000000
+      internalID: 4457875605705131801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_94
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 261
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbedd68092da1630800000000000000
+      internalID: 3898659945622399923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_95
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 84
+        width: 197
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b7ec0f7eb308170800000000000000
+      internalID: 8178602790668368762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_96
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 157
+        width: 192
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd8e7822800fafa0800000000000000
+      internalID: -5787406437122667052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_97
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 206
+        width: 190
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2770522a5af34890800000000000000
+      internalID: -7474855691475192019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_98
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de487df61b166ead0800000000000000
+      internalID: -2673341914084309779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menubgirl_99
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 8
+        width: 189
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872ff9d5a2e08da20800000000000000
+      internalID: 3087233119684653688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

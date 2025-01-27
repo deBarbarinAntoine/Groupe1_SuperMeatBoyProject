@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 9dc6e84959c1fe2458e4107c5b7369aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2041887835615919032
+    second: i2worldmenu_0
+  - first:
+      213: 3222530322076945799
+    second: i2worldmenu_1
+  - first:
+      213: 4857358044110937262
+    second: i2worldmenu_2
+  - first:
+      213: 1595606612702274807
+    second: i2worldmenu_3
+  - first:
+      213: 6380272483475488250
+    second: i2worldmenu_4
+  - first:
+      213: 8693596789427498912
+    second: i2worldmenu_5
+  - first:
+      213: -310052605136250675
+    second: i2worldmenu_6
+  - first:
+      213: -6010469579915967496
+    second: i2worldmenu_7
+  - first:
+      213: 5250023801915316954
+    second: i2worldmenu_8
+  - first:
+      213: 5138854459396264572
+    second: i2worldmenu_9
+  - first:
+      213: 8861922169959641097
+    second: i2worldmenu_10
+  - first:
+      213: -8868766929055636662
+    second: i2worldmenu_11
+  - first:
+      213: -3373182376778691277
+    second: i2worldmenu_12
+  - first:
+      213: -1765264506526877309
+    second: i2worldmenu_13
+  - first:
+      213: -7123589345262334472
+    second: i2worldmenu_14
+  - first:
+      213: 8295946168210336660
+    second: i2worldmenu_15
+  - first:
+      213: -3108025969756014183
+    second: i2worldmenu_16
+  - first:
+      213: -4726069900788511377
+    second: i2worldmenu_17
+  - first:
+      213: 5833834325738495126
+    second: i2worldmenu_18
+  - first:
+      213: 1777092095699996426
+    second: i2worldmenu_19
+  - first:
+      213: -1299650924959478055
+    second: i2worldmenu_20
+  - first:
+      213: 5864330446404145039
+    second: i2worldmenu_21
+  - first:
+      213: -2827276109325353222
+    second: i2worldmenu_22
+  - first:
+      213: 6724842901110408732
+    second: i2worldmenu_23
+  - first:
+      213: 9108053024820317888
+    second: i2worldmenu_24
+  - first:
+      213: -7712945182064641001
+    second: i2worldmenu_25
+  - first:
+      213: -3203284115190711796
+    second: i2worldmenu_26
+  - first:
+      213: -7090990264273773078
+    second: i2worldmenu_27
+  - first:
+      213: -5096034581959092449
+    second: i2worldmenu_28
+  - first:
+      213: 5575590297286916659
+    second: i2worldmenu_29
+  - first:
+      213: -1713881269847709315
+    second: i2worldmenu_30
+  - first:
+      213: -2394964397314474656
+    second: i2worldmenu_31
+  - first:
+      213: 709572110371434736
+    second: i2worldmenu_32
+  - first:
+      213: -9091787715613050994
+    second: i2worldmenu_33
+  - first:
+      213: 2023937092877082946
+    second: i2worldmenu_34
+  - first:
+      213: -7832134897546785882
+    second: i2worldmenu_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: i2worldmenu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 940
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbf3190b2e365c10800000000000000
+      internalID: 2041887835615919032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 266
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d4255114ab8bc20800000000000000
+      internalID: 3222530322076945799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 379
+        width: 186
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac5e1ed76dc86340800000000000000
+      internalID: 4857358044110937262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 392
+        width: 176
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f42267a2cbb42610800000000000000
+      internalID: 1595606612702274807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 373
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd71c305084b8850800000000000000
+      internalID: 6380272483475488250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_5
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 463
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af6d46283cd5a870800000000000000
+      internalID: 8693596789427498912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 297
+        width: 153
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc85b216cc872bbf0800000000000000
+      internalID: -310052605136250675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 274
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f341db03c5869ca0800000000000000
+      internalID: -6010469579915967496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_8
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 284
+        width: 124
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada128ff4d4dbd840800000000000000
+      internalID: 5250023801915316954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_9
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 311
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c721fbc67e0e05740800000000000000
+      internalID: 5138854459396264572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_10
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 272
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9007a97d24fdbfa70800000000000000
+      internalID: 8861922169959641097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_11
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 314
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4328ed777fcbe480800000000000000
+      internalID: -8868766929055636662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_12
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 328
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d8f7d008c0031d0800000000000000
+      internalID: -3373182376778691277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_13
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 302
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3893cd9b8458087e0800000000000000
+      internalID: -1765264506526877309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 263
+        width: 157
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd81ed9b3de32d90800000000000000
+      internalID: -7123589345262334472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_15
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 275
+        width: 81
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ba0ff061f112370800000000000000
+      internalID: 8295946168210336660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_16
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 257
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999f008f8d21ed4d0800000000000000
+      internalID: -3108025969756014183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_17
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 258
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dc5db0770a96eb0800000000000000
+      internalID: -4726069900788511377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 268
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c9f180961f5f050800000000000000
+      internalID: 5833834325738495126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 228
+        width: 147
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f4a5978df79a810800000000000000
+      internalID: 1777092095699996426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 83
+        width: 505
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de48cd9e56b6fde0800000000000000
+      internalID: -1299650924959478055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_21
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 48
+        width: 108
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f4d6f6879426150800000000000000
+      internalID: 5864330446404145039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 195
+        width: 139
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeb6bdab5f73c8d0800000000000000
+      internalID: -2827276109325353222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 161
+        width: 147
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c164ef22df0735d50800000000000000
+      internalID: 6724842901110408732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 122
+        width: 139
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce46d338fd466e70800000000000000
+      internalID: 9108053024820317888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 85
+        width: 147
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cf9fac83d16f490800000000000000
+      internalID: -7712945182064641001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 23
+        width: 238
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0af767a116ab83d0800000000000000
+      internalID: -3203284115190711796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_27
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 8
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed5530acedb79d90800000000000000
+      internalID: -7090990264273773078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8
+        width: 250
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17d8333c8f3749b0800000000000000
+      internalID: -5096034581959092449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_29
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 44
+        width: 347
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ab6eaa5d9706d40800000000000000
+      internalID: 5575590297286916659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_30
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 13
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79288bc0121738e0800000000000000
+      internalID: -1713881269847709315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_31
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 4
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dfc58d19063ced0800000000000000
+      internalID: -2394964397314474656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_32
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 4
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0b63d2318e8d900800000000000000
+      internalID: 709572110371434736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_33
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 4
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87bf953e3b73d180800000000000000
+      internalID: -9091787715613050994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_34
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 4
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241ecac0018761c10800000000000000
+      internalID: 2023937092877082946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i2worldmenu_35
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 4
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab88ce9ecaae4390800000000000000
+      internalID: -7832134897546785882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

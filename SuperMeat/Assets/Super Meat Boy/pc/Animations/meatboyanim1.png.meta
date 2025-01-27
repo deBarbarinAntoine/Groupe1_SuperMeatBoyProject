@@ -1,0 +1,7142 @@
+fileFormatVersion: 2
+guid: c1c3197660179b74ca506e480ff4565c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7358654071289584735
+    second: meatboyanim1_0
+  - first:
+      213: -2303016923697230602
+    second: meatboyanim1_1
+  - first:
+      213: 8999141143747372504
+    second: meatboyanim1_2
+  - first:
+      213: 5726245077390307595
+    second: meatboyanim1_3
+  - first:
+      213: 7372551668193446531
+    second: meatboyanim1_4
+  - first:
+      213: 5461691476160379066
+    second: meatboyanim1_5
+  - first:
+      213: -6749914334314041010
+    second: meatboyanim1_6
+  - first:
+      213: 2475019942912300914
+    second: meatboyanim1_7
+  - first:
+      213: 8335320895348331065
+    second: meatboyanim1_8
+  - first:
+      213: 3417653822160389568
+    second: meatboyanim1_9
+  - first:
+      213: 8607876410819600461
+    second: meatboyanim1_10
+  - first:
+      213: -6013099368378003521
+    second: meatboyanim1_11
+  - first:
+      213: -3633767960433405050
+    second: meatboyanim1_12
+  - first:
+      213: 4390599837012364591
+    second: meatboyanim1_13
+  - first:
+      213: 7753176519299983572
+    second: meatboyanim1_14
+  - first:
+      213: -2300668862117329849
+    second: meatboyanim1_15
+  - first:
+      213: 6657629560804539015
+    second: meatboyanim1_16
+  - first:
+      213: 7167270113377149553
+    second: meatboyanim1_17
+  - first:
+      213: 2095245868636637099
+    second: meatboyanim1_18
+  - first:
+      213: -3612329389155669321
+    second: meatboyanim1_19
+  - first:
+      213: 849088306227620008
+    second: meatboyanim1_20
+  - first:
+      213: 6755080793298109352
+    second: meatboyanim1_21
+  - first:
+      213: -6959941739588889875
+    second: meatboyanim1_22
+  - first:
+      213: -6626978447013215558
+    second: meatboyanim1_23
+  - first:
+      213: -7932769945645638275
+    second: meatboyanim1_24
+  - first:
+      213: 8470853794076930471
+    second: meatboyanim1_25
+  - first:
+      213: 2518616047614774942
+    second: meatboyanim1_26
+  - first:
+      213: 8740173155212363178
+    second: meatboyanim1_27
+  - first:
+      213: 8657634247300589736
+    second: meatboyanim1_28
+  - first:
+      213: 53852442001434592
+    second: meatboyanim1_29
+  - first:
+      213: 1567732442213137518
+    second: meatboyanim1_30
+  - first:
+      213: 8141679404875382289
+    second: meatboyanim1_31
+  - first:
+      213: -7715202438073180934
+    second: meatboyanim1_32
+  - first:
+      213: -7966288120808214050
+    second: meatboyanim1_33
+  - first:
+      213: 2070328392068340897
+    second: meatboyanim1_34
+  - first:
+      213: -3973569078122198893
+    second: meatboyanim1_35
+  - first:
+      213: 1953363389436319357
+    second: meatboyanim1_36
+  - first:
+      213: -2074034270679251056
+    second: meatboyanim1_37
+  - first:
+      213: -2323699849667766952
+    second: meatboyanim1_38
+  - first:
+      213: 5435153565736372845
+    second: meatboyanim1_39
+  - first:
+      213: 6340387670732453805
+    second: meatboyanim1_40
+  - first:
+      213: -4275693726805323243
+    second: meatboyanim1_41
+  - first:
+      213: 5668551275292885918
+    second: meatboyanim1_42
+  - first:
+      213: -4954315083918128250
+    second: meatboyanim1_43
+  - first:
+      213: 3782844753709353996
+    second: meatboyanim1_44
+  - first:
+      213: 6351589592859475815
+    second: meatboyanim1_45
+  - first:
+      213: -305985201413122364
+    second: meatboyanim1_46
+  - first:
+      213: -5995154855229774465
+    second: meatboyanim1_47
+  - first:
+      213: -810175168400510296
+    second: meatboyanim1_48
+  - first:
+      213: -7450464083966049015
+    second: meatboyanim1_49
+  - first:
+      213: -1807658403622071566
+    second: meatboyanim1_50
+  - first:
+      213: -3595973332597772358
+    second: meatboyanim1_51
+  - first:
+      213: -8007048267273944696
+    second: meatboyanim1_52
+  - first:
+      213: -1988956952005274510
+    second: meatboyanim1_53
+  - first:
+      213: 102131201987088104
+    second: meatboyanim1_54
+  - first:
+      213: 3863290979606759850
+    second: meatboyanim1_55
+  - first:
+      213: 1746506227696185299
+    second: meatboyanim1_56
+  - first:
+      213: -9138461987275995922
+    second: meatboyanim1_57
+  - first:
+      213: -8688047196107034960
+    second: meatboyanim1_58
+  - first:
+      213: -6137517784770871910
+    second: meatboyanim1_59
+  - first:
+      213: -6463450311697091029
+    second: meatboyanim1_60
+  - first:
+      213: -6808788098975053706
+    second: meatboyanim1_61
+  - first:
+      213: 9053609946130883476
+    second: meatboyanim1_62
+  - first:
+      213: 7456111137760711777
+    second: meatboyanim1_63
+  - first:
+      213: 1390757439990995663
+    second: meatboyanim1_64
+  - first:
+      213: 3996444648709691076
+    second: meatboyanim1_65
+  - first:
+      213: 3794496079969926265
+    second: meatboyanim1_66
+  - first:
+      213: 5621052206246098261
+    second: meatboyanim1_67
+  - first:
+      213: -8435030611769804917
+    second: meatboyanim1_68
+  - first:
+      213: 8485265143923026290
+    second: meatboyanim1_69
+  - first:
+      213: -7187539002425943434
+    second: meatboyanim1_70
+  - first:
+      213: 519943676463713667
+    second: meatboyanim1_71
+  - first:
+      213: 1624269295416393752
+    second: meatboyanim1_72
+  - first:
+      213: 5105923969823368598
+    second: meatboyanim1_73
+  - first:
+      213: 4327004388356465815
+    second: meatboyanim1_74
+  - first:
+      213: 4922738725834942957
+    second: meatboyanim1_75
+  - first:
+      213: -7756068758235761992
+    second: meatboyanim1_76
+  - first:
+      213: 751073173348463804
+    second: meatboyanim1_77
+  - first:
+      213: 5440775594842340211
+    second: meatboyanim1_78
+  - first:
+      213: 7470011360889581323
+    second: meatboyanim1_79
+  - first:
+      213: -1894646942815911135
+    second: meatboyanim1_80
+  - first:
+      213: 1542636023731156896
+    second: meatboyanim1_81
+  - first:
+      213: 8887611762293089326
+    second: meatboyanim1_82
+  - first:
+      213: -5085386638663231871
+    second: meatboyanim1_83
+  - first:
+      213: -7784304407135546322
+    second: meatboyanim1_84
+  - first:
+      213: 6413309199181541729
+    second: meatboyanim1_85
+  - first:
+      213: -8836374844709035634
+    second: meatboyanim1_86
+  - first:
+      213: 8191572181379612020
+    second: meatboyanim1_87
+  - first:
+      213: 8183742968331878676
+    second: meatboyanim1_88
+  - first:
+      213: 7213331771025755621
+    second: meatboyanim1_89
+  - first:
+      213: -8239416975456521545
+    second: meatboyanim1_90
+  - first:
+      213: -5912506333781505752
+    second: meatboyanim1_91
+  - first:
+      213: -2904764697900519598
+    second: meatboyanim1_92
+  - first:
+      213: 868870910679138320
+    second: meatboyanim1_93
+  - first:
+      213: -4511779835473966098
+    second: meatboyanim1_94
+  - first:
+      213: 5348197317455736456
+    second: meatboyanim1_95
+  - first:
+      213: 6505084757852081103
+    second: meatboyanim1_96
+  - first:
+      213: 3427257746048883119
+    second: meatboyanim1_97
+  - first:
+      213: -8265269961586227291
+    second: meatboyanim1_98
+  - first:
+      213: -8441708704248895785
+    second: meatboyanim1_99
+  - first:
+      213: 3087623866665154815
+    second: meatboyanim1_100
+  - first:
+      213: 1370397622368928064
+    second: meatboyanim1_101
+  - first:
+      213: 3833537733288508197
+    second: meatboyanim1_102
+  - first:
+      213: -2805052351450495596
+    second: meatboyanim1_103
+  - first:
+      213: 1916078022628544467
+    second: meatboyanim1_104
+  - first:
+      213: 6098040954052338971
+    second: meatboyanim1_105
+  - first:
+      213: 751709525385316160
+    second: meatboyanim1_106
+  - first:
+      213: -8825354743943951916
+    second: meatboyanim1_107
+  - first:
+      213: -3037738431152126168
+    second: meatboyanim1_108
+  - first:
+      213: -5448598959630711620
+    second: meatboyanim1_109
+  - first:
+      213: -3937159513009610769
+    second: meatboyanim1_110
+  - first:
+      213: -6299720646062621935
+    second: meatboyanim1_111
+  - first:
+      213: 362639049919536643
+    second: meatboyanim1_112
+  - first:
+      213: 2569562533363491030
+    second: meatboyanim1_113
+  - first:
+      213: -574656190033257808
+    second: meatboyanim1_114
+  - first:
+      213: 2118660222931318083
+    second: meatboyanim1_115
+  - first:
+      213: 420064579548747583
+    second: meatboyanim1_116
+  - first:
+      213: -207837291742966402
+    second: meatboyanim1_117
+  - first:
+      213: -1446096807116741327
+    second: meatboyanim1_118
+  - first:
+      213: -1095505017555939101
+    second: meatboyanim1_119
+  - first:
+      213: 2177996765561155147
+    second: meatboyanim1_120
+  - first:
+      213: -6116814166955673148
+    second: meatboyanim1_121
+  - first:
+      213: 4287372390344397280
+    second: meatboyanim1_122
+  - first:
+      213: -6734291168669683145
+    second: meatboyanim1_123
+  - first:
+      213: 1255405646196201788
+    second: meatboyanim1_124
+  - first:
+      213: -2820054828876466811
+    second: meatboyanim1_125
+  - first:
+      213: -6389911736548427220
+    second: meatboyanim1_126
+  - first:
+      213: 8312865451969139693
+    second: meatboyanim1_127
+  - first:
+      213: -5800657136421585528
+    second: meatboyanim1_128
+  - first:
+      213: 8814155745187406099
+    second: meatboyanim1_129
+  - first:
+      213: 5487112227262571352
+    second: meatboyanim1_130
+  - first:
+      213: 5685525928100795197
+    second: meatboyanim1_131
+  - first:
+      213: -3999344757849805086
+    second: meatboyanim1_132
+  - first:
+      213: 8012393682965090612
+    second: meatboyanim1_133
+  - first:
+      213: 6432863742953906957
+    second: meatboyanim1_134
+  - first:
+      213: -2185690669502355884
+    second: meatboyanim1_135
+  - first:
+      213: -4689542050008643415
+    second: meatboyanim1_136
+  - first:
+      213: -7688681292782452152
+    second: meatboyanim1_137
+  - first:
+      213: -8692131083274025559
+    second: meatboyanim1_138
+  - first:
+      213: 1543482157533498211
+    second: meatboyanim1_139
+  - first:
+      213: 4559153617768925104
+    second: meatboyanim1_140
+  - first:
+      213: -8203622790509485437
+    second: meatboyanim1_141
+  - first:
+      213: -5903862702277951055
+    second: meatboyanim1_142
+  - first:
+      213: 236648294906800739
+    second: meatboyanim1_143
+  - first:
+      213: 3286197935478263103
+    second: meatboyanim1_144
+  - first:
+      213: -2736981176459527420
+    second: meatboyanim1_145
+  - first:
+      213: 4576311636402728824
+    second: meatboyanim1_146
+  - first:
+      213: -8523199649778700231
+    second: meatboyanim1_147
+  - first:
+      213: 5035451385768065266
+    second: meatboyanim1_148
+  - first:
+      213: -1666618918130056764
+    second: meatboyanim1_149
+  - first:
+      213: 7871177665103096119
+    second: meatboyanim1_150
+  - first:
+      213: 6093513541209051461
+    second: meatboyanim1_151
+  - first:
+      213: 5582798891063451083
+    second: meatboyanim1_152
+  - first:
+      213: -1204503738153366343
+    second: meatboyanim1_153
+  - first:
+      213: 4487087567831096861
+    second: meatboyanim1_154
+  - first:
+      213: -8988270829815450861
+    second: meatboyanim1_155
+  - first:
+      213: 3076039591895701245
+    second: meatboyanim1_156
+  - first:
+      213: 2345437989150032970
+    second: meatboyanim1_157
+  - first:
+      213: 2468553309230659038
+    second: meatboyanim1_158
+  - first:
+      213: 2442311606494238473
+    second: meatboyanim1_159
+  - first:
+      213: -3874825353529837733
+    second: meatboyanim1_160
+  - first:
+      213: -8310680743695496178
+    second: meatboyanim1_161
+  - first:
+      213: -8377485289848081469
+    second: meatboyanim1_162
+  - first:
+      213: 1837037279787019591
+    second: meatboyanim1_163
+  - first:
+      213: -8128625567626846356
+    second: meatboyanim1_164
+  - first:
+      213: 7027913679522179595
+    second: meatboyanim1_165
+  - first:
+      213: 999284857508774113
+    second: meatboyanim1_166
+  - first:
+      213: 5232697022403369305
+    second: meatboyanim1_167
+  - first:
+      213: 6381629630343925849
+    second: meatboyanim1_168
+  - first:
+      213: 168854528894308421
+    second: meatboyanim1_169
+  - first:
+      213: 889822005199395854
+    second: meatboyanim1_170
+  - first:
+      213: -6282742960202982864
+    second: meatboyanim1_171
+  - first:
+      213: 1252004439256170731
+    second: meatboyanim1_172
+  - first:
+      213: -2240448460012108440
+    second: meatboyanim1_173
+  - first:
+      213: -3340841605532507995
+    second: meatboyanim1_174
+  - first:
+      213: -8598489109853564748
+    second: meatboyanim1_175
+  - first:
+      213: 8005320482390427545
+    second: meatboyanim1_176
+  - first:
+      213: -5790057082156092320
+    second: meatboyanim1_177
+  - first:
+      213: 4185459985628780372
+    second: meatboyanim1_178
+  - first:
+      213: 8776733056412350582
+    second: meatboyanim1_179
+  - first:
+      213: -7566334712651074394
+    second: meatboyanim1_180
+  - first:
+      213: -830481965265317125
+    second: meatboyanim1_181
+  - first:
+      213: -4576117764597689880
+    second: meatboyanim1_182
+  - first:
+      213: -5115476536212078357
+    second: meatboyanim1_183
+  - first:
+      213: -9048367664461453522
+    second: meatboyanim1_184
+  - first:
+      213: 707971624341710037
+    second: meatboyanim1_185
+  - first:
+      213: 2831503615179973580
+    second: meatboyanim1_186
+  - first:
+      213: -6829472424296251708
+    second: meatboyanim1_187
+  - first:
+      213: 8443074466138825968
+    second: meatboyanim1_188
+  - first:
+      213: -8389958329599550710
+    second: meatboyanim1_189
+  - first:
+      213: -3278139889302108389
+    second: meatboyanim1_190
+  - first:
+      213: 7989669511210921279
+    second: meatboyanim1_191
+  - first:
+      213: 5637509891226980736
+    second: meatboyanim1_192
+  - first:
+      213: -9071284552544959811
+    second: meatboyanim1_193
+  - first:
+      213: -5164502440610820825
+    second: meatboyanim1_194
+  - first:
+      213: -3565652831559429964
+    second: meatboyanim1_195
+  - first:
+      213: 8940490209115438033
+    second: meatboyanim1_196
+  - first:
+      213: -1622801283397042213
+    second: meatboyanim1_197
+  - first:
+      213: -2608540024639422476
+    second: meatboyanim1_198
+  - first:
+      213: 5521254543343393819
+    second: meatboyanim1_199
+  - first:
+      213: -2955029563285453733
+    second: meatboyanim1_200
+  - first:
+      213: -5858339631779125648
+    second: meatboyanim1_201
+  - first:
+      213: 7626998449238907727
+    second: meatboyanim1_202
+  - first:
+      213: -7542538869919994268
+    second: meatboyanim1_203
+  - first:
+      213: -8075075698251926140
+    second: meatboyanim1_204
+  - first:
+      213: 4460312115940141597
+    second: meatboyanim1_205
+  - first:
+      213: -9084986240444799558
+    second: meatboyanim1_206
+  - first:
+      213: 3420911427671813835
+    second: meatboyanim1_207
+  - first:
+      213: -4126964706088874454
+    second: meatboyanim1_208
+  - first:
+      213: 4928714994713854874
+    second: meatboyanim1_209
+  - first:
+      213: 8471467414297163756
+    second: meatboyanim1_210
+  - first:
+      213: -9199657437901715555
+    second: meatboyanim1_211
+  - first:
+      213: -3151938627781339034
+    second: meatboyanim1_212
+  - first:
+      213: -2700551129237220973
+    second: meatboyanim1_213
+  - first:
+      213: -439799190189040925
+    second: meatboyanim1_214
+  - first:
+      213: -6819282376266131300
+    second: meatboyanim1_215
+  - first:
+      213: -3937221192382965120
+    second: meatboyanim1_216
+  - first:
+      213: -7867839542596579678
+    second: meatboyanim1_217
+  - first:
+      213: 4583238842179499738
+    second: meatboyanim1_218
+  - first:
+      213: -4090857678950335408
+    second: meatboyanim1_219
+  - first:
+      213: 1015938171499357584
+    second: meatboyanim1_220
+  - first:
+      213: -6819327394388287973
+    second: meatboyanim1_221
+  - first:
+      213: 7349455899418320916
+    second: meatboyanim1_222
+  - first:
+      213: 4312838511537003344
+    second: meatboyanim1_223
+  - first:
+      213: -129859128444356443
+    second: meatboyanim1_224
+  - first:
+      213: 7474347847180936756
+    second: meatboyanim1_225
+  - first:
+      213: 26542330862584957
+    second: meatboyanim1_226
+  - first:
+      213: -875974807965440993
+    second: meatboyanim1_227
+  - first:
+      213: -1423531695847484848
+    second: meatboyanim1_228
+  - first:
+      213: 2620402773396111012
+    second: meatboyanim1_229
+  - first:
+      213: 3271648237478386835
+    second: meatboyanim1_230
+  - first:
+      213: 2356203098941516505
+    second: meatboyanim1_231
+  - first:
+      213: -1829377376909342635
+    second: meatboyanim1_232
+  - first:
+      213: 5953160328288647828
+    second: meatboyanim1_233
+  - first:
+      213: 555503895188754089
+    second: meatboyanim1_234
+  - first:
+      213: 8450985691994073972
+    second: meatboyanim1_235
+  - first:
+      213: -2288456416929435699
+    second: meatboyanim1_236
+  - first:
+      213: -1653985460749108341
+    second: meatboyanim1_237
+  - first:
+      213: 5645789773853525766
+    second: meatboyanim1_238
+  - first:
+      213: -8716465614778779306
+    second: meatboyanim1_239
+  - first:
+      213: -8946811142621513869
+    second: meatboyanim1_240
+  - first:
+      213: 1837781780400072722
+    second: meatboyanim1_241
+  - first:
+      213: 3466909764680954707
+    second: meatboyanim1_242
+  - first:
+      213: 3295520903303429274
+    second: meatboyanim1_243
+  - first:
+      213: -2039755655265771392
+    second: meatboyanim1_244
+  - first:
+      213: -5978687502643280721
+    second: meatboyanim1_245
+  - first:
+      213: 2720990015426501319
+    second: meatboyanim1_246
+  - first:
+      213: 3165237985592110122
+    second: meatboyanim1_247
+  - first:
+      213: -1615217159679741232
+    second: meatboyanim1_248
+  - first:
+      213: -1631639727088438201
+    second: meatboyanim1_249
+  - first:
+      213: -8577110005912344315
+    second: meatboyanim1_250
+  - first:
+      213: -6733663955714704205
+    second: meatboyanim1_251
+  - first:
+      213: -1437409472091376530
+    second: meatboyanim1_252
+  - first:
+      213: -465811818480588601
+    second: meatboyanim1_253
+  - first:
+      213: 3085879191028209282
+    second: meatboyanim1_254
+  - first:
+      213: 4665068276216576990
+    second: meatboyanim1_255
+  - first:
+      213: -7908148879545491638
+    second: meatboyanim1_256
+  - first:
+      213: -2738934284620809303
+    second: meatboyanim1_257
+  - first:
+      213: 6526161123012444986
+    second: meatboyanim1_258
+  - first:
+      213: 6740362723789662354
+    second: meatboyanim1_259
+  - first:
+      213: 3995946708175864739
+    second: meatboyanim1_260
+  - first:
+      213: -6047058875969430002
+    second: meatboyanim1_261
+  - first:
+      213: -20118473140636278
+    second: meatboyanim1_262
+  - first:
+      213: 8165329682944915291
+    second: meatboyanim1_263
+  - first:
+      213: -1218290330779705779
+    second: meatboyanim1_264
+  - first:
+      213: 1050227535220038289
+    second: meatboyanim1_265
+  - first:
+      213: -5120013228808560809
+    second: meatboyanim1_266
+  - first:
+      213: 3190831881081285453
+    second: meatboyanim1_267
+  - first:
+      213: -7251304133749610347
+    second: meatboyanim1_268
+  - first:
+      213: 7756962682112089695
+    second: meatboyanim1_269
+  - first:
+      213: 42561248227447381
+    second: meatboyanim1_270
+  - first:
+      213: -9180160494164809729
+    second: meatboyanim1_271
+  - first:
+      213: 5084969656096102523
+    second: meatboyanim1_272
+  - first:
+      213: 5824781191745294876
+    second: meatboyanim1_273
+  - first:
+      213: 9172327136935769629
+    second: meatboyanim1_274
+  - first:
+      213: 2898947593054127669
+    second: meatboyanim1_275
+  - first:
+      213: 8688490387268682451
+    second: meatboyanim1_276
+  - first:
+      213: 1859597241531297196
+    second: meatboyanim1_277
+  - first:
+      213: -5279316067650006305
+    second: meatboyanim1_278
+  - first:
+      213: 3873531315994136279
+    second: meatboyanim1_279
+  - first:
+      213: -8446510151690196688
+    second: meatboyanim1_280
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meatboyanim1_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 507
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c9238d3e03f1660800000000000000
+      internalID: 7358654071289584735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 471
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc405f4f4a0a00e0800000000000000
+      internalID: -2303016923697230602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 472
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d52aa4d03f53ec70800000000000000
+      internalID: 8999141143747372504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 471
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01bda61f85b77f40800000000000000
+      internalID: 5726245077390307595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 472
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a42e64ea0905660800000000000000
+      internalID: 7372551668193446531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 471
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab87155d573dbcb40800000000000000
+      internalID: 5461691476160379066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 496
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41f4eeecac7352a0800000000000000
+      internalID: -6749914334314041010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 500
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2779b4d5689095220800000000000000
+      internalID: 2475019942912300914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 497
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932d02021320da370800000000000000
+      internalID: 8335320895348331065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 500
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c540233b02fd6f20800000000000000
+      internalID: 3417653822160389568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40ed593df1557770800000000000000
+      internalID: 8607876410819600461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 489
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf04b4bbfd2d8ca0800000000000000
+      internalID: -6013099368378003521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683db22ea43429dc0800000000000000
+      internalID: -3633767960433405050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d82041a4b8eec30800000000000000
+      internalID: 4390599837012364591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 459
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d866c957f0d89b60800000000000000
+      internalID: 7753176519299983572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 461
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c1bffbd16210e0800000000000000
+      internalID: -2300668862117329849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 459
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78af4e9dfc6a46c50800000000000000
+      internalID: 6657629560804539015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1726e1db132477360800000000000000
+      internalID: 7167270113377149553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 459
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba70135340fc31d10800000000000000
+      internalID: 2095245868636637099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba2cab3f8d6eddc0800000000000000
+      internalID: -3612329389155669321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 466
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8a2abd05198cb00800000000000000
+      internalID: 849088306227620008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 459
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a30999013edebd50800000000000000
+      internalID: 6755080793298109352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 459
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2d36afcd1596f90800000000000000
+      internalID: -6959941739588889875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab28b93b63e3804a0800000000000000
+      internalID: -6626978447013215558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 466
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d95e893c329e190800000000000000
+      internalID: -7932769945645638275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 466
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1b93c25a48e8570800000000000000
+      internalID: 8470853794076930471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 462
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e4dab73fbe3f220800000000000000
+      internalID: 2518616047614774942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 459
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa586df5d255b4970800000000000000
+      internalID: 8740173155212363178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 466
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8ab915a78162870800000000000000
+      internalID: 8657634247300589736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 463
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e768cbb2825fb000800000000000000
+      internalID: 53852442001434592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_30
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 459
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c38f89954b1c510800000000000000
+      internalID: 1567732442213137518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ef5b2484e0df070800000000000000
+      internalID: 8141679404875382289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 457
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc9b6c62481ee490800000000000000
+      internalID: -7715202438073180934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 457
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1ffcc492f027190800000000000000
+      internalID: -7966288120808214050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac93a914b84bbc10800000000000000
+      internalID: 2070328392068340897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398cc00f9fb0bd8c0800000000000000
+      internalID: -3973569078122198893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76da9047adbb1b10800000000000000
+      internalID: 1953363389436319357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_37
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0974d2cc1dc8733e0800000000000000
+      internalID: -2074034270679251056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_38
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8559ce75c4f80cfd0800000000000000
+      internalID: -2323699849667766952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a0a611f5b8d6b40800000000000000
+      internalID: 5435153565736372845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 447
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da736446ef49df750800000000000000
+      internalID: 6340387670732453805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 415
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5121765853fa9a4c0800000000000000
+      internalID: -4275693726805323243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 415
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e938be20a5dbaae40800000000000000
+      internalID: 5668551275292885918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 415
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b43b52eacbe3bb0800000000000000
+      internalID: -4954315083918128250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_44
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 415
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ccb49d24d5f7430800000000000000
+      internalID: 3782844753709353996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 414
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ff4712511652850800000000000000
+      internalID: 6351589592859475815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 440
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c69e3b941ce0cbf0800000000000000
+      internalID: -305985201413122364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7522904c6eeccca0800000000000000
+      internalID: -5995154855229774465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_48
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a235a11afda1c4f0800000000000000
+      internalID: -810175168400510296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 426
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905c56fc362aa9890800000000000000
+      internalID: -7450464083966049015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 432
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f25bd06248e9e6e0800000000000000
+      internalID: -1807658403622071566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 426
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf6bb86e49881ec0800000000000000
+      internalID: -3595973332597772358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_52
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 429
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881cab9260041e090800000000000000
+      internalID: -8007048267273944696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2749e2aa03ec564e0800000000000000
+      internalID: -1988956952005274510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee8cee79c7da6100800000000000000
+      internalID: 102131201987088104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_55
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa98e676daa2d9530800000000000000
+      internalID: 3863290979606759850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfa6d32926dc3810800000000000000
+      internalID: 1746506227696185299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 397
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4010f7d39ad2180800000000000000
+      internalID: -9138461987275995922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be263c3b1bdd6780800000000000000
+      internalID: -8688047196107034960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9df61cb71823daa0800000000000000
+      internalID: -6137517784770871910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2638e3bf263d46a0800000000000000
+      internalID: -6463450311697091029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_61
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 390
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6784fa96c435281a0800000000000000
+      internalID: -6808788098975053706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 358
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49323162742e4ad70800000000000000
+      internalID: 9053609946130883476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 358
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1649f0c539d697760800000000000000
+      internalID: 7456111137760711777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_64
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 358
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca156be586fc4310800000000000000
+      internalID: 1390757439990995663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_65
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 358
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c61ad2eb39367730800000000000000
+      internalID: 3996444648709691076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_66
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 358
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c3834a412c8a430800000000000000
+      internalID: 3794496079969926265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_67
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 383
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5557931333df10e40800000000000000
+      internalID: 5621052206246098261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_68
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 383
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b873aeb6950c0fa80800000000000000
+      internalID: -8435030611769804917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_69
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 379
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279298801b7b1c570800000000000000
+      internalID: 8485265143923026290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_70
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 379
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ad227cb5bb04c90800000000000000
+      internalID: -7187539002425943434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_71
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 367
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d84dad406373700800000000000000
+      internalID: 519943676463713667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 369
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8104ed481509a8610800000000000000
+      internalID: 1624269295416393752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_73
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 375
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69569775cc2ebd640800000000000000
+      internalID: 5105923969823368598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_74
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 369
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7942b85d09b9c0c30800000000000000
+      internalID: 4327004388356465815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_75
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de963731ac4115440800000000000000
+      internalID: 4922738725834942957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_76
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 361
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b23adbce88ec5490800000000000000
+      internalID: -7756068758235761992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_77
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 358
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4b2c162195c6a00800000000000000
+      internalID: 751073173348463804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_78
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 358
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b3139b394818b40800000000000000
+      internalID: 5440775594842340211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_79
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 344
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fa4f141cfcaa760800000000000000
+      internalID: 7470011360889581323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_80
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 343
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1238daec4acd4b5e0800000000000000
+      internalID: -1894646942815911135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_81
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 351
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a777345a4b886510800000000000000
+      internalID: 1542636023731156896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_82
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 347
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2420192fc3275b70800000000000000
+      internalID: 8887611762293089326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_83
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 349
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186d5f0bbc31d69b0800000000000000
+      internalID: -5085386638663231871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_84
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 349
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e249d2d726898f390800000000000000
+      internalID: -7784304407135546322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_85
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 349
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f5fbccb6a00950800000000000000
+      internalID: 6413309199181541729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_86
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 345
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81abe655e3ee5580800000000000000
+      internalID: -8836374844709035634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_87
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 344
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d7a178f7f4ea170800000000000000
+      internalID: 8191572181379612020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_88
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411c580dede729170800000000000000
+      internalID: 8183742968331878676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_89
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 345
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed87032707ea1460800000000000000
+      internalID: 7213331771025755621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_90
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 344
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b237954ae5b7ad80800000000000000
+      internalID: -8239416975456521545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_91
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 349
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829c4b2b0de82fda0800000000000000
+      internalID: -5912506333781505752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_92
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f6b89b5e330b7d0800000000000000
+      internalID: -2904764697900519598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_93
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 345
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01043b26d79de0c00800000000000000
+      internalID: 868870910679138320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_94
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 345
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebcdc1e420f261c0800000000000000
+      internalID: -4511779835473966098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_95
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 345
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e65afcf1d983a40800000000000000
+      internalID: 5348197317455736456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_96
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 344
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbc4913f14b64a50800000000000000
+      internalID: 6505084757852081103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_97
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 340
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa913faf2c0109f20800000000000000
+      internalID: 3427257746048883119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_98
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 344
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a742fed2ccdb4d80800000000000000
+      internalID: -8265269961586227291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 344
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6ebe9d8a609da80800000000000000
+      internalID: -8441708704248895785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_100
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 337
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8389c3c8179da20800000000000000
+      internalID: 3087623866665154815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_101
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 301
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041075a7061a40310800000000000000
+      internalID: 1370397622368928064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_102
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 301
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bb7b9e146733530800000000000000
+      internalID: 3833537733288508197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_103
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 301
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4954b678fb37219d0800000000000000
+      internalID: -2805052351450495596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_104
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 301
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df05bc4fc6479a10800000000000000
+      internalID: 1916078022628544467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_105
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 301
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15e21c50f790a450800000000000000
+      internalID: 6098040954052338971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_106
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 326
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0478ed2a4db9e6a00800000000000000
+      internalID: 751709525385316160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_107
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 323
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9896e7e9a068580800000000000000
+      internalID: -8825354743943951916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_108
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82700a2ddf8c7d5d0800000000000000
+      internalID: -3037738431152126168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_109
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 326
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb406a73d10b264b0800000000000000
+      internalID: -5448598959630711620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_110
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef130b68466c59c0800000000000000
+      internalID: -3937159513009610769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_111
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 326
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b3e332375e298a0800000000000000
+      internalID: -6299720646062621935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_112
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e93286b4a580500800000000000000
+      internalID: 362639049919536643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_113
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 312
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0a84d828be8a320800000000000000
+      internalID: 2569562533363491030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_114
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 301
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba96156d396608f0800000000000000
+      internalID: -574656190033257808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_115
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34532936f3ef66d10800000000000000
+      internalID: 2118660222931318083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_116
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f371abe628e54d500800000000000000
+      internalID: 420064579548747583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_117
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 301
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dc496951d9d1df0800000000000000
+      internalID: -207837291742966402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_118
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 301
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135eafc9d9e6eebe0800000000000000
+      internalID: -1446096807116741327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e09be2adfbfbc0f0800000000000000
+      internalID: -1095505017555939101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ee83dc48cc93e10800000000000000
+      internalID: 2177996765561155147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9b7856ce5bc1ba0800000000000000
+      internalID: -6116814166955673148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e19b4a397ecf7b30800000000000000
+      internalID: 4287372390344397280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_123
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 276
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732b465acddfa82a0800000000000000
+      internalID: -6734291168669683145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_124
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 244
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c395b86a8c81c6110800000000000000
+      internalID: 1255405646196201788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_125
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 244
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58571bd03172dd8d0800000000000000
+      internalID: -2820054828876466811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_126
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 244
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a7eec71297257a0800000000000000
+      internalID: -6389911736548427220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_127
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 244
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3dc3ac51b3d5370800000000000000
+      internalID: 8312865451969139693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_128
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 243
+        width: 122
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88db1cf411def7fa0800000000000000
+      internalID: -5800657136421585528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 269
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3112dda63fb225a70800000000000000
+      internalID: 8814155745187406099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_130
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 265
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85320bcaf73262c40800000000000000
+      internalID: 5487112227262571352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_131
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 265
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3398b955bb07ee40800000000000000
+      internalID: 5685525928100795197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_132
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 262
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeaa06d1297f78c0800000000000000
+      internalID: -3999344757849805086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_133
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 258
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431d7b96a9db13f60800000000000000
+      internalID: 8012393682965090612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_134
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 258
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03e14fcd7f164950800000000000000
+      internalID: 6432863742953906957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_135
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 251
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4562d679aeddaa1e0800000000000000
+      internalID: -2185690669502355884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_136
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 244
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a84afd0a566beeb0800000000000000
+      internalID: -4689542050008643415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_137
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 240
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842c280c9115c4590800000000000000
+      internalID: -7688681292782452152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_138
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 244
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5025825d85f5780800000000000000
+      internalID: -8692131083274025559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_139
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 230
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b00f438dc8b6510800000000000000
+      internalID: 1543482157533498211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_140
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7cd875f0e554f30800000000000000
+      internalID: 4559153617768925104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38222646980e62e80800000000000000
+      internalID: -8203622790509485437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_142
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 215
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b18b0cf624411ea0800000000000000
+      internalID: -5903862702277951055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_143
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 222
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a2f92de5eb84300800000000000000
+      internalID: 236648294906800739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_144
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 180
+        width: 97
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dcdcd7c9bea9d20800000000000000
+      internalID: 3286197935478263103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_145
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 190
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bf2340f1a440ad0800000000000000
+      internalID: -2736981176459527420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_146
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 190
+        width: 143
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f654ddf23528f30800000000000000
+      internalID: 4576311636402728824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_147
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 190
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930f43d831387b980800000000000000
+      internalID: -8523199649778700231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_148
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 208
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8347c3b5481e540800000000000000
+      internalID: 5035451385768065266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_149
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 205
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c189e09ceafed8e0800000000000000
+      internalID: -1666618918130056764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_150
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 211
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7396574126a0c3d60800000000000000
+      internalID: 7871177665103096119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_151
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 211
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5415cc9e742809450800000000000000
+      internalID: 6093513541209051461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_152
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 205
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd184233061a7d40800000000000000
+      internalID: 5582798891063451083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_153
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc0dbc5b3eb84fe0800000000000000
+      internalID: -1204503738153366343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_154
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 197
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ed4ac8e56554e30800000000000000
+      internalID: 4487087567831096861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_155
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 190
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31338db5d4f334380800000000000000
+      internalID: -8988270829815450861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_156
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 190
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df61bf516b940ba20800000000000000
+      internalID: 3076039591895701245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_157
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 172
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a448ef9ac6bac8020800000000000000
+      internalID: 2345437989150032970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_158
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 180
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5fec1e720124220800000000000000
+      internalID: 2468553309230659038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_159
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 168
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90717e75775d4e120800000000000000
+      internalID: 2442311606494238473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_160
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 162
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b573d24eedad93ac0800000000000000
+      internalID: -3874825353529837733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_161
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 151
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cc95e35e78aac80800000000000000
+      internalID: -8310680743695496178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_162
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 172
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c37b83c3813dbb80800000000000000
+      internalID: -8377485289848081469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_163
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 136
+        width: 143
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dead44ca77e7910800000000000000
+      internalID: 1837037279787019591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_164
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 137
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f91711d12513f80800000000000000
+      internalID: -8128625567626846356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_165
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 137
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a270c814a288160800000000000000
+      internalID: 7027913679522179595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_166
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0cc31984c2edd00800000000000000
+      internalID: 999284857508774113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_167
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959d895c7364e9840800000000000000
+      internalID: 5232697022403369305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950d1c4665a109850800000000000000
+      internalID: 6381629630343925849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_169
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 151
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5401675ac44e75200800000000000000
+      internalID: 168854528894308421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_170
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 158
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c5c353668495c00800000000000000
+      internalID: 889822005199395854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_171
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ad30aa0963fc8a0800000000000000
+      internalID: -6282742960202982864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_172
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 130
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be083137763006110800000000000000
+      internalID: 1252004439256170731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_173
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865486bfef358e0e0800000000000000
+      internalID: -2240448460012108440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0a363a242f2a1d0800000000000000
+      internalID: -3340841605532507995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_175
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b01d1a16b70ca880800000000000000
+      internalID: -8598489109853564748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_176
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9974a02909c981f60800000000000000
+      internalID: 8005320482390427545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_177
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064f9d4c2c595afa0800000000000000
+      internalID: -5790057082156092320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_178
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 86
+        width: 143
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457d3017eadb51a30800000000000000
+      internalID: 4185459985628780372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_179
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 86
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678f2e3b6383dc970800000000000000
+      internalID: 8776733056412350582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_180
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 86
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4b9b0caaafef690800000000000000
+      internalID: -7566334712651074394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_181
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf21efb7d098974f0800000000000000
+      internalID: -830481965265317125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_182
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1dcce632d5e70c0800000000000000
+      internalID: -4576117764597689880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_183
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 78
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0cb3a713d2209b0800000000000000
+      internalID: -5115476536212078357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_184
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27e4aaac8dbd6280800000000000000
+      internalID: -9048367664461453522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_185
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 100
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4a1fbf07833d900800000000000000
+      internalID: 707971624341710037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_186
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 114
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3690b39858b4720800000000000000
+      internalID: 2831503615179973580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_187
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 82
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cefe72a307d831a0800000000000000
+      internalID: -6829472424296251708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_188
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 107
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4206e5e73db2570800000000000000
+      internalID: 8443074466138825968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_189
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 82
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b93e3e951e09b80800000000000000
+      internalID: -8389958329599550710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_190
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 111
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b170c169325b182d0800000000000000
+      internalID: -3278139889302108389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_191
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 107
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dee70e61201ee60800000000000000
+      internalID: 7989669511210921279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081d55490657c3e40800000000000000
+      internalID: 5637509891226980736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_193
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 100
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c11dd2c25c1280800000000000000
+      internalID: -9071284552544959811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_194
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d01c994600458b0800000000000000
+      internalID: -5164502440610820825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_195
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 79
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0d88e24a1448ec0800000000000000
+      internalID: -3565652831559429964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_196
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbfe28f970031c70800000000000000
+      internalID: 8940490209115438033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_197
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf321aa4d6aa79e0800000000000000
+      internalID: -1622801283397042213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_198
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff7af01baa9ccbd0800000000000000
+      internalID: -2608540024639422476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_199
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 80
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c9e7a11cf6f9c40800000000000000
+      internalID: 5521254543343393819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_200
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54c793c440adf6d0800000000000000
+      internalID: -2955029563285453733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_201
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076663ac42ff2bea0800000000000000
+      internalID: -5858339631779125648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_202
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b17551eaa88d960800000000000000
+      internalID: 7626998449238907727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ea7d12cd4835790800000000000000
+      internalID: -7542538869919994268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_204
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485fd4f9f619fef80800000000000000
+      internalID: -8075075698251926140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_205
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 64
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aabf9dc3636ed30800000000000000
+      internalID: 4460312115940141597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_206
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 64
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5e9fc0625abe180800000000000000
+      internalID: -9084986240444799558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_207
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 35
+        width: 148
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcee37691d4897f20800000000000000
+      internalID: 3420911427671813835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_208
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 35
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e8ff427731ab6c0800000000000000
+      internalID: -4126964706088874454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_209
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 35
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a938f0b9c20566440800000000000000
+      internalID: 4928714994713854874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_210
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 61
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7ba73cab2b09570800000000000000
+      internalID: 8471467414297163756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_211
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 71
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9786965d40445080800000000000000
+      internalID: -9199657437901715555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668d24984801244d0800000000000000
+      internalID: -3151938627781339034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_213
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391190c5e07b58ad0800000000000000
+      internalID: -2700551129237220973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_214
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 60
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea174877f485e9f0800000000000000
+      internalID: -439799190189040925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_215
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9853931fca0d51a0800000000000000
+      internalID: -6819282376266131300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_216
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 61
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a9fd19f2e2c59c0800000000000000
+      internalID: -3937221192382965120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_217
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae42c12f91dfc290800000000000000
+      internalID: -7867839542596579678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_218
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6b1e4a17fea9f30800000000000000
+      internalID: 4583238842179499738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_219
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c7c738d9a5a37c0800000000000000
+      internalID: -4090857678950335408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_220
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095aaf16266591e00800000000000000
+      internalID: 1015938171499357584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_221
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e556a7dd1ec51a0800000000000000
+      internalID: -6819327394388287973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_222
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4106a3193338ef560800000000000000
+      internalID: 7349455899418320916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_223
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b99cd96c74adb30800000000000000
+      internalID: 4312838511537003344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_224
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 45
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a87b3a8fc5a23ef0800000000000000
+      internalID: -129859128444356443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_225
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 48
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436ece624c73ab760800000000000000
+      internalID: 7474347847180936756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_226
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 52
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74439afb1c4e5000800000000000000
+      internalID: 26542330862584957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_227
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f146703ad89e7d3f0800000000000000
+      internalID: -875974807965440993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_228
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052508ef6799e3ce0800000000000000
+      internalID: -1423531695847484848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_229
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 43
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae39bc507a8d5420800000000000000
+      internalID: 2620402773396111012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_230
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c9ee0fcba376d20800000000000000
+      internalID: 3271648237478386835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_231
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da651b1c3ae2b020800000000000000
+      internalID: 2356203098941516505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_232
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558ce29d7febc96e0800000000000000
+      internalID: -1829377376909342635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_233
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 43
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ab79207cfdd9250800000000000000
+      internalID: 5953160328288647828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_234
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae421879db85b700800000000000000
+      internalID: 555503895188754089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_235
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b273d26bee74570800000000000000
+      internalID: 8450985691994073972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_236
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf25f87305cd30e0800000000000000
+      internalID: -2288456416929435699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_237
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b73649cfcdb09e0800000000000000
+      internalID: -1653985460749108341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_238
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 41
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607821bf2efd95e40800000000000000
+      internalID: 5645789773853525766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_239
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659343684b4e80780800000000000000
+      internalID: -8716465614778779306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_240
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377b9830baa86d380800000000000000
+      internalID: -8946811142621513869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_241
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2186e63dacc118910800000000000000
+      internalID: 1837781780400072722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_242
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35334200010fc1030800000000000000
+      internalID: 3466909764680954707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_243
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c76471dca0cbd20800000000000000
+      internalID: 3295520903303429274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_244
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0802a43e90551b3e0800000000000000
+      internalID: -2039755655265771392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_245
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 39
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa441ed846f670da0800000000000000
+      internalID: -5978687502643280721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_246
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 39
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca91eaa006e2c520800000000000000
+      internalID: 2720990015426501319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_247
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 39
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c6ac08d2f2deb20800000000000000
+      internalID: 3165237985592110122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d27c221d889599e0800000000000000
+      internalID: -1615217159679741232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_249
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 13
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7447a7120504b59e0800000000000000
+      internalID: -1631639727088438201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_250
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5096522a4ebf7f880800000000000000
+      internalID: -8577110005912344315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_251
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcf5ca0f483d82a0800000000000000
+      internalID: -6733663955714704205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_252
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 25
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64363b63bb4d0ce0800000000000000
+      internalID: -1437409472091376530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_253
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 23
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8294b7e9a1989f0800000000000000
+      internalID: -465811818480588601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_254
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286910946ce33da20800000000000000
+      internalID: 3085879191028209282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_255
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 25
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb35d071e6adb040800000000000000
+      internalID: 4665068276216576990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_256
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f99c34e7c904290800000000000000
+      internalID: -7908148879545491638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_257
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 28
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abb90697c95df9d0800000000000000
+      internalID: -2738934284620809303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_258
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 30
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a330f1cd6f4919a50800000000000000
+      internalID: 6526161123012444986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_259
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29864c07f249a8d50800000000000000
+      internalID: 6740362723789662354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_260
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 23
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3c6321c54747730800000000000000
+      internalID: 3995946708175864739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_261
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e18f1bdf7841ca0800000000000000
+      internalID: -6047058875969430002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_262
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 16
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a857703fa5688bff0800000000000000
+      internalID: -20118473140636278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_263
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 115
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5772e9b514115170800000000000000
+      internalID: 8165329682944915291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_264
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e15902663c71fe0800000000000000
+      internalID: -1218290330779705779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_265
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19adf120168239e00800000000000000
+      internalID: 1050227535220038289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_266
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f909b681f02f8b0800000000000000
+      internalID: -5120013228808560809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_267
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b67d9a0bc184c20800000000000000
+      internalID: 3190831881081285453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_268
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59868853f413e5b90800000000000000
+      internalID: -7251304133749610347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_269
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 11
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e9043167446ab60800000000000000
+      internalID: 7756962682112089695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_270
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 6
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5525bc1da35379000800000000000000
+      internalID: 42561248227447381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_271
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 5
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff76b3c4ba4899080800000000000000
+      internalID: -9180160494164809729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_272
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 15
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b789f3df5f0719640800000000000000
+      internalID: 5084969656096102523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_273
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12da5402a7c5d050800000000000000
+      internalID: 5824781191745294876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_274
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d167bb81fe6aa4f70800000000000000
+      internalID: 9172327136935769629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_275
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53607720a712b3820800000000000000
+      internalID: 2898947593054127669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_276
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2cb8f39f7b39870800000000000000
+      internalID: 8688490387268682451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_277
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cade4cea6dd9ec910800000000000000
+      internalID: 1859597241531297196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_278
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd295bae10a1cb6b0800000000000000
+      internalID: -5279316067650006305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_279
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de8e24853c81c530800000000000000
+      internalID: 3873531315994136279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meatboyanim1_280
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03966c0c4c7f7ca80800000000000000
+      internalID: -8446510151690196688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

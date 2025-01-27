@@ -1,0 +1,2967 @@
+fileFormatVersion: 2
+guid: 49943d507295ade4d8175d7cbbaafe84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7641094834866208175
+    second: glitchtrans_0
+  - first:
+      213: -4750515753702831507
+    second: glitchtrans_1
+  - first:
+      213: -2323408653504433444
+    second: glitchtrans_2
+  - first:
+      213: 7345826233749134270
+    second: glitchtrans_3
+  - first:
+      213: -2649034873308656264
+    second: glitchtrans_4
+  - first:
+      213: 9035372910570287871
+    second: glitchtrans_5
+  - first:
+      213: 8523766274330570387
+    second: glitchtrans_6
+  - first:
+      213: 3522662270444000475
+    second: glitchtrans_7
+  - first:
+      213: 4944441982087530426
+    second: glitchtrans_8
+  - first:
+      213: 1984921667794322965
+    second: glitchtrans_9
+  - first:
+      213: -5742769790994340783
+    second: glitchtrans_10
+  - first:
+      213: -4910490781588470094
+    second: glitchtrans_11
+  - first:
+      213: -3012437298673570342
+    second: glitchtrans_12
+  - first:
+      213: 5852354607180580386
+    second: glitchtrans_13
+  - first:
+      213: 5192280881554368658
+    second: glitchtrans_14
+  - first:
+      213: -2802834223226416897
+    second: glitchtrans_15
+  - first:
+      213: 4273043780824153400
+    second: glitchtrans_16
+  - first:
+      213: 5304194888700899076
+    second: glitchtrans_17
+  - first:
+      213: 8142716318154573920
+    second: glitchtrans_18
+  - first:
+      213: 2029820048698169186
+    second: glitchtrans_19
+  - first:
+      213: -8799654224933774316
+    second: glitchtrans_20
+  - first:
+      213: 2515407191445987290
+    second: glitchtrans_21
+  - first:
+      213: -2660545036219186493
+    second: glitchtrans_22
+  - first:
+      213: -7498344919588780789
+    second: glitchtrans_23
+  - first:
+      213: -5479482559371062199
+    second: glitchtrans_24
+  - first:
+      213: -1218491137096010964
+    second: glitchtrans_25
+  - first:
+      213: 3187041608173345476
+    second: glitchtrans_26
+  - first:
+      213: -1291862256125642687
+    second: glitchtrans_27
+  - first:
+      213: 4303266890948609323
+    second: glitchtrans_28
+  - first:
+      213: 3174302252083175490
+    second: glitchtrans_29
+  - first:
+      213: -3978354077548445228
+    second: glitchtrans_30
+  - first:
+      213: 8868391173120830601
+    second: glitchtrans_31
+  - first:
+      213: 1946169707488302389
+    second: glitchtrans_32
+  - first:
+      213: 1099075324524709595
+    second: glitchtrans_33
+  - first:
+      213: 280327725318875357
+    second: glitchtrans_34
+  - first:
+      213: 8621264587917613375
+    second: glitchtrans_35
+  - first:
+      213: -537259302342074116
+    second: glitchtrans_36
+  - first:
+      213: -4126300762167468514
+    second: glitchtrans_37
+  - first:
+      213: -3037586427460986479
+    second: glitchtrans_38
+  - first:
+      213: -1519264572594744744
+    second: glitchtrans_39
+  - first:
+      213: -2479978876665587019
+    second: glitchtrans_40
+  - first:
+      213: -2086030663082346812
+    second: glitchtrans_41
+  - first:
+      213: 6186420330374169017
+    second: glitchtrans_42
+  - first:
+      213: -7594368794315575114
+    second: glitchtrans_43
+  - first:
+      213: -7227880820682335620
+    second: glitchtrans_44
+  - first:
+      213: -2480821551047313567
+    second: glitchtrans_45
+  - first:
+      213: 8486894572295843855
+    second: glitchtrans_46
+  - first:
+      213: -3963397451370050671
+    second: glitchtrans_47
+  - first:
+      213: -3409871299640575170
+    second: glitchtrans_48
+  - first:
+      213: 7798920708610596749
+    second: glitchtrans_49
+  - first:
+      213: 1407814777125535532
+    second: glitchtrans_50
+  - first:
+      213: 6416579014246348029
+    second: glitchtrans_51
+  - first:
+      213: 3135385178533348537
+    second: glitchtrans_52
+  - first:
+      213: 2663035845049726861
+    second: glitchtrans_53
+  - first:
+      213: 5418158866597237960
+    second: glitchtrans_54
+  - first:
+      213: 4040323088184366540
+    second: glitchtrans_55
+  - first:
+      213: 7604799418224119495
+    second: glitchtrans_56
+  - first:
+      213: 2035420092778742930
+    second: glitchtrans_57
+  - first:
+      213: -2455433692854492765
+    second: glitchtrans_58
+  - first:
+      213: 7586497950096822460
+    second: glitchtrans_59
+  - first:
+      213: -8776094035043989844
+    second: glitchtrans_60
+  - first:
+      213: -5214525086653452885
+    second: glitchtrans_61
+  - first:
+      213: -5536956145971142809
+    second: glitchtrans_62
+  - first:
+      213: 5805757203854778176
+    second: glitchtrans_63
+  - first:
+      213: -1278847648491907339
+    second: glitchtrans_64
+  - first:
+      213: -7124258333257436315
+    second: glitchtrans_65
+  - first:
+      213: 1510805151079119576
+    second: glitchtrans_66
+  - first:
+      213: -7000037680413101840
+    second: glitchtrans_67
+  - first:
+      213: -819915703292869597
+    second: glitchtrans_68
+  - first:
+      213: -8220214692242502106
+    second: glitchtrans_69
+  - first:
+      213: 1623538036197694121
+    second: glitchtrans_70
+  - first:
+      213: 769450006460311559
+    second: glitchtrans_71
+  - first:
+      213: -8815431590766254174
+    second: glitchtrans_72
+  - first:
+      213: -1525591599191985212
+    second: glitchtrans_73
+  - first:
+      213: 7727815922363832053
+    second: glitchtrans_74
+  - first:
+      213: -2436734446620644857
+    second: glitchtrans_75
+  - first:
+      213: -1443420995085954647
+    second: glitchtrans_76
+  - first:
+      213: -4340626348405416541
+    second: glitchtrans_77
+  - first:
+      213: 4423995973760089969
+    second: glitchtrans_78
+  - first:
+      213: 4900076604539336897
+    second: glitchtrans_79
+  - first:
+      213: -4826893202108508143
+    second: glitchtrans_80
+  - first:
+      213: 3909882004149873718
+    second: glitchtrans_81
+  - first:
+      213: -916574942204912893
+    second: glitchtrans_82
+  - first:
+      213: -3441458678229526365
+    second: glitchtrans_83
+  - first:
+      213: -1765724103565946552
+    second: glitchtrans_84
+  - first:
+      213: 375952010927206466
+    second: glitchtrans_85
+  - first:
+      213: 5760132789020141173
+    second: glitchtrans_86
+  - first:
+      213: 3584012923250579273
+    second: glitchtrans_87
+  - first:
+      213: -6129564845443967520
+    second: glitchtrans_88
+  - first:
+      213: 6336294216580403933
+    second: glitchtrans_89
+  - first:
+      213: 8658049029032325662
+    second: glitchtrans_90
+  - first:
+      213: 4052383382679684211
+    second: glitchtrans_91
+  - first:
+      213: -682302332019781469
+    second: glitchtrans_92
+  - first:
+      213: -7508834891486659786
+    second: glitchtrans_93
+  - first:
+      213: -8328217773110419197
+    second: glitchtrans_94
+  - first:
+      213: 7616072297754549879
+    second: glitchtrans_95
+  - first:
+      213: 4058946930129518980
+    second: glitchtrans_96
+  - first:
+      213: -6834539486197282295
+    second: glitchtrans_97
+  - first:
+      213: -8216847435717013920
+    second: glitchtrans_98
+  - first:
+      213: 7033136890160756114
+    second: glitchtrans_99
+  - first:
+      213: -8726140100078485513
+    second: glitchtrans_100
+  - first:
+      213: 570409360683788422
+    second: glitchtrans_101
+  - first:
+      213: 4462173502205986405
+    second: glitchtrans_102
+  - first:
+      213: -4959062952363691094
+    second: glitchtrans_103
+  - first:
+      213: 472177746098882454
+    second: glitchtrans_104
+  - first:
+      213: 9132813046488109047
+    second: glitchtrans_105
+  - first:
+      213: 9111718030532970027
+    second: glitchtrans_106
+  - first:
+      213: -6757728940447488460
+    second: glitchtrans_107
+  - first:
+      213: 6319133328026077158
+    second: glitchtrans_108
+  - first:
+      213: 7182896700048447782
+    second: glitchtrans_109
+  - first:
+      213: -2278840053056198236
+    second: glitchtrans_110
+  - first:
+      213: 6667983394931554652
+    second: glitchtrans_111
+  - first:
+      213: -2684600340101619807
+    second: glitchtrans_112
+  - first:
+      213: -2547606337063645338
+    second: glitchtrans_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: glitchtrans_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadb54f944f9a0a60800000000000000
+      internalID: 7641094834866208175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 946
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a45a06717c21eb0800000000000000
+      internalID: -4750515753702831507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 946
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2bccbb32891cfd0800000000000000
+      internalID: -2323408653504433444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 946
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbdc5c2a0e91f560800000000000000
+      internalID: 7345826233749134270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 982
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dc0d261dcbc3bd0800000000000000
+      internalID: -2649034873308656264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 946
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2babb6ac7146d70800000000000000
+      internalID: 9035372910570287871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 946
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eade104408a4670800000000000000
+      internalID: 8523766274330570387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 946
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd45c7dcba203e030800000000000000
+      internalID: 3522662270444000475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 955
+        width: 130
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab70bd239cf2e9440800000000000000
+      internalID: 4944441982087530426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 955
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5164bd38dbbdb8b10800000000000000
+      internalID: 1984921667794322965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 955
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15420f43d459d40b0800000000000000
+      internalID: -5742769790994340783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 955
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6c69aa6ae6adbb0800000000000000
+      internalID: -4910490781588470094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_12
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 955
+        width: 131
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addac68cc3ca136d0800000000000000
+      internalID: -3012437298673570342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_13
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 895
+        width: 70
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2268e94128db73150800000000000000
+      internalID: 5852354607180580386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 946
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298a91fa3ffae0840800000000000000
+      internalID: 5192280881554368658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 790
+        width: 433
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff01840cf155a19d0800000000000000
+      internalID: -2802834223226416897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 858
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d37b9dda6ec4b30800000000000000
+      internalID: 4273043780824153400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 858
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fa57006294c9940800000000000000
+      internalID: 5304194888700899076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 858
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0684162795db00170800000000000000
+      internalID: 8142716318154573920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 858
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267de90749e5b2c10800000000000000
+      internalID: 2029820048698169186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 858
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c9e80ea1951e580800000000000000
+      internalID: -8799654224933774316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 858
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfd99f638588e220800000000000000
+      internalID: 2515407191445987290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_22
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 858
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c20a3fb268d31bd0800000000000000
+      internalID: -2660545036219186493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 858
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b054e88060780f790800000000000000
+      internalID: -7498344919588780789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 858
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9445dbfc4a7f4f3b0800000000000000
+      internalID: -5479482559371062199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_25
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 832
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c233e6344cc071fe0800000000000000
+      internalID: -1218491137096010964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 769
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cadf8bf475aa3c20800000000000000
+      internalID: 3187041608173345476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 769
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14875e46f12621ee0800000000000000
+      internalID: -1291862256125642687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 769
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2501b8007648bb30800000000000000
+      internalID: 4303266890948609323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 769
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240e32184136d0c20800000000000000
+      internalID: 3174302252083175490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 769
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d18ff07b0c0ac8c0800000000000000
+      internalID: -3978354077548445228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 769
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ca31309cad21b70800000000000000
+      internalID: 8868391173120830601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_32
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 769
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5355777a90f220b10800000000000000
+      internalID: 1946169707488302389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_33
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 734
+        width: 125
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd641bb3f23b04f00800000000000000
+      internalID: 1099075324524709595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_34
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 734
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd82358b49ce3e300800000000000000
+      internalID: 280327725318875357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_35
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 734
+        width: 130
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39db7d1772e4a770800000000000000
+      internalID: 8621264587917613375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_36
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 621
+        width: 86
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf060a3d2854b88f0800000000000000
+      internalID: -537259302342074116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_37
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 774
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e9592a15f6cb6c0800000000000000
+      internalID: -4126300762167468514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 681
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199d3a0fc3358d5d0800000000000000
+      internalID: -3037586427460986479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 681
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85297aeabec7aeae0800000000000000
+      internalID: -1519264572594744744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 681
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba10e5e958559dd0800000000000000
+      internalID: -2479978876665587019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 681
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c677680a2eec03e0800000000000000
+      internalID: -2086030663082346812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_42
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 681
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1053f63849ad550800000000000000
+      internalID: 6186420330374169017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_43
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 681
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0328971d16b9690800000000000000
+      internalID: -7594368794315575114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_44
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 681
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ade5440b861bb90800000000000000
+      internalID: -7227880820682335620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 681
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167f0ba71f9529dd0800000000000000
+      internalID: -2480821551047313567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 601
+        width: 152
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0072e3e5a187c570800000000000000
+      internalID: 8486894572295843855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_47
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 594
+        width: 69
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b4667540f2ff8c0800000000000000
+      internalID: -3963397451370050671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_48
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 603
+        width: 69
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bbf178e14bda0d0800000000000000
+      internalID: -3409871299640575170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_49
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 671
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f1c2460155b3c60800000000000000
+      internalID: 7798920708610596749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 593
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ffc14b410998310800000000000000
+      internalID: 1407814777125535532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_51
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 593
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df43161fd944c0950800000000000000
+      internalID: 6416579014246348029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 593
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b441883530238b20800000000000000
+      internalID: 3135385178533348537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 593
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d873250edf005f420800000000000000
+      internalID: 2663035845049726861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_54
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 593
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4592458ca213b40800000000000000
+      internalID: 5418158866597237960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_55
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 593
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5d901317c121830800000000000000
+      internalID: 4040323088184366540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_56
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 593
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce885767cca98960800000000000000
+      internalID: 7604799418224119495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_57
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 189
+        width: 97
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405ce4ac34f3c10800000000000000
+      internalID: 2035420092778742930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_58
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 485
+        width: 90
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1e1e7d01c8cedd0800000000000000
+      internalID: -2455433692854492765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_59
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 566
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb010ccc0b7a84960800000000000000
+      internalID: 7586497950096822460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_60
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 578
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca647cd09fc053680800000000000000
+      internalID: -8776094035043989844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 504
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad68a9bf0942a7b0800000000000000
+      internalID: -5214525086653452885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_62
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 522
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f5976a8b7c823b0800000000000000
+      internalID: -5536956145971142809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_63
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 504
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fddebaa61329050800000000000000
+      internalID: 5805757203854778176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 504
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6dbcdd6de904ee0800000000000000
+      internalID: -1278847648491907339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_65
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 504
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563f216bacc812d90800000000000000
+      internalID: -7124258333257436315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_66
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 504
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dab6e2c74577f410800000000000000
+      internalID: 1510805151079119576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_67
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 522
+        width: 55
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0b0a441dedade90800000000000000
+      internalID: -7000037680413101840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_68
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 338
+        width: 72
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324c67f03031f94f0800000000000000
+      internalID: -819915703292869597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_69
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 486
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e407b3a4eebed80800000000000000
+      internalID: -8220214692242502106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_70
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 412
+        width: 66
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa16e6fd37f78610800000000000000
+      internalID: 1623538036197694121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_71
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 416
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7082d7344b2adaa00800000000000000
+      internalID: 769450006460311559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_72
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 416
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7ee92acab49a580800000000000000
+      internalID: -8815431590766254174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_73
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 416
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c377d1068204dae0800000000000000
+      internalID: -1525591599191985212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_74
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 416
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f69a1e33a7be3b60800000000000000
+      internalID: 7727815922363832053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_75
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 434
+        width: 55
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ae7316eeafe2ed0800000000000000
+      internalID: -2436734446620644857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_76
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 381
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a19f86a040f7fbe0800000000000000
+      internalID: -1443420995085954647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_77
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 420
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad1890755ff2c3c0800000000000000
+      internalID: -4340626348405416541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_78
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 382
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f7ab716e0356d30800000000000000
+      internalID: 4423995973760089969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_79
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 211
+        width: 93
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8f4c9c5b1900440800000000000000
+      internalID: 4900076604539336897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_80
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 145
+        width: 73
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1181397e43e630db0800000000000000
+      internalID: -4826893202108508143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_81
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 356
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cab03a7f0b24630800000000000000
+      internalID: 3909882004149873718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_82
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 328
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b1adf32fba743f0800000000000000
+      internalID: -916574942204912893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_83
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 328
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a891f6d09b7d30d0800000000000000
+      internalID: -3441458678229526365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_84
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 328
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8415b937843ee77e0800000000000000
+      internalID: -1765724103565946552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 328
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240f8efac56a73500800000000000000
+      internalID: 375952010927206466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_86
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 346
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57620acc04a10ff40800000000000000
+      internalID: 5760132789020141173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_87
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 297
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94792c8c3c8fcb130800000000000000
+      internalID: 3584012923250579273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 239
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e51797bf396feaa0800000000000000
+      internalID: -6129564845443967520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_89
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 239
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd213a3d40a0fe750800000000000000
+      internalID: 6336294216580403933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_90
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 239
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12336738b1972870800000000000000
+      internalID: 8658049029032325662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_91
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 239
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37481525735fc3830800000000000000
+      internalID: 4052383382679684211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_92
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 239
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a05a8ed4a9f786f0800000000000000
+      internalID: -682302332019781469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_93
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 239
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bf0ef13724bc790800000000000000
+      internalID: -7508834891486659786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_94
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 239
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301a8a56f0a3c6c80800000000000000
+      internalID: -8328217773110419197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_95
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 257
+        width: 55
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e5a533769b1b960800000000000000
+      internalID: 7616072297754549879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_96
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 205
+        width: 69
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481488c4ab6445830800000000000000
+      internalID: 4058946930129518980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_97
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 268
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a84d95c86d621a0800000000000000
+      internalID: -6834539486197282295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_98
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 126
+        width: 66
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e028cbac4e7fd80800000000000000
+      internalID: -8216847435717013920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_99
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 151
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2953aba0db8ba9160800000000000000
+      internalID: 7033136890160756114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_100
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 135
+        width: 106
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffb782efc586e680800000000000000
+      internalID: -8726140100078485513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_101
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 135
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6886d189a408ae700800000000000000
+      internalID: 570409360683788422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_102
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 135
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566062d9823dced30800000000000000
+      internalID: 4462173502205986405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 232
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3ff81e48edd2bb0800000000000000
+      internalID: -4959062952363691094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_104
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 67
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697811b88238d8600800000000000000
+      internalID: 472177746098882454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_105
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 112
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff0afbf3154ebe70800000000000000
+      internalID: 9132813046488109047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_106
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 67
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b268077d543537e70800000000000000
+      internalID: 9111718030532970027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_107
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 67
+        width: 252
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43620482559b732a0800000000000000
+      internalID: -6757728940447488460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_108
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 63
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e78359184212b750800000000000000
+      internalID: 6319133328026077158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_109
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 63
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62996b8fd76cea360800000000000000
+      internalID: 7182896700048447782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_110
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 12
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a927a9ab0fef50e0800000000000000
+      internalID: -2278840053056198236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_111
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 40
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c593917b19f698c50800000000000000
+      internalID: 6667983394931554652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af995cd6326ebad0800000000000000
+      internalID: -2684600340101619807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glitchtrans_113
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 67
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f89c3c88515acd0800000000000000
+      internalID: -2547606337063645338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

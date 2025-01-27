@@ -1,0 +1,2267 @@
+fileFormatVersion: 2
+guid: 9db6af4b08f0e014284a337dac88245d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 219430429853503518
+    second: fintro_0
+  - first:
+      213: 5621324680906289792
+    second: fintro_1
+  - first:
+      213: -2761195727173951014
+    second: fintro_2
+  - first:
+      213: -6917079162752259934
+    second: fintro_3
+  - first:
+      213: 8754491444574496697
+    second: fintro_4
+  - first:
+      213: -8447202898595947225
+    second: fintro_5
+  - first:
+      213: -1431954810186189185
+    second: fintro_6
+  - first:
+      213: -1366885454272685679
+    second: fintro_7
+  - first:
+      213: -6295227282742105867
+    second: fintro_8
+  - first:
+      213: -1826165368217558612
+    second: fintro_9
+  - first:
+      213: 76934915080134790
+    second: fintro_10
+  - first:
+      213: -8335232337233868929
+    second: fintro_11
+  - first:
+      213: 2575408706195871633
+    second: fintro_12
+  - first:
+      213: -7879262583303817262
+    second: fintro_13
+  - first:
+      213: -6694690731510517762
+    second: fintro_14
+  - first:
+      213: 8666609586798046597
+    second: fintro_15
+  - first:
+      213: -6596976774175703088
+    second: fintro_16
+  - first:
+      213: -6699952765717881094
+    second: fintro_17
+  - first:
+      213: -1581665185244780750
+    second: fintro_18
+  - first:
+      213: 1913628334074587703
+    second: fintro_19
+  - first:
+      213: 8897919969871031478
+    second: fintro_20
+  - first:
+      213: -30775073830547750
+    second: fintro_21
+  - first:
+      213: -7069275384913416686
+    second: fintro_22
+  - first:
+      213: 692581340968885554
+    second: fintro_23
+  - first:
+      213: 5595422934966383047
+    second: fintro_24
+  - first:
+      213: -9054743490409306731
+    second: fintro_25
+  - first:
+      213: -1648681187669596968
+    second: fintro_26
+  - first:
+      213: 6309802711833904955
+    second: fintro_27
+  - first:
+      213: 8859639432640153181
+    second: fintro_28
+  - first:
+      213: 1873146542115354369
+    second: fintro_29
+  - first:
+      213: 3295830767672852009
+    second: fintro_30
+  - first:
+      213: -7833935389464766917
+    second: fintro_31
+  - first:
+      213: -4339063417234027820
+    second: fintro_32
+  - first:
+      213: 3702214492912781540
+    second: fintro_33
+  - first:
+      213: 7040898597986706490
+    second: fintro_34
+  - first:
+      213: 2973964419621630701
+    second: fintro_35
+  - first:
+      213: -7468925344213517248
+    second: fintro_36
+  - first:
+      213: -2085548341386077461
+    second: fintro_37
+  - first:
+      213: 874160594155305574
+    second: fintro_38
+  - first:
+      213: 2375842644425564854
+    second: fintro_39
+  - first:
+      213: 6577029760811368348
+    second: fintro_40
+  - first:
+      213: -5241940527165245663
+    second: fintro_41
+  - first:
+      213: -914603767872273157
+    second: fintro_42
+  - first:
+      213: 3853347145877929646
+    second: fintro_43
+  - first:
+      213: -5856242943078203042
+    second: fintro_44
+  - first:
+      213: -7901193555790365724
+    second: fintro_45
+  - first:
+      213: 4784298825445124028
+    second: fintro_46
+  - first:
+      213: -3324782597869242389
+    second: fintro_47
+  - first:
+      213: -3215764300749561764
+    second: fintro_48
+  - first:
+      213: -5767409561156530801
+    second: fintro_49
+  - first:
+      213: 5045530664424012974
+    second: fintro_50
+  - first:
+      213: -4522414775049506961
+    second: fintro_51
+  - first:
+      213: -3723713922340320277
+    second: fintro_52
+  - first:
+      213: 4453241382740959622
+    second: fintro_53
+  - first:
+      213: -4642770207646526673
+    second: fintro_54
+  - first:
+      213: -3948653937237928176
+    second: fintro_55
+  - first:
+      213: -1247426653573043302
+    second: fintro_56
+  - first:
+      213: 4586089786505073958
+    second: fintro_57
+  - first:
+      213: -8855135859803415279
+    second: fintro_58
+  - first:
+      213: 8290374963199157648
+    second: fintro_59
+  - first:
+      213: 601317423683742427
+    second: fintro_60
+  - first:
+      213: -2905906032251824290
+    second: fintro_61
+  - first:
+      213: 3292054829476064072
+    second: fintro_62
+  - first:
+      213: 2181617352041494863
+    second: fintro_63
+  - first:
+      213: 2341811985246102237
+    second: fintro_64
+  - first:
+      213: -7206722812726297701
+    second: fintro_65
+  - first:
+      213: 8562501104040434077
+    second: fintro_66
+  - first:
+      213: 3120585514750553855
+    second: fintro_67
+  - first:
+      213: -3641155240916365282
+    second: fintro_68
+  - first:
+      213: 4694830387045914075
+    second: fintro_69
+  - first:
+      213: 5850575114269800288
+    second: fintro_70
+  - first:
+      213: 3443248126781683851
+    second: fintro_71
+  - first:
+      213: -4367654670085220585
+    second: fintro_72
+  - first:
+      213: -4004528616950721149
+    second: fintro_73
+  - first:
+      213: 3051426531056780480
+    second: fintro_74
+  - first:
+      213: -1723323420943954926
+    second: fintro_75
+  - first:
+      213: -2663655871539084845
+    second: fintro_76
+  - first:
+      213: 4349346094493323681
+    second: fintro_77
+  - first:
+      213: -1788959171439339706
+    second: fintro_78
+  - first:
+      213: 4650574256970686675
+    second: fintro_79
+  - first:
+      213: -301824154073273888
+    second: fintro_80
+  - first:
+      213: -6643789935591184594
+    second: fintro_81
+  - first:
+      213: 9157633907273292719
+    second: fintro_82
+  - first:
+      213: -4486209410468916809
+    second: fintro_83
+  - first:
+      213: 482940726185157568
+    second: fintro_84
+  - first:
+      213: 841087041963358632
+    second: fintro_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fintro_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1091
+        width: 137
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10545830d29b0300800000000000000
+      internalID: 219430429853503518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1091
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0823e84a305f20e40800000000000000
+      internalID: 5621324680906289792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1103
+        width: 81
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad168769d134ea9d0800000000000000
+      internalID: -2761195727173951014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 861
+        width: 403
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a825e456299100a0800000000000000
+      internalID: -6917079162752259934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_4
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 504
+        width: 177
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b72f07e5933e7970800000000000000
+      internalID: 8754491444574496697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_5
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1166
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dd98b08b185ca80800000000000000
+      internalID: -8447202898595947225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_6
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1129
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76b07cdfaca02ce0800000000000000
+      internalID: -1431954810186189185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1150
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1999d61ebe8d70de0800000000000000
+      internalID: -1366885454272685679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 907
+        width: 149
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f82fcfc32cd2a8a0800000000000000
+      internalID: -6295227282742105867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_9
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1077
+        width: 156
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1a546e54828a6e0800000000000000
+      internalID: -1826165368217558612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_10
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1092
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6802d2cc5e3511100800000000000000
+      internalID: 76934915080134790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_11
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1055
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7783dae95e435c80800000000000000
+      internalID: -8335232337233868929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 935
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197d04cb290bdb320800000000000000
+      internalID: 2575408706195871633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 922
+        width: 96
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d736263d6c37a290800000000000000
+      internalID: -7879262583303817262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 946
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff273bef3ea713a0800000000000000
+      internalID: -6694690731510517762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 966
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58da714608bf54870800000000000000
+      internalID: 8666609586798046597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_16
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 970
+        width: 24
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df31cf7394d274a0800000000000000
+      internalID: -6596976774175703088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_17
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1018
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe5d7b157cf403a0800000000000000
+      internalID: -6699952765717881094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_18
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 984
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237e1efd4ebcc0ae0800000000000000
+      internalID: -1581665185244780750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_19
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 938
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a63acb4d29e8a10800000000000000
+      internalID: 1913628334074587703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_20
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 925
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc6404c113cb7b70800000000000000
+      internalID: 8897919969871031478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 828
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adec460cb3aa29ff0800000000000000
+      internalID: -30775073830547750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 736
+        width: 194
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ea2d6fd73e4ed90800000000000000
+      internalID: -7069275384913416686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 746
+        width: 197
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d93866f0b8c9900800000000000000
+      internalID: 692581340968885554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 747
+        width: 116
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1beb6738fe6ad40800000000000000
+      internalID: 5595422934966383047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_25
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 888
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5956fd105c6175280800000000000000
+      internalID: -9054743490409306731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_26
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 854
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4a515e135be19e0800000000000000
+      internalID: -1648681187669596968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_27
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 280
+        width: 346
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3708a9b22ce09750800000000000000
+      internalID: 6309802711833904955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_28
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 816
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d564f84af13c3fa70800000000000000
+      internalID: 8859639432640153181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 752
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107790f0bd0cef910800000000000000
+      internalID: 1873146542115354369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 702
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e71f20f942dbd20800000000000000
+      internalID: 3295830767672852009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 652
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36579de445484390800000000000000
+      internalID: -7833935389464766917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_32
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 635
+        width: 134
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da8fd5bfcc88c3c0800000000000000
+      internalID: -4339063417234027820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 675
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e88e545778e06330800000000000000
+      internalID: 3702214492912781540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 641
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a342b8878fb46b160800000000000000
+      internalID: 7040898597986706490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_35
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 457
+        width: 277
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2b23602e4a54920800000000000000
+      internalID: 2973964419621630701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_36
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 614
+        width: 46
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cbd34b8fb095890800000000000000
+      internalID: -7468925344213517248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 593
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea17cd45d4ae03e0800000000000000
+      internalID: -2085548341386077461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 544
+        width: 121
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a754bcd64a12c00800000000000000
+      internalID: 874160594155305574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_39
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 470
+        width: 65
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2e53f1c40b8f020800000000000000
+      internalID: 2375842644425564854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_40
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 540
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f755a88bd464b50800000000000000
+      internalID: 6577029760811368348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 505
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12777901dd2e047b0800000000000000
+      internalID: -5241940527165245663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 428
+        width: 119
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf44db908bcae43f0800000000000000
+      internalID: -914603767872273157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 530
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeb15230d6d97530800000000000000
+      internalID: 3853347145877929646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_44
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 452
+        width: 131
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e518f6b22127abea0800000000000000
+      internalID: -5856242943078203042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_45
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 516
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb7285c252595290800000000000000
+      internalID: -7901193555790365724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 454
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7a9f5fe6e356240800000000000000
+      internalID: 4784298825445124028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_47
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 443
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be77a9ab7dffbd1d0800000000000000
+      internalID: -3324782597869242389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_48
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 435
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50a074086f4f53d0800000000000000
+      internalID: -3215764300749561764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 170
+        width: 108
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dc219af8b06ffa0800000000000000
+      internalID: -5767409561156530801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_50
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 296
+        width: 182
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac755c2863550640800000000000000
+      internalID: 5045530664424012974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 404
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f223e09b72d31c0800000000000000
+      internalID: -4522414775049506961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_52
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 350
+        width: 147
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb8abdaae5b25cc0800000000000000
+      internalID: -3723713922340320277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_53
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 333
+        width: 179
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681285d71771dcd30800000000000000
+      internalID: 4453241382740959622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2356773811919fb0800000000000000
+      internalID: -4642770207646526673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 357
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0175cf93a209339c0800000000000000
+      internalID: -3948653937237928176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bac66511040bee0800000000000000
+      internalID: -1247426653573043302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_57
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 278
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6259ea8dc5015af30800000000000000
+      internalID: 4586089786505073958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_58
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 199
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d189e1adc3c1580800000000000000
+      internalID: -8855135859803415279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_59
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 217
+        width: 24
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0952740da145d0370800000000000000
+      internalID: 8290374963199157648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_60
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 201
+        width: 147
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda2cebc20f485800800000000000000
+      internalID: 601317423683742427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_61
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 156
+        width: 563
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5717fc1cd52ca7d0800000000000000
+      internalID: -2905906032251824290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_62
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 226
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ba704ec6abfad20800000000000000
+      internalID: 3292054829476064072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 210
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49f2484c69a64e10800000000000000
+      internalID: 2181617352041494863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2a857d799cf7020800000000000000
+      internalID: 2341811985246102237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bbeb0e8c39cfb90800000000000000
+      internalID: -7206722812726297701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_66
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 175
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d995837536d14d670800000000000000
+      internalID: 8562501104040434077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 138
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeafe9fdfb8e4b20800000000000000
+      internalID: 3120585514750553855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_68
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 56
+        width: 435
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10d02d9994087dc0800000000000000
+      internalID: -3641155240916365282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_69
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 145
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5d49cdc53672140800000000000000
+      internalID: 4694830387045914075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 301
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067bac9911b613150800000000000000
+      internalID: 5850575114269800288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_71
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 35
+        width: 219
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88f95e9defd8cf20800000000000000
+      internalID: 3443248126781683851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_72
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 61
+        width: 141
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7179ef7e739f263c0800000000000000
+      internalID: -4367654670085220585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_73
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 38
+        width: 79
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38514c5907e0d68c0800000000000000
+      internalID: -4004528616950721149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_74
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 52
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c487d94348d85a20800000000000000
+      internalID: 3051426531056780480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_75
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 58
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c468daa768518e0800000000000000
+      internalID: -1723323420943954926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_76
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 6
+        width: 392
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d18705f81bc80bd0800000000000000
+      internalID: -2663655871539084845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_77
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 15
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1d187aa3bfb5c30800000000000000
+      internalID: 4349346094493323681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_78
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 24
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6475ea4ac175c27e0800000000000000
+      internalID: -1788959171439339706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_79
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 51
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0605c95a82a8040800000000000000
+      internalID: 4650574256970686675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_80
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 23
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e964dfe784bfcbf0800000000000000
+      internalID: -301824154073273888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_81
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 34
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27a5cef0448cc3a0800000000000000
+      internalID: -6643789935591184594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_82
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 36
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabd81af483761f70800000000000000
+      internalID: 9157633907273292719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_83
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b15cf46f48cdb1c0800000000000000
+      internalID: -4486209410468916809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_84
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 7
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3e5df1800c3b600800000000000000
+      internalID: 482940726185157568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fintro_85
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 18
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9f86955342cab00800000000000000
+      internalID: 841087041963358632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

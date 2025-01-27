@@ -1,0 +1,2367 @@
+fileFormatVersion: 2
+guid: 0129c638c0deb044e9fcbd1ec15e8cc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7172847858431241951
+    second: flywrench_0
+  - first:
+      213: 1908444110281701117
+    second: flywrench_1
+  - first:
+      213: 7333534485798656152
+    second: flywrench_2
+  - first:
+      213: -8200233426778300249
+    second: flywrench_3
+  - first:
+      213: -2246779679417650231
+    second: flywrench_4
+  - first:
+      213: 7035897276220584903
+    second: flywrench_5
+  - first:
+      213: -3115050308611914027
+    second: flywrench_6
+  - first:
+      213: -6556929763350910149
+    second: flywrench_7
+  - first:
+      213: -1495330240094163497
+    second: flywrench_8
+  - first:
+      213: -7723354690540479290
+    second: flywrench_9
+  - first:
+      213: 7538805224408785044
+    second: flywrench_10
+  - first:
+      213: -8598319744559491764
+    second: flywrench_11
+  - first:
+      213: 6120219225346940479
+    second: flywrench_12
+  - first:
+      213: -410680556489701926
+    second: flywrench_13
+  - first:
+      213: 6264436262543480164
+    second: flywrench_14
+  - first:
+      213: 9121329064460121396
+    second: flywrench_15
+  - first:
+      213: -1498487822241840805
+    second: flywrench_16
+  - first:
+      213: 44085026880554735
+    second: flywrench_17
+  - first:
+      213: 8930959219488675730
+    second: flywrench_18
+  - first:
+      213: -3112361085775032961
+    second: flywrench_19
+  - first:
+      213: -4248677606269091687
+    second: flywrench_20
+  - first:
+      213: 8017626199089249212
+    second: flywrench_21
+  - first:
+      213: -1789966013788074874
+    second: flywrench_22
+  - first:
+      213: 7334771880988514606
+    second: flywrench_23
+  - first:
+      213: -4300259144396594739
+    second: flywrench_24
+  - first:
+      213: -6607016909723236500
+    second: flywrench_25
+  - first:
+      213: -5977525335341633107
+    second: flywrench_26
+  - first:
+      213: 4177414787433975205
+    second: flywrench_27
+  - first:
+      213: -6607455009046928220
+    second: flywrench_28
+  - first:
+      213: -1326332724853225085
+    second: flywrench_29
+  - first:
+      213: -4698086512029803487
+    second: flywrench_30
+  - first:
+      213: 3481910953172904439
+    second: flywrench_31
+  - first:
+      213: 471013607911981625
+    second: flywrench_32
+  - first:
+      213: 4666913388076174188
+    second: flywrench_33
+  - first:
+      213: 3166626959263976411
+    second: flywrench_34
+  - first:
+      213: -552544858334822873
+    second: flywrench_35
+  - first:
+      213: 1242787106234551362
+    second: flywrench_36
+  - first:
+      213: -7740722775733905093
+    second: flywrench_37
+  - first:
+      213: -2707251282792490296
+    second: flywrench_38
+  - first:
+      213: 4192739861376396150
+    second: flywrench_39
+  - first:
+      213: -4238088235069063448
+    second: flywrench_40
+  - first:
+      213: -4244458859299892792
+    second: flywrench_41
+  - first:
+      213: -7738052133732226564
+    second: flywrench_42
+  - first:
+      213: 7706965349341944593
+    second: flywrench_43
+  - first:
+      213: -8351373971612385403
+    second: flywrench_44
+  - first:
+      213: -1458844280879745856
+    second: flywrench_45
+  - first:
+      213: -3702312410552851274
+    second: flywrench_46
+  - first:
+      213: 959008194574810215
+    second: flywrench_47
+  - first:
+      213: -4303231994683361544
+    second: flywrench_48
+  - first:
+      213: 2126255931734239019
+    second: flywrench_49
+  - first:
+      213: -1618160355394853366
+    second: flywrench_50
+  - first:
+      213: 8566104787370746956
+    second: flywrench_51
+  - first:
+      213: -6981775545326459238
+    second: flywrench_52
+  - first:
+      213: 2325545502485300668
+    second: flywrench_53
+  - first:
+      213: -4725509026030518372
+    second: flywrench_54
+  - first:
+      213: 1125775572538215686
+    second: flywrench_55
+  - first:
+      213: 9125439544584998653
+    second: flywrench_56
+  - first:
+      213: -7535524611736536122
+    second: flywrench_57
+  - first:
+      213: 8803231568868388598
+    second: flywrench_58
+  - first:
+      213: 1956875948059412976
+    second: flywrench_59
+  - first:
+      213: -3887936153566846857
+    second: flywrench_60
+  - first:
+      213: 1433769203382869575
+    second: flywrench_61
+  - first:
+      213: -1007709732466665001
+    second: flywrench_62
+  - first:
+      213: -7255226212177940563
+    second: flywrench_63
+  - first:
+      213: 477447619997035392
+    second: flywrench_64
+  - first:
+      213: 3249146151891905763
+    second: flywrench_65
+  - first:
+      213: -1753979747847841139
+    second: flywrench_66
+  - first:
+      213: 5236849591684050776
+    second: flywrench_67
+  - first:
+      213: 4294057633280011432
+    second: flywrench_68
+  - first:
+      213: -1222938116906286345
+    second: flywrench_69
+  - first:
+      213: 6349403866709561990
+    second: flywrench_70
+  - first:
+      213: 4166276088098323704
+    second: flywrench_71
+  - first:
+      213: -6420346986524665612
+    second: flywrench_72
+  - first:
+      213: 2743842330341902616
+    second: flywrench_73
+  - first:
+      213: 715646739556185448
+    second: flywrench_74
+  - first:
+      213: -7451187921808219786
+    second: flywrench_75
+  - first:
+      213: 3318312475178529
+    second: flywrench_76
+  - first:
+      213: 8456796594677412309
+    second: flywrench_77
+  - first:
+      213: 3767039432150477016
+    second: flywrench_78
+  - first:
+      213: 6622499900784121396
+    second: flywrench_79
+  - first:
+      213: -6438811828518798223
+    second: flywrench_80
+  - first:
+      213: -2119002067486892179
+    second: flywrench_81
+  - first:
+      213: 3593584324187151389
+    second: flywrench_82
+  - first:
+      213: 895073461917692074
+    second: flywrench_83
+  - first:
+      213: 4448087400411691100
+    second: flywrench_84
+  - first:
+      213: 6201765925488468956
+    second: flywrench_85
+  - first:
+      213: 4531066001387745445
+    second: flywrench_86
+  - first:
+      213: -2684424994203982541
+    second: flywrench_87
+  - first:
+      213: 4999661634394587855
+    second: flywrench_88
+  - first:
+      213: 2376740276114326773
+    second: flywrench_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flywrench_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 392
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121d84a40ece47c90800000000000000
+      internalID: -7172847858431241951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6f6039ec72c7a10800000000000000
+      internalID: 1908444110281701117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 338
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8981b1692c2f5c560800000000000000
+      internalID: 7333534485798656152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 325
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a06891252be23e80800000000000000
+      internalID: -8200233426778300249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 305
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3beb719c5d1d0e0800000000000000
+      internalID: -2246779679417650231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 305
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c334418b4784a160800000000000000
+      internalID: 7035897276220584903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 305
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d647b1af3e15c4d0800000000000000
+      internalID: -3115050308611914027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b684ece1b1105a0800000000000000
+      internalID: -6556929763350910149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 291
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dda949b1158f3be0800000000000000
+      internalID: -1495330240094163497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 258
+        width: 136
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccdcfb34d121d490800000000000000
+      internalID: -7723354690540479290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 211
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490aeb7c8673f9860800000000000000
+      internalID: 7538805224408785044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 258
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45dd488fb1aca880800000000000000
+      internalID: -8598319744559491764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 260
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e125a85f26fe450800000000000000
+      internalID: 6120219225346940479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 265
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad58542b538fc4af0800000000000000
+      internalID: -410680556489701926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465daf2279fbfe650800000000000000
+      internalID: 6264436262543480164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 194
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435779e0578759e70800000000000000
+      internalID: 9121329064460121396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 231
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51c607d34d443be0800000000000000
+      internalID: -1498487822241840805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 247
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6012f291f9c9000800000000000000
+      internalID: 44085026880554735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 231
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2975f15871421fb70800000000000000
+      internalID: 8930959219488675730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 197
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d41ad151caec4d0800000000000000
+      internalID: -3112361085775032961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 206
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9908c214a3aa905c0800000000000000
+      internalID: -4248677606269091687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 217
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb74928c84544f60800000000000000
+      internalID: 8017626199089249212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 198
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cc324e463c827e0800000000000000
+      internalID: -1789966013788074874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 197
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2918da1a285ac560800000000000000
+      internalID: 7334771880988514606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 197
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1ad1887196254c0800000000000000
+      internalID: -4300259144396594739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 197
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6782f640292f44a0800000000000000
+      internalID: -6607016909723236500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da17017b0609b0da0800000000000000
+      internalID: -5977525335341633107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 200
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad4774cd9829f930800000000000000
+      internalID: 4177414787433975205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 191
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4e1645daa9d44a0800000000000000
+      internalID: -6607455009046928220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 191
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389c529f96be79de0800000000000000
+      internalID: -1326332724853225085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 177
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cd866753b0dceb0800000000000000
+      internalID: -4698086512029803487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 184
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9a96f509b325030800000000000000
+      internalID: 3481910953172904439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 177
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93208ff7160698600800000000000000
+      internalID: 471013607911981625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 177
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b8bc5000534c040800000000000000
+      internalID: 4666913388076174188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 177
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbca13217e12fb20800000000000000
+      internalID: 3166626959263976411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 77
+        width: 55
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72efb7cf067f458f0800000000000000
+      internalID: -552544858334822873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 164
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ccb8ed9444f3110800000000000000
+      internalID: 1242787106234551362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 164
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39da97c5ad639490800000000000000
+      internalID: -7740722775733905093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 157
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cade6b4d49ed6ad0800000000000000
+      internalID: -2707251282792490296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 157
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67be5f890ba9f2a30800000000000000
+      internalID: 4192739861376396150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 144
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee32fd54394f25c0800000000000000
+      internalID: -4238088235069063448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_41
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c19ba3d727a815c0800000000000000
+      internalID: -4244458859299892792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 143
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9ef63159aec9490800000000000000
+      internalID: -7738052133732226564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 143
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b55c7e624a4fa60800000000000000
+      internalID: 7706965349341944593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 130
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fb99bce95f91c80800000000000000
+      internalID: -8351373971612385403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_45
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 130
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c47d871bd421cbe0800000000000000
+      internalID: -1458844280879745856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 130
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b42a717a7ebe9cc0800000000000000
+      internalID: -3702312410552851274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_47
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 110
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cf1563fd41f4d00800000000000000
+      internalID: 959008194574810215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_48
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f67dc2ec49d744c0800000000000000
+      internalID: -4303231994683361544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_49
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 110
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b272698218af18d10800000000000000
+      internalID: 2126255931734239019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 97
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06e11beab32b89e0800000000000000
+      internalID: -1618160355394853366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44a1004beae0e670800000000000000
+      internalID: 8566104787370746956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 117
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96ae4fe120cb1f90800000000000000
+      internalID: -6981775545326459238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 117
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5c4a0305ff54020800000000000000
+      internalID: 2325545502485300668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_54
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 117
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f7c80e39e9b6eb0800000000000000
+      internalID: -4725509026030518372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 103
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dc3f92bee8f9f00800000000000000
+      internalID: 1125775572538215686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe8a4acae214ae70800000000000000
+      internalID: 9125439544584998653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 97
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbfa316a407c6790800000000000000
+      internalID: -7535524611736536122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 90
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fea7e9687c5b2a70800000000000000
+      internalID: 8803231568868388598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_59
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 103
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f946998e48382b10800000000000000
+      internalID: 1956875948059412976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770ef31eaa64b0ac0800000000000000
+      internalID: -3887936153566846857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 97
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ed7897e75c5e310800000000000000
+      internalID: 1433769203382869575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 97
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9de9f5655e302f0800000000000000
+      internalID: -1007709732466665001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_63
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 90
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafe70a2332405b90800000000000000
+      internalID: -7255226212177940563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b67cca41c30a600800000000000000
+      internalID: 477447619997035392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 68
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec28ded539471d20800000000000000
+      internalID: 3249146151891905763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_66
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8adc4a56bc98a7e0800000000000000
+      internalID: -1753979747847841139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_67
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 81
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f2a7625f60da840800000000000000
+      internalID: 5236849591684050776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_68
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aca5b4aaae879b30800000000000000
+      internalID: 4294057633280011432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f204871340470fe0800000000000000
+      internalID: -1222938116906286345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68217ba1d2d9d1850800000000000000
+      internalID: 6349403866709561990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_71
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcfd4b370691d930800000000000000
+      internalID: 4166276088098323704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_72
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f89275ae6856e6a0800000000000000
+      internalID: -6420346986524665612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_73
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 28
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81985bbdf06141620800000000000000
+      internalID: 2743842330341902616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_74
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865b9effaec7ee900800000000000000
+      internalID: 715646739556185448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_75
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 21
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671a0fd2010189890800000000000000
+      internalID: -7451187921808219786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_76
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1263654dcf9cb0000800000000000000
+      internalID: 3318312475178529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_77
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1fa7362b39c5570800000000000000
+      internalID: 8456796594677412309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_78
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8e738a766374430800000000000000
+      internalID: 3767039432150477016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4361c4f7298d7eb50800000000000000
+      internalID: 6622499900784121396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_80
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cbd8991ceb4a6a0800000000000000
+      internalID: -6438811828518798223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_81
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 14
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f1029b8dac792e0800000000000000
+      internalID: -2119002067486892179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_82
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 8
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c569937e9fed130800000000000000
+      internalID: 3593584324187151389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_83
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 8
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0bb714290fb6c00800000000000000
+      internalID: 895073461917692074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_84
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 14
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58fd677ce7cabd30800000000000000
+      internalID: 4448087400411691100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3acd83049111650800000000000000
+      internalID: 6201765925488468956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_86
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0f09a858491ee30800000000000000
+      internalID: 4531066001387745445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_87
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 14
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335aa42c0b10fbad0800000000000000
+      internalID: -2684424994203982541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_88
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc20d3364cd526540800000000000000
+      internalID: 4999661634394587855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flywrench_89
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4882940b0ebf020800000000000000
+      internalID: 2376740276114326773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

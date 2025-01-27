@@ -1,0 +1,1142 @@
+fileFormatVersion: 2
+guid: a6a98cae06aee8a4aaf008fae7374808
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4622423109117293718
+    second: iworldmenu_0
+  - first:
+      213: 2808633118589812103
+    second: iworldmenu_1
+  - first:
+      213: -6039616398139760235
+    second: iworldmenu_2
+  - first:
+      213: -8035860985997228054
+    second: iworldmenu_3
+  - first:
+      213: 7324744253804453693
+    second: iworldmenu_4
+  - first:
+      213: 742741627564800339
+    second: iworldmenu_5
+  - first:
+      213: -2580362020758432142
+    second: iworldmenu_6
+  - first:
+      213: 255840080733976727
+    second: iworldmenu_7
+  - first:
+      213: 5189430215356107549
+    second: iworldmenu_8
+  - first:
+      213: -7320175078499642055
+    second: iworldmenu_9
+  - first:
+      213: -7939081316318399747
+    second: iworldmenu_10
+  - first:
+      213: -4638909650231146261
+    second: iworldmenu_11
+  - first:
+      213: -1155020642129585116
+    second: iworldmenu_12
+  - first:
+      213: -1982307685681804430
+    second: iworldmenu_13
+  - first:
+      213: -8835813149821918092
+    second: iworldmenu_14
+  - first:
+      213: 6269483223881628079
+    second: iworldmenu_15
+  - first:
+      213: -4723514952191317780
+    second: iworldmenu_16
+  - first:
+      213: 1601202104361862821
+    second: iworldmenu_17
+  - first:
+      213: -123892247743606180
+    second: iworldmenu_18
+  - first:
+      213: -3815813002676701722
+    second: iworldmenu_19
+  - first:
+      213: -3362011983680164761
+    second: iworldmenu_20
+  - first:
+      213: -6287843826498581433
+    second: iworldmenu_21
+  - first:
+      213: -5621047976423821779
+    second: iworldmenu_22
+  - first:
+      213: -2730827261224818638
+    second: iworldmenu_23
+  - first:
+      213: 2649752384155873635
+    second: iworldmenu_24
+  - first:
+      213: -6315831451487146899
+    second: iworldmenu_25
+  - first:
+      213: -6127242455179045948
+    second: iworldmenu_26
+  - first:
+      213: -8284476926334270654
+    second: iworldmenu_27
+  - first:
+      213: -910199120741424482
+    second: iworldmenu_28
+  - first:
+      213: -2743185568309607951
+    second: iworldmenu_29
+  - first:
+      213: 8692811627014116623
+    second: iworldmenu_30
+  - first:
+      213: -1641592881134911124
+    second: iworldmenu_31
+  - first:
+      213: -579874909885537299
+    second: iworldmenu_32
+  - first:
+      213: -228656085629613986
+    second: iworldmenu_33
+  - first:
+      213: -1625856755549222794
+    second: iworldmenu_34
+  - first:
+      213: -905768093270067496
+    second: iworldmenu_35
+  - first:
+      213: 7550666357010779814
+    second: iworldmenu_36
+  - first:
+      213: -8553211265216526916
+    second: iworldmenu_37
+  - first:
+      213: -561932583013424795
+    second: iworldmenu_38
+  - first:
+      213: 1152002764429841892
+    second: iworldmenu_39
+  - first:
+      213: -3469987958309131450
+    second: iworldmenu_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iworldmenu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 940
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6943e7cb355262040800000000000000
+      internalID: 4622423109117293718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 431
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d71f9c0f44af620800000000000000
+      internalID: 2808633118589812103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 391
+        width: 176
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591614992e8fe2ca0800000000000000
+      internalID: -6039616398139760235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 371
+        width: 153
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae707315203ea7090800000000000000
+      internalID: -8035860985997228054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_4
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 433
+        width: 124
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f19963718b6a560800000000000000
+      internalID: 7324744253804453693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_5
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 486
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35935e6339fbe4a00800000000000000
+      internalID: 742741627564800339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_6
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 374
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276d8c8d966b03cd0800000000000000
+      internalID: -2580362020758432142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 383
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798b47ba23dec8300800000000000000
+      internalID: 255840080733976727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 393
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bcafc394f840840800000000000000
+      internalID: 5189430215356107549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_9
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 373
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9359c50dc83896a90800000000000000
+      internalID: -7320175078499642055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_10
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 390
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2b6e91b97b2d190800000000000000
+      internalID: -7939081316318399747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 271
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be847d840484f9fb0800000000000000
+      internalID: -4638909650231146261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_12
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 337
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c5f9578da88ffe0800000000000000
+      internalID: -1155020642129585116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_13
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 308
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bc86f99ad6d74e0800000000000000
+      internalID: -1982307685681804430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_14
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 332
+        width: 349
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474a32f11c2e06580800000000000000
+      internalID: -8835813149821918092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_15
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 285
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa93cb466cda10750800000000000000
+      internalID: 6269483223881628079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 257
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8e36f5d24b27eb0800000000000000
+      internalID: -4723514952191317780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6c81494dc983610800000000000000
+      internalID: 1601202104361862821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 226
+        width: 120
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5251d638a8d74ef0800000000000000
+      internalID: -123892247743606180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 226
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e573268a428b0bc0800000000000000
+      internalID: -3815813002676701722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 416
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c232ed9ebb751d0800000000000000
+      internalID: -3362011983680164761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_21
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 80
+        width: 361
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c4b6eaa571db8a0800000000000000
+      internalID: -6287843826498581433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_22
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 45
+        width: 108
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e64d3a5a60ef1b0800000000000000
+      internalID: -5621047976423821779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 139
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238edbf03172a1ad0800000000000000
+      internalID: -2730827261224818638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361fa5021cfc5c420800000000000000
+      internalID: 2649752384155873635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 158
+        width: 120
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c6ed0f1c8a958a0800000000000000
+      internalID: -6315831451487146899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 158
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c35c565379a7faa0800000000000000
+      internalID: -6127242455179045948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 139
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2430de7e020a70d80800000000000000
+      internalID: -8284476926334270654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92a55dd8b25e53f0800000000000000
+      internalID: -910199120741424482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 238
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f18de7724f3ee9d0800000000000000
+      internalID: -2743185568309607951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 82
+        width: 120
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05df874e1213a870800000000000000
+      internalID: 8692811627014116623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 82
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61c42ed8f3e739e0800000000000000
+      internalID: -1641592881134911124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de36c1e77ded3f7f0800000000000000
+      internalID: -579874909885537299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_33
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 21
+        width: 251
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58c0586086a3dcf0800000000000000
+      internalID: -228656085629613986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_34
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 12
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678c1dd15ebcf69e0800000000000000
+      internalID: -1625856755549222794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_35
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 10
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d631c7d7b01e63f0800000000000000
+      internalID: -905768093270067496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_36
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aece1beb0b59c860800000000000000
+      internalID: 7550666357010779814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_37
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb546efcba3ec4980800000000000000
+      internalID: -8553211265216526916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_38
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56164c10b4d9338f0800000000000000
+      internalID: -561932583013424795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_39
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5db12296cbcff00800000000000000
+      internalID: 1152002764429841892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iworldmenu_40
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64be912365028dfc0800000000000000
+      internalID: -3469987958309131450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

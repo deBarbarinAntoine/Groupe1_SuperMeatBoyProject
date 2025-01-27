@@ -1,0 +1,967 @@
+fileFormatVersion: 2
+guid: e25583cc3624c6048bb7b0214747b2ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3819013479549505871
+    second: 4bitdrfetuspickup_0
+  - first:
+      213: 4854852366034694617
+    second: 4bitdrfetuspickup_1
+  - first:
+      213: -1413164938197349535
+    second: 4bitdrfetuspickup_2
+  - first:
+      213: -4110223122318753597
+    second: 4bitdrfetuspickup_3
+  - first:
+      213: 8581476648466611097
+    second: 4bitdrfetuspickup_4
+  - first:
+      213: 6512821924472518595
+    second: 4bitdrfetuspickup_5
+  - first:
+      213: 316147483428683924
+    second: 4bitdrfetuspickup_6
+  - first:
+      213: 5431795867073229482
+    second: 4bitdrfetuspickup_7
+  - first:
+      213: 2431315582629924339
+    second: 4bitdrfetuspickup_8
+  - first:
+      213: -2816356690344568946
+    second: 4bitdrfetuspickup_9
+  - first:
+      213: 3014760656023641937
+    second: 4bitdrfetuspickup_10
+  - first:
+      213: -5085394215519941657
+    second: 4bitdrfetuspickup_11
+  - first:
+      213: -6831371761437977754
+    second: 4bitdrfetuspickup_12
+  - first:
+      213: -6928773559280250635
+    second: 4bitdrfetuspickup_13
+  - first:
+      213: -122909951354446090
+    second: 4bitdrfetuspickup_14
+  - first:
+      213: -664271805075313060
+    second: 4bitdrfetuspickup_15
+  - first:
+      213: 2329064635833922367
+    second: 4bitdrfetuspickup_16
+  - first:
+      213: 1190715534635163130
+    second: 4bitdrfetuspickup_17
+  - first:
+      213: 2374014413315766938
+    second: 4bitdrfetuspickup_18
+  - first:
+      213: -2653263728183809821
+    second: 4bitdrfetuspickup_19
+  - first:
+      213: 8345038860117415690
+    second: 4bitdrfetuspickup_20
+  - first:
+      213: 6208554880869286475
+    second: 4bitdrfetuspickup_21
+  - first:
+      213: 7842210098833265672
+    second: 4bitdrfetuspickup_22
+  - first:
+      213: 2313195986756817516
+    second: 4bitdrfetuspickup_23
+  - first:
+      213: 5095283575347027399
+    second: 4bitdrfetuspickup_24
+  - first:
+      213: 4639352051831822987
+    second: 4bitdrfetuspickup_25
+  - first:
+      213: 7153167300291134819
+    second: 4bitdrfetuspickup_26
+  - first:
+      213: -2744604228720823366
+    second: 4bitdrfetuspickup_27
+  - first:
+      213: 99946148271409074
+    second: 4bitdrfetuspickup_28
+  - first:
+      213: -6768398133492194555
+    second: 4bitdrfetuspickup_29
+  - first:
+      213: -3645628218177697223
+    second: 4bitdrfetuspickup_30
+  - first:
+      213: 3910328051640203444
+    second: 4bitdrfetuspickup_31
+  - first:
+      213: 5018083575931777785
+    second: 4bitdrfetuspickup_32
+  - first:
+      213: -4725329963143463022
+    second: 4bitdrfetuspickup_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 195
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bee50f6973200bc0800000000000000
+      internalID: -3819013479549505871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 195
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1767a3186ef5340800000000000000
+      internalID: 4854852366034694617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bc5b9d9fd636ce0800000000000000
+      internalID: -1413164938197349535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0089ed8dd85f6c0800000000000000
+      internalID: -4110223122318753597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b79209b87871770800000000000000
+      internalID: 8581476648466611097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c77f8da801326a50800000000000000
+      internalID: 6512821924472518595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490866e067e236400800000000000000
+      internalID: 316147483428683924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2b55def8d916b40800000000000000
+      internalID: 5431795867073229482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd478704a4cdb120800000000000000
+      internalID: 2431315582629924339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 136
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e879737038a4ae8d0800000000000000
+      internalID: -2816356690344568946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fdc1108d496d920800000000000000
+      internalID: 3014760656023641937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb8b1197ec0d69b0800000000000000
+      internalID: -5085394215519941657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 132
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663dadeb3971231a0800000000000000
+      internalID: -6831371761437977754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f05bf5782d08df90800000000000000
+      internalID: -6928773559280250635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe582aec065b4ef0800000000000000
+      internalID: -122909951354446090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ead20105808c6f0800000000000000
+      internalID: -664271805075313060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 123
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f333ec542ff725020800000000000000
+      internalID: 2329064635833922367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdd7765875468010800000000000000
+      internalID: 1190715534635163130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9af755e78132f020800000000000000
+      internalID: 2374014413315766938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8ec2262b6bd2bd0800000000000000
+      internalID: -2653263728183809821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07112e11a88fc370800000000000000
+      internalID: 8345038860117415690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b424bb215c7392650800000000000000
+      internalID: 6208554880869286475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80410faf88025dc60800000000000000
+      internalID: 7842210098833265672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62df7e7e7f1a1020800000000000000
+      internalID: 2313195986756817516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd11727a6516b640800000000000000
+      internalID: 5095283575347027399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a5a6d5c1a426040800000000000000
+      internalID: 4639352051831822987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3650bc0b2c7254360800000000000000
+      internalID: 7153167300291134819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_27
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab37f0adef439e9d0800000000000000
+      internalID: -2744604228720823366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 89
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7c2680e74136100800000000000000
+      internalID: 99946148271409074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503e7c212c1d112a0800000000000000
+      internalID: -6768398133492194555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 84
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ac0607370286dc0800000000000000
+      internalID: -3645628218177697223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8724925a6444630800000000000000
+      internalID: 3910328051640203444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2b2a4ec60d3a540800000000000000
+      internalID: 5018083575931777785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitdrfetuspickup_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ff2543f614c6eb0800000000000000
+      internalID: -4725329963143463022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

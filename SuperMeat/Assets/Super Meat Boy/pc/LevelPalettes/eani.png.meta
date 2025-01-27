@@ -1,0 +1,3517 @@
+fileFormatVersion: 2
+guid: 9331e21153c89804a9750778ef97405d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6101401291690607753
+    second: eani_0
+  - first:
+      213: 2593422182882671518
+    second: eani_1
+  - first:
+      213: -496124570043988743
+    second: eani_2
+  - first:
+      213: 6900577089138051203
+    second: eani_3
+  - first:
+      213: -8026961011529522105
+    second: eani_4
+  - first:
+      213: 4617443251029156902
+    second: eani_5
+  - first:
+      213: 827415346306677456
+    second: eani_6
+  - first:
+      213: 1349494913808245032
+    second: eani_7
+  - first:
+      213: -2417847183998966989
+    second: eani_8
+  - first:
+      213: -3221049670513707385
+    second: eani_9
+  - first:
+      213: -6725485735153682614
+    second: eani_10
+  - first:
+      213: -8325499670631474096
+    second: eani_11
+  - first:
+      213: 8134054626560494496
+    second: eani_12
+  - first:
+      213: 5863472343352366762
+    second: eani_13
+  - first:
+      213: 6942803970490080536
+    second: eani_14
+  - first:
+      213: -6306278750541205450
+    second: eani_15
+  - first:
+      213: -4074117642241022597
+    second: eani_16
+  - first:
+      213: -2000290657237870145
+    second: eani_17
+  - first:
+      213: 5810213192540012189
+    second: eani_18
+  - first:
+      213: 1850739468737969477
+    second: eani_19
+  - first:
+      213: -6877492977049512888
+    second: eani_20
+  - first:
+      213: -3810606647001681350
+    second: eani_21
+  - first:
+      213: -396882446522319369
+    second: eani_22
+  - first:
+      213: 6610108489659912918
+    second: eani_23
+  - first:
+      213: -4241160656443008361
+    second: eani_24
+  - first:
+      213: 8744404454733898974
+    second: eani_25
+  - first:
+      213: -591203120028738643
+    second: eani_26
+  - first:
+      213: 5079239087447103460
+    second: eani_27
+  - first:
+      213: -8979861888632501519
+    second: eani_28
+  - first:
+      213: 6012567575544181584
+    second: eani_29
+  - first:
+      213: 5348531554250211410
+    second: eani_30
+  - first:
+      213: -6844126256195268043
+    second: eani_31
+  - first:
+      213: 7745835557386611986
+    second: eani_32
+  - first:
+      213: -3537972373480324779
+    second: eani_33
+  - first:
+      213: 7101146791866065413
+    second: eani_34
+  - first:
+      213: 6728248636707214296
+    second: eani_35
+  - first:
+      213: 4692904564223113628
+    second: eani_36
+  - first:
+      213: 468739069439807240
+    second: eani_37
+  - first:
+      213: 5164089582923565859
+    second: eani_38
+  - first:
+      213: -1199916275721696563
+    second: eani_39
+  - first:
+      213: -5776543803393726672
+    second: eani_40
+  - first:
+      213: -4025090542606070709
+    second: eani_41
+  - first:
+      213: 4893871521629734315
+    second: eani_42
+  - first:
+      213: 9021531532273628077
+    second: eani_43
+  - first:
+      213: 882895064306205824
+    second: eani_44
+  - first:
+      213: -4324327662711796572
+    second: eani_45
+  - first:
+      213: -3109742777501453806
+    second: eani_46
+  - first:
+      213: -549938705294614473
+    second: eani_47
+  - first:
+      213: -3930876290911315652
+    second: eani_48
+  - first:
+      213: -4282518660335233057
+    second: eani_49
+  - first:
+      213: 390460161722542749
+    second: eani_50
+  - first:
+      213: 7954235676855246859
+    second: eani_51
+  - first:
+      213: -1557115054605822260
+    second: eani_52
+  - first:
+      213: -3582387889908743912
+    second: eani_53
+  - first:
+      213: -1940995972458851017
+    second: eani_54
+  - first:
+      213: 888680299753791604
+    second: eani_55
+  - first:
+      213: 2580625514121361621
+    second: eani_56
+  - first:
+      213: -2136662982263074819
+    second: eani_57
+  - first:
+      213: 4770367488575105739
+    second: eani_58
+  - first:
+      213: -7808539936459901722
+    second: eani_59
+  - first:
+      213: 7411013942296891972
+    second: eani_60
+  - first:
+      213: -1142707324277140822
+    second: eani_61
+  - first:
+      213: -8139813751140338697
+    second: eani_62
+  - first:
+      213: -7537069324847879488
+    second: eani_63
+  - first:
+      213: 6520402798589618303
+    second: eani_64
+  - first:
+      213: -2581031350792172773
+    second: eani_65
+  - first:
+      213: 9165270093890196814
+    second: eani_66
+  - first:
+      213: -5308625964447356928
+    second: eani_67
+  - first:
+      213: 5577793612396120067
+    second: eani_68
+  - first:
+      213: -5209957832647199082
+    second: eani_69
+  - first:
+      213: 651676580941540946
+    second: eani_70
+  - first:
+      213: 6375897700440701867
+    second: eani_71
+  - first:
+      213: -3014235721505413827
+    second: eani_72
+  - first:
+      213: 5890589706027136989
+    second: eani_73
+  - first:
+      213: 8616373289554281965
+    second: eani_74
+  - first:
+      213: 7536343797562645281
+    second: eani_75
+  - first:
+      213: -996772947883564813
+    second: eani_76
+  - first:
+      213: 3813339811516053680
+    second: eani_77
+  - first:
+      213: 3605518380517740710
+    second: eani_78
+  - first:
+      213: 62584501369216127
+    second: eani_79
+  - first:
+      213: 8766229337255930268
+    second: eani_80
+  - first:
+      213: -2538954480845600664
+    second: eani_81
+  - first:
+      213: -4585473728862127376
+    second: eani_82
+  - first:
+      213: 2932601790379591327
+    second: eani_83
+  - first:
+      213: -4543413863042979837
+    second: eani_84
+  - first:
+      213: -7881014214028227538
+    second: eani_85
+  - first:
+      213: 6597093936668081975
+    second: eani_86
+  - first:
+      213: 7425957720033418451
+    second: eani_87
+  - first:
+      213: -6775540405511340270
+    second: eani_88
+  - first:
+      213: -7475191014581998198
+    second: eani_89
+  - first:
+      213: 8579010859312145719
+    second: eani_90
+  - first:
+      213: -6157134681573844771
+    second: eani_91
+  - first:
+      213: -5692799568914261291
+    second: eani_92
+  - first:
+      213: -7376824292655937440
+    second: eani_93
+  - first:
+      213: 5576203814775956070
+    second: eani_94
+  - first:
+      213: -5946554616057305877
+    second: eani_95
+  - first:
+      213: 2473600672534124051
+    second: eani_96
+  - first:
+      213: 6844098329833102416
+    second: eani_97
+  - first:
+      213: 7517826520869595182
+    second: eani_98
+  - first:
+      213: -4303673161665410292
+    second: eani_99
+  - first:
+      213: 8776905529157824936
+    second: eani_100
+  - first:
+      213: 1563068749064886668
+    second: eani_101
+  - first:
+      213: 5135011351034654410
+    second: eani_102
+  - first:
+      213: 6444069644968831607
+    second: eani_103
+  - first:
+      213: 5788519454885314465
+    second: eani_104
+  - first:
+      213: 2632524396466017336
+    second: eani_105
+  - first:
+      213: 4861235368170111036
+    second: eani_106
+  - first:
+      213: 8204278507983629695
+    second: eani_107
+  - first:
+      213: -2029606335958557355
+    second: eani_108
+  - first:
+      213: 281631363625844019
+    second: eani_109
+  - first:
+      213: 8268723247381681197
+    second: eani_110
+  - first:
+      213: -94320058613429217
+    second: eani_111
+  - first:
+      213: -5769659155808161817
+    second: eani_112
+  - first:
+      213: 1051817792302486867
+    second: eani_113
+  - first:
+      213: -4384046480400641953
+    second: eani_114
+  - first:
+      213: 3872118058192348473
+    second: eani_115
+  - first:
+      213: -1695996173898310682
+    second: eani_116
+  - first:
+      213: -8881596156264409654
+    second: eani_117
+  - first:
+      213: 633907574149939056
+    second: eani_118
+  - first:
+      213: -5672365160304598645
+    second: eani_119
+  - first:
+      213: -1111282390417514525
+    second: eani_120
+  - first:
+      213: -3644651205645265685
+    second: eani_121
+  - first:
+      213: 5416676403416697359
+    second: eani_122
+  - first:
+      213: -457503582312922183
+    second: eani_123
+  - first:
+      213: -6206340528814512615
+    second: eani_124
+  - first:
+      213: -2153912005566521812
+    second: eani_125
+  - first:
+      213: -4545797467075383679
+    second: eani_126
+  - first:
+      213: -6200791456166390217
+    second: eani_127
+  - first:
+      213: -4531885731625453806
+    second: eani_128
+  - first:
+      213: 3002994617384626183
+    second: eani_129
+  - first:
+      213: 4953976065545726965
+    second: eani_130
+  - first:
+      213: -7818145444654113935
+    second: eani_131
+  - first:
+      213: 3188220740411127976
+    second: eani_132
+  - first:
+      213: 2780746731752411880
+    second: eani_133
+  - first:
+      213: -2604494189617790616
+    second: eani_134
+  - first:
+      213: -8739392798252919090
+    second: eani_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eani_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 736
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984045fe5288ca450800000000000000
+      internalID: 6101401291690607753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 380
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bf65b1cbfadf320800000000000000
+      internalID: 2593422182882671518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 489
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f44f2605596d19f0800000000000000
+      internalID: -496124570043988743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_3
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 325
+        width: 173
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388c54f3d46c3cf50800000000000000
+      internalID: 6900577089138051203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_4
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 484
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7446fd91d718a9090800000000000000
+      internalID: -8026961011529522105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 456
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6242e1c2c24741040800000000000000
+      internalID: 4617443251029156902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 454
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daf056afd19b7b00800000000000000
+      internalID: 827415346306677456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_7
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 474
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821acb3697e5ab210800000000000000
+      internalID: 1349494913808245032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_8
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 470
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3332094ebc4127ed0800000000000000
+      internalID: -2417847183998966989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_9
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7863429f3688c43d0800000000000000
+      internalID: -3221049670513707385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_10
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 468
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4735366b564aa2a0800000000000000
+      internalID: -6725485735153682614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 452
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c1162f822e57c80800000000000000
+      internalID: -8325499670631474096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 464
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abc2c73697f1e070800000000000000
+      internalID: 8134054626560494496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 446
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa658dfb70d3f5150800000000000000
+      internalID: 5863472343352366762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d9b363d6bc95060800000000000000
+      internalID: 6942803970490080536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_15
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 426
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630b56373e89b78a0800000000000000
+      internalID: -6306278750541205450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_16
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 401
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7562190793d577c0800000000000000
+      internalID: -4074117642241022597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 397
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9ddc7ce3a8d34e0800000000000000
+      internalID: -2000290657237870145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 408
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eb2a26d1602a050800000000000000
+      internalID: 5810213192540012189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 410
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dfbedbdb52fa910800000000000000
+      internalID: 1850739468737969477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_20
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 374
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84458bd639c3e80a0800000000000000
+      internalID: -6877492977049512888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 363
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32f8baa1710e1bc0800000000000000
+      internalID: -3810606647001681350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 388
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf275848dfd7af0800000000000000
+      internalID: -396882446522319369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 389
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d219f446a2dbbb50800000000000000
+      internalID: 6610108489659912918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 376
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a1a558ade5425c0800000000000000
+      internalID: -4241160656443008361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_25
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 398
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4e1c0958d5a5970800000000000000
+      internalID: 8744404454733898974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 273
+        width: 98
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab959805ef9bc7f0800000000000000
+      internalID: -591203120028738643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 352
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e750900a051d7640800000000000000
+      internalID: 5079239087447103460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 362
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1facdfb803f116380800000000000000
+      internalID: -8979861888632501519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_29
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 374
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053b750aa5ee07350800000000000000
+      internalID: 6012567575544181584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_30
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 379
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2504d016c1dc93a40800000000000000
+      internalID: 5348531554250211410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_31
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 375
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5329e858e67c401a0800000000000000
+      internalID: -6844126256195268043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d6e96766cbe7b60800000000000000
+      internalID: 7745835557386611986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_33
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 357
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5514f8d0fd896eec0800000000000000
+      internalID: -3537972373480324779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 344
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502e41b32675c8260800000000000000
+      internalID: 7101146791866065413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_35
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 353
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3907fbc7a8f5d50800000000000000
+      internalID: 6728248636707214296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 332
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99f35b46db802140800000000000000
+      internalID: 4692904564223113628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_37
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 359
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f8e4e33bb418600800000000000000
+      internalID: 468739069439807240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 340
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b447a7d188aa740800000000000000
+      internalID: 5164089582923565859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_39
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 351
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca0661318a095fe0800000000000000
+      internalID: -1199916275721696563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_40
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 340
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037ab39240895dfa0800000000000000
+      internalID: -5776543803393726672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 320
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c4e233a710428c0800000000000000
+      internalID: -4025090542606070709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_42
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 210
+        width: 77
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5042758368ae340800000000000000
+      internalID: 4893871521629734315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_43
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 327
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3b727612be23d70800000000000000
+      internalID: 9021531532273628077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 341
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084cae9126ca04c00800000000000000
+      internalID: 882895064306205824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_45
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 343
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac0babe6e6ecf3c0800000000000000
+      internalID: -4324327662711796572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 316
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21270348b69f7d4d0800000000000000
+      internalID: -3109742777501453806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_47
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 330
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7302da649a93e58f0800000000000000
+      internalID: -549938705294614473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 333
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39d93017d8b279c0800000000000000
+      internalID: -3930876290911315652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_49
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 309
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd79cbad7ff6194c0800000000000000
+      internalID: -4282518660335233057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_50
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 307
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ae966c2713b6500800000000000000
+      internalID: 390460161722542749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_51
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 314
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0022ba643f136e60800000000000000
+      internalID: 7954235676855246859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_52
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 314
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc69ec79b14046ae0800000000000000
+      internalID: -1557115054605822260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_53
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 319
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8110456c13dc84ec0800000000000000
+      internalID: -3582387889908743912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_54
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 300
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735502762723015e0800000000000000
+      internalID: -1940995972458851017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 307
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47066b1360a355c00800000000000000
+      internalID: 888680299753791604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_56
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 293
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8738b7b3930d320800000000000000
+      internalID: 2580625514121361621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_57
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 307
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff8b71965c0952e0800000000000000
+      internalID: -2136662982263074819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_58
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 303
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca6794d4ffb33240800000000000000
+      internalID: 4770367488575105739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 263
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e43bd89c4e72a390800000000000000
+      internalID: -7808539936459901722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_60
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 263
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442d2105ae539d660800000000000000
+      internalID: 7411013942296891972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_61
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2593e2eb94420f0800000000000000
+      internalID: -1142707324277140822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_62
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 280
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3b0791582990f80800000000000000
+      internalID: -8139813751140338697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_63
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 273
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cae2f4d163f66790800000000000000
+      internalID: -7537069324847879488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_64
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 280
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78a56a7ccf1d7a50800000000000000
+      internalID: 6520402798589618303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_65
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 283
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bc2ed49a55e2cd0800000000000000
+      internalID: -2581031350792172773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4516d83794913f70800000000000000
+      internalID: 9165270093890196814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_67
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 273
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00823b7cfc8f356b0800000000000000
+      internalID: -5308625964447356928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_68
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 261
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3084051fcbd486d40800000000000000
+      internalID: 5577793612396120067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_69
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 259
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696bc4a64f282b7b0800000000000000
+      internalID: -5209957832647199082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 185
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e267bc5683b0900800000000000000
+      internalID: 651676580941540946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_71
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 205
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab7ff67d2dbb7850800000000000000
+      internalID: 6375897700440701867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_72
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 232
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d356066d4984b26d0800000000000000
+      internalID: -3014235721505413827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_73
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 251
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7f151c0249fb150800000000000000
+      internalID: 5890589706027136989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_74
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 237
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de50c08fad1839770800000000000000
+      internalID: 8616373289554281965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_75
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 254
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b90fe21c8769860800000000000000
+      internalID: 7536343797562645281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_76
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 243
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f06ea7f840ca22f0800000000000000
+      internalID: -996772947883564813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_77
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 244
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8f449ca54bbe430800000000000000
+      internalID: 3813339811516053680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_78
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 236
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0d6ed3ddf590230800000000000000
+      internalID: 3605518380517740710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_79
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 232
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c9e8cb5485ed000800000000000000
+      internalID: 62584501369216127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_80
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 220
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c996fb20327e7a970800000000000000
+      internalID: 8766229337255930268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_81
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 232
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868cf440a52d3ccd0800000000000000
+      internalID: -2538954480845600664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_82
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 217
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa794040ff1d50c0800000000000000
+      internalID: -4585473728862127376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 211
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96004f6ac1b2b820800000000000000
+      internalID: 2932601790379591327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_84
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 200
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308ecb1e92d82f0c0800000000000000
+      internalID: -4543413863042979837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_85
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 217
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c0b07e35301a290800000000000000
+      internalID: -7881014214028227538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_86
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 154
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ffbf48bf59d8b50800000000000000
+      internalID: 6597093936668081975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_87
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 197
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc59a3b33d4e0760800000000000000
+      internalID: 7425957720033418451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_88
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 197
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fb03846e178f1a0800000000000000
+      internalID: -6775540405511340270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_89
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 152
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8de5a3a069c24890800000000000000
+      internalID: -7475191014581998198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_90
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 199
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735e4894ce4ce0770800000000000000
+      internalID: 8579010859312145719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_91
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 186
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd89d8601a67d8aa0800000000000000
+      internalID: -6157134681573844771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_92
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 188
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da5e5d24fc1ff0b0800000000000000
+      internalID: -5692799568914261291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_93
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 171
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06845c1d36140a990800000000000000
+      internalID: -7376824292655937440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_94
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 184
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66226e653d7a26d40800000000000000
+      internalID: 5576203814775956070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_95
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 183
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4e1783518997da0800000000000000
+      internalID: -5946554616057305877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_96
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 177
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316509ab4bef35220800000000000000
+      internalID: 2473600672534124051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_97
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 160
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cdb8d5b2f1bfe50800000000000000
+      internalID: 6844098329833102416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_98
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 179
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28617bb36fa45860800000000000000
+      internalID: 7517826520869595182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b0d81bf084644c0800000000000000
+      internalID: -4303673161665410292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_100
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 156
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a13d94a315ddc970800000000000000
+      internalID: 8776905529157824936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_101
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 137
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89d68beeb221b510800000000000000
+      internalID: 1563068749064886668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_102
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 152
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acee4080e99334740800000000000000
+      internalID: 5135011351034654410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_103
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 54
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aae30333fed6950800000000000000
+      internalID: 6444069644968831607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_104
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 124
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af70eb76c3f45050800000000000000
+      internalID: 5788519454885314465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83418e9adfa988420800000000000000
+      internalID: 2632524396466017336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_106
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 110
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c304859bfc3967340800000000000000
+      internalID: 4861235368170111036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_107
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 107
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d6cbab5d37bd170800000000000000
+      internalID: 8204278507983629695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_108
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 113
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dde4f6ac365d3e0800000000000000
+      internalID: -2029606335958557355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_109
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 118
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33df68aab3e88e300800000000000000
+      internalID: 281631363625844019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_110
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 89
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d241332ebf760c270800000000000000
+      internalID: 8268723247381681197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_111
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 105
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c072b0868e0bef0800000000000000
+      internalID: -94320058613429217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_112
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 111
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef69f6119d0eefa0800000000000000
+      internalID: -5769659155808161817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_113
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 93
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35510a695bec89e00800000000000000
+      internalID: 1051817792302486867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_114
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 98
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f501be824fcb823c0800000000000000
+      internalID: -4384046480400641953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9352eeacbd68cb530800000000000000
+      internalID: 3872118058192348473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_116
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb9e52377c9678e0800000000000000
+      internalID: -1695996173898310682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_117
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 70
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac592634a5b3eb480800000000000000
+      internalID: -8881596156264409654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_118
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 60
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ff2a184971cc800800000000000000
+      internalID: 633907574149939056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_119
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 53
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b812ebfa0f5b741b0800000000000000
+      internalID: -5672365160304598645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_120
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 54
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef5402cd8ee390f0800000000000000
+      internalID: -1111282390417514525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_121
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 54
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be49055e9099b6dc0800000000000000
+      internalID: -3644651205645265685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_122
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 20
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a84e87d76eb2b40800000000000000
+      internalID: 5416676403416697359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_123
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 27
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b305c47aee96a9f0800000000000000
+      internalID: -457503582312922183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_124
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916a6e0fb26aed9a0800000000000000
+      internalID: -6206340528814512615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_125
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 4
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e12ce5174cb12e0800000000000000
+      internalID: -2153912005566521812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_126
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 279
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ee912d9451ae0c0800000000000000
+      internalID: -4545797467075383679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_127
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 158
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736dce8160d52f9a0800000000000000
+      internalID: -6200791456166390217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_128
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 22
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217bdc320f18b11c0800000000000000
+      internalID: -4531885731625453806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_129
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708ee97a1b7cca920800000000000000
+      internalID: 3002994617384626183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_130
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbe3acfbfe00c440800000000000000
+      internalID: 4953976065545726965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_131
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b9d01f32e508390800000000000000
+      internalID: -7818145444654113935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_132
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8fcb91fd5de3c20800000000000000
+      internalID: 3188220740411127976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_133
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e25e646b62379620800000000000000
+      internalID: 2780746731752411880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_134
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8614340755afadbd0800000000000000
+      internalID: -2604494189617790616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eani_135
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec61783ad8077b680800000000000000
+      internalID: -8739392798252919090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

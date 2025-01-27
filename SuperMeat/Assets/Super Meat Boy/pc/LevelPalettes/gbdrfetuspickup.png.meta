@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 8e0e92b5082e5654dbeda13ab98bc845
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2498875073184776103
+    second: gbdrfetuspickup_0
+  - first:
+      213: -7327239972612429305
+    second: gbdrfetuspickup_1
+  - first:
+      213: -633131335658969340
+    second: gbdrfetuspickup_2
+  - first:
+      213: 176590967290225973
+    second: gbdrfetuspickup_3
+  - first:
+      213: -7468219652849379786
+    second: gbdrfetuspickup_4
+  - first:
+      213: 7618508182227038797
+    second: gbdrfetuspickup_5
+  - first:
+      213: 6097270584836471435
+    second: gbdrfetuspickup_6
+  - first:
+      213: 1431692905407672183
+    second: gbdrfetuspickup_7
+  - first:
+      213: 3726348414496437043
+    second: gbdrfetuspickup_8
+  - first:
+      213: -7279605302242684286
+    second: gbdrfetuspickup_9
+  - first:
+      213: -1796173036975626508
+    second: gbdrfetuspickup_10
+  - first:
+      213: 1448352944077348116
+    second: gbdrfetuspickup_11
+  - first:
+      213: -4404641722469550938
+    second: gbdrfetuspickup_12
+  - first:
+      213: -6660291877463454902
+    second: gbdrfetuspickup_13
+  - first:
+      213: -894148594543306124
+    second: gbdrfetuspickup_14
+  - first:
+      213: 654893378772515406
+    second: gbdrfetuspickup_15
+  - first:
+      213: -5587538131967557140
+    second: gbdrfetuspickup_16
+  - first:
+      213: -4065743442556007260
+    second: gbdrfetuspickup_17
+  - first:
+      213: 3793811517816094252
+    second: gbdrfetuspickup_18
+  - first:
+      213: -1576524153686399670
+    second: gbdrfetuspickup_19
+  - first:
+      213: 1474964957598448673
+    second: gbdrfetuspickup_20
+  - first:
+      213: -1191020388020939585
+    second: gbdrfetuspickup_21
+  - first:
+      213: -5184672776233294127
+    second: gbdrfetuspickup_22
+  - first:
+      213: 844441624245893135
+    second: gbdrfetuspickup_23
+  - first:
+      213: 7334725843156247520
+    second: gbdrfetuspickup_24
+  - first:
+      213: 3395555418389938090
+    second: gbdrfetuspickup_25
+  - first:
+      213: -7830921102610006301
+    second: gbdrfetuspickup_26
+  - first:
+      213: 5883956289724934858
+    second: gbdrfetuspickup_27
+  - first:
+      213: 2382341332654355380
+    second: gbdrfetuspickup_28
+  - first:
+      213: 8446233478510229238
+    second: gbdrfetuspickup_29
+  - first:
+      213: 5890821621351970885
+    second: gbdrfetuspickup_30
+  - first:
+      213: -4095292503087055590
+    second: gbdrfetuspickup_31
+  - first:
+      213: -8684423322477779288
+    second: gbdrfetuspickup_32
+  - first:
+      213: -7825376033675724116
+    second: gbdrfetuspickup_33
+  - first:
+      213: 2910931583590365089
+    second: gbdrfetuspickup_34
+  - first:
+      213: -8547134236658877821
+    second: gbdrfetuspickup_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gbdrfetuspickup_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 195
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afb143b3a9cda220800000000000000
+      internalID: 2498875073184776103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 195
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aa468f01a605a90800000000000000
+      internalID: -7327239972612429305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407e0e9976aa637f0800000000000000
+      internalID: -633131335658969340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53560e39c80637200800000000000000
+      internalID: 176590967290225973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63652574bcd8b5890800000000000000
+      internalID: -7468219652849379786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42bc00c3d06ab960800000000000000
+      internalID: 7618508182227038797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8abd9cca4bdd9450800000000000000
+      internalID: 6097270584836471435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f654eac156ed310800000000000000
+      internalID: 1431692905407672183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 143
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3337663d326a6b330800000000000000
+      internalID: 3726348414496437043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28256ceeb85a9fa90800000000000000
+      internalID: -7279605302242684286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 136
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6eeefa326b217e0800000000000000
+      internalID: -1796173036975626508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d1f153455991410800000000000000
+      internalID: 1448352944077348116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a47651b0b19fd2c0800000000000000
+      internalID: -4404641722469550938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 132
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b0f5f33d3e193a0800000000000000
+      internalID: -6660291877463454902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ad4d537985793f0800000000000000
+      internalID: -894148594543306124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4abd77ee06a61900800000000000000
+      internalID: 654893378772515406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1cf1b4ca31572b0800000000000000
+      internalID: -5587538131967557140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 123
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac439651e39397c0800000000000000
+      internalID: -4065743442556007260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb638997356a430800000000000000
+      internalID: 3793811517816094252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45e2bf82af0f1ae0800000000000000
+      internalID: -1576524153686399670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cfdc170d0287410800000000000000
+      internalID: 1474964957598448673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb493c37445a87fe0800000000000000
+      internalID: -1191020388020939585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6e9ff54975c08b0800000000000000
+      internalID: -5184672776233294127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08fab6ee2f08bb00800000000000000
+      internalID: 844441624245893135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3a4361b4e2ac560800000000000000
+      internalID: 7334725843156247520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaff840a9af6f1f20800000000000000
+      internalID: 3395555418389938090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eef1d64fbaf25390800000000000000
+      internalID: -7830921102610006301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaeafa221308a150800000000000000
+      internalID: 5883956289724934858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3f792e1d6cf0120800000000000000
+      internalID: 2382341332654355380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f63d90499c073570800000000000000
+      internalID: 8446233478510229238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 89
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548ffdfbd0760c150800000000000000
+      internalID: 5890821621351970885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dfc2e8a299a27c0800000000000000
+      internalID: -4095292503087055590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 84
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a62890100bba7780800000000000000
+      internalID: -8684423322477779288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa37ee35fda66390800000000000000
+      internalID: -7825376033675724116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a77e5d3ad4b56820800000000000000
+      internalID: 2910931583590365089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gbdrfetuspickup_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a3e5842ba726980800000000000000
+      internalID: -8547134236658877821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

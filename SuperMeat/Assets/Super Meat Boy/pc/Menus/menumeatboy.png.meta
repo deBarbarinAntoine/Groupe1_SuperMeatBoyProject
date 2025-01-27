@@ -1,0 +1,4717 @@
+fileFormatVersion: 2
+guid: 1e0273f6dd3d96548b44b0c953acfcf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1209041839898781005
+    second: menumeatboy_0
+  - first:
+      213: -2223255747626938273
+    second: menumeatboy_1
+  - first:
+      213: -2290355388878319476
+    second: menumeatboy_2
+  - first:
+      213: -8849210598139600942
+    second: menumeatboy_3
+  - first:
+      213: 1128128982129352231
+    second: menumeatboy_4
+  - first:
+      213: 8006276415339425169
+    second: menumeatboy_5
+  - first:
+      213: -1565753085244163037
+    second: menumeatboy_6
+  - first:
+      213: -4646212996471072720
+    second: menumeatboy_7
+  - first:
+      213: -4204721583065109168
+    second: menumeatboy_8
+  - first:
+      213: 4872770287631690673
+    second: menumeatboy_9
+  - first:
+      213: -5812637458543325257
+    second: menumeatboy_10
+  - first:
+      213: 6375903540778253177
+    second: menumeatboy_11
+  - first:
+      213: -1900910260595200483
+    second: menumeatboy_12
+  - first:
+      213: -5857559715851824350
+    second: menumeatboy_13
+  - first:
+      213: 7319513472275250319
+    second: menumeatboy_14
+  - first:
+      213: -2046108481927927129
+    second: menumeatboy_15
+  - first:
+      213: 3469842587863809860
+    second: menumeatboy_16
+  - first:
+      213: 5588654516615363070
+    second: menumeatboy_17
+  - first:
+      213: -873476815915887509
+    second: menumeatboy_18
+  - first:
+      213: -3196469624803045889
+    second: menumeatboy_19
+  - first:
+      213: 8063641276203694772
+    second: menumeatboy_20
+  - first:
+      213: -7148354955771574959
+    second: menumeatboy_21
+  - first:
+      213: 3545306261473322025
+    second: menumeatboy_22
+  - first:
+      213: 952056463157568435
+    second: menumeatboy_23
+  - first:
+      213: -3128992937683101650
+    second: menumeatboy_24
+  - first:
+      213: 7914989394324572474
+    second: menumeatboy_25
+  - first:
+      213: 7974524533019097120
+    second: menumeatboy_26
+  - first:
+      213: -1709718059765258619
+    second: menumeatboy_27
+  - first:
+      213: 4919351612515419764
+    second: menumeatboy_28
+  - first:
+      213: -6467904669855381996
+    second: menumeatboy_29
+  - first:
+      213: -8448775803768724471
+    second: menumeatboy_30
+  - first:
+      213: 6605588161402967485
+    second: menumeatboy_31
+  - first:
+      213: 1194600833364701793
+    second: menumeatboy_32
+  - first:
+      213: -6674834128586647597
+    second: menumeatboy_33
+  - first:
+      213: -2310826604452881239
+    second: menumeatboy_34
+  - first:
+      213: 435407283015128000
+    second: menumeatboy_35
+  - first:
+      213: 7773032490621931786
+    second: menumeatboy_36
+  - first:
+      213: -4119408527440251327
+    second: menumeatboy_37
+  - first:
+      213: -8960651082912349838
+    second: menumeatboy_38
+  - first:
+      213: 1850235139572912865
+    second: menumeatboy_39
+  - first:
+      213: -4759135843065901210
+    second: menumeatboy_40
+  - first:
+      213: 7465839519881132930
+    second: menumeatboy_41
+  - first:
+      213: 7905061123396589880
+    second: menumeatboy_42
+  - first:
+      213: 2296478494577794490
+    second: menumeatboy_43
+  - first:
+      213: 5728351936361271998
+    second: menumeatboy_44
+  - first:
+      213: 8555726027752095762
+    second: menumeatboy_45
+  - first:
+      213: -4214890462606339946
+    second: menumeatboy_46
+  - first:
+      213: -2663872307361441055
+    second: menumeatboy_47
+  - first:
+      213: -5357190319175047942
+    second: menumeatboy_48
+  - first:
+      213: -4383852482839994507
+    second: menumeatboy_49
+  - first:
+      213: -18036250982520916
+    second: menumeatboy_50
+  - first:
+      213: 6024674178410926710
+    second: menumeatboy_51
+  - first:
+      213: 8494489391789046300
+    second: menumeatboy_52
+  - first:
+      213: -4351303546574870840
+    second: menumeatboy_53
+  - first:
+      213: 1309242846576434380
+    second: menumeatboy_54
+  - first:
+      213: 5932797598568052078
+    second: menumeatboy_55
+  - first:
+      213: 7897720028724149609
+    second: menumeatboy_56
+  - first:
+      213: -5075747127039044037
+    second: menumeatboy_57
+  - first:
+      213: 3474697788790206162
+    second: menumeatboy_58
+  - first:
+      213: 8471399668816578755
+    second: menumeatboy_59
+  - first:
+      213: -2118152529485507546
+    second: menumeatboy_60
+  - first:
+      213: 7659424414424510367
+    second: menumeatboy_61
+  - first:
+      213: 8209828420113363719
+    second: menumeatboy_62
+  - first:
+      213: -4509145863339596940
+    second: menumeatboy_63
+  - first:
+      213: 8722628068021041720
+    second: menumeatboy_64
+  - first:
+      213: -2614372543804243649
+    second: menumeatboy_65
+  - first:
+      213: 4283548369094189837
+    second: menumeatboy_66
+  - first:
+      213: 1696200163483808220
+    second: menumeatboy_67
+  - first:
+      213: -8101587911863274535
+    second: menumeatboy_68
+  - first:
+      213: -3365065968702644092
+    second: menumeatboy_69
+  - first:
+      213: 525691496084035794
+    second: menumeatboy_70
+  - first:
+      213: -8915838439928423862
+    second: menumeatboy_71
+  - first:
+      213: 398064830536425218
+    second: menumeatboy_72
+  - first:
+      213: 4346135664340402831
+    second: menumeatboy_73
+  - first:
+      213: -6109945126740860788
+    second: menumeatboy_74
+  - first:
+      213: 7214929522600490976
+    second: menumeatboy_75
+  - first:
+      213: 7918349230159373637
+    second: menumeatboy_76
+  - first:
+      213: -2959080747365105335
+    second: menumeatboy_77
+  - first:
+      213: -8300871682689604721
+    second: menumeatboy_78
+  - first:
+      213: 9163266120872903828
+    second: menumeatboy_79
+  - first:
+      213: -7729697367106004764
+    second: menumeatboy_80
+  - first:
+      213: -8054381072585748184
+    second: menumeatboy_81
+  - first:
+      213: -2181027872222717633
+    second: menumeatboy_82
+  - first:
+      213: 2924561436974658726
+    second: menumeatboy_83
+  - first:
+      213: -6460584437503228482
+    second: menumeatboy_84
+  - first:
+      213: -5497869860941798668
+    second: menumeatboy_85
+  - first:
+      213: 8336856968279415307
+    second: menumeatboy_86
+  - first:
+      213: -5057611360882445902
+    second: menumeatboy_87
+  - first:
+      213: 2238664727775553816
+    second: menumeatboy_88
+  - first:
+      213: 3399328838958950501
+    second: menumeatboy_89
+  - first:
+      213: 1523782041245880666
+    second: menumeatboy_90
+  - first:
+      213: 3108463969970205343
+    second: menumeatboy_91
+  - first:
+      213: 1075008474328525582
+    second: menumeatboy_92
+  - first:
+      213: -1619335978232363585
+    second: menumeatboy_93
+  - first:
+      213: 226115702516069244
+    second: menumeatboy_94
+  - first:
+      213: 3479220491786946395
+    second: menumeatboy_95
+  - first:
+      213: 7002363312222732360
+    second: menumeatboy_96
+  - first:
+      213: -5582888964745825475
+    second: menumeatboy_97
+  - first:
+      213: 2225560075474024910
+    second: menumeatboy_98
+  - first:
+      213: 6566267497281527174
+    second: menumeatboy_99
+  - first:
+      213: -4667590483808537005
+    second: menumeatboy_100
+  - first:
+      213: 2937751736743176257
+    second: menumeatboy_101
+  - first:
+      213: -8812163284340598213
+    second: menumeatboy_102
+  - first:
+      213: -3457926170167122169
+    second: menumeatboy_103
+  - first:
+      213: -8894168104606898390
+    second: menumeatboy_104
+  - first:
+      213: -1344896282887036293
+    second: menumeatboy_105
+  - first:
+      213: -7230441689585323970
+    second: menumeatboy_106
+  - first:
+      213: 182704431716456476
+    second: menumeatboy_107
+  - first:
+      213: 8055292514647850393
+    second: menumeatboy_108
+  - first:
+      213: 5522994355257900097
+    second: menumeatboy_109
+  - first:
+      213: 9130190569008707740
+    second: menumeatboy_110
+  - first:
+      213: 64069801625100482
+    second: menumeatboy_111
+  - first:
+      213: 5783352963908525305
+    second: menumeatboy_112
+  - first:
+      213: 9018014944750302296
+    second: menumeatboy_113
+  - first:
+      213: 2566917650129920896
+    second: menumeatboy_114
+  - first:
+      213: -4267407500211620357
+    second: menumeatboy_115
+  - first:
+      213: 2329368427497160806
+    second: menumeatboy_116
+  - first:
+      213: 1400470024892347413
+    second: menumeatboy_117
+  - first:
+      213: 9058883156102178306
+    second: menumeatboy_118
+  - first:
+      213: 1509118697359761660
+    second: menumeatboy_119
+  - first:
+      213: 5975579522607347854
+    second: menumeatboy_120
+  - first:
+      213: -7661421466186530714
+    second: menumeatboy_121
+  - first:
+      213: 4839204622447915013
+    second: menumeatboy_122
+  - first:
+      213: -7682911887284157289
+    second: menumeatboy_123
+  - first:
+      213: 4357878213426995844
+    second: menumeatboy_124
+  - first:
+      213: 5098603240565851228
+    second: menumeatboy_125
+  - first:
+      213: -3348762568455617283
+    second: menumeatboy_126
+  - first:
+      213: 4853023162141204886
+    second: menumeatboy_127
+  - first:
+      213: 507588891650867236
+    second: menumeatboy_128
+  - first:
+      213: 4516050051458450659
+    second: menumeatboy_129
+  - first:
+      213: -6452581113478957450
+    second: menumeatboy_130
+  - first:
+      213: 7856955343195447604
+    second: menumeatboy_131
+  - first:
+      213: 8006206938577978276
+    second: menumeatboy_132
+  - first:
+      213: -8561600612744815089
+    second: menumeatboy_133
+  - first:
+      213: -4181658874618500753
+    second: menumeatboy_134
+  - first:
+      213: -311111139185949163
+    second: menumeatboy_135
+  - first:
+      213: -61609239822422463
+    second: menumeatboy_136
+  - first:
+      213: -4737485989499893520
+    second: menumeatboy_137
+  - first:
+      213: 7815653557179204245
+    second: menumeatboy_138
+  - first:
+      213: 7471052048512119278
+    second: menumeatboy_139
+  - first:
+      213: -3368874965491926487
+    second: menumeatboy_140
+  - first:
+      213: -3071789306486046520
+    second: menumeatboy_141
+  - first:
+      213: 4342567322523518137
+    second: menumeatboy_142
+  - first:
+      213: -1735012436884177491
+    second: menumeatboy_143
+  - first:
+      213: -7276442237802652887
+    second: menumeatboy_144
+  - first:
+      213: 6596612557898874609
+    second: menumeatboy_145
+  - first:
+      213: -4243770091761315222
+    second: menumeatboy_146
+  - first:
+      213: 8009114122211454446
+    second: menumeatboy_147
+  - first:
+      213: -6615700331954239750
+    second: menumeatboy_148
+  - first:
+      213: -8584569071565072999
+    second: menumeatboy_149
+  - first:
+      213: 8869536493360813624
+    second: menumeatboy_150
+  - first:
+      213: -8500581818582773279
+    second: menumeatboy_151
+  - first:
+      213: 808272810013298659
+    second: menumeatboy_152
+  - first:
+      213: -3751112643359084455
+    second: menumeatboy_153
+  - first:
+      213: 8107112399857401374
+    second: menumeatboy_154
+  - first:
+      213: 1710763553533798658
+    second: menumeatboy_155
+  - first:
+      213: 7214558136444791766
+    second: menumeatboy_156
+  - first:
+      213: -1448821915283404434
+    second: menumeatboy_157
+  - first:
+      213: 6416648500611429027
+    second: menumeatboy_158
+  - first:
+      213: -2988009288762118468
+    second: menumeatboy_159
+  - first:
+      213: 7858338636647043613
+    second: menumeatboy_160
+  - first:
+      213: -5003882302504231108
+    second: menumeatboy_161
+  - first:
+      213: 8050334425976175342
+    second: menumeatboy_162
+  - first:
+      213: -7273597278635713585
+    second: menumeatboy_163
+  - first:
+      213: -6780859666712200360
+    second: menumeatboy_164
+  - first:
+      213: -3362556817229739759
+    second: menumeatboy_165
+  - first:
+      213: -1028025639024346690
+    second: menumeatboy_166
+  - first:
+      213: -5724272080983995194
+    second: menumeatboy_167
+  - first:
+      213: 8534577168082994426
+    second: menumeatboy_168
+  - first:
+      213: 4241512241568586290
+    second: menumeatboy_169
+  - first:
+      213: -8685777043860846937
+    second: menumeatboy_170
+  - first:
+      213: 7583508800535409890
+    second: menumeatboy_171
+  - first:
+      213: 3401442423711248727
+    second: menumeatboy_172
+  - first:
+      213: -2454387097211661152
+    second: menumeatboy_173
+  - first:
+      213: -7350439502283434632
+    second: menumeatboy_174
+  - first:
+      213: -8029418318696107801
+    second: menumeatboy_175
+  - first:
+      213: -504716054726550876
+    second: menumeatboy_176
+  - first:
+      213: 2458819132182353886
+    second: menumeatboy_177
+  - first:
+      213: 4427543495524075069
+    second: menumeatboy_178
+  - first:
+      213: 7459219472810425103
+    second: menumeatboy_179
+  - first:
+      213: 1620452279094627366
+    second: menumeatboy_180
+  - first:
+      213: -7052097569666498880
+    second: menumeatboy_181
+  - first:
+      213: -553349684113657818
+    second: menumeatboy_182
+  - first:
+      213: 914372265194091310
+    second: menumeatboy_183
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menumeatboy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 803
+        width: 217
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba9f363ade983fe0800000000000000
+      internalID: -1209041839898781005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 827
+        width: 208
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50d9d54da86521e0800000000000000
+      internalID: -2223255747626938273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 986
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80918c98e50730e0800000000000000
+      internalID: -2290355388878319476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_3
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 991
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df544b98d9413580800000000000000
+      internalID: -8849210598139600942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_4
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 988
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e94a8055be7af00800000000000000
+      internalID: 1128128982129352231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_5
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 979
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19de4ed0bf10c1f60800000000000000
+      internalID: 8006276415339425169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_6
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 982
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cbc0c5dd3554ae0800000000000000
+      internalID: -1565753085244163037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 952
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038d98a75e5558fb0800000000000000
+      internalID: -4646212996471072720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_8
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 955
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d6cfd6ff3d5a5c0800000000000000
+      internalID: -4204721583065109168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_9
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 958
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb6d5272ce8f9340800000000000000
+      internalID: 4872770287631690673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_10
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 931
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf4563370d555fa0800000000000000
+      internalID: -5812637458543325257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_11
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 937
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b3e364d72cb7850800000000000000
+      internalID: 6375903540778253177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_12
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 921
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ee35f703c9e95e0800000000000000
+      internalID: -1900910260595200483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_13
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 923
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223930e1974c5bea0800000000000000
+      internalID: -5857559715851824350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_14
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 923
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cf6abf8b2249560800000000000000
+      internalID: 7319513472275250319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_15
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 912
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaa5ca2d23ca93e0800000000000000
+      internalID: -2046108481927927129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_16
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 912
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ff42c137b572030800000000000000
+      internalID: 3469842587863809860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_17
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 907
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9bd334ca3ee8d40800000000000000
+      internalID: 5588654516615363070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_18
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 896
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b645bcbb679c0e3f0800000000000000
+      internalID: -873476815915887509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_19
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 911
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdc946dfcbd3a3d0800000000000000
+      internalID: -3196469624803045889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_20
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 912
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba7c48840fc7ef60800000000000000
+      internalID: 8063641276203694772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_21
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 900
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15505d49a01fbcc90800000000000000
+      internalID: -7148354955771574959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_22
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 902
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924e51fc245733130800000000000000
+      internalID: 3545306261473322025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_23
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 888
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b32f9c1f42663d00800000000000000
+      internalID: 952056463157568435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 875
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2851b450859394d0800000000000000
+      internalID: -3128992937683101650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_25
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 883
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3943b13be0b7dd60800000000000000
+      internalID: 7914989394324572474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_26
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 887
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028bd3bdfc33bae60800000000000000
+      internalID: 7974524533019097120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_27
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 882
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5862f9dab7cd548e0800000000000000
+      internalID: -1709718059765258619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_28
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 889
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4760a3d4a3c054440800000000000000
+      internalID: 4919351612515419764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_29
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 880
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4160e20a8f26d36a0800000000000000
+      internalID: -6467904669855381996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_30
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 871
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90423758b2befba80800000000000000
+      internalID: -8448775803768724471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_31
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 870
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db513f45f63cbab50800000000000000
+      internalID: 6605588161402967485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_32
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 869
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162b611f023149010800000000000000
+      internalID: 1194600833364701793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_33
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 875
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d750fe89b93e53a0800000000000000
+      internalID: -6674834128586647597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_34
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 876
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac5010527b4eefd0800000000000000
+      internalID: -2310826604452881239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_35
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 878
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c31cb4fd90ea0600800000000000000
+      internalID: 435407283015128000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_36
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 867
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01171feddb5fdb60800000000000000
+      internalID: 7773032490621931786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_37
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 867
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146753515cbe4d6c0800000000000000
+      internalID: -4119408527440251327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_38
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 867
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2714acec05f55a380800000000000000
+      internalID: -8960651082912349838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_39
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 857
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e250357e0b5da910800000000000000
+      internalID: 1850235139572912865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_40
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 856
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f4a3c6a2724fdb0800000000000000
+      internalID: -4759135843065901210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_41
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 863
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b7694dc7dfb9760800000000000000
+      internalID: 7465839519881132930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_42
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 841
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839ddcb753b64bd60800000000000000
+      internalID: 7905061123396589880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_43
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 837
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd12a7060bbedf10800000000000000
+      internalID: 2296478494577794490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_44
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 839
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb21c3b6cb13f7f40800000000000000
+      internalID: 5728351936361271998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_45
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 845
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2104ab7fd7b0cb670800000000000000
+      internalID: 8555726027752095762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_46
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 828
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690da29a473b185c0800000000000000
+      internalID: -4214890462606339946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_47
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 832
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea98b01046080bd0800000000000000
+      internalID: -2663872307361441055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_48
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 825
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4e86fc9cf67a5b0800000000000000
+      internalID: -5357190319175047942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_49
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 827
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f9b9cb46d6923c0800000000000000
+      internalID: -4383852482839994507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_50
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 813
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca76b13102cefbff0800000000000000
+      internalID: -18036250982520916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_51
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 822
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672d6a3ce31fb9350800000000000000
+      internalID: 6024674178410926710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 820
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1af8e9981d72e570800000000000000
+      internalID: 8494489391789046300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_53
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 822
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6e1848a701d93c0800000000000000
+      internalID: -4351303546574870840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_54
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 816
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccd8eaae6d5b2210800000000000000
+      internalID: 1309242846576434380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_55
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 678
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6570fa8bf7855250800000000000000
+      internalID: 5932797598568052078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_56
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 750
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d379fa5865a9d60800000000000000
+      internalID: 7897720028724149609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_57
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 749
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36d02361e25f89b0800000000000000
+      internalID: -5075747127039044037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 792
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2deecaaaa3b983030800000000000000
+      internalID: 3474697788790206162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_59
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 802
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c88c2a8d15709570800000000000000
+      internalID: 8471399668816578755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_60
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 656
+        width: 138
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624dbe33f7fca92e0800000000000000
+      internalID: -2118152529485507546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_61
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 780
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f2abd6cedbb4a60800000000000000
+      internalID: 7659424414424510367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_62
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 776
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70373c7537b2fe170800000000000000
+      internalID: 8209828420113363719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_63
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 751
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473a83f4abb4c61c0800000000000000
+      internalID: -4509145863339596940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_64
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 755
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83afe3e63000d0970800000000000000
+      internalID: 8722628068021041720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_65
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 749
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f318300e502e7bbd0800000000000000
+      internalID: -2614372543804243649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_66
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 733
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d032016eb88327b30800000000000000
+      internalID: 4283548369094189837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_67
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 732
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd17964df0d1a8710800000000000000
+      internalID: 1696200163483808220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_68
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 704
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d37accd7b0619f80800000000000000
+      internalID: -8101587911863274535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_69
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 717
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48029b19452ec41d0800000000000000
+      internalID: -3365065968702644092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_70
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 720
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8588561a1ab4700800000000000000
+      internalID: 525691496084035794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_71
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 705
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a1b415d24944480800000000000000
+      internalID: -8915838439928423862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_72
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 725
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f13b5bad5368500800000000000000
+      internalID: 398064830536425218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_73
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 703
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f828aa22c53905c30800000000000000
+      internalID: 4346135664340402831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 708
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c806b73774d153ba0800000000000000
+      internalID: -6109945126740860788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_75
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 699
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7b41aac24902460800000000000000
+      internalID: 7214929522600490976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_76
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 704
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545232feba0a3ed60800000000000000
+      internalID: 7918349230159373637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_77
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 695
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9410b97fcbb3fe6d0800000000000000
+      internalID: -2959080747365105335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_78
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 705
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83ef2b3f216dcc80800000000000000
+      internalID: -8300871682689604721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_79
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 694
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4944005ecf57a2f70800000000000000
+      internalID: 9163266120872903828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_80
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 690
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8df54c2399ab490800000000000000
+      internalID: -7729697367106004764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 671
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82195e2a617193090800000000000000
+      internalID: -8054381072585748184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 668
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3950fea4be6bb1e0800000000000000
+      internalID: -2181027872222717633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 669
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a43ea6c121269820800000000000000
+      internalID: 2924561436974658726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_84
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 669
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb504390fa46756a0800000000000000
+      internalID: -6460584437503228482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_85
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 669
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2ec3d8d74a3b3b0800000000000000
+      internalID: -5497869860941798668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_86
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 657
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ad889fd3772b370800000000000000
+      internalID: 8336856968279415307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_87
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 552
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b13f9e7341cfc9b0800000000000000
+      internalID: -5057611360882445902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_88
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 656
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819224e75b5511f10800000000000000
+      internalID: 2238664727775553816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_89
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 659
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568a3e09197dc2f20800000000000000
+      internalID: 3399328838958950501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_90
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 655
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51949371bf852510800000000000000
+      internalID: 1523782041245880666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_91
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 658
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92bc27e28b732b20800000000000000
+      internalID: 3108463969970205343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_92
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 657
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0be2e203823bee00800000000000000
+      internalID: 1075008474328525582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_93
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 660
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb54375e186f689e0800000000000000
+      internalID: -1619335978232363585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_94
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 649
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73bb9e8803532300800000000000000
+      internalID: 226115702516069244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 534
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5788348a9ca84030800000000000000
+      internalID: 3479220491786946395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_96
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 648
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840834515546d2160800000000000000
+      internalID: 7002363312222732360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_97
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 649
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3370e3e0189582b0800000000000000
+      internalID: -5582888964745825475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_98
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 531
+        width: 129
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9bbecd817c2ee10800000000000000
+      internalID: 2225560075474024910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_99
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 647
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d98abcf71102b50800000000000000
+      internalID: 6566267497281527174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_100
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 532
+        width: 138
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35639975f23693fb0800000000000000
+      internalID: -4667590483808537005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_101
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 636
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1482dd2c3adf4c820800000000000000
+      internalID: 2937751736743176257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a93268e28e4b580800000000000000
+      internalID: -8812163284340598213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70769a7187af200d0800000000000000
+      internalID: -3457926170167122169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_104
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 626
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27eb407b31919480800000000000000
+      internalID: -8894168104606898390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_105
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 615
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7266cec4f7f55de0800000000000000
+      internalID: -1344896282887036293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_106
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 599
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e307713879f48ab90800000000000000
+      internalID: -7230441689585323970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_107
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 601
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18595f66b8198200800000000000000
+      internalID: 182704431716456476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_108
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 600
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99db2710dd52acf60800000000000000
+      internalID: 8055292514647850393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_109
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 585
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c72a1aa1e95ac40800000000000000
+      internalID: 5522994355257900097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_110
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 573
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98b26dd2f3f4be70800000000000000
+      internalID: 9130190569008707740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_111
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 588
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0a1b6252f93e000800000000000000
+      internalID: 64069801625100482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_112
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 590
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc587011e8924050800000000000000
+      internalID: 5783352963908525305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_113
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 579
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854710110dc662d70800000000000000
+      internalID: 9018014944750302296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_114
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 566
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083acafa0068f9320800000000000000
+      internalID: 2566917650129920896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_115
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 565
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf57c0efc7f17c4c0800000000000000
+      internalID: -4267407500211620357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_116
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 554
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6608af74e34935020800000000000000
+      internalID: 2329368427497160806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_117
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 567
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5147a4051187f6310800000000000000
+      internalID: 1400470024892347413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_118
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 556
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2066d350c3e97bd70800000000000000
+      internalID: 9058883156102178306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_119
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 534
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf06708a57771f410800000000000000
+      internalID: 1509118697359761660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_120
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 534
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88fb147ae58de250800000000000000
+      internalID: 5975579522607347854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_121
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 541
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6604669b4c92da590800000000000000
+      internalID: -7661421466186530714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_122
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 421
+        width: 127
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500bf6407fe482340800000000000000
+      internalID: 4839204622447915013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_123
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 418
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7944dc52850d06590800000000000000
+      internalID: -7682911887284157289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_124
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 419
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482eab5652b4a7c30800000000000000
+      internalID: 4357878213426995844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_125
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 408
+        width: 138
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54459c32a0e1c640800000000000000
+      internalID: 5098603240565851228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_126
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 523
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4041ebf2ec681d0800000000000000
+      internalID: -3348762568455617283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_127
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 397
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6916b228ad6695340800000000000000
+      internalID: 4853023162141204886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_128
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 289
+        width: 113
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420c8ca58615b0700800000000000000
+      internalID: 507588891650867236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_129
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 306
+        width: 133
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4c011489b3cae30800000000000000
+      internalID: 4516050051458450659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_130
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 194
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67631be1aa3d376a0800000000000000
+      internalID: -6452581113478957450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_131
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 288
+        width: 126
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431a547b143890d60800000000000000
+      internalID: 7856955343195447604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_132
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 260
+        width: 113
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3453cbac2cb1f60800000000000000
+      internalID: 8006206938577978276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_133
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 295
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e1490aa951f2980800000000000000
+      internalID: -8561600612744815089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_134
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 162
+        width: 113
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69218ea863c7f5c0800000000000000
+      internalID: -4181658874618500753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_135
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 228
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51687273116beabf0800000000000000
+      internalID: -311111139185949163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_136
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 280
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ea08909be152ff0800000000000000
+      internalID: -61609239822422463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_137
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 168
+        width: 126
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f80873c791114eb0800000000000000
+      internalID: -4737485989499893520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_138
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 180
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5924f2b4087c67c60800000000000000
+      internalID: 7815653557179204245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_139
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 258
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1f40a31428ea760800000000000000
+      internalID: 7471052048512119278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_140
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 128
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ab525611a5f31d0800000000000000
+      internalID: -3368874965491926487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_141
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 207
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c04e0a96efce55d0800000000000000
+      internalID: -3071789306486046520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_142
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 193
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4cb30d8f5e34c30800000000000000
+      internalID: 4342567322523518137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_143
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 146
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad32a2916ffbe7e0800000000000000
+      internalID: -1735012436884177491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_144
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 159
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bdf134652e40b90800000000000000
+      internalID: -7276442237802652887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_145
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 147
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe717acb20eb8b50800000000000000
+      internalID: 6596612557898874609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_146
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 167
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62d32406991b15c0800000000000000
+      internalID: -4243770091761315222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_147
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 82
+        width: 133
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed6afb2cd6162f60800000000000000
+      internalID: 8009114122211454446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_148
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 77
+        width: 27
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af60f6d799f4034a0800000000000000
+      internalID: -6615700331954239750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_149
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 161
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9951f8399eb7dd880800000000000000
+      internalID: -8584569071565072999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_150
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 53
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8369229a27ce61b70800000000000000
+      internalID: 8869536493360813624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_151
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 147
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1da3fbfddd70a80800000000000000
+      internalID: -8500581818582773279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_152
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 99
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef037a96df873b00800000000000000
+      internalID: 808272810013298659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_153
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 105
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950fa14dcee51fbc0800000000000000
+      internalID: -3751112643359084455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_154
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 70
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e3aab36cf328070800000000000000
+      internalID: 8107112399857401374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_155
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 36
+        width: 27
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209211f436addb710800000000000000
+      internalID: 1710763553533798658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_156
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 75
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db223696624f1460800000000000000
+      internalID: 7214558136444791766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_157
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 80
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e694bbce420c4ebe0800000000000000
+      internalID: -1448821915283404434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_158
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 74
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2bc7f70d38c0950800000000000000
+      internalID: 6416648500611429027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_159
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 64
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe24cd02657886d0800000000000000
+      internalID: -2988009288762118468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_160
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 47
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d121312da5d6e0d60800000000000000
+      internalID: 7858338636647043613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_161
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 68
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f1f5dbe83ae8ab0800000000000000
+      internalID: -5003882302504231108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_162
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 58
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea7867028888bf60800000000000000
+      internalID: 8050334425976175342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_163
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 37
+        width: 159
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb9bafefcdfe0b90800000000000000
+      internalID: -7273597278635713585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_164
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 43
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b78d54f0c85e1a0800000000000000
+      internalID: -6780859666712200360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_165
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 54
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11904fbe36cc551d0800000000000000
+      internalID: -3362556817229739759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_166
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 47
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9b5f5c028bbb1f0800000000000000
+      internalID: -1028025639024346690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_167
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 57
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc434feedc4f80b0800000000000000
+      internalID: -5724272080983995194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_168
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 51
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af40fbb57b8e07670800000000000000
+      internalID: 8534577168082994426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_169
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 29
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a9a2549e0ecda30800000000000000
+      internalID: 4241512241568586290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_170
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 34
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a68e6e3ccbe57780800000000000000
+      internalID: -8685777043860846937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_171
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e436fe23190e3960800000000000000
+      internalID: 7583508800535409890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_172
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751b04ddcd9543f20800000000000000
+      internalID: 3401442423711248727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_173
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 31
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4956160f340fdd0800000000000000
+      internalID: -2454387097211661152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_174
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 6
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875956b873efdf990800000000000000
+      internalID: -7350439502283434632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_175
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0ba11b496c19090800000000000000
+      internalID: -8029418318696107801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_176
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 33
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa569d1c63eef8f0800000000000000
+      internalID: -504716054726550876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_177
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7d9ac29fa7f1220800000000000000
+      internalID: 2458819132182353886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_178
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 18
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36cd4ed95bc17d30800000000000000
+      internalID: 4427543495524075069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_179
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bba820798748760800000000000000
+      internalID: 7459219472810425103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_180
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 13
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c48e623c00d7610800000000000000
+      internalID: 1620452279094627366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_181
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 6
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cef1aebf9ae12e90800000000000000
+      internalID: -7052097569666498880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_182
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 16
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620b4d1e46b1258f0800000000000000
+      internalID: -553349684113657818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menumeatboy_183
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 10
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23fc5b0bb080bc00800000000000000
+      internalID: 914372265194091310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

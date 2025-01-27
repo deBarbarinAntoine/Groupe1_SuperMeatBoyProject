@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: 5d33aadea6626374b8b80cda8efbdff0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3369377575663630218
+    second: blevelmenu_0
+  - first:
+      213: 7124245604320661379
+    second: blevelmenu_1
+  - first:
+      213: 649483189371841531
+    second: blevelmenu_2
+  - first:
+      213: -775920804977429772
+    second: blevelmenu_3
+  - first:
+      213: -6515395224039329995
+    second: blevelmenu_4
+  - first:
+      213: 2204435147296273633
+    second: blevelmenu_5
+  - first:
+      213: -2330357405688409327
+    second: blevelmenu_6
+  - first:
+      213: -3998161326629917973
+    second: blevelmenu_7
+  - first:
+      213: -2554922447989841165
+    second: blevelmenu_8
+  - first:
+      213: 3238835663476099628
+    second: blevelmenu_9
+  - first:
+      213: 256392250848185578
+    second: blevelmenu_10
+  - first:
+      213: 8869668970983975965
+    second: blevelmenu_11
+  - first:
+      213: -4483463683932409157
+    second: blevelmenu_12
+  - first:
+      213: 1387309510421264761
+    second: blevelmenu_13
+  - first:
+      213: -2099966081731045125
+    second: blevelmenu_14
+  - first:
+      213: -7973412564026013925
+    second: blevelmenu_15
+  - first:
+      213: -3667461508118551525
+    second: blevelmenu_16
+  - first:
+      213: 4905754547149454168
+    second: blevelmenu_17
+  - first:
+      213: -4341595318768827473
+    second: blevelmenu_18
+  - first:
+      213: 710497479893835859
+    second: blevelmenu_19
+  - first:
+      213: -7952818632400298662
+    second: blevelmenu_20
+  - first:
+      213: -4813034856393966392
+    second: blevelmenu_21
+  - first:
+      213: 5761320713321321613
+    second: blevelmenu_22
+  - first:
+      213: -365660612657418597
+    second: blevelmenu_23
+  - first:
+      213: -4941081494448956130
+    second: blevelmenu_24
+  - first:
+      213: -8018921315033575795
+    second: blevelmenu_25
+  - first:
+      213: -2438605926689927448
+    second: blevelmenu_26
+  - first:
+      213: -4387507792808473612
+    second: blevelmenu_27
+  - first:
+      213: -438783317950366782
+    second: blevelmenu_28
+  - first:
+      213: -7015978654847973346
+    second: blevelmenu_29
+  - first:
+      213: 24523117575536684
+    second: blevelmenu_30
+  - first:
+      213: -7982301418894820016
+    second: blevelmenu_31
+  - first:
+      213: -2559729501465670096
+    second: blevelmenu_32
+  - first:
+      213: -6188757073666342400
+    second: blevelmenu_33
+  - first:
+      213: -4459336227098707170
+    second: blevelmenu_34
+  - first:
+      213: 1464028720241105297
+    second: blevelmenu_35
+  - first:
+      213: 1905319074252617223
+    second: blevelmenu_36
+  - first:
+      213: -8343514527717093242
+    second: blevelmenu_37
+  - first:
+      213: -2365516230471766576
+    second: blevelmenu_38
+  - first:
+      213: 783207007531344700
+    second: blevelmenu_39
+  - first:
+      213: -2161221718030657927
+    second: blevelmenu_40
+  - first:
+      213: -7312183125977082348
+    second: blevelmenu_41
+  - first:
+      213: 3348458688791366053
+    second: blevelmenu_42
+  - first:
+      213: -4372456535464531084
+    second: blevelmenu_43
+  - first:
+      213: 8418875351310178105
+    second: blevelmenu_44
+  - first:
+      213: -7946532212816817674
+    second: blevelmenu_45
+  - first:
+      213: -5035992123481588636
+    second: blevelmenu_46
+  - first:
+      213: -3116366987002427392
+    second: blevelmenu_47
+  - first:
+      213: -2181837931442781128
+    second: blevelmenu_48
+  - first:
+      213: 2818988751850461135
+    second: blevelmenu_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blevelmenu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 1000
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87f897ad0f62ce20800000000000000
+      internalID: 3369377575663630218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 293
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fcb2a91a76ed260800000000000000
+      internalID: 7124245604320661379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 572
+        width: 110
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfba816058d630900800000000000000
+      internalID: 649483189371841531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 557
+        width: 273
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f23c7d83206b35f0800000000000000
+      internalID: -775920804977429772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 587
+        width: 40
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53febd3509aa495a0800000000000000
+      internalID: -6515395224039329995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_5
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 453
+        width: 236
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4fafc361ab79e10800000000000000
+      internalID: 2204435147296273633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113dd3a4948e8afd0800000000000000
+      internalID: -2330357405688409327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 425
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beae483e47da388c0800000000000000
+      internalID: -3998161326629917973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 426
+        width: 129
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2e4e2f1971b8cd0800000000000000
+      internalID: -2554922447989841165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 284
+        width: 68
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a0c5730e7a2fc20800000000000000
+      internalID: 3238835663476099628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 490
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec08fac463ee8300800000000000000
+      internalID: 256392250848185578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 420
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cedc28fe4671b70800000000000000
+      internalID: 8869668970983975965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 370
+        width: 304
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb238dba88987c1c0800000000000000
+      internalID: -4483463683932409157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 358
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9793e2246a6b04310800000000000000
+      internalID: 1387309510421264761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 358
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf85d0a89fb6bd2e0800000000000000
+      internalID: -2099966081731045125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 359
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17c799948fb85190800000000000000
+      internalID: -7973412564026013925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 360
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14ec2d703f8a1dc0800000000000000
+      internalID: -3667461508118551525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 288
+        width: 49
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bb912d4cdb41440800000000000000
+      internalID: 4905754547149454168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 387
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa309427f0e8fb3c0800000000000000
+      internalID: -4341595318768827473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_19
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 358
+        width: 119
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350e1ee81b13cd900800000000000000
+      internalID: 710497479893835859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_20
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 373
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d1ca4f699e1a190800000000000000
+      internalID: -7952818632400298662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_21
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 142
+        width: 204
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc70157c4aa43db0800000000000000
+      internalID: -4813034856393966392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_22
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 384
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d841e9af9a254ff40800000000000000
+      internalID: 5761320713321321613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 310
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ee3323c99eceaf0800000000000000
+      internalID: -365660612657418597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 294
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d1d1d4f80cd6bb0800000000000000
+      internalID: -4941081494448956130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_25
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 342
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e8d9fcc8117b090800000000000000
+      internalID: -8018921315033575795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 287
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee0c7874d4582ed0800000000000000
+      internalID: -2438605926689927448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_27
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 287
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb846098e07c13c0800000000000000
+      internalID: -4387507792808473612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_28
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 288
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb7338a5e029e9f0800000000000000
+      internalID: -438783317950366782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_29
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 310
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18401ee59c32ae90800000000000000
+      internalID: -7015978654847973346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_30
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 200
+        width: 54
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2000ef35af175000800000000000000
+      internalID: 24523117575536684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 261
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d7dacc62b293190800000000000000
+      internalID: -7982301418894820016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 210
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e0d0894930a7cd0800000000000000
+      internalID: -2559729501465670096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 210
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0028eee1b3e1d1aa0800000000000000
+      internalID: -6188757073666342400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 246
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b30c9f3514d12c0800000000000000
+      internalID: -4459336227098707170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 147
+        width: 137
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199d0f24d56415410800000000000000
+      internalID: 1464028720241105297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 189
+        width: 176
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7067a9c6a9d017a10800000000000000
+      internalID: 1905319074252617223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_37
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 165
+        width: 135
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6809c1d2eb1e53c80800000000000000
+      internalID: -8343514527717093242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 197
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd2f4c758ffb2fd0800000000000000
+      internalID: -2365516230471766576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 148
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33a08daf928eda00800000000000000
+      internalID: 783207007531344700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_40
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 161
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9765cef4c4cc102e0800000000000000
+      internalID: -2161221718030657927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 99
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416d7834038e58a90800000000000000
+      internalID: -7312183125977082348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_42
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 50
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9ca72cf6d187e20800000000000000
+      internalID: 3348458688791366053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 383
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b2dcf72f9e153c0800000000000000
+      internalID: -4372456535464531084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_44
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 63
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9379223e68ad5d470800000000000000
+      internalID: 8418875351310178105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_45
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 64
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1dad21e0f38b190800000000000000
+      internalID: -7946532212816817674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_46
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 41
+        width: 176
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cf63478df8c1ab0800000000000000
+      internalID: -5035992123481588636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_47
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 11
+        width: 40
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00847fd8cb070c4d0800000000000000
+      internalID: -3116366987002427392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_48
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83441e216fd88b1e0800000000000000
+      internalID: -2181837931442781128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blevelmenu_49
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc75edb855f0f1720800000000000000
+      internalID: 2818988751850461135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

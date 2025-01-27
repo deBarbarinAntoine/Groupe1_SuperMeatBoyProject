@@ -1,0 +1,3317 @@
+fileFormatVersion: 2
+guid: 6cc6b5f2f9b3b184d9963e6170d3df21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6947856005114606928
+    second: retromeatboyfinal_0
+  - first:
+      213: -5005129119292089447
+    second: retromeatboyfinal_1
+  - first:
+      213: 7670014813669778375
+    second: retromeatboyfinal_2
+  - first:
+      213: -3743085646232667718
+    second: retromeatboyfinal_3
+  - first:
+      213: -976388407255896097
+    second: retromeatboyfinal_4
+  - first:
+      213: 3743063025939497379
+    second: retromeatboyfinal_5
+  - first:
+      213: 4740809981952378553
+    second: retromeatboyfinal_6
+  - first:
+      213: -3569572853878979508
+    second: retromeatboyfinal_7
+  - first:
+      213: -1541605347327866482
+    second: retromeatboyfinal_8
+  - first:
+      213: 734423580798702483
+    second: retromeatboyfinal_9
+  - first:
+      213: -3672018370980006273
+    second: retromeatboyfinal_10
+  - first:
+      213: 1718055047418177908
+    second: retromeatboyfinal_11
+  - first:
+      213: -1911815991970971960
+    second: retromeatboyfinal_12
+  - first:
+      213: 4350000388000150690
+    second: retromeatboyfinal_13
+  - first:
+      213: -200025166527393740
+    second: retromeatboyfinal_14
+  - first:
+      213: -2239833994356891065
+    second: retromeatboyfinal_15
+  - first:
+      213: -1856808980991474280
+    second: retromeatboyfinal_16
+  - first:
+      213: 1916139710754017153
+    second: retromeatboyfinal_17
+  - first:
+      213: -797717093071150782
+    second: retromeatboyfinal_18
+  - first:
+      213: 7986967847984468080
+    second: retromeatboyfinal_19
+  - first:
+      213: -7740067686102101221
+    second: retromeatboyfinal_20
+  - first:
+      213: -4806316606923536273
+    second: retromeatboyfinal_21
+  - first:
+      213: -5507304953709921871
+    second: retromeatboyfinal_22
+  - first:
+      213: 3348957670745467454
+    second: retromeatboyfinal_23
+  - first:
+      213: -8367436140960818514
+    second: retromeatboyfinal_24
+  - first:
+      213: 5812313129216834149
+    second: retromeatboyfinal_25
+  - first:
+      213: 1998413557873269447
+    second: retromeatboyfinal_26
+  - first:
+      213: -8557457001913484668
+    second: retromeatboyfinal_27
+  - first:
+      213: -3048684654167714976
+    second: retromeatboyfinal_28
+  - first:
+      213: -6419719282930076098
+    second: retromeatboyfinal_29
+  - first:
+      213: -90495550922254112
+    second: retromeatboyfinal_30
+  - first:
+      213: -5221385360199339998
+    second: retromeatboyfinal_31
+  - first:
+      213: 2963249686254139678
+    second: retromeatboyfinal_32
+  - first:
+      213: -4864331046016639867
+    second: retromeatboyfinal_33
+  - first:
+      213: -3956592281000130937
+    second: retromeatboyfinal_34
+  - first:
+      213: 6493309445314685893
+    second: retromeatboyfinal_35
+  - first:
+      213: 4132482347945927238
+    second: retromeatboyfinal_36
+  - first:
+      213: 4461743517158834499
+    second: retromeatboyfinal_37
+  - first:
+      213: -4514600902397677758
+    second: retromeatboyfinal_38
+  - first:
+      213: 7849000665089390787
+    second: retromeatboyfinal_39
+  - first:
+      213: -6282772913098250764
+    second: retromeatboyfinal_40
+  - first:
+      213: 8269517829808880773
+    second: retromeatboyfinal_41
+  - first:
+      213: 5391150749753091304
+    second: retromeatboyfinal_42
+  - first:
+      213: 5483179463071847152
+    second: retromeatboyfinal_43
+  - first:
+      213: -7559666538911079331
+    second: retromeatboyfinal_44
+  - first:
+      213: -9150278666201255467
+    second: retromeatboyfinal_45
+  - first:
+      213: 1433857563797791647
+    second: retromeatboyfinal_46
+  - first:
+      213: 8204728717899285264
+    second: retromeatboyfinal_47
+  - first:
+      213: 3824312511825037060
+    second: retromeatboyfinal_48
+  - first:
+      213: 4115645391850233663
+    second: retromeatboyfinal_49
+  - first:
+      213: -7583958376551538042
+    second: retromeatboyfinal_50
+  - first:
+      213: 5617516536125359611
+    second: retromeatboyfinal_51
+  - first:
+      213: 2133639668396507676
+    second: retromeatboyfinal_52
+  - first:
+      213: -2392209862327507488
+    second: retromeatboyfinal_53
+  - first:
+      213: -4593902074970516966
+    second: retromeatboyfinal_54
+  - first:
+      213: 1392304850892015427
+    second: retromeatboyfinal_55
+  - first:
+      213: 589021973851059675
+    second: retromeatboyfinal_56
+  - first:
+      213: 8293325713639468591
+    second: retromeatboyfinal_57
+  - first:
+      213: -6958962185719664203
+    second: retromeatboyfinal_58
+  - first:
+      213: -9012459247605373592
+    second: retromeatboyfinal_59
+  - first:
+      213: 7981541909686344217
+    second: retromeatboyfinal_60
+  - first:
+      213: 6904690062222093588
+    second: retromeatboyfinal_61
+  - first:
+      213: -1662377742677687863
+    second: retromeatboyfinal_62
+  - first:
+      213: 651226609202287263
+    second: retromeatboyfinal_63
+  - first:
+      213: -744208758638624540
+    second: retromeatboyfinal_64
+  - first:
+      213: -7107331917606146838
+    second: retromeatboyfinal_65
+  - first:
+      213: -7839806830651622340
+    second: retromeatboyfinal_66
+  - first:
+      213: 8245567072732973809
+    second: retromeatboyfinal_67
+  - first:
+      213: -483635638941500337
+    second: retromeatboyfinal_68
+  - first:
+      213: 5651882343538417935
+    second: retromeatboyfinal_69
+  - first:
+      213: 5319499484933156550
+    second: retromeatboyfinal_70
+  - first:
+      213: 7656131566303622587
+    second: retromeatboyfinal_71
+  - first:
+      213: -2089850980062289237
+    second: retromeatboyfinal_72
+  - first:
+      213: -4004866285711490201
+    second: retromeatboyfinal_73
+  - first:
+      213: 6424945048656764147
+    second: retromeatboyfinal_74
+  - first:
+      213: 1233776478788874794
+    second: retromeatboyfinal_75
+  - first:
+      213: -3873097206753026740
+    second: retromeatboyfinal_76
+  - first:
+      213: 4535561189408475190
+    second: retromeatboyfinal_77
+  - first:
+      213: 2610334993675422628
+    second: retromeatboyfinal_78
+  - first:
+      213: 5538969934565094479
+    second: retromeatboyfinal_79
+  - first:
+      213: -6221035383553397267
+    second: retromeatboyfinal_80
+  - first:
+      213: -2917630180043173705
+    second: retromeatboyfinal_81
+  - first:
+      213: -9101405624600423152
+    second: retromeatboyfinal_82
+  - first:
+      213: -9203350428615923682
+    second: retromeatboyfinal_83
+  - first:
+      213: 4227415403141836876
+    second: retromeatboyfinal_84
+  - first:
+      213: -8226431732677401317
+    second: retromeatboyfinal_85
+  - first:
+      213: -5732355662566652251
+    second: retromeatboyfinal_86
+  - first:
+      213: -5769018731533875776
+    second: retromeatboyfinal_87
+  - first:
+      213: 743953956442408930
+    second: retromeatboyfinal_88
+  - first:
+      213: 8480446891018337575
+    second: retromeatboyfinal_89
+  - first:
+      213: -3787347900417886070
+    second: retromeatboyfinal_90
+  - first:
+      213: 1963177013407332111
+    second: retromeatboyfinal_91
+  - first:
+      213: -4601575415910741077
+    second: retromeatboyfinal_92
+  - first:
+      213: 3487990850598171311
+    second: retromeatboyfinal_93
+  - first:
+      213: 9099858789985791630
+    second: retromeatboyfinal_94
+  - first:
+      213: -7863091620047272909
+    second: retromeatboyfinal_95
+  - first:
+      213: -8493733938328993291
+    second: retromeatboyfinal_96
+  - first:
+      213: 3012853616783880220
+    second: retromeatboyfinal_97
+  - first:
+      213: 1694652168757821366
+    second: retromeatboyfinal_98
+  - first:
+      213: 8178219334850590758
+    second: retromeatboyfinal_99
+  - first:
+      213: -8100371910724565521
+    second: retromeatboyfinal_100
+  - first:
+      213: -1245058423462460817
+    second: retromeatboyfinal_101
+  - first:
+      213: -8285056008555095118
+    second: retromeatboyfinal_102
+  - first:
+      213: -6630187446091588843
+    second: retromeatboyfinal_103
+  - first:
+      213: -2512488407716630160
+    second: retromeatboyfinal_104
+  - first:
+      213: 7404319366418129743
+    second: retromeatboyfinal_105
+  - first:
+      213: 4900476395703867401
+    second: retromeatboyfinal_106
+  - first:
+      213: -5252132957659324663
+    second: retromeatboyfinal_107
+  - first:
+      213: -5603437763382185327
+    second: retromeatboyfinal_108
+  - first:
+      213: 7423398691575876184
+    second: retromeatboyfinal_109
+  - first:
+      213: 6974775577414401707
+    second: retromeatboyfinal_110
+  - first:
+      213: -8079220568023976220
+    second: retromeatboyfinal_111
+  - first:
+      213: -5145831026986091511
+    second: retromeatboyfinal_112
+  - first:
+      213: 8863313088496241654
+    second: retromeatboyfinal_113
+  - first:
+      213: 6297722581806677486
+    second: retromeatboyfinal_114
+  - first:
+      213: 73302582485009265
+    second: retromeatboyfinal_115
+  - first:
+      213: 4767962009163526012
+    second: retromeatboyfinal_116
+  - first:
+      213: 4806701520116613442
+    second: retromeatboyfinal_117
+  - first:
+      213: -4981555579259752349
+    second: retromeatboyfinal_118
+  - first:
+      213: -2634662944771990310
+    second: retromeatboyfinal_119
+  - first:
+      213: 2939350462325643126
+    second: retromeatboyfinal_120
+  - first:
+      213: 332801036032275652
+    second: retromeatboyfinal_121
+  - first:
+      213: 1196306322415398445
+    second: retromeatboyfinal_122
+  - first:
+      213: 8883172491459171655
+    second: retromeatboyfinal_123
+  - first:
+      213: -8648738617544980691
+    second: retromeatboyfinal_124
+  - first:
+      213: -4569079453513198499
+    second: retromeatboyfinal_125
+  - first:
+      213: 3897868137755780346
+    second: retromeatboyfinal_126
+  - first:
+      213: 3613899580558938540
+    second: retromeatboyfinal_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: retromeatboyfinal_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 371
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055bb6fa93ebb6060800000000000000
+      internalID: 6947856005114606928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 368
+        width: 97
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b91a595953a8ab0800000000000000
+      internalID: -5005129119292089447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 371
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c365c6e5dd517a60800000000000000
+      internalID: 7670014813669778375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 293
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9307cbf63ed0cc0800000000000000
+      internalID: -3743085646232667718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfe3beaaeb2372f0800000000000000
+      internalID: -976388407255896097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 325
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1c5019df702f330800000000000000
+      internalID: 3743063025939497379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 349
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6c5e98f8dbac140800000000000000
+      internalID: 4740809981952378553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 324
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c448aacd664567ec0800000000000000
+      internalID: -3569572853878979508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 334
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e890ea8ba1e1b9ae0800000000000000
+      internalID: -1541605347327866482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 353
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3935d280b52313a00800000000000000
+      internalID: 734423580798702483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 334
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76370d2fbe5a0dc0800000000000000
+      internalID: -3672018370980006273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 336
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4796de586f1c7d710800000000000000
+      internalID: 1718055047418177908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceb8aa0c7dd775e0800000000000000
+      internalID: -1911815991970971960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 281
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a47f8b3e4e4e5c30800000000000000
+      internalID: 4350000388000150690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 305
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4301ffabb2e593df0800000000000000
+      internalID: -200025166527393740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 280
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742638a69d28ae0e0800000000000000
+      internalID: -2239833994356891065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 293
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8958f30d11a4b36e0800000000000000
+      internalID: -1856808980991474280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 283
+        width: 101
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f438f2aee779a10800000000000000
+      internalID: 1916139710754017153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 292
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241ac34c780fde4f0800000000000000
+      internalID: -797717093071150782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 285
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0709493e0f867de60800000000000000
+      internalID: 7986967847984468080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b139768b271c59490800000000000000
+      internalID: -7740067686102101221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_21
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 288
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68034ec2888c4db0800000000000000
+      internalID: -4806316606923536273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 283
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9fe54d25f1293b0800000000000000
+      internalID: -5507304953709921871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_23
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 283
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a6a9c0243e97e20800000000000000
+      internalID: 3348957670745467454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaad3419925e0eb80800000000000000
+      internalID: -8367436140960818514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 259
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56afe4efefb79a050800000000000000
+      internalID: 5812313129216834149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 237
+        width: 77
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca5c57fa8acbbb10800000000000000
+      internalID: 1998413557873269447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 249
+        width: 111
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a7444323ecd3980800000000000000
+      internalID: -8557457001913484668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_28
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 249
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063162ca575e0b5d0800000000000000
+      internalID: -3048684654167714976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 239
+        width: 101
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e363a37435398e6a0800000000000000
+      internalID: -6419719282930076098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 239
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e89681a6ce7ebef0800000000000000
+      internalID: -90495550922254112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 239
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220b4e1dda9e987b0800000000000000
+      internalID: -5221385360199339998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 239
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1937f1c3e39f1920800000000000000
+      internalID: 2963249686254139678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c164c9fac6e7cb0800000000000000
+      internalID: -4864331046016639867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_34
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 205
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7864fe9884c5719c0800000000000000
+      internalID: -3956592281000130937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_35
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 205
+        width: 111
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbaba8998edc1a50800000000000000
+      internalID: 6493309445314685893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_36
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 184
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642a3e5fcc6895930800000000000000
+      internalID: 4132482347945927238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 193
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341872be61c4bed30800000000000000
+      internalID: 4461743517158834499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 193
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24faded066ae851c0800000000000000
+      internalID: -4514600902397677758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 195
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c83574e4804dec60800000000000000
+      internalID: 7849000665089390787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_40
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 184
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f52556b25b1fc8a0800000000000000
+      internalID: -6282772913098250764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_41
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 200
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c748507aa33c270800000000000000
+      internalID: 8269517829808880773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 195
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e42d991b0731da40800000000000000
+      internalID: 5391150749753091304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 193
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f25d18abaa281c40800000000000000
+      internalID: 5483179463071847152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_44
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 195
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d546ccfe55ba61790800000000000000
+      internalID: -7559666538911079331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 149
+        width: 184
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d13d39880ea30180800000000000000
+      internalID: -9150278666201255467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_46
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 183
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93acac7bd516e310800000000000000
+      internalID: 1433857563797791647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_47
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 183
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01345d46c4d0dd170800000000000000
+      internalID: 8204728717899285264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 183
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407c969a7ffa21530800000000000000
+      internalID: 3824312511825037060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fd4b2ada5bd1930800000000000000
+      internalID: 4115645391850233663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 160
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6822c4eb90e50c690800000000000000
+      internalID: -7583958376551538042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_51
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 174
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf582a7d68d65fd40800000000000000
+      internalID: 5617516536125359611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 149
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12c47159f53c9d10800000000000000
+      internalID: 2133639668396507676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 149
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e568cffdc92dced0800000000000000
+      internalID: -2392209862327507488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_54
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 149
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12d370076e2f30c0800000000000000
+      internalID: -4593902074970516966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 155
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347c87892e5725310800000000000000
+      internalID: 1392304850892015427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 160
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5ba4c4d50ac2800800000000000000
+      internalID: 589021973851059675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ee710fbcfc71370800000000000000
+      internalID: 8293325713639468591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1bdc223cccc6f90800000000000000
+      internalID: -6958962185719664203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_59
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8652cc970105de280800000000000000
+      internalID: -9012459247605373592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_60
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 107
+        width: 184
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a5fbe241224ce60800000000000000
+      internalID: 7981541909686344217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41deaea670362df50800000000000000
+      internalID: 6904690062222093588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c14e2d204c0ee8e0800000000000000
+      internalID: -1662377742677687863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 118
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92d8c5962f990900800000000000000
+      internalID: 651226609202287263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_64
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 118
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e04c96b31a0ca5f0800000000000000
+      internalID: -744208758638624540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_65
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 107
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec2a46f64fad5d90800000000000000
+      internalID: -7107331917606146838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 107
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c345f7939633390800000000000000
+      internalID: -7839806830651622340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_67
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 108
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa08e5d0932e6270800000000000000
+      internalID: 8245567072732973809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_68
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c3c24e2f7c949f0800000000000000
+      internalID: -483635638941500337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 91
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01e8e6eb058f6e40800000000000000
+      internalID: 5651882343538417935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_70
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce605ef898a2d940800000000000000
+      internalID: 5319499484933156550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5be2b781b004a60800000000000000
+      internalID: 7656131566303622587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_72
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 85
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2a2eb2b9b5ff2e0800000000000000
+      internalID: -2089850980062289237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_73
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 77
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7638a33f45bdb68c0800000000000000
+      internalID: -4004866285711490201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_74
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 85
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc579e1b7df92950800000000000000
+      internalID: 6424945048656764147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 77
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22717eab214f1110800000000000000
+      internalID: 1233776478788874794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_76
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 63
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d9dea6c9eff3ac0800000000000000
+      internalID: -3873097206753026740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_77
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 93
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6388dbf0fdc81fe30800000000000000
+      internalID: 4535561189408475190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_78
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 62
+        width: 134
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab8bcab8d5c93420800000000000000
+      internalID: 2610334993675422628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_79
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 62
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44325b0fcf5edc40800000000000000
+      internalID: 5538969934565094479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_80
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 62
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dede92477417aa9a0800000000000000
+      internalID: -6221035383553397267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 77
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0519c3fce7287d0800000000000000
+      internalID: -2917630180043173705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_82
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 82
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01513f44ecf41b180800000000000000
+      internalID: -9101405624600423152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 77
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18a8eeeb81274080800000000000000
+      internalID: -9203350428615923682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_84
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40b84e49ebcaaa30800000000000000
+      internalID: 4227415403141836876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_85
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 82
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1523c4bce7d5dd80800000000000000
+      internalID: -8226431732677401317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_86
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 75
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6048e65e49270b0800000000000000
+      internalID: -5732355662566652251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5495c770450ffa0800000000000000
+      internalID: -5769018731533875776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_88
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 61
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e70ff68e2e035a00800000000000000
+      internalID: 743953956442408930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_89
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 61
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72db6bb148990b570800000000000000
+      internalID: 8480446891018337575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_90
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8835ca9623a07bc0800000000000000
+      internalID: -3787347900417886070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_91
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f073b53a71b9e3b10800000000000000
+      internalID: 1963177013407332111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 49
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab48771a8be320c0800000000000000
+      internalID: -4601575415910741077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_93
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 49
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa277bdc235d76030800000000000000
+      internalID: 3487990850598171311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_94
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 44
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ea15b3b51394e70800000000000000
+      internalID: 9099858789985791630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_95
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 49
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3344bbef4dfa0e290800000000000000
+      internalID: -7863091620047272909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_96
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 27
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1883d1cf1302a80800000000000000
+      internalID: -8493733938328993291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 27
+        width: 111
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1077a4d66ecfc920800000000000000
+      internalID: 3012853616783880220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_98
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 27
+        width: 93
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfb7a83b2d948710800000000000000
+      internalID: 1694652168757821366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_99
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628300da72fde7170800000000000000
+      internalID: 8178219334850590758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_100
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 38
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5c5b03aa2b59f80800000000000000
+      internalID: -8100371910724565521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_101
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 38
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6289e0e5f9a8bee0800000000000000
+      internalID: -1245058423462460817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_102
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 38
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb9bd1d471950d80800000000000000
+      internalID: -8285056008555095118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_103
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bd47165a7dcf3a0800000000000000
+      internalID: -6630187446091588843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_104
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 38
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07173cbda19d12dd0800000000000000
+      internalID: -2512488407716630160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_105
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 38
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e5e6eb3d61c660800000000000000
+      internalID: 7404319366418129743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_106
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9089d1c615df10440800000000000000
+      internalID: 4900476395703867401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f1899e6ecac17b0800000000000000
+      internalID: -5252132957659324663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1927890ea079c32b0800000000000000
+      internalID: -5603437763382185327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_109
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aca7577c5350760800000000000000
+      internalID: 7423398691575876184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_110
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 22
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baefad70f616bc060800000000000000
+      internalID: 6974775577414401707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_111
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 7
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6b6ece2b7d0ef80800000000000000
+      internalID: -8079220568023976220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_112
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c7f4ad1f55698b0800000000000000
+      internalID: -5145831026986091511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_113
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 22
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb83ec4b40d00b70800000000000000
+      internalID: 8863313088496241654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_114
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedfa864251066750800000000000000
+      internalID: 6297722581806677486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_115
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 6
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17343267f4c640100800000000000000
+      internalID: 73302582485009265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_116
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fefb28f243b2240800000000000000
+      internalID: 4767962009163526012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_117
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 13
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24181e7c095d4b240800000000000000
+      internalID: 4806701520116613442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_118
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1
+        width: 69
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3607b551895fddab0800000000000000
+      internalID: -4981555579259752349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc1bf1c20ccf6bd0800000000000000
+      internalID: -2634662944771990310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_120
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677dc411cabaac820800000000000000
+      internalID: 2939350462325643126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_121
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4f59d67c85e9400800000000000000
+      internalID: 332801036032275652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_122
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eaf1e03422a9010800000000000000
+      internalID: 1196306322415398445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_123
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74512ffd05e574b70800000000000000
+      internalID: 8883172491459171655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_124
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d274702ec0289f780800000000000000
+      internalID: -8648738617544980691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_125
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d545fcee17e5790c0800000000000000
+      internalID: -4569079453513198499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_126
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af42f346b62081630800000000000000
+      internalID: 3897868137755780346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retromeatboyfinal_127
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca116217586272230800000000000000
+      internalID: 3613899580558938540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

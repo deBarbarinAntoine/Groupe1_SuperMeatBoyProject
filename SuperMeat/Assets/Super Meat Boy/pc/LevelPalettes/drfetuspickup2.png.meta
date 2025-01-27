@@ -1,0 +1,5092 @@
+fileFormatVersion: 2
+guid: 25c4f93fe961c984988fbdafbb4939d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5931586026904986876
+    second: drfetuspickup2_0
+  - first:
+      213: -7360034400663728021
+    second: drfetuspickup2_1
+  - first:
+      213: -8142167141346027173
+    second: drfetuspickup2_2
+  - first:
+      213: 97546730925122204
+    second: drfetuspickup2_3
+  - first:
+      213: -3001976931703129384
+    second: drfetuspickup2_4
+  - first:
+      213: -1928104794621438785
+    second: drfetuspickup2_5
+  - first:
+      213: 4282962597363950383
+    second: drfetuspickup2_6
+  - first:
+      213: 5458040025022137150
+    second: drfetuspickup2_7
+  - first:
+      213: 4164386374213917536
+    second: drfetuspickup2_8
+  - first:
+      213: 423788999448994542
+    second: drfetuspickup2_9
+  - first:
+      213: 6260373183591322491
+    second: drfetuspickup2_10
+  - first:
+      213: -5249576146523577408
+    second: drfetuspickup2_11
+  - first:
+      213: 4837798999569562336
+    second: drfetuspickup2_12
+  - first:
+      213: 7069114138289122209
+    second: drfetuspickup2_13
+  - first:
+      213: 2034289635904694244
+    second: drfetuspickup2_14
+  - first:
+      213: 4073174475482540535
+    second: drfetuspickup2_15
+  - first:
+      213: -9103114635264649031
+    second: drfetuspickup2_16
+  - first:
+      213: 7763803756475797909
+    second: drfetuspickup2_17
+  - first:
+      213: 4623990651556608691
+    second: drfetuspickup2_18
+  - first:
+      213: 6295339490004320661
+    second: drfetuspickup2_19
+  - first:
+      213: 2311471702600504609
+    second: drfetuspickup2_20
+  - first:
+      213: 8943536039793071986
+    second: drfetuspickup2_21
+  - first:
+      213: -5698657014235020496
+    second: drfetuspickup2_22
+  - first:
+      213: 4603907382357729108
+    second: drfetuspickup2_23
+  - first:
+      213: 1461003733296860310
+    second: drfetuspickup2_24
+  - first:
+      213: -5741020142592139864
+    second: drfetuspickup2_25
+  - first:
+      213: -6021545656246362716
+    second: drfetuspickup2_26
+  - first:
+      213: -527538578257847394
+    second: drfetuspickup2_27
+  - first:
+      213: 8609865629857179195
+    second: drfetuspickup2_28
+  - first:
+      213: -3671008282954828554
+    second: drfetuspickup2_29
+  - first:
+      213: -2881883276494249108
+    second: drfetuspickup2_30
+  - first:
+      213: 687776820688846883
+    second: drfetuspickup2_31
+  - first:
+      213: 7033182498198053498
+    second: drfetuspickup2_32
+  - first:
+      213: -4643801345185949738
+    second: drfetuspickup2_33
+  - first:
+      213: -4046794352333453304
+    second: drfetuspickup2_34
+  - first:
+      213: -2133524920264383663
+    second: drfetuspickup2_35
+  - first:
+      213: -2996130368915495003
+    second: drfetuspickup2_36
+  - first:
+      213: 4115942638633045249
+    second: drfetuspickup2_37
+  - first:
+      213: 4703063152796913646
+    second: drfetuspickup2_38
+  - first:
+      213: -8040345228154876796
+    second: drfetuspickup2_39
+  - first:
+      213: -3563696038018999987
+    second: drfetuspickup2_40
+  - first:
+      213: 2599901750173681727
+    second: drfetuspickup2_41
+  - first:
+      213: -7107274449829962542
+    second: drfetuspickup2_42
+  - first:
+      213: 5627700127984677043
+    second: drfetuspickup2_43
+  - first:
+      213: 1235391422989981077
+    second: drfetuspickup2_44
+  - first:
+      213: -8149519271745968612
+    second: drfetuspickup2_45
+  - first:
+      213: -4954374218893521827
+    second: drfetuspickup2_46
+  - first:
+      213: -4453317202516807236
+    second: drfetuspickup2_47
+  - first:
+      213: 7668148858019746210
+    second: drfetuspickup2_48
+  - first:
+      213: -6692605680944574925
+    second: drfetuspickup2_49
+  - first:
+      213: 376294190071293837
+    second: drfetuspickup2_50
+  - first:
+      213: -1797483445586273255
+    second: drfetuspickup2_51
+  - first:
+      213: -2437185403395793361
+    second: drfetuspickup2_52
+  - first:
+      213: -951202434548038107
+    second: drfetuspickup2_53
+  - first:
+      213: -4188589783955580561
+    second: drfetuspickup2_54
+  - first:
+      213: 4731707122831593168
+    second: drfetuspickup2_55
+  - first:
+      213: 850217272074029182
+    second: drfetuspickup2_56
+  - first:
+      213: -8427529096244352062
+    second: drfetuspickup2_57
+  - first:
+      213: -1040065191943266062
+    second: drfetuspickup2_58
+  - first:
+      213: 7441023953713022278
+    second: drfetuspickup2_59
+  - first:
+      213: 6695305161947953817
+    second: drfetuspickup2_60
+  - first:
+      213: 5440537499925852529
+    second: drfetuspickup2_61
+  - first:
+      213: 4418077053161456664
+    second: drfetuspickup2_62
+  - first:
+      213: 1919958715569287993
+    second: drfetuspickup2_63
+  - first:
+      213: -8291827706270030127
+    second: drfetuspickup2_64
+  - first:
+      213: 3516150565952274150
+    second: drfetuspickup2_65
+  - first:
+      213: -8947655443242452369
+    second: drfetuspickup2_66
+  - first:
+      213: -1206436826227464701
+    second: drfetuspickup2_67
+  - first:
+      213: -1322018861610049091
+    second: drfetuspickup2_68
+  - first:
+      213: -5783150807679307042
+    second: drfetuspickup2_69
+  - first:
+      213: 6408706998455178699
+    second: drfetuspickup2_70
+  - first:
+      213: -3866655141217177628
+    second: drfetuspickup2_71
+  - first:
+      213: -3498943643462665924
+    second: drfetuspickup2_72
+  - first:
+      213: -9056485340945835867
+    second: drfetuspickup2_73
+  - first:
+      213: 4702181846048535594
+    second: drfetuspickup2_74
+  - first:
+      213: -1883554216316343231
+    second: drfetuspickup2_75
+  - first:
+      213: 1608945297736396014
+    second: drfetuspickup2_76
+  - first:
+      213: -227898532700917759
+    second: drfetuspickup2_77
+  - first:
+      213: -5936877298983478583
+    second: drfetuspickup2_78
+  - first:
+      213: -908665105780907775
+    second: drfetuspickup2_79
+  - first:
+      213: 2743204744376563129
+    second: drfetuspickup2_80
+  - first:
+      213: 7618706454294533132
+    second: drfetuspickup2_81
+  - first:
+      213: -5868847453743186819
+    second: drfetuspickup2_82
+  - first:
+      213: -8032895062585381153
+    second: drfetuspickup2_83
+  - first:
+      213: -8641072246618886903
+    second: drfetuspickup2_84
+  - first:
+      213: -862740078221827716
+    second: drfetuspickup2_85
+  - first:
+      213: 6831911657978622677
+    second: drfetuspickup2_86
+  - first:
+      213: -3216554831206896565
+    second: drfetuspickup2_87
+  - first:
+      213: 2085895501752967978
+    second: drfetuspickup2_88
+  - first:
+      213: 5559710437662070916
+    second: drfetuspickup2_89
+  - first:
+      213: -1302453379402988603
+    second: drfetuspickup2_90
+  - first:
+      213: -1655554225668236654
+    second: drfetuspickup2_91
+  - first:
+      213: -7349365057767862456
+    second: drfetuspickup2_92
+  - first:
+      213: 7307311085045152319
+    second: drfetuspickup2_93
+  - first:
+      213: -4483254873541863595
+    second: drfetuspickup2_94
+  - first:
+      213: 7142060838214253928
+    second: drfetuspickup2_95
+  - first:
+      213: -686121267650869687
+    second: drfetuspickup2_96
+  - first:
+      213: -3506849352110294561
+    second: drfetuspickup2_97
+  - first:
+      213: 1526136619595961348
+    second: drfetuspickup2_98
+  - first:
+      213: -3202282621727200875
+    second: drfetuspickup2_99
+  - first:
+      213: 5756366449510900221
+    second: drfetuspickup2_100
+  - first:
+      213: -2909033952751796976
+    second: drfetuspickup2_101
+  - first:
+      213: 4377192563166846562
+    second: drfetuspickup2_102
+  - first:
+      213: 5948123471524198726
+    second: drfetuspickup2_103
+  - first:
+      213: 6343064734959287124
+    second: drfetuspickup2_104
+  - first:
+      213: 8660843288564360914
+    second: drfetuspickup2_105
+  - first:
+      213: -5280029262962596823
+    second: drfetuspickup2_106
+  - first:
+      213: 989913269283956774
+    second: drfetuspickup2_107
+  - first:
+      213: -5164914009834627417
+    second: drfetuspickup2_108
+  - first:
+      213: 4844910650434776186
+    second: drfetuspickup2_109
+  - first:
+      213: -5892985314682372200
+    second: drfetuspickup2_110
+  - first:
+      213: 3011154825596985665
+    second: drfetuspickup2_111
+  - first:
+      213: 503864651342731386
+    second: drfetuspickup2_112
+  - first:
+      213: 7057040838213415027
+    second: drfetuspickup2_113
+  - first:
+      213: 4353552577919101679
+    second: drfetuspickup2_114
+  - first:
+      213: -5661478501226600159
+    second: drfetuspickup2_115
+  - first:
+      213: 1092348662054856734
+    second: drfetuspickup2_116
+  - first:
+      213: 1370892406950691626
+    second: drfetuspickup2_117
+  - first:
+      213: 510128127726499354
+    second: drfetuspickup2_118
+  - first:
+      213: 3828318341204250705
+    second: drfetuspickup2_119
+  - first:
+      213: -6710839529335521720
+    second: drfetuspickup2_120
+  - first:
+      213: 1387221616549797424
+    second: drfetuspickup2_121
+  - first:
+      213: 2228522234437682952
+    second: drfetuspickup2_122
+  - first:
+      213: -3344424189601076961
+    second: drfetuspickup2_123
+  - first:
+      213: -4819523627109608290
+    second: drfetuspickup2_124
+  - first:
+      213: 2086683044062904960
+    second: drfetuspickup2_125
+  - first:
+      213: 2923365075486437247
+    second: drfetuspickup2_126
+  - first:
+      213: 2097980122289671836
+    second: drfetuspickup2_127
+  - first:
+      213: -767045074314389991
+    second: drfetuspickup2_128
+  - first:
+      213: -5107404175719594248
+    second: drfetuspickup2_129
+  - first:
+      213: -7873713074298303291
+    second: drfetuspickup2_130
+  - first:
+      213: -4416321110386650029
+    second: drfetuspickup2_131
+  - first:
+      213: 2787110642528883786
+    second: drfetuspickup2_132
+  - first:
+      213: 2782048592673724840
+    second: drfetuspickup2_133
+  - first:
+      213: -4204587475177251691
+    second: drfetuspickup2_134
+  - first:
+      213: 5405455946347743978
+    second: drfetuspickup2_135
+  - first:
+      213: -365692999934322693
+    second: drfetuspickup2_136
+  - first:
+      213: 5730994777551270166
+    second: drfetuspickup2_137
+  - first:
+      213: 8678403471543482859
+    second: drfetuspickup2_138
+  - first:
+      213: 8804564087020499138
+    second: drfetuspickup2_139
+  - first:
+      213: -7668897920146034994
+    second: drfetuspickup2_140
+  - first:
+      213: -3420339028740363069
+    second: drfetuspickup2_141
+  - first:
+      213: 163251748148259535
+    second: drfetuspickup2_142
+  - first:
+      213: 6912112584986379874
+    second: drfetuspickup2_143
+  - first:
+      213: 4177238284875171866
+    second: drfetuspickup2_144
+  - first:
+      213: -1818735914846292435
+    second: drfetuspickup2_145
+  - first:
+      213: 2030269730838373642
+    second: drfetuspickup2_146
+  - first:
+      213: 8088591026883549806
+    second: drfetuspickup2_147
+  - first:
+      213: -2640617370394990025
+    second: drfetuspickup2_148
+  - first:
+      213: -8823489295564806507
+    second: drfetuspickup2_149
+  - first:
+      213: 7516555382504834650
+    second: drfetuspickup2_150
+  - first:
+      213: 9186407689295257806
+    second: drfetuspickup2_151
+  - first:
+      213: -2790683519275170090
+    second: drfetuspickup2_152
+  - first:
+      213: 8166164431259679094
+    second: drfetuspickup2_153
+  - first:
+      213: -8779293719290906689
+    second: drfetuspickup2_154
+  - first:
+      213: 3839384354975501893
+    second: drfetuspickup2_155
+  - first:
+      213: 2210058810888339914
+    second: drfetuspickup2_156
+  - first:
+      213: -381033515420515802
+    second: drfetuspickup2_157
+  - first:
+      213: -1317983455228525778
+    second: drfetuspickup2_158
+  - first:
+      213: 9209481755788550957
+    second: drfetuspickup2_159
+  - first:
+      213: 4845823178229503963
+    second: drfetuspickup2_160
+  - first:
+      213: -7460033244160900778
+    second: drfetuspickup2_161
+  - first:
+      213: 2960092098285902121
+    second: drfetuspickup2_162
+  - first:
+      213: 4198236476626090653
+    second: drfetuspickup2_163
+  - first:
+      213: -7376040206740896252
+    second: drfetuspickup2_164
+  - first:
+      213: 5579659262283979778
+    second: drfetuspickup2_165
+  - first:
+      213: 721483223383584216
+    second: drfetuspickup2_166
+  - first:
+      213: 1264164086620397877
+    second: drfetuspickup2_167
+  - first:
+      213: 8267763011224988641
+    second: drfetuspickup2_168
+  - first:
+      213: 1993293059473625181
+    second: drfetuspickup2_169
+  - first:
+      213: 1659279631287979274
+    second: drfetuspickup2_170
+  - first:
+      213: -8125454772183365764
+    second: drfetuspickup2_171
+  - first:
+      213: 9196146679282382402
+    second: drfetuspickup2_172
+  - first:
+      213: 4873260024902655487
+    second: drfetuspickup2_173
+  - first:
+      213: -501436181614703338
+    second: drfetuspickup2_174
+  - first:
+      213: 3771323350550370342
+    second: drfetuspickup2_175
+  - first:
+      213: -5674102138009724418
+    second: drfetuspickup2_176
+  - first:
+      213: 4318073741544690644
+    second: drfetuspickup2_177
+  - first:
+      213: 2632576718157441075
+    second: drfetuspickup2_178
+  - first:
+      213: -7513487910044899721
+    second: drfetuspickup2_179
+  - first:
+      213: 3826257548914571438
+    second: drfetuspickup2_180
+  - first:
+      213: -1874772862901710278
+    second: drfetuspickup2_181
+  - first:
+      213: -6920610322469966317
+    second: drfetuspickup2_182
+  - first:
+      213: -4802139366862968046
+    second: drfetuspickup2_183
+  - first:
+      213: -4847604025079206008
+    second: drfetuspickup2_184
+  - first:
+      213: 2369327979178740003
+    second: drfetuspickup2_185
+  - first:
+      213: -2579981620081096968
+    second: drfetuspickup2_186
+  - first:
+      213: 8961562355061792014
+    second: drfetuspickup2_187
+  - first:
+      213: 4867190346934318436
+    second: drfetuspickup2_188
+  - first:
+      213: -5625760873394547071
+    second: drfetuspickup2_189
+  - first:
+      213: -3843096508253481682
+    second: drfetuspickup2_190
+  - first:
+      213: 695692689536102756
+    second: drfetuspickup2_191
+  - first:
+      213: 8752418133280199494
+    second: drfetuspickup2_192
+  - first:
+      213: -8170699520196300654
+    second: drfetuspickup2_193
+  - first:
+      213: -2644135686539562384
+    second: drfetuspickup2_194
+  - first:
+      213: -1639231361721815919
+    second: drfetuspickup2_195
+  - first:
+      213: -9145656426002087406
+    second: drfetuspickup2_196
+  - first:
+      213: -2238634463224347965
+    second: drfetuspickup2_197
+  - first:
+      213: -5020038433489593444
+    second: drfetuspickup2_198
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drfetuspickup2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4a758801a315250800000000000000
+      internalID: 5931586026904986876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 789
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6098cd25b7ebd990800000000000000
+      internalID: -7360034400663728021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 783
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59563ebf16310f80800000000000000
+      internalID: -8142167141346027173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 777
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92eac52c3e8a5100800000000000000
+      internalID: 97546730925122204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 756
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dafae1c2e5d656d0800000000000000
+      internalID: -3001976931703129384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 688
+        width: 163
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb49cd2a7eefd35e0800000000000000
+      internalID: -1928104794621438785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 717
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23a92a4ac3207b30800000000000000
+      internalID: 4282962597363950383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 778
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e330f4d1c7adebb40800000000000000
+      internalID: 5458040025022137150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 760
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b5f7ee75fdac930800000000000000
+      internalID: 4164386374213917536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_9
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 719
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee220e389d991e500800000000000000
+      internalID: 423788999448994542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_10
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 748
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b739759dd3051e650800000000000000
+      internalID: 6260373183591322491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_11
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 781
+        width: 74
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c32915ee42c527b0800000000000000
+      internalID: -5249576146523577408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 771
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea7510fe80532340800000000000000
+      internalID: 4837798999569562336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 770
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab2a61ead98a1260800000000000000
+      internalID: 7069114138289122209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 767
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7ab5e45af3b3c10800000000000000
+      internalID: 2034289635904694244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 690
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f92357da92d68830800000000000000
+      internalID: 4073174475482540535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_16
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 746
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b81467387d3ba180800000000000000
+      internalID: -9103114635264649031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 744
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5915592d1629ebb60800000000000000
+      internalID: 7763803756475797909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_18
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 754
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba32c6aff6bb2040800000000000000
+      internalID: 4623990651556608691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_19
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 700
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591423a79e98d5750800000000000000
+      internalID: 6295339490004320661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_20
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 754
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125dedd444ff31020800000000000000
+      internalID: 2311471702600504609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_21
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 702
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27715cfa4a2dd1c70800000000000000
+      internalID: 8943536039793071986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033cbb963ad4ae0b0800000000000000
+      internalID: -5698657014235020496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 732
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f1b382f5d54ef30800000000000000
+      internalID: 4603907382357729108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 734
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ccdaa9727864410800000000000000
+      internalID: 1461003733296860310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 736
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adde68f89cc350b0800000000000000
+      internalID: -5741020142592139864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 689
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad93a0112c2f6ca0800000000000000
+      internalID: -6021545656246362716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_27
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 734
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b50a5457ecda8f0800000000000000
+      internalID: -527538578257847394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_28
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 737
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b366b7f5c236c7770800000000000000
+      internalID: 8609865629857179195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 710
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4f5fe9a65fd0dc0800000000000000
+      internalID: -3671008282954828554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 709
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63eb6ccd6e7108d0800000000000000
+      internalID: -2881883276494249108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 706
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32008e9df597b8900800000000000000
+      internalID: 687776820688846883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_32
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 711
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72e69df732ea9160800000000000000
+      internalID: 7033182498198053498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 703
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7d5bcc747ed8fb0800000000000000
+      internalID: -4643801345185949738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_34
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 714
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8088b163af5e6d7c0800000000000000
+      internalID: -4046794352333453304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_35
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 686
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153a23093623462e0800000000000000
+      internalID: -2133524920264383663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_36
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 711
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7280cbd4b9b66d0800000000000000
+      internalID: -2996130368915495003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 709
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d4b9bc504ce1930800000000000000
+      internalID: 4115942638633045249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 714
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef40b20503a44140800000000000000
+      internalID: 4703063152796913646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_39
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 713
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c42545d94fa6090800000000000000
+      internalID: -8040345228154876796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_40
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 715
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49196ea5553b8ec0800000000000000
+      internalID: -3563696038018999987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_41
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 689
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38c40eedd4b41420800000000000000
+      internalID: 2599901750173681727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 698
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcdca83b83ed5d90800000000000000
+      internalID: -7107274449829962542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 684
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b072f6137b991e40800000000000000
+      internalID: 5627700127984677043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_44
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 704
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595d1ed24fdf42110800000000000000
+      internalID: 1235391422989981077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_45
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 702
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16a16d766717ee80800000000000000
+      internalID: -8149519271745968612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_46
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 688
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c8f76b5e68e3bb0800000000000000
+      internalID: -4954374218893521827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_47
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 686
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb179d75993a232c0800000000000000
+      internalID: -4453317202516807236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 684
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1951f32ccba6a60800000000000000
+      internalID: 7668148858019746210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 693
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e898597961f13a0800000000000000
+      internalID: -6692605680944574925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 686
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d872e3a729dd83500800000000000000
+      internalID: 376294190071293837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_51
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 688
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c5f28645e0e07e0800000000000000
+      internalID: -1797483445586273255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_52
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 680
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e93d2d9c06d2ed0800000000000000
+      internalID: -2437185403395793361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 679
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526074bec66acc2f0800000000000000
+      internalID: -951202434548038107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 678
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f695f7998c32fd5c0800000000000000
+      internalID: -4188589783955580561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_55
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 685
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de009dfe866aa140800000000000000
+      internalID: 4731707122831593168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_56
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 672
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78cfd3ba149ccb00800000000000000
+      internalID: 850217272074029182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_57
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 662
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb261c10f66b0b80800000000000000
+      internalID: -8427529096244352062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_58
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 655
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f029fae732f091f0800000000000000
+      internalID: -1040065191943266062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_59
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 658
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645cc369cd3d34760800000000000000
+      internalID: 7441023953713022278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_60
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 665
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a3fb052908aec50800000000000000
+      internalID: 6695305161947953817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_61
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 666
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171b54ee70ca08b40800000000000000
+      internalID: 5440537499925852529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_62
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 668
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8144efffba9205d30800000000000000
+      internalID: 4418077053161456664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_63
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 669
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9333ce8874015aa10800000000000000
+      internalID: 1919958715569287993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_64
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 660
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6680512a28dec80800000000000000
+      internalID: -8291827706270030127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_65
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 653
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eebf547f40ebc030800000000000000
+      internalID: 3516150565952274150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_66
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 631
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a71f4f7ca83d380800000000000000
+      internalID: -8947655443242452369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 646
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30623c83910e14fe0800000000000000
+      internalID: -1206436826227464701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_68
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 545
+        width: 229
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1ed5789de37ade0800000000000000
+      internalID: -1322018861610049091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_69
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 637
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2f2c91bfe1ebfa0800000000000000
+      internalID: -5783150807679307042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_70
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 631
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc51b707f0d40f850800000000000000
+      internalID: 6408706998455178699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_71
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 610
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efefcea2a1e65ac0800000000000000
+      internalID: -3866655141217177628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39fb426b41417fc0800000000000000
+      internalID: -3498943643462665924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_73
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 525
+        width: 112
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a81463d096e05280800000000000000
+      internalID: -9056485340945835867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_74
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 493
+        width: 108
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24730bc971814140800000000000000
+      internalID: 4702181846048535594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_75
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 628
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c66457b654cd5e0800000000000000
+      internalID: -1883554216316343231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_76
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 626
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecec96493f145610800000000000000
+      internalID: 1608945297736396014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_77
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 627
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1007781fd7756dcf0800000000000000
+      internalID: -227898532700917759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_78
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 604
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca520f2d89fb9da0800000000000000
+      internalID: -5936877298983478583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_79
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 585
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101e22e86e5c363f0800000000000000
+      internalID: -908665105780907775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_80
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 587
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b53bbe4e22d11620800000000000000
+      internalID: 2743204744376563129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_81
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 546
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04933097251bb960800000000000000
+      internalID: 7618706454294533132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_82
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 566
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c7ea6d55aad8ea0800000000000000
+      internalID: -5868847453743186819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_83
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 549
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdeeb9c208c658090800000000000000
+      internalID: -8032895062585381153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_84
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 537
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d6bc5f29eb41880800000000000000
+      internalID: -8641072246618886903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_85
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 520
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c716818487ee604f0800000000000000
+      internalID: -862740078221827716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_86
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 537
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d27aa6b473dfce50800000000000000
+      internalID: 6831911657978622677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_87
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 460
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ca85d4c608c53d0800000000000000
+      internalID: -3216554831206896565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_88
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 495
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23229448e692fc10800000000000000
+      internalID: 2085895501752967978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_89
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 411
+        width: 90
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48811eabf2f082d40800000000000000
+      internalID: 5559710437662070916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_90
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 523
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c38d285d81ccede0800000000000000
+      internalID: -1302453379402988603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_91
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 519
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ad5a8043a4609e0800000000000000
+      internalID: -1655554225668236654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_92
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 526
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f04172b6fc10a90800000000000000
+      internalID: -7349365057767862456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3af36f47b8c86560800000000000000
+      internalID: 7307311085045152319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_94
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 518
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5579ff0227748c1c0800000000000000
+      internalID: -4483254873541863595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_95
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 387
+        width: 73
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d3df9fd72bd1360800000000000000
+      internalID: 7142060838214253928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_96
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 411
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94644d0a7586a76f0800000000000000
+      internalID: -686121267650869687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_97
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 512
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd938a6281b255fc0800000000000000
+      internalID: -3506849352110294561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_98
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 503
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4049bb17b2ded2510800000000000000
+      internalID: 1526136619595961348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_99
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 498
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5992b850ce43f83d0800000000000000
+      internalID: -3202282621727200875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_100
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 499
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1e21c89c8b2ef40800000000000000
+      internalID: 5756366449510900221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_101
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 464
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dbdae580901a7d0800000000000000
+      internalID: -2909033952751796976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_102
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 494
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e9a01e179eebc30800000000000000
+      internalID: 4377192563166846562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_103
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 482
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649fc5868cafb8250800000000000000
+      internalID: 5948123471524198726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_104
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 497
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b3e8af4c7170850800000000000000
+      internalID: 6343064734959287124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_105
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 491
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d66436751f713870800000000000000
+      internalID: 8660843288564360914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_106
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 425
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92462713c5199b6b0800000000000000
+      internalID: -5280029262962596823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_107
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 473
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628ad16afd0ecbd00800000000000000
+      internalID: 989913269283956774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_108
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 474
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae5e5ca21a8258b0800000000000000
+      internalID: -5164914009834627417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_109
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 481
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cebaf21949c3340800000000000000
+      internalID: 4844910650434776186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_110
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 455
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f73c32419e73ea0800000000000000
+      internalID: -5892985314682372200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_111
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 393
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141696f2c55c9c920800000000000000
+      internalID: 3011154825596985665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_112
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 440
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78d8261b361ef600800000000000000
+      internalID: 503864651342731386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_113
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 293
+        width: 114
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370b227a045afe160800000000000000
+      internalID: 7057040838213415027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_114
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 464
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaaad5e00dea6c30800000000000000
+      internalID: 4353552577919101679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_115
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 422
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a0e68c436e61b0800000000000000
+      internalID: -5661478501226600159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_116
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 435
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1827a4125dc82f00800000000000000
+      internalID: 1092348662054856734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_117
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 411
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23839d7163660310800000000000000
+      internalID: 1370892406950691626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_118
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 433
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16b21354d6541700800000000000000
+      internalID: 510128127726499354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_119
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 438
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150979e7f3be02530800000000000000
+      internalID: 3828318341204250705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 401
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e7e4de00f4ed2a0800000000000000
+      internalID: -6710839529335521720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_121
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e913fd5b6604310800000000000000
+      internalID: 1387221616549797424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_122
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c7bd3a2d4dee10800000000000000
+      internalID: 2228522234437682952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_123
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 410
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19aa984be73691d0800000000000000
+      internalID: -3344424189601076961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_124
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 421
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94978bcbcc9d1db0800000000000000
+      internalID: -4819523627109608290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_125
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 392
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08243304c2365fc10800000000000000
+      internalID: 2086683044062904960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_126
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 404
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fe6292c01e19820800000000000000
+      internalID: 2923365075486437247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_127
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 402
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e08ee3ec58d1d10800000000000000
+      internalID: 2097980122289671836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_128
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 390
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91617c2a198ea55f0800000000000000
+      internalID: -767045074314389991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_129
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 406
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f603ed56fade19b0800000000000000
+      internalID: -5107404175719594248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_130
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 391
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccc917fca3fab290800000000000000
+      internalID: -7873713074298303291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_131
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 399
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3545859495316b2c0800000000000000
+      internalID: -4416321110386650029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_132
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 378
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4415a5dc5ecda620800000000000000
+      internalID: 2787110642528883786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_133
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 389
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a951328472db9620800000000000000
+      internalID: 2782048592673724840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_134
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 394
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cd00bd7fd46a5c0800000000000000
+      internalID: -4204587475177251691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_135
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 389
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea841b3b89040b40800000000000000
+      internalID: 5405455946347743978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_136
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 391
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf75112772ccceaf0800000000000000
+      internalID: -365692999934322693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_137
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 382
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611ff85d265988f40800000000000000
+      internalID: 5730994777551270166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_138
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 381
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9bdda2af1ef6870800000000000000
+      internalID: 8678403471543482859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_139
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 377
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0b4097368103a70800000000000000
+      internalID: 8804564087020499138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_140
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 379
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecea6f229f9929590800000000000000
+      internalID: -7668897920146034994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_141
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 364
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cca68c66c38880d0800000000000000
+      internalID: -3420339028740363069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_142
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 367
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaa659999cf34200800000000000000
+      internalID: 163251748148259535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_143
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 352
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266ce9b26c1ccef50800000000000000
+      internalID: 6912112584986379874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_144
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 267
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a188520961888f930800000000000000
+      internalID: 4177238284875171866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_145
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 363
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26775f425d82c6e0800000000000000
+      internalID: -1818735914846292435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_146
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 369
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0569d83097fc2c10800000000000000
+      internalID: 2030269730838373642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_147
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 341
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a5eca0fa2704070800000000000000
+      internalID: 8088591026883549806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 353
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a61e10e74aa5bd0800000000000000
+      internalID: -2640617370394990025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_149
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 345
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596e56a0c3bac8580800000000000000
+      internalID: -8823489295564806507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_150
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 357
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5640c4cb4b205860800000000000000
+      internalID: 7516555382504834650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 333
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec06c5a2f1dac7f70800000000000000
+      internalID: 9186407689295257806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_152
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 330
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d60119ff108549d0800000000000000
+      internalID: -2790683519275170090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_153
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679b9a6b84b045170800000000000000
+      internalID: 8166164431259679094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_154
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 325
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7f8d280eea92680800000000000000
+      internalID: -8779293719290906689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_155
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 321
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ec18a9abb384530800000000000000
+      internalID: 3839384354975501893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_156
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 325
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1c8b377c4bbae10800000000000000
+      internalID: 2210058810888339914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62287d9590c46baf0800000000000000
+      internalID: -381033515420515802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_158
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 311
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23034bc70595bde0800000000000000
+      internalID: -1317983455228525778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_159
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 293
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23a73becd6aecf70800000000000000
+      internalID: 9209481755788550957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_160
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 310
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd759be9182df3340800000000000000
+      internalID: 4845823178229503963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_161
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 304
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6514f251a43a87890800000000000000
+      internalID: -7460033244160900778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_162
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 291
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92995c4841c541920800000000000000
+      internalID: 2960092098285902121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_163
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 289
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab26015d1234a30800000000000000
+      internalID: 4198236476626090653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_164
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 226
+        width: 159
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406c53c038a03a990800000000000000
+      internalID: -7376040206740896252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_165
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 295
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c9728698eee6d40800000000000000
+      internalID: 5579659262283979778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_166
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 282
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddae294b29330a00800000000000000
+      internalID: 721483223383584216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_167
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531a0d8f9863b8110800000000000000
+      internalID: 1264164086620397877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_168
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 284
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebed2b77aefcb270800000000000000
+      internalID: 8267763011224988641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_169
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 279
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d505d270a7999ab10800000000000000
+      internalID: 1993293059473625181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_170
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 267
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d06fd8802f60710800000000000000
+      internalID: 1659279631287979274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_171
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 285
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7702896fe59c3f80800000000000000
+      internalID: -8125454772183365764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_172
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 267
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246b3097ea64f9f70800000000000000
+      internalID: 9196146679282382402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_173
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 265
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd1f6a4c2c41a340800000000000000
+      internalID: 4873260024902655487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_174
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 270
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dc355137a8a09f0800000000000000
+      internalID: -501436181614703338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_175
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 273
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628d0b22b9e665430800000000000000
+      internalID: 3771323350550370342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_176
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 259
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef955ac0b2a8141b0800000000000000
+      internalID: -5674102138009724418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 59
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d396b69031eceb30800000000000000
+      internalID: 4318073741544690644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_178
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 249
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338ecb1c39ac88420800000000000000
+      internalID: 2632576718157441075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_179
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 145
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776e491dd8abab790800000000000000
+      internalID: -7513487910044899721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_180
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 80
+        width: 94
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b536e7f8991530800000000000000
+      internalID: 3826257548914571438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_181
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 256
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a329330a3087bf5e0800000000000000
+      internalID: -1874772862901710278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_182
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 244
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ea644249d05ff90800000000000000
+      internalID: -6920610322469966317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_183
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 250
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ba63c40bf5b5db0800000000000000
+      internalID: -4802139366862968046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_184
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f6669a2d9d9bcb0800000000000000
+      internalID: -4847604025079206008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_185
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 229
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329c75b6e3b81e020800000000000000
+      internalID: 2369327979178740003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_186
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 133
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f68708c260123cd0800000000000000
+      internalID: -2579981620081096968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_187
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 91
+        width: 71
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d98f54b7ddd5c70800000000000000
+      internalID: 8961562355061792014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_188
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 222
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465fa3345dbbb8340800000000000000
+      internalID: 4867190346934318436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_189
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 221
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186d60eca484de1b0800000000000000
+      internalID: -5625760873394547071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_190
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 187
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25d10c56149aaac0800000000000000
+      internalID: -3843096508253481682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_191
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 160
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461b2a0b0d897a900800000000000000
+      internalID: 695692689536102756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_192
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6439adf7be5d67970800000000000000
+      internalID: 8752418133280199494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_193
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 137
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290be3c9318db9e80800000000000000
+      internalID: -8170699520196300654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 139
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07230e13a942e4bd0800000000000000
+      internalID: -2644135686539562384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_195
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 93
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c24e3f2c74049e0800000000000000
+      internalID: -1639231361721815919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_196
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 133
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2128062bfe9141180800000000000000
+      internalID: -9145656426002087406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 134
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2c09501d5cee0e0800000000000000
+      internalID: -2238634463224347965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drfetuspickup2_198
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 4
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b5b0d54ad355ab0800000000000000
+      internalID: -5020038433489593444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

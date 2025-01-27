@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: e6a922370212ae288983fd4218aafafb
+=======
+<<<<<<< HEAD
+guid: 06698ab5921835a4e955df207d6faea7
+=======
+guid: dcd15ec8e08fc254a805048b2b38b6e0
+>>>>>>> 3c3b0d72ca1fdbd8941c570b8d1f002482c231e9
+>>>>>>> origin/main
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -51,7 +59,11 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   spritePixelsToUnits: 60
+=======
+  spritePixelsToUnits: 100
+>>>>>>> origin/main
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -104,6 +116,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
+<<<<<<< HEAD
         y: 540
         width: 60
         height: 60
@@ -1295,16 +1308,28 @@ TextureImporter:
         y: 0
         width: 60
         height: 60
+=======
+        y: 0
+        width: 600
+        height: 600
+>>>>>>> origin/main
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
+<<<<<<< HEAD
       tessellationDetail: 0
       bones: []
       spriteID: 9ab483165fc7cc4a3aba9186a3132360
       internalID: 1155562589
+=======
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2b7de341f396620800000000000000
+      internalID: 2767812802182099682
+>>>>>>> origin/main
       vertices: []
       indices: 
       edges: []
@@ -1313,7 +1338,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: 6cd0bcdbd46f8277d877b09ccf3ca617
+=======
+    spriteID: 
+>>>>>>> origin/main
     internalID: 0
     vertices: []
     indices: 
@@ -1322,6 +1351,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
+<<<<<<< HEAD
     nameFileIdTable:
       foresttiles01_0: -1307549958
       foresttiles01_1: 563834165
@@ -1424,6 +1454,9 @@ TextureImporter:
       foresttiles01_97: 1984176870
       foresttiles01_98: -1332771908
       foresttiles01_99: 1155562589
+=======
+    nameFileIdTable: {}
+>>>>>>> origin/main
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

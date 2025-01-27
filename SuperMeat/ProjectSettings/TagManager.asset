@@ -41,6 +41,7 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: Earth
     uniqueID: 724241603
     locked: 0
@@ -50,5 +51,7 @@ TagManager:
   - name: UI-elements
     uniqueID: 484354543
     locked: 0
+=======
+>>>>>>> origin/main
   m_RenderingLayers:
   - Default

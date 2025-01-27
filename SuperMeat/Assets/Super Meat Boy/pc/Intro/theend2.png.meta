@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: 43f4a2719350b7b46abcf0973be5c890
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8973394488358795267
+    second: theend2_0
+  - first:
+      213: -4319532533625825045
+    second: theend2_1
+  - first:
+      213: 6289608018028531876
+    second: theend2_2
+  - first:
+      213: 14046378812904147
+    second: theend2_3
+  - first:
+      213: 3108818896258007747
+    second: theend2_4
+  - first:
+      213: 6824807421821056071
+    second: theend2_5
+  - first:
+      213: -7864468082979363478
+    second: theend2_6
+  - first:
+      213: 5647244854580163124
+    second: theend2_7
+  - first:
+      213: 5618787609360521822
+    second: theend2_8
+  - first:
+      213: -6988907896094139207
+    second: theend2_9
+  - first:
+      213: -2302494116771185420
+    second: theend2_10
+  - first:
+      213: 5685955561637001130
+    second: theend2_11
+  - first:
+      213: 2936104784116307959
+    second: theend2_12
+  - first:
+      213: 6650088725201481162
+    second: theend2_13
+  - first:
+      213: 1217248681121531497
+    second: theend2_14
+  - first:
+      213: 8867553850243973539
+    second: theend2_15
+  - first:
+      213: -4675096918875363612
+    second: theend2_16
+  - first:
+      213: -9176819786722403915
+    second: theend2_17
+  - first:
+      213: 5519979508795306011
+    second: theend2_18
+  - first:
+      213: -6365883097102872599
+    second: theend2_19
+  - first:
+      213: -5602267797833246082
+    second: theend2_20
+  - first:
+      213: 6844676263569772411
+    second: theend2_21
+  - first:
+      213: -1723594172121982097
+    second: theend2_22
+  - first:
+      213: 1424044119778154437
+    second: theend2_23
+  - first:
+      213: -1720374573067387820
+    second: theend2_24
+  - first:
+      213: -6276071809473696945
+    second: theend2_25
+  - first:
+      213: 4546059869638766463
+    second: theend2_26
+  - first:
+      213: -6886000517884271513
+    second: theend2_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: theend2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 575
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df70de38149187380800000000000000
+      internalID: -8973394488358795267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 543
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be85d79eb00fd04c0800000000000000
+      internalID: -4319532533625825045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 638
+        width: 514
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a01a0b2b2d294750800000000000000
+      internalID: 6289608018028531876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_3
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 388
+        width: 175
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2168b6b17e13000800000000000000
+      internalID: 14046378812904147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_4
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 780
+        width: 22
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c20b7e905eb42b20800000000000000
+      internalID: 3108818896258007747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_5
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 631
+        width: 156
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744f716d03696be50800000000000000
+      internalID: 6824807421821056071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 641
+        width: 62
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a652e9e32fbcbd290800000000000000
+      internalID: -7864468082979363478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 413
+        width: 285
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43237ec564b0f5e40800000000000000
+      internalID: 5647244854580163124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_8
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 162
+        width: 223
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5adc44af81f9fd40800000000000000
+      internalID: 5618787609360521822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_9
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 253
+        width: 57
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcd26d1c49620f90800000000000000
+      internalID: -6988907896094139207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_10
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 383
+        width: 225
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc3d68ccc5eb00e0800000000000000
+      internalID: -2302494116771185420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_11
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 83
+        width: 138
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7b704357298ee40800000000000000
+      internalID: 5685955561637001130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_12
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 49
+        width: 70
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7d398beb32fb820800000000000000
+      internalID: 2936104784116307959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 34
+        width: 68
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acde67e367cd94c50800000000000000
+      internalID: 6650088725201481162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 24
+        width: 57
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966cf89e93984e010800000000000000
+      internalID: 1217248681121531497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 17
+        width: 50
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a180769e31ef0b70800000000000000
+      internalID: 8867553850243973539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_16
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 9
+        width: 263
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e629eb3f18be1fb0800000000000000
+      internalID: -4675096918875363612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_17
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 158
+        width: 201
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b992ac560365a080800000000000000
+      internalID: -9176819786722403915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_18
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 21
+        width: 182
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10fd2dfd18ea9c40800000000000000
+      internalID: 5519979508795306011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_19
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3
+        width: 185
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef05831d07d7a7a0800000000000000
+      internalID: -6365883097102872599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 13
+        width: 105
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a1a85be1fb042b0800000000000000
+      internalID: -5602267797833246082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 60
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fcf9c0ccc2dfe50800000000000000
+      internalID: 6844676263569772411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 116
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b5cb18b309418e0800000000000000
+      internalID: -1723594172121982097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_23
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 6
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c75cdff49833c310800000000000000
+      internalID: 1424044119778154437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_24
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 4
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c34b3d0700028e0800000000000000
+      internalID: -1720374573067387820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_25
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 17
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b2a7bf0f9e6e8a0800000000000000
+      internalID: -6276071809473696945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_26
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 20
+        width: 80
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f2a798d59d61f30800000000000000
+      internalID: 4546059869638766463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theend2_27
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 9
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7642a5833030070a0800000000000000
+      internalID: -6886000517884271513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: c6c39bdf2653b83428e88c6f50edc4f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5089772417143126294
+    second: hworldmenu_0
+  - first:
+      213: -7723792645942551349
+    second: hworldmenu_1
+  - first:
+      213: 1046014773893448447
+    second: hworldmenu_2
+  - first:
+      213: -4045566709595591449
+    second: hworldmenu_3
+  - first:
+      213: 8160352650678586534
+    second: hworldmenu_4
+  - first:
+      213: -3873934677181059181
+    second: hworldmenu_5
+  - first:
+      213: -3580290985386825783
+    second: hworldmenu_6
+  - first:
+      213: -7925063761794281799
+    second: hworldmenu_7
+  - first:
+      213: 3642102167996962513
+    second: hworldmenu_8
+  - first:
+      213: 4183659353987335987
+    second: hworldmenu_9
+  - first:
+      213: 7911408463090909764
+    second: hworldmenu_10
+  - first:
+      213: -7670817148275822965
+    second: hworldmenu_11
+  - first:
+      213: 9152833400902608761
+    second: hworldmenu_12
+  - first:
+      213: -160785060672381323
+    second: hworldmenu_13
+  - first:
+      213: 2802827368255603232
+    second: hworldmenu_14
+  - first:
+      213: 3967631311530837984
+    second: hworldmenu_15
+  - first:
+      213: -6691943493414595974
+    second: hworldmenu_16
+  - first:
+      213: 8760045198921312481
+    second: hworldmenu_17
+  - first:
+      213: 1977412692228057244
+    second: hworldmenu_18
+  - first:
+      213: -8449805766700273302
+    second: hworldmenu_19
+  - first:
+      213: 3542993046063913618
+    second: hworldmenu_20
+  - first:
+      213: 753554595463950955
+    second: hworldmenu_21
+  - first:
+      213: 839813978151365033
+    second: hworldmenu_22
+  - first:
+      213: 1639828147003996280
+    second: hworldmenu_23
+  - first:
+      213: -1991993870718611908
+    second: hworldmenu_24
+  - first:
+      213: 2921474016752969388
+    second: hworldmenu_25
+  - first:
+      213: 378631392265630272
+    second: hworldmenu_26
+  - first:
+      213: 6497737806769310171
+    second: hworldmenu_27
+  - first:
+      213: 7866810221286759884
+    second: hworldmenu_28
+  - first:
+      213: 6691009668864658092
+    second: hworldmenu_29
+  - first:
+      213: -4220490449046139614
+    second: hworldmenu_30
+  - first:
+      213: 344608111082114827
+    second: hworldmenu_31
+  - first:
+      213: 991343497796305756
+    second: hworldmenu_32
+  - first:
+      213: -9214808780796394149
+    second: hworldmenu_33
+  - first:
+      213: 2044636428158733576
+    second: hworldmenu_34
+  - first:
+      213: 959415664318651320
+    second: hworldmenu_35
+  - first:
+      213: -4373497351679405178
+    second: hworldmenu_36
+  - first:
+      213: -2421125771744460723
+    second: hworldmenu_37
+  - first:
+      213: -7360268890564254936
+    second: hworldmenu_38
+  - first:
+      213: 6297259993165881632
+    second: hworldmenu_39
+  - first:
+      213: -4360391511573898632
+    second: hworldmenu_40
+  - first:
+      213: -3134699307584245238
+    second: hworldmenu_41
+  - first:
+      213: 4766504021004017728
+    second: hworldmenu_42
+  - first:
+      213: -5831665865946648225
+    second: hworldmenu_43
+  - first:
+      213: 4605386532585158556
+    second: hworldmenu_44
+  - first:
+      213: -3760169561616574307
+    second: hworldmenu_45
+  - first:
+      213: 6900964678144785463
+    second: hworldmenu_46
+  - first:
+      213: -2730240567977717240
+    second: hworldmenu_47
+  - first:
+      213: 4060209817665225440
+    second: hworldmenu_48
+  - first:
+      213: 280354822854989041
+    second: hworldmenu_49
+  - first:
+      213: 4186993196424449440
+    second: hworldmenu_50
+  - first:
+      213: -3571154865093124176
+    second: hworldmenu_51
+  - first:
+      213: 4189802074062481998
+    second: hworldmenu_52
+  - first:
+      213: -4892182676953856654
+    second: hworldmenu_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hworldmenu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 657
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619b56feb0182a640800000000000000
+      internalID: 5089772417143126294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_1
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 749
+        width: 156
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccd1dbc2839fc490800000000000000
+      internalID: -7723792645942551349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_2
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 764
+        width: 158
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2cab315e0348e00800000000000000
+      internalID: 1046014773893448447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_3
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 848
+        width: 42
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eca86f03824bd7c0800000000000000
+      internalID: -4045566709595591449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_4
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 766
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac4d9910856f3170800000000000000
+      internalID: 8160352650678586534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 104
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f2e83afe40d3ac0800000000000000
+      internalID: -3873934677181059181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 464
+        width: 147
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c72c776150405ec0800000000000000
+      internalID: -3580290985386825783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_7
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 469
+        width: 133
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be4ee75f74840290800000000000000
+      internalID: -7925063761794281799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_8
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 499
+        width: 154
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6932700a85b8230800000000000000
+      internalID: 3642102167996962513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_9
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 598
+        width: 45
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337c7a734085f0a30800000000000000
+      internalID: 4183659353987335987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_10
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 519
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4428d8ba418facd60800000000000000
+      internalID: 7911408463090909764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 388
+        width: 123
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e6b040278cb8590800000000000000
+      internalID: -7670817148275822965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 473
+        width: 124
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977612dfb75650f70800000000000000
+      internalID: 9152833400902608761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 460
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ede65d6d6c4cdf0800000000000000
+      internalID: -160785060672381323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_14
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 198
+        width: 130
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0224e9334a4a5e620800000000000000
+      internalID: 2802827368255603232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_15
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 282
+        width: 61
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7438b08abdf0730800000000000000
+      internalID: 3967631311530837984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 402
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72590229d07123a0800000000000000
+      internalID: -6691943493414595974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 391
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8221a12bee19970800000000000000
+      internalID: 8760045198921312481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_18
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 432
+        width: 245
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c982a96ed5e217b10800000000000000
+      internalID: 1977412692228057244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 387
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6178c69c624cba80800000000000000
+      internalID: -8449805766700273302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 391
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a9150676d3b2130800000000000000
+      internalID: 3542993046063913618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_21
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 390
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62fd7d79e9257a00800000000000000
+      internalID: 753554595463950955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_22
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 405
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9ae151d5e97ab00800000000000000
+      internalID: 839813978151365033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_23
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 390
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8783cd2f207d1c610800000000000000
+      internalID: 1639828147003996280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_24
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 240
+        width: 136
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ecf0de0240b54e0800000000000000
+      internalID: -1991993870718611908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_25
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 395
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6281db3292b8820800000000000000
+      internalID: 2921474016752969388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 253
+        width: 248
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042fdc4ce3b214500800000000000000
+      internalID: 378631392265630272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 246
+        width: 194
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd94c18db1a9c2a50800000000000000
+      internalID: 6497737806769310171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_28
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 194
+        width: 125
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd953357368c2d60800000000000000
+      internalID: 7866810221286759884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_29
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 248
+        width: 63
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caac165e7dd3bdc50800000000000000
+      internalID: 6691009668864658092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_30
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 202
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d0da63c4ecd65c0800000000000000
+      internalID: -4220490449046139614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 253
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f84cf404b48c400800000000000000
+      internalID: 344608111082114827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 35
+        width: 104
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53ca8ca8a5f1cd00800000000000000
+      internalID: 991343497796305756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_33
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 28
+        width: 78
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b550b7b6c3c6e1080800000000000000
+      internalID: -9214808780796394149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_34
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 197
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d893b9ff1006c10800000000000000
+      internalID: 2044636428158733576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_35
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 205
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb98a7a677805d00800000000000000
+      internalID: 959415664318651320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_36
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 197
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683990794573e43c0800000000000000
+      internalID: -4373497351679405178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_37
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 197
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40c0a230fe666ed0800000000000000
+      internalID: -2421125771744460723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_38
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 197
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8232f8eb0721bd990800000000000000
+      internalID: -7360268890564254936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_39
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 197
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0216ee6799c546750800000000000000
+      internalID: 6297259993165881632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_40
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 147
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a5207c507cc73c0800000000000000
+      internalID: -4360391511573898632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_41
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 88
+        width: 174
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0237cd869f4f74d0800000000000000
+      internalID: -3134699307584245238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_42
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 142
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0406a603726062240800000000000000
+      internalID: 4766504021004017728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_43
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 9
+        width: 175
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51ba7bdac2c11fa0800000000000000
+      internalID: -5831665865946648225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 166
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c973b18a6ae99ef30800000000000000
+      internalID: 4605386532585158556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 20
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d989b98b4b131dbc0800000000000000
+      internalID: -3760169561616574307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 12
+        width: 147
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c7658dfc625cf50800000000000000
+      internalID: 6900964678144785463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_47
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 50
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802d35a3bac3c1ad0800000000000000
+      internalID: -2730240567977717240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 30
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e24d773153c85830800000000000000
+      internalID: 4060209817665225440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_49
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4d65bd93504e300800000000000000
+      internalID: 280354822854989041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_50
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad4bd5e0203b1a30800000000000000
+      internalID: 4186993196424449440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_51
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 18
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf573c2295b07ec0800000000000000
+      internalID: -3571154865093124176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_52
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a60bfa9ca252a30800000000000000
+      internalID: 4189802074062481998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hworldmenu_53
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 4
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27588d376c97b1cb0800000000000000
+      internalID: -4892182676953856654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

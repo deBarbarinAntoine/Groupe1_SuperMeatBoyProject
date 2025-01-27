@@ -1,0 +1,1442 @@
+fileFormatVersion: 2
+guid: 83c19dcf33709014fb4a569240456dfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 303143531941425470
+    second: meathuds_0
+  - first:
+      213: -5574210177692721158
+    second: meathuds_1
+  - first:
+      213: 5695882195380152699
+    second: meathuds_2
+  - first:
+      213: 6302775948143650020
+    second: meathuds_3
+  - first:
+      213: -5453215492811511752
+    second: meathuds_4
+  - first:
+      213: -7420085586260823262
+    second: meathuds_5
+  - first:
+      213: 7019668793344901505
+    second: meathuds_6
+  - first:
+      213: 6549100153853888780
+    second: meathuds_7
+  - first:
+      213: -5953899042273147566
+    second: meathuds_8
+  - first:
+      213: 944501140697803560
+    second: meathuds_9
+  - first:
+      213: -634792056410261947
+    second: meathuds_10
+  - first:
+      213: -412649892616663774
+    second: meathuds_11
+  - first:
+      213: -113465994767894969
+    second: meathuds_12
+  - first:
+      213: -8387855759022384652
+    second: meathuds_13
+  - first:
+      213: 3737797709325532523
+    second: meathuds_14
+  - first:
+      213: 6414316358489348876
+    second: meathuds_15
+  - first:
+      213: 994766197347434996
+    second: meathuds_16
+  - first:
+      213: 4215240061677745170
+    second: meathuds_17
+  - first:
+      213: -1814486687880001380
+    second: meathuds_18
+  - first:
+      213: -5389157132651907773
+    second: meathuds_19
+  - first:
+      213: 7636657626612539481
+    second: meathuds_20
+  - first:
+      213: 1256538596539677900
+    second: meathuds_21
+  - first:
+      213: 5218608200994181841
+    second: meathuds_22
+  - first:
+      213: 4054415091128750990
+    second: meathuds_23
+  - first:
+      213: 2620265137726580266
+    second: meathuds_24
+  - first:
+      213: 3451386629511359476
+    second: meathuds_25
+  - first:
+      213: 7363989907219507503
+    second: meathuds_26
+  - first:
+      213: -3928702448143483001
+    second: meathuds_27
+  - first:
+      213: -1996008075625947250
+    second: meathuds_28
+  - first:
+      213: 2095393780375993378
+    second: meathuds_29
+  - first:
+      213: -932228439807394038
+    second: meathuds_30
+  - first:
+      213: -4030406072698846632
+    second: meathuds_31
+  - first:
+      213: -3554472428589266757
+    second: meathuds_32
+  - first:
+      213: -7871522958148224983
+    second: meathuds_33
+  - first:
+      213: 5851848606833478270
+    second: meathuds_34
+  - first:
+      213: 5860262735154019617
+    second: meathuds_35
+  - first:
+      213: -5233010079920911329
+    second: meathuds_36
+  - first:
+      213: 6965224132224894118
+    second: meathuds_37
+  - first:
+      213: 2647501324582218096
+    second: meathuds_38
+  - first:
+      213: -7860602037800010623
+    second: meathuds_39
+  - first:
+      213: 4691639871462644232
+    second: meathuds_40
+  - first:
+      213: 6179927701840206900
+    second: meathuds_41
+  - first:
+      213: 2182996962346974460
+    second: meathuds_42
+  - first:
+      213: -7094543235926567153
+    second: meathuds_43
+  - first:
+      213: 4259712713194948445
+    second: meathuds_44
+  - first:
+      213: -2630770546995157899
+    second: meathuds_45
+  - first:
+      213: 4582093028860051147
+    second: meathuds_46
+  - first:
+      213: 8283033537303720326
+    second: meathuds_47
+  - first:
+      213: 5043702280435873699
+    second: meathuds_48
+  - first:
+      213: 6380362510284096131
+    second: meathuds_49
+  - first:
+      213: 4570152599379714590
+    second: meathuds_50
+  - first:
+      213: 8386650422700806562
+    second: meathuds_51
+  - first:
+      213: 222138131070627624
+    second: meathuds_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meathuds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649
+        width: 305
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e317359af6bf43400800000000000000
+      internalID: 303143531941425470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 936
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff1247706d64a2b0800000000000000
+      internalID: -5574210177692721158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 936
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b792b1abda6db0f40800000000000000
+      internalID: 5695882195380152699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 936
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e46affc455f77750800000000000000
+      internalID: 6302775948143650020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 936
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8382053d6694254b0800000000000000
+      internalID: -5453215492811511752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 762
+        width: 263
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2237debf87f860990800000000000000
+      internalID: -7420085586260823262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 847
+        width: 134
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181c734639fda6160800000000000000
+      internalID: 7019668793344901505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 627
+        width: 225
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09caec24e313ea50800000000000000
+      internalID: 6549100153853888780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_8
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 847
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25545ccbd508f5da0800000000000000
+      internalID: -5953899042273147566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 743
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b6e3588ca8b1d00800000000000000
+      internalID: 944501140697803560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_10
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 847
+        width: 140
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5463d6becf3c037f0800000000000000
+      internalID: -634792056410261947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 68
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d0bf5eb19f54af0800000000000000
+      internalID: -412649892616663774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 652
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746f5c76743ec6ef0800000000000000
+      internalID: -113465994767894969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_13
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 653
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f99140c0a9589b80800000000000000
+      internalID: -8387855759022384652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_14
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 549
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dfd9286335fd330800000000000000
+      internalID: 3737797709325532523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 548
+        width: 207
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b1cb85eba340950800000000000000
+      internalID: 6414316358489348876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1c573069e1ecd00800000000000000
+      internalID: 994766197347434996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 571
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2143c47b08a8f7a30800000000000000
+      internalID: 4215240061677745170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 442
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98cc3f88f5a1d6e0800000000000000
+      internalID: -1814486687880001380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 550
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345358d042ed535b0800000000000000
+      internalID: -5389157132651907773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 486
+        width: 83
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950a48196abdaf960800000000000000
+      internalID: 7636657626612539481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_21
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 478
+        width: 84
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccb055323f107110800000000000000
+      internalID: 1256538596539677900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 548
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2d23a62883c6840800000000000000
+      internalID: 5218608200994181841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 158
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8356be4b0d244830800000000000000
+      internalID: 4054415091128750990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 438
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26688f824d0d5420800000000000000
+      internalID: 2620265137726580266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 419
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbae827ad9c5ef20800000000000000
+      internalID: 3451386629511359476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 404
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f296165fdc5223660800000000000000
+      internalID: 7363989907219507503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_27
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 425
+        width: 105
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f333640f17a79c0800000000000000
+      internalID: -3928702448143483001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_28
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 443
+        width: 111
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f11830b31cc44e0800000000000000
+      internalID: -1996008075625947250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_29
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 389
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cbfd79a85541d10800000000000000
+      internalID: 2095393780375993378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_30
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 393
+        width: 46
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f73c35c2f0013f0800000000000000
+      internalID: -932228439807394038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 143
+        width: 136
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8524538e70f1118c0800000000000000
+      internalID: -4030406072698846632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 349
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8440a982afbaec0800000000000000
+      internalID: -3554472428589266757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 201
+        width: 83
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9283e3e139bb2c290800000000000000
+      internalID: -7871522958148224983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_34
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 253
+        width: 84
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a8ca1bd41f53150800000000000000
+      internalID: 5851848606833478270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 328
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d705b98e5d35150800000000000000
+      internalID: 5860262735154019617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_36
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 334
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c8648de0d9067b0800000000000000
+      internalID: -5233010079920911329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_37
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 282
+        width: 202
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a44e36e17279a060800000000000000
+      internalID: 6965224132224894118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_38
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 105
+        width: 214
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079691a7d60ddb420800000000000000
+      internalID: 2647501324582218096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_39
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 238
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cf738081889e290800000000000000
+      internalID: -7860602037800010623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_40
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 226
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a17901b9d0c1140800000000000000
+      internalID: 4691639871462644232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 109
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c18cd808383c550800000000000000
+      internalID: 6179927701840206900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 46
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcb276db209b4e10800000000000000
+      internalID: 2182996962346974460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_43
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 142
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0752f2f38e1b8d90800000000000000
+      internalID: -7094543235926567153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_44
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57433bc42a8d1b30800000000000000
+      internalID: 4259712713194948445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_45
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 148
+        width: 89
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5742bcc3020ad7bd0800000000000000
+      internalID: -2630770546995157899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_46
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 70
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce3ff0355dd69f30800000000000000
+      internalID: 4582093028860051147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 25
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681b2a5ed1f33f270800000000000000
+      internalID: 8283033537303720326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_48
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 10
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7353a5084def540800000000000000
+      internalID: 5043702280435873699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_49
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 23
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38204b306e99b8850800000000000000
+      internalID: 6380362510284096131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_50
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 53
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e122b5f43917c6f30800000000000000
+      internalID: 4570152599379714590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_51
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 100
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a11674002e536470800000000000000
+      internalID: 8386650422700806562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meathuds_52
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 14
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fa8890471351300800000000000000
+      internalID: 222138131070627624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: 1750838d2c621c14d9a21b0b1d0096f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1006035487921066000
+    second: dintro_0
+  - first:
+      213: 8860078424953973283
+    second: dintro_1
+  - first:
+      213: 2481735138547808928
+    second: dintro_2
+  - first:
+      213: 6094981292113194212
+    second: dintro_3
+  - first:
+      213: 8933315298149314738
+    second: dintro_4
+  - first:
+      213: 5622468799711040327
+    second: dintro_5
+  - first:
+      213: 1782470187353598569
+    second: dintro_6
+  - first:
+      213: -5554051140601717595
+    second: dintro_7
+  - first:
+      213: -9067166908867795836
+    second: dintro_8
+  - first:
+      213: 6266810318860176449
+    second: dintro_9
+  - first:
+      213: -8719985302443933299
+    second: dintro_10
+  - first:
+      213: -5927256292078484801
+    second: dintro_11
+  - first:
+      213: 6456398288986711199
+    second: dintro_12
+  - first:
+      213: -1780275363684902092
+    second: dintro_13
+  - first:
+      213: 4397185910188369419
+    second: dintro_14
+  - first:
+      213: -7408010793770782240
+    second: dintro_15
+  - first:
+      213: 655169055648133249
+    second: dintro_16
+  - first:
+      213: 487361283801737876
+    second: dintro_17
+  - first:
+      213: 6408503218022131009
+    second: dintro_18
+  - first:
+      213: 2172145009690307832
+    second: dintro_19
+  - first:
+      213: 4132765612900480353
+    second: dintro_20
+  - first:
+      213: -4410226656963729229
+    second: dintro_21
+  - first:
+      213: -6133118172965310288
+    second: dintro_22
+  - first:
+      213: -2177707171455864260
+    second: dintro_23
+  - first:
+      213: -7564181134932041618
+    second: dintro_24
+  - first:
+      213: -7358696829514032372
+    second: dintro_25
+  - first:
+      213: -2808134191876992905
+    second: dintro_26
+  - first:
+      213: 6976782503679919270
+    second: dintro_27
+  - first:
+      213: -5362843878644122619
+    second: dintro_28
+  - first:
+      213: -2576098655671531548
+    second: dintro_29
+  - first:
+      213: -2325481203199198282
+    second: dintro_30
+  - first:
+      213: -7885979250291457478
+    second: dintro_31
+  - first:
+      213: -8188799224248741895
+    second: dintro_32
+  - first:
+      213: -1052431602406340408
+    second: dintro_33
+  - first:
+      213: 2770920418761597337
+    second: dintro_34
+  - first:
+      213: -2347485423930777934
+    second: dintro_35
+  - first:
+      213: 943530287748879676
+    second: dintro_36
+  - first:
+      213: 1860177450631033249
+    second: dintro_37
+  - first:
+      213: -2379193377202737363
+    second: dintro_38
+  - first:
+      213: -7588126697802875737
+    second: dintro_39
+  - first:
+      213: 7229054621087577008
+    second: dintro_40
+  - first:
+      213: 36574485917120328
+    second: dintro_41
+  - first:
+      213: 491283628605519663
+    second: dintro_42
+  - first:
+      213: -9166440452752085804
+    second: dintro_43
+  - first:
+      213: 422389810431662989
+    second: dintro_44
+  - first:
+      213: 2249683929295179095
+    second: dintro_45
+  - first:
+      213: 4499153692487376903
+    second: dintro_46
+  - first:
+      213: -8324771870100993951
+    second: dintro_47
+  - first:
+      213: -4114065135562070992
+    second: dintro_48
+  - first:
+      213: -7713048013912587467
+    second: dintro_49
+  - first:
+      213: 8846814036994841385
+    second: dintro_50
+  - first:
+      213: -7427419353426969943
+    second: dintro_51
+  - first:
+      213: -7893837857443247880
+    second: dintro_52
+  - first:
+      213: -6363545263548530638
+    second: dintro_53
+  - first:
+      213: 6087002320707110218
+    second: dintro_54
+  - first:
+      213: -8654775946393646320
+    second: dintro_55
+  - first:
+      213: -7523700245098134866
+    second: dintro_56
+  - first:
+      213: -4554394183190159764
+    second: dintro_57
+  - first:
+      213: 9000487137478967932
+    second: dintro_58
+  - first:
+      213: 5566982937031676661
+    second: dintro_59
+  - first:
+      213: 1515989679553048867
+    second: dintro_60
+  - first:
+      213: 3016674964409125424
+    second: dintro_61
+  - first:
+      213: 4715789600968654091
+    second: dintro_62
+  - first:
+      213: 7965463263053237354
+    second: dintro_63
+  - first:
+      213: -3762233007876651285
+    second: dintro_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dintro_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 740
+        width: 158
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010d8f032f726fd00800000000000000
+      internalID: 1006035487921066000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 910
+        width: 111
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aeb71826255fa70800000000000000
+      internalID: 8860078424953973283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 910
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa3fbfa5f4e07220800000000000000
+      internalID: 2481735138547808928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 920
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecee0d4139b59450800000000000000
+      internalID: 6094981292113194212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 816
+        width: 34
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0b0c4dee289fb70800000000000000
+      internalID: 8933315298149314738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 719
+        width: 336
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7435e7f8595070e40800000000000000
+      internalID: 5622468799711040327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_6
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 414
+        width: 150
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a6fe3013b9cb810800000000000000
+      internalID: 1782470187353598569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 883
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acd41c0aeb0ce2b0800000000000000
+      internalID: -5554051140601717595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 773
+        width: 99
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48422cd7cb3fa2280800000000000000
+      internalID: -9067166908867795836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 790
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cc96238ce28f650800000000000000
+      internalID: 6266810318860176449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 772
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81c33161936cf680800000000000000
+      internalID: -8719985302443933299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 766
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb286f96ec72ebda0800000000000000
+      internalID: -5927256292078484801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 135
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f942e7f490cb99950800000000000000
+      internalID: 6456398288986711199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 668
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b9e213df03b47e0800000000000000
+      internalID: -1780275363684902092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 691
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06612cb941f50d30800000000000000
+      internalID: 4397185910188369419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 383
+        width: 109
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e17801be65713990800000000000000
+      internalID: -7408010793770782240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_16
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 625
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1803cbde8c0a71900800000000000000
+      internalID: 655169055648133249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 562
+        width: 52
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ae746618473c600800000000000000
+      internalID: 487361283801737876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 237
+        width: 288
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145282c19b39fe850800000000000000
+      internalID: 6408503218022131009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 627
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc6a37b062052e10800000000000000
+      internalID: 2172145009690307832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165f1e8bd688a5930800000000000000
+      internalID: 4132765612900480353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 585
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8e7bcc83abbc2c0800000000000000
+      internalID: -4410226656963729229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_22
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0f8ee2489c2eaa0800000000000000
+      internalID: -6133118172965310288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 542
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c327d849dda37c1e0800000000000000
+      internalID: -2177707171455864260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 493
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e602aa3a551a60790800000000000000
+      internalID: -7564181134932041618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 519
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bd50bb838a0e990800000000000000
+      internalID: -7358696829514032372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 161
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7701b83a4d08709d0800000000000000
+      internalID: -2808134191876992905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 419
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a48007f8b282d060800000000000000
+      internalID: 6976782503679919270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_28
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 348
+        width: 149
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cf98be7e95395b0800000000000000
+      internalID: -5362843878644122619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 376
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e74652ebebdf3cd0800000000000000
+      internalID: -2576098655671531548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 334
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb677aa2b3abfd0800000000000000
+      internalID: -2325481203199198282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 310
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c64057af5f8290800000000000000
+      internalID: -7885979250291457478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_32
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 243
+        width: 152
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffc8addd7a8b5e80800000000000000
+      internalID: -8188799224248741895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 83
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8cc2c98030561f0800000000000000
+      internalID: -1052431602406340408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 161
+        width: 105
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991692d9079447620800000000000000
+      internalID: 2770920418761597337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 265
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bed237c17e0c6fd0800000000000000
+      internalID: -2347485423930777934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_36
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 334
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3518143cc7181d00800000000000000
+      internalID: 943530287748879676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 295
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1fd04298da0d910800000000000000
+      internalID: 1860177450631033249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 299
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f6edb9a386bfed0800000000000000
+      internalID: -2379193377202737363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_39
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 285
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac3dc2d8fe81b690800000000000000
+      internalID: -7588126697802875737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_40
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 281
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b332df60e2c25460800000000000000
+      internalID: 7229054621087577008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_41
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 254
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847bee81d40f18000800000000000000
+      internalID: 36574485917120328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 214
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f273ff67bd361d600800000000000000
+      internalID: 491283628605519663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 203
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dce0fe59f24ac080800000000000000
+      internalID: -9166440452752085804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_44
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 225
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b168f6b41acd500800000000000000
+      internalID: 422389810431662989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_45
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 164
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d4b864d9b783f10800000000000000
+      internalID: 2249683929295179095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_46
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 58
+        width: 471
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700e89e1274307e30800000000000000
+      internalID: 4499153692487376903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_47
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 192
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16847763718787c80800000000000000
+      internalID: -8324771870100993951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 172
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034e0047e87e7e6c0800000000000000
+      internalID: -4114065135562070992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_49
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 150
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533453362bfb5f490800000000000000
+      internalID: -7713048013912587467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 180
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b54058e7236ca70800000000000000
+      internalID: 8846814036994841385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 154
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aabf1143718ce890800000000000000
+      internalID: -7427419353426969943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f88090ca44737290800000000000000
+      internalID: -7893837857443247880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_53
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 100
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230021e5c4520b7a0800000000000000
+      internalID: -6363545263548530638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_54
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 124
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45c9b04c50697450800000000000000
+      internalID: 6087002320707110218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_55
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 27
+        width: 250
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b8c98b12f04e780800000000000000
+      internalID: -8654775946393646320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_56
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 9
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea208664d72769790800000000000000
+      internalID: -7523700245098134866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_57
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 6
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e58dfde9a8bc0c0800000000000000
+      internalID: -4554394183190159764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_58
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 109
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7208ea6d5728ec70800000000000000
+      internalID: 9000487137478967932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_59
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f21f607c75e14d40800000000000000
+      internalID: 5566982937031676661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_60
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 10
+        width: 351
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321faecd490e90510800000000000000
+      internalID: 1515989679553048867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_61
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 47
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a8b68a5e16dd920800000000000000
+      internalID: 3016674964409125424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_62
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 7
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0db73128a9d17140800000000000000
+      internalID: 4715789600968654091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_63
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 6
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c46b982a20b8e60800000000000000
+      internalID: 7965463263053237354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dintro_64
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 6
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be64343330dd9cbc0800000000000000
+      internalID: -3762233007876651285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

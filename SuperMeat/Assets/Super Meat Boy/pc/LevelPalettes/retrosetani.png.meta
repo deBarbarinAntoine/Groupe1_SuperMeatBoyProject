@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: c3532f6efb5e1d24bba28e1a1846fede
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -709342575194634838
+    second: retrosetani_0
+  - first:
+      213: -6370156780517057628
+    second: retrosetani_1
+  - first:
+      213: 7530732503815208604
+    second: retrosetani_2
+  - first:
+      213: 1518430977077481111
+    second: retrosetani_3
+  - first:
+      213: 7170979277144782165
+    second: retrosetani_4
+  - first:
+      213: 4868079405631544744
+    second: retrosetani_5
+  - first:
+      213: -7479712708165664668
+    second: retrosetani_6
+  - first:
+      213: -1872334093394257450
+    second: retrosetani_7
+  - first:
+      213: 5508353761233242127
+    second: retrosetani_8
+  - first:
+      213: -6560311922381012360
+    second: retrosetani_9
+  - first:
+      213: 1738635970894189507
+    second: retrosetani_10
+  - first:
+      213: -5363070161687163730
+    second: retrosetani_11
+  - first:
+      213: -4599239694714221662
+    second: retrosetani_12
+  - first:
+      213: -8415972866470116863
+    second: retrosetani_13
+  - first:
+      213: 8133688114510397041
+    second: retrosetani_14
+  - first:
+      213: 5411469413892813939
+    second: retrosetani_15
+  - first:
+      213: -3794789994476019827
+    second: retrosetani_16
+  - first:
+      213: -7215808934537037140
+    second: retrosetani_17
+  - first:
+      213: 479489165718485681
+    second: retrosetani_18
+  - first:
+      213: 4272820098024019392
+    second: retrosetani_19
+  - first:
+      213: -4216411560962957247
+    second: retrosetani_20
+  - first:
+      213: 2732603137392575207
+    second: retrosetani_21
+  - first:
+      213: 3926899097379815264
+    second: retrosetani_22
+  - first:
+      213: 639979828797464010
+    second: retrosetani_23
+  - first:
+      213: 5257098554009876401
+    second: retrosetani_24
+  - first:
+      213: -7106594950940510826
+    second: retrosetani_25
+  - first:
+      213: 3984507121476277088
+    second: retrosetani_26
+  - first:
+      213: 3976510350947119131
+    second: retrosetani_27
+  - first:
+      213: 4520998487358647922
+    second: retrosetani_28
+  - first:
+      213: 5319847296324510318
+    second: retrosetani_29
+  - first:
+      213: 9842459379738176
+    second: retrosetani_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: retrosetani_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 677
+        width: 481
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa58675afa8e726f0800000000000000
+      internalID: -709342575194634838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_1
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 152
+        width: 84
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab1cbd9828a897a0800000000000000
+      internalID: -6370156780517057628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 789
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eb46c0059828860800000000000000
+      internalID: 7530732503815208604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 790
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e07acbdec821510800000000000000
+      internalID: 1518430977077481111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_4
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 738
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555f6e9b8af648360800000000000000
+      internalID: 7170979277144782165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_5
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 718
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad101f5d64ee8340800000000000000
+      internalID: 4868079405631544744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_6
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 738
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4608fcfcbe8b23890800000000000000
+      internalID: -7479712708165664668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_7
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 648
+        width: 53
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d166ef022406e0800000000000000
+      internalID: -1872334093394257450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_8
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 760
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f088e73bf8a917c40800000000000000
+      internalID: 5508353761233242127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_9
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 729
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87248ba801715f4a0800000000000000
+      internalID: -6560311922381012360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_10
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 698
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c35dde2430e02810800000000000000
+      internalID: 1738635970894189507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 83
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacc32b4a1c8295b0800000000000000
+      internalID: -5363070161687163730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 530
+        width: 326
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abceaf8dd73c20c0800000000000000
+      internalID: -4599239694714221662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 560
+        width: 73
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10209b68445743b80800000000000000
+      internalID: -8415972866470116863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_14
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 668
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e753bfe3aa0e070800000000000000
+      internalID: 8133688114510397041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_15
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 637
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374f8ffb2c6691b40800000000000000
+      internalID: 5411469413892813939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 625
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fdc0e0b92365bc0800000000000000
+      internalID: -3794789994476019827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_17
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 495
+        width: 53
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa74d9410c4cdb90800000000000000
+      internalID: -7215808934537037140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_18
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 607
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba7c441bdc77a600800000000000000
+      internalID: 479489165718485681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_19
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 577
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c51fd3ad3b1c4b30800000000000000
+      internalID: 4272820098024019392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_20
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 516
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140e3f9560c4c75c0800000000000000
+      internalID: -4216411560962957247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_21
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 516
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2076453182ce520800000000000000
+      internalID: 2732603137392575207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_22
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 516
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f30286ce52f7630800000000000000
+      internalID: 3926899097379815264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_23
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 490
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd53e6734aa1e800800000000000000
+      internalID: 639979828797464010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_24
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 490
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b77af41847f4f840800000000000000
+      internalID: 5257098554009876401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_25
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 490
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6953b926b8d406d90800000000000000
+      internalID: -7106594950940510826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 490
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0639b9cbd10db4730800000000000000
+      internalID: 3984507121476277088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 710
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10fdd188176f2730800000000000000
+      internalID: 3976510350947119131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_28
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 152
+        width: 84
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e2715cb20ddbe30800000000000000
+      internalID: 4520998487358647922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_29
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 152
+        width: 84
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62aeb42ee4e3d940800000000000000
+      internalID: 5319847296324510318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retrosetani_30
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 348
+        width: 46
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ab072aa7f22000800000000000000
+      internalID: 9842459379738176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

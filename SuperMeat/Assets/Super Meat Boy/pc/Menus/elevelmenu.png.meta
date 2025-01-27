@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: e784a83bd12d94a468200b649f13a4ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2165222595180689597
+    second: elevelmenu_0
+  - first:
+      213: -463735793702046883
+    second: elevelmenu_1
+  - first:
+      213: 1061817921876840213
+    second: elevelmenu_2
+  - first:
+      213: -2772334446529534663
+    second: elevelmenu_3
+  - first:
+      213: 1286096762203177611
+    second: elevelmenu_4
+  - first:
+      213: 825081430823928838
+    second: elevelmenu_5
+  - first:
+      213: -388515576986136660
+    second: elevelmenu_6
+  - first:
+      213: -710966647105533983
+    second: elevelmenu_7
+  - first:
+      213: -2660846848218631378
+    second: elevelmenu_8
+  - first:
+      213: -7469940494942748971
+    second: elevelmenu_9
+  - first:
+      213: -4328940889994989253
+    second: elevelmenu_10
+  - first:
+      213: 4066084978284424768
+    second: elevelmenu_11
+  - first:
+      213: -8774258027816810733
+    second: elevelmenu_12
+  - first:
+      213: 1526299476073187562
+    second: elevelmenu_13
+  - first:
+      213: -8200171144570507083
+    second: elevelmenu_14
+  - first:
+      213: 1584842403341643050
+    second: elevelmenu_15
+  - first:
+      213: 4640030976386521803
+    second: elevelmenu_16
+  - first:
+      213: 4022915273597713568
+    second: elevelmenu_17
+  - first:
+      213: -4656794443074633709
+    second: elevelmenu_18
+  - first:
+      213: 9171174496756861810
+    second: elevelmenu_19
+  - first:
+      213: -6405428335331466399
+    second: elevelmenu_20
+  - first:
+      213: -3447887234762978411
+    second: elevelmenu_21
+  - first:
+      213: 5894798053032472945
+    second: elevelmenu_22
+  - first:
+      213: -2305414032807508825
+    second: elevelmenu_23
+  - first:
+      213: -1304784529064179541
+    second: elevelmenu_24
+  - first:
+      213: 8069844882661260937
+    second: elevelmenu_25
+  - first:
+      213: 7792337535581969427
+    second: elevelmenu_26
+  - first:
+      213: 5899573539509743688
+    second: elevelmenu_27
+  - first:
+      213: 1521327045707042188
+    second: elevelmenu_28
+  - first:
+      213: 1626359593168548641
+    second: elevelmenu_29
+  - first:
+      213: 7221084732894773290
+    second: elevelmenu_30
+  - first:
+      213: 4103546179313886945
+    second: elevelmenu_31
+  - first:
+      213: 3808315989743893310
+    second: elevelmenu_32
+  - first:
+      213: 3332221342454792181
+    second: elevelmenu_33
+  - first:
+      213: -3506796824364629824
+    second: elevelmenu_34
+  - first:
+      213: 3155408661441465348
+    second: elevelmenu_35
+  - first:
+      213: -1411056498465180932
+    second: elevelmenu_36
+  - first:
+      213: -5231683295669152941
+    second: elevelmenu_37
+  - first:
+      213: 2230879207595647952
+    second: elevelmenu_38
+  - first:
+      213: 3248031443308107216
+    second: elevelmenu_39
+  - first:
+      213: -2805722641452651711
+    second: elevelmenu_40
+  - first:
+      213: 8509469545124336947
+    second: elevelmenu_41
+  - first:
+      213: -6719446704803005742
+    second: elevelmenu_42
+  - first:
+      213: -3624070165431312685
+    second: elevelmenu_43
+  - first:
+      213: 2263283738721894940
+    second: elevelmenu_44
+  - first:
+      213: -1425750859306061399
+    second: elevelmenu_45
+  - first:
+      213: -2919251683833067563
+    second: elevelmenu_46
+  - first:
+      213: -3912495239287226466
+    second: elevelmenu_47
+  - first:
+      213: 2698903510456557104
+    second: elevelmenu_48
+  - first:
+      213: 2366541316644323207
+    second: elevelmenu_49
+  - first:
+      213: -1279052448596550147
+    second: elevelmenu_50
+  - first:
+      213: -2027447696590167753
+    second: elevelmenu_51
+  - first:
+      213: -7957389181470645704
+    second: elevelmenu_52
+  - first:
+      213: -256280506295359849
+    second: elevelmenu_53
+  - first:
+      213: -6641875259060689384
+    second: elevelmenu_54
+  - first:
+      213: -544995209739115916
+    second: elevelmenu_55
+  - first:
+      213: -4566302564303735460
+    second: elevelmenu_56
+  - first:
+      213: -6541076939110705191
+    second: elevelmenu_57
+  - first:
+      213: -5198896338269988464
+    second: elevelmenu_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elevelmenu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 674
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3470b92858593f1e0800000000000000
+      internalID: -2165222595180689597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_1
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 729
+        width: 254
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5371caa0ca7099f0800000000000000
+      internalID: -463735793702046883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_2
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 822
+        width: 88
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fcc9136c55cbe00800000000000000
+      internalID: 1061817921876840213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_3
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 730
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93527046280b689d0800000000000000
+      internalID: -2772334446529534663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 664
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8286e1f03229d110800000000000000
+      internalID: 1286096762203177611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 578
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604080b9037437b00800000000000000
+      internalID: 825081430823928838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 677
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf09042427bb9af0800000000000000
+      internalID: -388515576986136660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 581
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7cf10f9932226f0800000000000000
+      internalID: -710966647105533983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_8
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 539
+        width: 102
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23f53aa3e5c21bd0800000000000000
+      internalID: -2660846848218631378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_9
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 638
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deb1a182b0755890800000000000000
+      internalID: -7469940494942748971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_10
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 394
+        width: 221
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b317f2e32338ce3c0800000000000000
+      internalID: -4328940889994989253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_11
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 516
+        width: 119
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ee135aeb2ad6830800000000000000
+      internalID: 4066084978284424768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 133
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3170c5ccfc29b3680800000000000000
+      internalID: -8774258027816810733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 563
+        width: 134
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8053c69418e2510800000000000000
+      internalID: 1526299476073187562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 636
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b077765ac3233e80800000000000000
+      internalID: -8200171144570507083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_15
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 608
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2da72cd4cd7ef510800000000000000
+      internalID: 1584842403341643050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 472
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcad35ec693b46040800000000000000
+      internalID: 4640030976386521803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 488
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acf844802444d730800000000000000
+      internalID: 4022915273597713568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 451
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3100684702ebf5fb0800000000000000
+      internalID: -4656794443074633709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 392
+        width: 102
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b80542d9e864f70800000000000000
+      internalID: 9171174496756861810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_20
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 348
+        width: 102
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163a85ecdd85b17a0800000000000000
+      internalID: -6405428335331466399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_21
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 125
+        width: 46
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b4952e3d4a620d0800000000000000
+      internalID: -3447887234762978411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_22
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 401
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1713aa5e8978ec150800000000000000
+      internalID: 5894798053032472945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 399
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4ce4ad6268100e0800000000000000
+      internalID: -2305414032807508825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 328
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba844b4426974ede0800000000000000
+      internalID: -1304784529064179541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 378
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e37873a29ddff60800000000000000
+      internalID: 8069844882661260937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 367
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c5e4af3b1f32c60800000000000000
+      internalID: 7792337535581969427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 383
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840b5cc70ee7fd150800000000000000
+      internalID: 5899573539509743688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_28
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 205
+        width: 306
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d009243e6dc1510800000000000000
+      internalID: 1521327045707042188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_29
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 256
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1233cd3ee6df19610800000000000000
+      internalID: 1626359593168548641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 326
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20803d3e42763460800000000000000
+      internalID: 7221084732894773290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_31
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 373
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e66a613289b2f830800000000000000
+      internalID: 4103546179313886945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bff11273bd9d430800000000000000
+      internalID: 3808315989743893310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_33
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 258
+        width: 133
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff3ef5f7ad6e3e20800000000000000
+      internalID: 3332221342454792181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_34
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 340
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c047483eda555fc0800000000000000
+      internalID: -3506796824364629824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_35
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 265
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cc862a5734acb20800000000000000
+      internalID: 3155408661441465348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_36
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 250
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2f9fa379bea6ce0800000000000000
+      internalID: -1411056498465180932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 204
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3539b40e2c35567b0800000000000000
+      internalID: -5231683295669152941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 179
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d32b81d1dca5fe10800000000000000
+      internalID: 2230879207595647952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_39
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 129
+        width: 138
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5ddad8363531d20800000000000000
+      internalID: 3248031443308107216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_40
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 124
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ba1f97f121019d0800000000000000
+      internalID: -2805722641452651711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_41
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 214
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33514285775b71670800000000000000
+      internalID: 8509469545124336947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 196
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da3c09b2dabfb2a0800000000000000
+      internalID: -6719446704803005742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 143
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de106cb267b4bdc0800000000000000
+      internalID: -3624070165431312685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_44
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 131
+        width: 312
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12cf68a19cc86f10800000000000000
+      internalID: 2263283738721894940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 90
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1badcb527b63ce0800000000000000
+      internalID: -1425750859306061399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_46
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 106
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d74b277f0cbc77d0800000000000000
+      internalID: -2919251683833067563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 33
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fb0e42f4604b9c0800000000000000
+      internalID: -3912495239287226466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_48
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e51df717e647520800000000000000
+      internalID: 2698903510456557104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_49
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 29
+        width: 127
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fbedcf9c4a7d020800000000000000
+      internalID: 2366541316644323207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_50
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 45
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd1f402394ef3ee0800000000000000
+      internalID: -1279052448596550147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_51
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 2
+        width: 171
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7312f04df0f0dd3e0800000000000000
+      internalID: -2027447696590167753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_52
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3
+        width: 146
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832e7e213bca19190800000000000000
+      internalID: -7957389181470645704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_53
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 43
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7966863cc32817cf0800000000000000
+      internalID: -256280506295359849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_54
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 67
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8166b3d54a153d3a0800000000000000
+      internalID: -6641875259060689384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_55
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 79
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472e5378eb9cf68f0800000000000000
+      internalID: -544995209739115916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_56
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 50
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5578b5d20c31a0c0800000000000000
+      internalID: -4566302564303735460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_57
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 44
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d79ec31e2d6935a0800000000000000
+      internalID: -6541076939110705191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevelmenu_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 6
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0999655435fc9d7b0800000000000000
+      internalID: -5198896338269988464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

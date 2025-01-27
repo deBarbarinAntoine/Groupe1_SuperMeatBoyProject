@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 4c975def6c38f6049b4f882bf91cea45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1089300278306397268
+    second: 8bitdrfetuspickup_0
+  - first:
+      213: 3123680169580952547
+    second: 8bitdrfetuspickup_1
+  - first:
+      213: 6853460808310431285
+    second: 8bitdrfetuspickup_2
+  - first:
+      213: -340377430033416476
+    second: 8bitdrfetuspickup_3
+  - first:
+      213: 1175130687501530957
+    second: 8bitdrfetuspickup_4
+  - first:
+      213: 4148712777346489960
+    second: 8bitdrfetuspickup_5
+  - first:
+      213: -751254243717401534
+    second: 8bitdrfetuspickup_6
+  - first:
+      213: -4377523617693089194
+    second: 8bitdrfetuspickup_7
+  - first:
+      213: 208987055718884392
+    second: 8bitdrfetuspickup_8
+  - first:
+      213: 948733943670724583
+    second: 8bitdrfetuspickup_9
+  - first:
+      213: -9206200602016139798
+    second: 8bitdrfetuspickup_10
+  - first:
+      213: 5965903136309304816
+    second: 8bitdrfetuspickup_11
+  - first:
+      213: 8634157937611467713
+    second: 8bitdrfetuspickup_12
+  - first:
+      213: 5385730655196818451
+    second: 8bitdrfetuspickup_13
+  - first:
+      213: -6244349899400867981
+    second: 8bitdrfetuspickup_14
+  - first:
+      213: 4455303755152554522
+    second: 8bitdrfetuspickup_15
+  - first:
+      213: 1277625728267279817
+    second: 8bitdrfetuspickup_16
+  - first:
+      213: 3434786912895087931
+    second: 8bitdrfetuspickup_17
+  - first:
+      213: -4694116196148070427
+    second: 8bitdrfetuspickup_18
+  - first:
+      213: 3158290688474202571
+    second: 8bitdrfetuspickup_19
+  - first:
+      213: -3554954288238373011
+    second: 8bitdrfetuspickup_20
+  - first:
+      213: 4817688629441036315
+    second: 8bitdrfetuspickup_21
+  - first:
+      213: 5678886797036401518
+    second: 8bitdrfetuspickup_22
+  - first:
+      213: -343464027319743763
+    second: 8bitdrfetuspickup_23
+  - first:
+      213: -639660458697966465
+    second: 8bitdrfetuspickup_24
+  - first:
+      213: -7520254894583823455
+    second: 8bitdrfetuspickup_25
+  - first:
+      213: -1831949002430761943
+    second: 8bitdrfetuspickup_26
+  - first:
+      213: -563117867138750101
+    second: 8bitdrfetuspickup_27
+  - first:
+      213: 3030346676585478051
+    second: 8bitdrfetuspickup_28
+  - first:
+      213: -6237857221650837668
+    second: 8bitdrfetuspickup_29
+  - first:
+      213: -3815813519602183352
+    second: 8bitdrfetuspickup_30
+  - first:
+      213: 4541596543044057098
+    second: 8bitdrfetuspickup_31
+  - first:
+      213: -5070915432292875198
+    second: 8bitdrfetuspickup_32
+  - first:
+      213: 8033275806665557612
+    second: 8bitdrfetuspickup_33
+  - first:
+      213: -6308772564820451548
+    second: 8bitdrfetuspickup_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 195
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca320d11b2702e0f0800000000000000
+      internalID: -1089300278306397268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 195
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebfdc3709a895b20800000000000000
+      internalID: 3123680169580952547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e97614b426c1f50800000000000000
+      internalID: 6853460808310431285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee3c41e78cb64bf0800000000000000
+      internalID: -340377430033416476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4770395227ee4010800000000000000
+      internalID: 1175130687501530957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e9cd84a40339930800000000000000
+      internalID: 4148712777346489960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2443833ee320395f0800000000000000
+      internalID: -751254243717401534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652458b7679ef33c0800000000000000
+      internalID: -4377523617693089194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 143
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82467c2be9876e200800000000000000
+      internalID: 208987055718884392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e759d2ce749a2d00800000000000000
+      internalID: 948733943670724583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 136
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae537d934510d3080800000000000000
+      internalID: -9206200602016139798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdda143b452bc250800000000000000
+      internalID: 5965903136309304816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb63f506e0b2d770800000000000000
+      internalID: 8634157937611467713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 132
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c20fefe75fdba40800000000000000
+      internalID: 5385730655196818451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f07f8b9dc9759a0800000000000000
+      internalID: -6244349899400867981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1af45cf82b64dd30800000000000000
+      internalID: 4455303755152554522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd5549a4d90bb110800000000000000
+      internalID: 1277625728267279817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 123
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35b54ebf70daaf20800000000000000
+      internalID: 3434786912895087931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7bf2aa0362bdeb0800000000000000
+      internalID: -4694116196148070427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1cde7d5a084db20800000000000000
+      internalID: 3158290688474202571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67dcc8e8e34aaec0800000000000000
+      internalID: -3554954288238373011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b108544884edbd240800000000000000
+      internalID: 4817688629441036315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63b20134757fce40800000000000000
+      internalID: 5678886797036401518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea4b727945cb3bf0800000000000000
+      internalID: -343464027319743763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cb17ea3387f17f0800000000000000
+      internalID: -639660458697966465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a340f37400b2a790800000000000000
+      internalID: -7520254894583823455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924bb7f961c9396e0800000000000000
+      internalID: -1831949002430761943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69e48a88476f28f0800000000000000
+      internalID: -563117867138750101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7b9243f34fd0a20800000000000000
+      internalID: 3030346676585478051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 89
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f85ef08edae69a0800000000000000
+      internalID: -6237857221650837668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8439afa22d18b0bc0800000000000000
+      internalID: -3815813519602183352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 84
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0878455efdf60f30800000000000000
+      internalID: 4541596543044057098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 77
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244032cf74d70a9b0800000000000000
+      internalID: -5070915432292875198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c664a07b8cdeb7f60800000000000000
+      internalID: 8033275806665557612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8bitdrfetuspickup_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f952117ccb278a0800000000000000
+      internalID: -6308772564820451548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

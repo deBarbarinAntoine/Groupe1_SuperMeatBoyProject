@@ -1,0 +1,1692 @@
+fileFormatVersion: 2
+guid: aee25365731edd440ac3cfa675afcd76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1966855210495862715
+    second: bintro_0
+  - first:
+      213: 6049573768881395695
+    second: bintro_1
+  - first:
+      213: 7942769428102437598
+    second: bintro_2
+  - first:
+      213: 9059620366296964304
+    second: bintro_3
+  - first:
+      213: 1953090712000120773
+    second: bintro_4
+  - first:
+      213: -5317768339131440105
+    second: bintro_5
+  - first:
+      213: -797085268279045631
+    second: bintro_6
+  - first:
+      213: 6823736383150591552
+    second: bintro_7
+  - first:
+      213: 8265998465880592822
+    second: bintro_8
+  - first:
+      213: -6538474751505773727
+    second: bintro_9
+  - first:
+      213: 1001728678217091516
+    second: bintro_10
+  - first:
+      213: 5136548740521206836
+    second: bintro_11
+  - first:
+      213: 6250260443613562219
+    second: bintro_12
+  - first:
+      213: -3602218710952531659
+    second: bintro_13
+  - first:
+      213: 4279884339044665279
+    second: bintro_14
+  - first:
+      213: -4972852376652400780
+    second: bintro_15
+  - first:
+      213: -6298592609471055884
+    second: bintro_16
+  - first:
+      213: -1331712069295262657
+    second: bintro_17
+  - first:
+      213: -4212959634477794695
+    second: bintro_18
+  - first:
+      213: -1279976241276575818
+    second: bintro_19
+  - first:
+      213: 7304866483172733666
+    second: bintro_20
+  - first:
+      213: -810835948474880801
+    second: bintro_21
+  - first:
+      213: 4189018002870723782
+    second: bintro_22
+  - first:
+      213: 979554334769132414
+    second: bintro_23
+  - first:
+      213: -6503760309639922107
+    second: bintro_24
+  - first:
+      213: -6262678086397505796
+    second: bintro_25
+  - first:
+      213: -5917559858736283646
+    second: bintro_26
+  - first:
+      213: 6266959497704477418
+    second: bintro_27
+  - first:
+      213: -2484632970815858327
+    second: bintro_28
+  - first:
+      213: -766898653306003516
+    second: bintro_29
+  - first:
+      213: -2223194146111300933
+    second: bintro_30
+  - first:
+      213: 1581713714253144690
+    second: bintro_31
+  - first:
+      213: -2282584351460711404
+    second: bintro_32
+  - first:
+      213: 7359458724995123443
+    second: bintro_33
+  - first:
+      213: 4192902456180800741
+    second: bintro_34
+  - first:
+      213: -9194660058320416717
+    second: bintro_35
+  - first:
+      213: -2518378072425949981
+    second: bintro_36
+  - first:
+      213: -8101340556826783658
+    second: bintro_37
+  - first:
+      213: -743090242273813484
+    second: bintro_38
+  - first:
+      213: 6611608880876203852
+    second: bintro_39
+  - first:
+      213: 2651516694414671447
+    second: bintro_40
+  - first:
+      213: -2884187162312310279
+    second: bintro_41
+  - first:
+      213: 2758216855754185882
+    second: bintro_42
+  - first:
+      213: -5787677897262280670
+    second: bintro_43
+  - first:
+      213: 2000910484235157926
+    second: bintro_44
+  - first:
+      213: -7678475658912975870
+    second: bintro_45
+  - first:
+      213: 3686376950887828882
+    second: bintro_46
+  - first:
+      213: -238012135799122840
+    second: bintro_47
+  - first:
+      213: -800494170460189262
+    second: bintro_48
+  - first:
+      213: -4152089633642967244
+    second: bintro_49
+  - first:
+      213: 1073528566467977793
+    second: bintro_50
+  - first:
+      213: -7188695613078275299
+    second: bintro_51
+  - first:
+      213: 8883049481557961004
+    second: bintro_52
+  - first:
+      213: -4509546222505951958
+    second: bintro_53
+  - first:
+      213: -6460882110289122788
+    second: bintro_54
+  - first:
+      213: -6279221858363970444
+    second: bintro_55
+  - first:
+      213: -6091384067590130210
+    second: bintro_56
+  - first:
+      213: 3599919906741214028
+    second: bintro_57
+  - first:
+      213: 596911395554555317
+    second: bintro_58
+  - first:
+      213: 8593394639740782362
+    second: bintro_59
+  - first:
+      213: 8864029408376454249
+    second: bintro_60
+  - first:
+      213: 3920009209759580307
+    second: bintro_61
+  - first:
+      213: 8917195560748720746
+    second: bintro_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bintro_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 796
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb76b32a46cab4b10800000000000000
+      internalID: 1966855210495862715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 935
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe752b07a4764f350800000000000000
+      internalID: 6049573768881395695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 921
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad0e656b26a3e60800000000000000
+      internalID: 7942769428102437598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 936
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc560529bc3abd70800000000000000
+      internalID: 9059620366296964304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 683
+        width: 378
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7c1e697a5ca1b10800000000000000
+      internalID: 1953090712000120773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_5
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 719
+        width: 97
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714604ccedd7336b0800000000000000
+      internalID: -5317768339131440105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_6
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 684
+        width: 94
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102d780fb2f20f4f0800000000000000
+      internalID: -797085268279045631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 814
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e89963618c2be50800000000000000
+      internalID: 6823736383150591552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 810
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b19cb04fc9b6b270800000000000000
+      internalID: 8265998465880592822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 815
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b43a71bdba245a0800000000000000
+      internalID: -6538474751505773727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 822
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9837aecead6ed00800000000000000
+      internalID: 1001728678217091516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 823
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4342f3a6ddfa84740800000000000000
+      internalID: 5136548740521206836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 839
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65034712c26db650800000000000000
+      internalID: 6250260443613562219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_13
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 788
+        width: 17
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539a862fa29520ec0800000000000000
+      internalID: -3602218710952531659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 694
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7c38c6124356b30800000000000000
+      internalID: 4279884339044665279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 607
+        width: 127
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4773d295c11ecfab0800000000000000
+      internalID: -4972852376652400780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 626
+        width: 68
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7b39f9467e698a0800000000000000
+      internalID: -6298592609471055884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 624
+        width: 48
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f343e8ebdeec48de0800000000000000
+      internalID: -1331712069295262657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 656
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a34ed988f8885c0800000000000000
+      internalID: -4212959634477794695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 636
+        width: 67
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf15c1e36c9c3ee0800000000000000
+      internalID: -1279976241276575818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 139
+        width: 325
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2fa251d59106560800000000000000
+      internalID: 7304866483172733666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_21
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 661
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdca90830055fb4f0800000000000000
+      internalID: -810835948474880801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 670
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c463d2eda1622a30800000000000000
+      internalID: 4189018002870723782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_23
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 566
+        width: 65
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73bb124a73189d00800000000000000
+      internalID: 979554334769132414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_24
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 453
+        width: 160
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eb0afe4700eb5a0800000000000000
+      internalID: -6503760309639922107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_25
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 648
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe47a5267f7619a0800000000000000
+      internalID: -6262678086397505796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200c9ea39aa90eda0800000000000000
+      internalID: -5917559858736283646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 91
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae29f6a9576b8f650800000000000000
+      internalID: 6266959497704477418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 345
+        width: 141
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9691c492a7fc48dd0800000000000000
+      internalID: -2484632970815858327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 459
+        width: 123
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf58feecbd6b55f0800000000000000
+      internalID: -766898653306003516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_30
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 238
+        width: 45
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbade4ef3b0a521e0800000000000000
+      internalID: -2223194146111300933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_31
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 594
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2722c6a2e3063f510800000000000000
+      internalID: 1581713714253144690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_32
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 538
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414a15140a1a250e0800000000000000
+      internalID: -2282584351460711404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_33
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 474
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8cb72e7bc022660800000000000000
+      internalID: 7359458724995123443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_34
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 296
+        width: 100
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecf486a19e203a30800000000000000
+      internalID: 4192902456180800741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_35
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 426
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330d6517461066080800000000000000
+      internalID: -9194660058320416717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_36
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 411
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e41bee6c7cec0dd0800000000000000
+      internalID: -2518378072425949981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_37
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 415
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650dfd1bfa1429f80800000000000000
+      internalID: -8101340556826783658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 240
+        width: 133
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cd5399c5300b5f0800000000000000
+      internalID: -743090242273813484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 203
+        width: 109
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fa1725f3721cb50800000000000000
+      internalID: 6611608880876203852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_40
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 269
+        width: 180
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eba9e92641cc420800000000000000
+      internalID: 2651516694414671447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_41
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 277
+        width: 70
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f102a49e0f49f7d0800000000000000
+      internalID: -2884187162312310279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 202
+        width: 133
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c19bcdd97274620800000000000000
+      internalID: 2758216855754185882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_43
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 175
+        width: 204
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2205d4bed990eafa0800000000000000
+      internalID: -5787677897262280670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 182
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a10130fb79a4cb10800000000000000
+      internalID: 2000910484235157926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 179
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204320e0213907590800000000000000
+      internalID: -7678475658912975870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_46
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 186
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d4bd93e44a82330800000000000000
+      internalID: 3686376950887828882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_47
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 180
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8641679393962bcf0800000000000000
+      internalID: -238012135799122840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_48
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 10
+        width: 98
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd03fc0bc214e4f0800000000000000
+      internalID: -800494170460189262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_49
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 47
+        width: 75
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f01271a70d066c0800000000000000
+      internalID: -4152089633642967244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 166
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142ee8c1b80f5ee00800000000000000
+      internalID: 1073528566467977793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_51
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 153
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b7f006d6f9c3c90800000000000000
+      internalID: -7188695613078275299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_52
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 162
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29ea76607ee64b70800000000000000
+      internalID: 8883049481557961004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_53
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 148
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2df35d6a9fda61c0800000000000000
+      internalID: -4509546222505951958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_54
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 140
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a6a80b3f55656a0800000000000000
+      internalID: -6460882110289122788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 150
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ce8521df8bbd8a0800000000000000
+      internalID: -6279221858363970444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 152
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5f0dcc67e077ba0800000000000000
+      internalID: -6091384067590130210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bda2df41c75f130800000000000000
+      internalID: 3599919906741214028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 47
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5796e60c7a84800800000000000000
+      internalID: 596911395554555317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_59
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 100
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17ce7425eed14770800000000000000
+      internalID: 8593394639740782362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_60
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 48
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cf4e488cb530b70800000000000000
+      internalID: 8864029408376454249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_61
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 46
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390caff6b9ba66630800000000000000
+      internalID: 3920009209759580307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bintro_62
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 27
+        width: 532
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a622e1ffd1e30cb70800000000000000
+      internalID: 8917195560748720746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

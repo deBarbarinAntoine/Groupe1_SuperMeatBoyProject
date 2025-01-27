@@ -1,0 +1,3017 @@
+fileFormatVersion: 2
+guid: 59aee6a0d70cae24a8fa76a5a1b7b1b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5837623557193123256
+    second: factoryanimals_0
+  - first:
+      213: 379200276577358870
+    second: factoryanimals_1
+  - first:
+      213: 5584777749207652924
+    second: factoryanimals_2
+  - first:
+      213: 1197871403840953853
+    second: factoryanimals_3
+  - first:
+      213: -6111294896121128349
+    second: factoryanimals_4
+  - first:
+      213: -5542928477360955469
+    second: factoryanimals_5
+  - first:
+      213: 7320644875011934115
+    second: factoryanimals_6
+  - first:
+      213: -4517593527320594468
+    second: factoryanimals_7
+  - first:
+      213: 2126686308836481548
+    second: factoryanimals_8
+  - first:
+      213: -488717282727373311
+    second: factoryanimals_9
+  - first:
+      213: 693803827094483981
+    second: factoryanimals_10
+  - first:
+      213: 6795331851669990047
+    second: factoryanimals_11
+  - first:
+      213: 6165458694584317824
+    second: factoryanimals_12
+  - first:
+      213: -3173660013286932997
+    second: factoryanimals_13
+  - first:
+      213: -4290963882015320040
+    second: factoryanimals_14
+  - first:
+      213: 1776368258779561772
+    second: factoryanimals_15
+  - first:
+      213: 2988961774167082445
+    second: factoryanimals_16
+  - first:
+      213: -4462535000465907674
+    second: factoryanimals_17
+  - first:
+      213: -1774105950730344840
+    second: factoryanimals_18
+  - first:
+      213: 5462598818910224538
+    second: factoryanimals_19
+  - first:
+      213: 8211489630452944794
+    second: factoryanimals_20
+  - first:
+      213: -5007418613302956242
+    second: factoryanimals_21
+  - first:
+      213: -1798920175926147015
+    second: factoryanimals_22
+  - first:
+      213: -7232231054770252487
+    second: factoryanimals_23
+  - first:
+      213: -1267387366328871714
+    second: factoryanimals_24
+  - first:
+      213: -5256729752146934653
+    second: factoryanimals_25
+  - first:
+      213: -8991220658855800771
+    second: factoryanimals_26
+  - first:
+      213: -2209209825097893781
+    second: factoryanimals_27
+  - first:
+      213: -7387080776245571865
+    second: factoryanimals_28
+  - first:
+      213: -3458826010303499385
+    second: factoryanimals_29
+  - first:
+      213: -4432874039173334993
+    second: factoryanimals_30
+  - first:
+      213: 7020883931291185729
+    second: factoryanimals_31
+  - first:
+      213: 18086924864950330
+    second: factoryanimals_32
+  - first:
+      213: 5221736163729621963
+    second: factoryanimals_33
+  - first:
+      213: -377325128655539746
+    second: factoryanimals_34
+  - first:
+      213: 349604667649553085
+    second: factoryanimals_35
+  - first:
+      213: -1273783387935979842
+    second: factoryanimals_36
+  - first:
+      213: -5436040315138123837
+    second: factoryanimals_37
+  - first:
+      213: -8580957303282164217
+    second: factoryanimals_38
+  - first:
+      213: -3291061054860992588
+    second: factoryanimals_39
+  - first:
+      213: 5580788034731136559
+    second: factoryanimals_40
+  - first:
+      213: 1079909973816291901
+    second: factoryanimals_41
+  - first:
+      213: -2094504075544843607
+    second: factoryanimals_42
+  - first:
+      213: 8447802006558828668
+    second: factoryanimals_43
+  - first:
+      213: -1032652296018996996
+    second: factoryanimals_44
+  - first:
+      213: 4072824343765596702
+    second: factoryanimals_45
+  - first:
+      213: 1811961546246433932
+    second: factoryanimals_46
+  - first:
+      213: 5357516285656408847
+    second: factoryanimals_47
+  - first:
+      213: 5929314805574999679
+    second: factoryanimals_48
+  - first:
+      213: -2732368611718769425
+    second: factoryanimals_49
+  - first:
+      213: 1123015512729622589
+    second: factoryanimals_50
+  - first:
+      213: -4632951628224882790
+    second: factoryanimals_51
+  - first:
+      213: 8329232464536945613
+    second: factoryanimals_52
+  - first:
+      213: -4380759789103095428
+    second: factoryanimals_53
+  - first:
+      213: 8242241899902051621
+    second: factoryanimals_54
+  - first:
+      213: 9071302529824303583
+    second: factoryanimals_55
+  - first:
+      213: -6418931551376658416
+    second: factoryanimals_56
+  - first:
+      213: 123990925511491216
+    second: factoryanimals_57
+  - first:
+      213: -5048379150359197028
+    second: factoryanimals_58
+  - first:
+      213: -131015077412124315
+    second: factoryanimals_59
+  - first:
+      213: 8883197551467392231
+    second: factoryanimals_60
+  - first:
+      213: 5544729112829080545
+    second: factoryanimals_61
+  - first:
+      213: 7682612300063812627
+    second: factoryanimals_62
+  - first:
+      213: -2284313050656501310
+    second: factoryanimals_63
+  - first:
+      213: 4460230094310863555
+    second: factoryanimals_64
+  - first:
+      213: -160794656284723445
+    second: factoryanimals_65
+  - first:
+      213: -5203555677680046283
+    second: factoryanimals_66
+  - first:
+      213: -3347277521034066688
+    second: factoryanimals_67
+  - first:
+      213: -2957983485491033346
+    second: factoryanimals_68
+  - first:
+      213: -2463486222247373140
+    second: factoryanimals_69
+  - first:
+      213: -7966813768455394897
+    second: factoryanimals_70
+  - first:
+      213: 9135262860008381097
+    second: factoryanimals_71
+  - first:
+      213: -1972013207219649292
+    second: factoryanimals_72
+  - first:
+      213: -4902262952408597605
+    second: factoryanimals_73
+  - first:
+      213: 6862645932279676521
+    second: factoryanimals_74
+  - first:
+      213: -5447466199425349934
+    second: factoryanimals_75
+  - first:
+      213: -2787034515829945368
+    second: factoryanimals_76
+  - first:
+      213: 3752362587837961271
+    second: factoryanimals_77
+  - first:
+      213: -564931725335913244
+    second: factoryanimals_78
+  - first:
+      213: -6906097794996441897
+    second: factoryanimals_79
+  - first:
+      213: -7895629892245217743
+    second: factoryanimals_80
+  - first:
+      213: -6864880786689112777
+    second: factoryanimals_81
+  - first:
+      213: -3063934117598916497
+    second: factoryanimals_82
+  - first:
+      213: -8334988930602242716
+    second: factoryanimals_83
+  - first:
+      213: 6188837821041494325
+    second: factoryanimals_84
+  - first:
+      213: 8265685148108184836
+    second: factoryanimals_85
+  - first:
+      213: 1842756781714712340
+    second: factoryanimals_86
+  - first:
+      213: -6800357927457999700
+    second: factoryanimals_87
+  - first:
+      213: 8372526776312992583
+    second: factoryanimals_88
+  - first:
+      213: 3939373973474066240
+    second: factoryanimals_89
+  - first:
+      213: -3542581558018229394
+    second: factoryanimals_90
+  - first:
+      213: -8755196115413343982
+    second: factoryanimals_91
+  - first:
+      213: -413156260104943433
+    second: factoryanimals_92
+  - first:
+      213: 761443695537724204
+    second: factoryanimals_93
+  - first:
+      213: -4890211827557934377
+    second: factoryanimals_94
+  - first:
+      213: -2679937043003212056
+    second: factoryanimals_95
+  - first:
+      213: 8198288997277466725
+    second: factoryanimals_96
+  - first:
+      213: 1075965481839577822
+    second: factoryanimals_97
+  - first:
+      213: -9140159106728359875
+    second: factoryanimals_98
+  - first:
+      213: -1931881283010864131
+    second: factoryanimals_99
+  - first:
+      213: -6374007613753103441
+    second: factoryanimals_100
+  - first:
+      213: 3245913859541996458
+    second: factoryanimals_101
+  - first:
+      213: 262205291184760048
+    second: factoryanimals_102
+  - first:
+      213: 4117158508235291995
+    second: factoryanimals_103
+  - first:
+      213: 2264188339142018646
+    second: factoryanimals_104
+  - first:
+      213: 8600698432407147153
+    second: factoryanimals_105
+  - first:
+      213: 5497008931752559612
+    second: factoryanimals_106
+  - first:
+      213: 3252665836226409654
+    second: factoryanimals_107
+  - first:
+      213: 6259300104393857041
+    second: factoryanimals_108
+  - first:
+      213: -8824610381923581958
+    second: factoryanimals_109
+  - first:
+      213: -4695892412818498797
+    second: factoryanimals_110
+  - first:
+      213: 5606177451940397644
+    second: factoryanimals_111
+  - first:
+      213: 5555793647627381725
+    second: factoryanimals_112
+  - first:
+      213: 6905128190707475162
+    second: factoryanimals_113
+  - first:
+      213: 1808940971521202960
+    second: factoryanimals_114
+  - first:
+      213: -8959523533495194081
+    second: factoryanimals_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: factoryanimals_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c2fa32b7630150800000000000000
+      internalID: 5837623557193123256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 571
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6149f1874a0334500800000000000000
+      internalID: 379200276577358870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 564
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a170306cd118d40800000000000000
+      internalID: 5584777749207652924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 593
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdd988f1b1bf9010800000000000000
+      internalID: 1197871403840953853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 586
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ada07cba1503ba0800000000000000
+      internalID: -6111294896121128349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 588
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfd083eaef8313b0800000000000000
+      internalID: -5542928477360955469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 560
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7ced53ab7289560800000000000000
+      internalID: 7320644875011934115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 544
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7b3744f984e41c0800000000000000
+      internalID: -4517593527320594468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 564
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a92e22ee1838d10800000000000000
+      internalID: 2126686308836481548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 577
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106d07f783ab739f0800000000000000
+      internalID: -488717282727373311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 576
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04f5c1a7e2e0a900800000000000000
+      internalID: 693803827094483981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 593
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aefadd05edd4e50800000000000000
+      internalID: 6795331851669990047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 594
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087ba08440c109550800000000000000
+      internalID: 6165458694584317824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 561
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdbb2e5805e4f3d0800000000000000
+      internalID: -3173660013286932997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 570
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8181274751f6374c0800000000000000
+      internalID: -4290963882015320040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 588
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fb5de058de6a810800000000000000
+      internalID: 1776368258779561772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 593
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5437cb5ecea7920800000000000000
+      internalID: 2988961774167082445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 578
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6206b738f04e112c0800000000000000
+      internalID: -4462535000465907674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_18
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 594
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876afc4990c1167e0800000000000000
+      internalID: -1774105950730344840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_19
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 544
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90cc970fac0fcb40800000000000000
+      internalID: 5462598818910224538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 530
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f83f3005215f170800000000000000
+      internalID: 8211489630452944794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 527
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fe5683d43128ab0800000000000000
+      internalID: -5007418613302956242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 523
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93883ae81a3f807e0800000000000000
+      internalID: -1798920175926147015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_23
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 528
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935ded67c24f1ab90800000000000000
+      internalID: -7232231054770252487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_24
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 524
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4562db7e5596ee0800000000000000
+      internalID: -1267387366328871714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 518
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3840e0b44285c07b0800000000000000
+      internalID: -5256729752146934653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 515
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d301fb3c274c83380800000000000000
+      internalID: -8991220658855800771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 518
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68bcb47e5f4751e0800000000000000
+      internalID: -2209209825097893781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 505
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee04c42c21db7990800000000000000
+      internalID: -7387080776245571865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 501
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7837afbb118cfffc0800000000000000
+      internalID: -3458826010303499385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 493
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28b5093c844b72c0800000000000000
+      internalID: -4432874039173334993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 490
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142fbddbcb03f6160800000000000000
+      internalID: 7020883931291185729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 500
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3097ab56f1404000800000000000000
+      internalID: 18086924864950330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_33
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 495
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc34aedff55577840800000000000000
+      internalID: 5221736163729621963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 495
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed178ad6bc873caf0800000000000000
+      internalID: -377325128655539746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_35
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 417
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2f11bc79b0ad400800000000000000
+      internalID: 349604667649553085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_36
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 488
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb64849e1cc925ee0800000000000000
+      internalID: -1273783387935979842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 453
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c75d7f722e4f84b0800000000000000
+      internalID: -5436040315138123837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 472
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e9219ebc05ae880800000000000000
+      internalID: -8580957303282164217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 478
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf53ea486dc352d0800000000000000
+      internalID: -3291061054860992588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_40
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 484
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2656e83621f27d40800000000000000
+      internalID: 5580788034731136559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_41
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 478
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32b8ba466c9cfe00800000000000000
+      internalID: 1079909973816291901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 469
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaaa84f3a3dee2e0800000000000000
+      internalID: -2094504075544843607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_43
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 420
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7865c5aa2f9c3570800000000000000
+      internalID: 8447802006558828668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 415
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0db4f35384ba1f0800000000000000
+      internalID: -1032652296018996996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_45
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 455
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a36b27924958830800000000000000
+      internalID: 4072824343765596702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_46
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 398
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cafa61d61652910800000000000000
+      internalID: 1811961546246433932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 465
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03abec2da8b95a40800000000000000
+      internalID: 5357516285656408847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e13cb9668294250800000000000000
+      internalID: 5929314805574999679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_49
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 438
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4531f693da41ad0800000000000000
+      internalID: -2732368611718769425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 428
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d389089a8a0c59f00800000000000000
+      internalID: 1123015512729622589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_51
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9796126a0374bfb0800000000000000
+      internalID: -4632951628224882790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 425
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3406cdbc0679370800000000000000
+      internalID: 8329232464536945613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_53
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 418
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71e13c9e2a6433c0800000000000000
+      internalID: -4380759789103095428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 391
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525a084b653526270800000000000000
+      internalID: 8242241899902051621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 350
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9a74cc69db3ed70800000000000000
+      internalID: 9071302529824303583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_56
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 356
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010b5a253cf5be6a0800000000000000
+      internalID: -6418931551376658416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_57
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 362
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09efb7ef61188b100800000000000000
+      internalID: 123990925511491216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_58
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 387
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a0a5309ed80f9b0800000000000000
+      internalID: -5048379150359197028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 401
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56941a23b7a8e2ef0800000000000000
+      internalID: -131015077412124315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_60
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 404
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec65dc9b15774b70800000000000000
+      internalID: 8883197551467392231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 392
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3b1f930c5d2fc40800000000000000
+      internalID: 5544729112829080545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_62
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 393
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ca954ce2f1e9a60800000000000000
+      internalID: 7682612300063812627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_63
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 289
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c194db126d7c40e0800000000000000
+      internalID: -2284313050656501310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_64
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 299
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2f7e3b3abe5ed30800000000000000
+      internalID: 4460230094310863555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_65
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 336
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b073e5eac1eb4cdf0800000000000000
+      internalID: -160794656284723445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_66
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 353
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fe9e64ea149c7b0800000000000000
+      internalID: -5203555677680046283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 356
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0054d1a44d41c81d0800000000000000
+      internalID: -3347277521034066688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_68
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 323
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efac5d721b123f6d0800000000000000
+      internalID: -2957983485491033346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_69
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 354
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca650ed3550ffcdd0800000000000000
+      internalID: -2463486222247373140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_70
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 310
+        width: 104
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9668b6611307190800000000000000
+      internalID: -7966813768455394897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_71
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 348
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa5e94ab29f6ce70800000000000000
+      internalID: 9135262860008381097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_72
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 256
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f44b4baf6002a4e0800000000000000
+      internalID: -1972013207219649292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 331
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bb02e61d9a7fbb0800000000000000
+      internalID: -4902262952408597605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_74
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 321
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e3fc49d140d3f50800000000000000
+      internalID: 6862645932279676521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_75
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 244
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d60e418a56b664b0800000000000000
+      internalID: -5447466199425349934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_76
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 293
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb043bcfd67259d0800000000000000
+      internalID: -2787034515829945368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_77
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 303
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7341c8c84e1131430800000000000000
+      internalID: 3752362587837961271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_78
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 180
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec1105c695f828f0800000000000000
+      internalID: -564931725335913244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_79
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 186
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dce02145ac9820a0800000000000000
+      internalID: -6906097794996441897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_80
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 218
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e94c222761d6290800000000000000
+      internalID: -7895629892245217743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_81
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 224
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735cdf3db4b0bb0a0800000000000000
+      internalID: -6864880786689112777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_82
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 225
+        width: 139
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6011594728ba75d0800000000000000
+      internalID: -3063934117598916497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_83
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 226
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46de3a07abb245c80800000000000000
+      internalID: -8334988930602242716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_84
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5394ea7553b23e550800000000000000
+      internalID: 6188837821041494325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_85
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 225
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dd53649dc95b270800000000000000
+      internalID: 8265685148108184836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_86
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 218
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4172c859789c29910800000000000000
+      internalID: 1842756781714712340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_87
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 146
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4ba5cae7640a1a0800000000000000
+      internalID: -6800357927457999700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_88
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 156
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74315965eb0313470800000000000000
+      internalID: 8372526776312992583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_89
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 163
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f3756d1c77ba630800000000000000
+      internalID: 3939373973474066240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_90
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 205
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b3976a7d836dec0800000000000000
+      internalID: -3542581558018229394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_91
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 203
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21168e1258b4f7680800000000000000
+      internalID: -8755196115413343982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_92
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 211
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b847b7029c244af0800000000000000
+      internalID: -413156260104943433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_93
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 203
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b9cfcb101319a00800000000000000
+      internalID: 761443695537724204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_94
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 184
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dadef5904a722cb0800000000000000
+      internalID: -4890211827557934377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_95
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 169
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eef1635573fecad0800000000000000
+      internalID: -2679937043003212056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_96
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56087b8186c26c170800000000000000
+      internalID: 8198288997277466725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_97
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 121
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda41afa7e89eee00800000000000000
+      internalID: 1075965481839577822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_98
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 124
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3887e418b1a72180800000000000000
+      internalID: -9140159106728359875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_99
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 149
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb59e965349035e0800000000000000
+      internalID: -1931881283010864131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_100
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 110
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab6c92a8d9fa87a0800000000000000
+      internalID: -6374007613753103441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_101
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 88
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa39489257dcb0d20800000000000000
+      internalID: 3245913859541996458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_102
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 81
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4ab47b25a83a300800000000000000
+      internalID: 262205291184760048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_103
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 65
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d775f79d5132930800000000000000
+      internalID: 4117158508235291995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_104
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 84
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656442b5c430c6f10800000000000000
+      internalID: 2264188339142018646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_105
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 78
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19213e3e7a1db5770800000000000000
+      internalID: 8600698432407147153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_106
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 106
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c240cf7c494c40800000000000000
+      internalID: 5497008931752559612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_107
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 97
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4f25d385ac32d20800000000000000
+      internalID: 3252665836226409654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_108
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 7
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11816f028408dd650800000000000000
+      internalID: 6259300104393857041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_109
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff7838cc9fa88580800000000000000
+      internalID: -8824610381923581958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_110
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 17
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b508efab6d4deb0800000000000000
+      internalID: -4695892412818498797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_111
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 16
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4246b290b42dcd40800000000000000
+      internalID: 5606177451940397644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_112
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 12
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddba33cf2e42a1d40800000000000000
+      internalID: 5555793647627381725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_113
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a7a72181f3df50800000000000000
+      internalID: 6905128190707475162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_114
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bdb2bba36aa1910800000000000000
+      internalID: 1808940971521202960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: factoryanimals_115
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e244dd0d069a380800000000000000
+      internalID: -8959523533495194081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

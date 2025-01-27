@@ -1,0 +1,5717 @@
+fileFormatVersion: 2
+guid: 0be44673befb7114ea5135a6ed4ffb26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4749844926791021220
+    second: potatoboy_0
+  - first:
+      213: -411131729166436215
+    second: potatoboy_1
+  - first:
+      213: -5783050706487692725
+    second: potatoboy_2
+  - first:
+      213: -922053631691070270
+    second: potatoboy_3
+  - first:
+      213: 6587588230796485034
+    second: potatoboy_4
+  - first:
+      213: 1076078141094147999
+    second: potatoboy_5
+  - first:
+      213: 2857661894372972753
+    second: potatoboy_6
+  - first:
+      213: -517777120352035526
+    second: potatoboy_7
+  - first:
+      213: 7353704967431726560
+    second: potatoboy_8
+  - first:
+      213: 2287058601309831223
+    second: potatoboy_9
+  - first:
+      213: -8053952201832178931
+    second: potatoboy_10
+  - first:
+      213: 5235358840171453155
+    second: potatoboy_11
+  - first:
+      213: 2136330657293774459
+    second: potatoboy_12
+  - first:
+      213: -7705133622817585585
+    second: potatoboy_13
+  - first:
+      213: 2579413685129006699
+    second: potatoboy_14
+  - first:
+      213: -4767743761551263539
+    second: potatoboy_15
+  - first:
+      213: -9189714214653537467
+    second: potatoboy_16
+  - first:
+      213: -2434396279148247108
+    second: potatoboy_17
+  - first:
+      213: -1605578645839899049
+    second: potatoboy_18
+  - first:
+      213: -1276063089003761364
+    second: potatoboy_19
+  - first:
+      213: 8373882980673419942
+    second: potatoboy_20
+  - first:
+      213: 551849173514025898
+    second: potatoboy_21
+  - first:
+      213: 3883586940444952022
+    second: potatoboy_22
+  - first:
+      213: -218384355242058327
+    second: potatoboy_23
+  - first:
+      213: 1716668963687907107
+    second: potatoboy_24
+  - first:
+      213: 8186271086591269763
+    second: potatoboy_25
+  - first:
+      213: 6603935069101990138
+    second: potatoboy_26
+  - first:
+      213: 5329038681699513230
+    second: potatoboy_27
+  - first:
+      213: 1025857422909819468
+    second: potatoboy_28
+  - first:
+      213: 4464882593465732565
+    second: potatoboy_29
+  - first:
+      213: 4642512125068722136
+    second: potatoboy_30
+  - first:
+      213: 8506030935459853483
+    second: potatoboy_31
+  - first:
+      213: 3983453664384584264
+    second: potatoboy_32
+  - first:
+      213: 5925316996227204572
+    second: potatoboy_33
+  - first:
+      213: 366680484662379064
+    second: potatoboy_34
+  - first:
+      213: -2832584406659367064
+    second: potatoboy_35
+  - first:
+      213: -3234703382952184723
+    second: potatoboy_36
+  - first:
+      213: -6838417078231650508
+    second: potatoboy_37
+  - first:
+      213: -9064614917257415532
+    second: potatoboy_38
+  - first:
+      213: -7162366117957017310
+    second: potatoboy_39
+  - first:
+      213: 4798329442125456726
+    second: potatoboy_40
+  - first:
+      213: 7529805794762624411
+    second: potatoboy_41
+  - first:
+      213: -6927376099704757122
+    second: potatoboy_42
+  - first:
+      213: 8029361384643327619
+    second: potatoboy_43
+  - first:
+      213: 5437755809695814250
+    second: potatoboy_44
+  - first:
+      213: -3483859361650032556
+    second: potatoboy_45
+  - first:
+      213: -5414837981048021613
+    second: potatoboy_46
+  - first:
+      213: -3417426320438431781
+    second: potatoboy_47
+  - first:
+      213: -3695841636122818797
+    second: potatoboy_48
+  - first:
+      213: -5976040350598982314
+    second: potatoboy_49
+  - first:
+      213: 715608084030244565
+    second: potatoboy_50
+  - first:
+      213: -6167770830732347493
+    second: potatoboy_51
+  - first:
+      213: -7164568951538017421
+    second: potatoboy_52
+  - first:
+      213: 520483128071862506
+    second: potatoboy_53
+  - first:
+      213: -354908553893513576
+    second: potatoboy_54
+  - first:
+      213: -972351856178124820
+    second: potatoboy_55
+  - first:
+      213: 2440447264846888103
+    second: potatoboy_56
+  - first:
+      213: 8620494622682953394
+    second: potatoboy_57
+  - first:
+      213: -3486729941128382982
+    second: potatoboy_58
+  - first:
+      213: -4157207644547250841
+    second: potatoboy_59
+  - first:
+      213: -3756094503914472957
+    second: potatoboy_60
+  - first:
+      213: 8615522441955216248
+    second: potatoboy_61
+  - first:
+      213: -3791983652687286055
+    second: potatoboy_62
+  - first:
+      213: 5381021918001547236
+    second: potatoboy_63
+  - first:
+      213: 1882249318872256230
+    second: potatoboy_64
+  - first:
+      213: 5090100562008041713
+    second: potatoboy_65
+  - first:
+      213: -8404880610100413646
+    second: potatoboy_66
+  - first:
+      213: 4508585560961130173
+    second: potatoboy_67
+  - first:
+      213: -3298353029871430696
+    second: potatoboy_68
+  - first:
+      213: 2272399710764481552
+    second: potatoboy_69
+  - first:
+      213: -5457843373255943257
+    second: potatoboy_70
+  - first:
+      213: -2093023345565279992
+    second: potatoboy_71
+  - first:
+      213: 3783883111156400715
+    second: potatoboy_72
+  - first:
+      213: 1188699256115087950
+    second: potatoboy_73
+  - first:
+      213: -9134535187298758929
+    second: potatoboy_74
+  - first:
+      213: 2113055348421002497
+    second: potatoboy_75
+  - first:
+      213: 8205186032833743854
+    second: potatoboy_76
+  - first:
+      213: 3328471901067387226
+    second: potatoboy_77
+  - first:
+      213: -6472454243238845884
+    second: potatoboy_78
+  - first:
+      213: -4582550130608012385
+    second: potatoboy_79
+  - first:
+      213: 6634970714453568951
+    second: potatoboy_80
+  - first:
+      213: 3222913210354444016
+    second: potatoboy_81
+  - first:
+      213: -4551781110992017560
+    second: potatoboy_82
+  - first:
+      213: -7465916180868477776
+    second: potatoboy_83
+  - first:
+      213: -5736026085201023306
+    second: potatoboy_84
+  - first:
+      213: 2032622202995222942
+    second: potatoboy_85
+  - first:
+      213: -7734267001939562365
+    second: potatoboy_86
+  - first:
+      213: 929833220378952252
+    second: potatoboy_87
+  - first:
+      213: 3825796737837832062
+    second: potatoboy_88
+  - first:
+      213: 6893120897729820435
+    second: potatoboy_89
+  - first:
+      213: -6642022293299328235
+    second: potatoboy_90
+  - first:
+      213: 3117500976489264047
+    second: potatoboy_91
+  - first:
+      213: 7602956355719572491
+    second: potatoboy_92
+  - first:
+      213: -2444976360657459465
+    second: potatoboy_93
+  - first:
+      213: -2008439881346257507
+    second: potatoboy_94
+  - first:
+      213: -1748886911414846701
+    second: potatoboy_95
+  - first:
+      213: -3180313235507443388
+    second: potatoboy_96
+  - first:
+      213: 9155232126180688694
+    second: potatoboy_97
+  - first:
+      213: -5615421847560006763
+    second: potatoboy_98
+  - first:
+      213: 7147257407100039524
+    second: potatoboy_99
+  - first:
+      213: -2946790012203161599
+    second: potatoboy_100
+  - first:
+      213: -1124200066306043112
+    second: potatoboy_101
+  - first:
+      213: -4810060852081745724
+    second: potatoboy_102
+  - first:
+      213: -1712687145918080785
+    second: potatoboy_103
+  - first:
+      213: -3828350044661161059
+    second: potatoboy_104
+  - first:
+      213: 3048294819220492868
+    second: potatoboy_105
+  - first:
+      213: 57480033156851736
+    second: potatoboy_106
+  - first:
+      213: -1929486408915339862
+    second: potatoboy_107
+  - first:
+      213: 3620590317095323385
+    second: potatoboy_108
+  - first:
+      213: 3404599353813765558
+    second: potatoboy_109
+  - first:
+      213: -2054621466288028522
+    second: potatoboy_110
+  - first:
+      213: -1256883326492719155
+    second: potatoboy_111
+  - first:
+      213: 5201573053616483000
+    second: potatoboy_112
+  - first:
+      213: -8684757315165911214
+    second: potatoboy_113
+  - first:
+      213: -8407961296417050765
+    second: potatoboy_114
+  - first:
+      213: -4225911454241735567
+    second: potatoboy_115
+  - first:
+      213: 1530279372039658364
+    second: potatoboy_116
+  - first:
+      213: 4332444327266151219
+    second: potatoboy_117
+  - first:
+      213: 8416866650961060970
+    second: potatoboy_118
+  - first:
+      213: -3482699731971234166
+    second: potatoboy_119
+  - first:
+      213: -2982393914861514544
+    second: potatoboy_120
+  - first:
+      213: -904032538107023178
+    second: potatoboy_121
+  - first:
+      213: 4784242980510083840
+    second: potatoboy_122
+  - first:
+      213: -5673967074783061391
+    second: potatoboy_123
+  - first:
+      213: 5012700372380712289
+    second: potatoboy_124
+  - first:
+      213: 5436949267583835894
+    second: potatoboy_125
+  - first:
+      213: 5332689312779480459
+    second: potatoboy_126
+  - first:
+      213: 8315595714517336946
+    second: potatoboy_127
+  - first:
+      213: 7043101991032724187
+    second: potatoboy_128
+  - first:
+      213: 6369933156681455135
+    second: potatoboy_129
+  - first:
+      213: 3736197209494030135
+    second: potatoboy_130
+  - first:
+      213: 6905887213263007735
+    second: potatoboy_131
+  - first:
+      213: -4862181286088084417
+    second: potatoboy_132
+  - first:
+      213: -1822913636192620158
+    second: potatoboy_133
+  - first:
+      213: -1631901213311969803
+    second: potatoboy_134
+  - first:
+      213: -8325076103798598858
+    second: potatoboy_135
+  - first:
+      213: 8179270026739492135
+    second: potatoboy_136
+  - first:
+      213: 3558590328195635610
+    second: potatoboy_137
+  - first:
+      213: -2542893436815482734
+    second: potatoboy_138
+  - first:
+      213: 466740332792233863
+    second: potatoboy_139
+  - first:
+      213: 6904804168279631877
+    second: potatoboy_140
+  - first:
+      213: 3715992363858757522
+    second: potatoboy_141
+  - first:
+      213: 738939098799164466
+    second: potatoboy_142
+  - first:
+      213: -1532198939126346118
+    second: potatoboy_143
+  - first:
+      213: -8277338391258243843
+    second: potatoboy_144
+  - first:
+      213: 7933563099369009446
+    second: potatoboy_145
+  - first:
+      213: -6158440178951620709
+    second: potatoboy_146
+  - first:
+      213: -5127349178816192006
+    second: potatoboy_147
+  - first:
+      213: -4609125828283140744
+    second: potatoboy_148
+  - first:
+      213: 8861181411860461856
+    second: potatoboy_149
+  - first:
+      213: 7098395223875929093
+    second: potatoboy_150
+  - first:
+      213: -2628849247882959164
+    second: potatoboy_151
+  - first:
+      213: 7044166243476006431
+    second: potatoboy_152
+  - first:
+      213: 7138898755309033180
+    second: potatoboy_153
+  - first:
+      213: -8342883186195740156
+    second: potatoboy_154
+  - first:
+      213: 8917340661993014276
+    second: potatoboy_155
+  - first:
+      213: -941278991799861717
+    second: potatoboy_156
+  - first:
+      213: -5976491085188335205
+    second: potatoboy_157
+  - first:
+      213: 5534420191261329101
+    second: potatoboy_158
+  - first:
+      213: -2341095020872772658
+    second: potatoboy_159
+  - first:
+      213: 8252003038808895937
+    second: potatoboy_160
+  - first:
+      213: -676911217591286225
+    second: potatoboy_161
+  - first:
+      213: 8460951433660014564
+    second: potatoboy_162
+  - first:
+      213: -3338286418690475069
+    second: potatoboy_163
+  - first:
+      213: 4340331417565049826
+    second: potatoboy_164
+  - first:
+      213: 8237187100660070349
+    second: potatoboy_165
+  - first:
+      213: -3858274449681015047
+    second: potatoboy_166
+  - first:
+      213: 1871573950352951640
+    second: potatoboy_167
+  - first:
+      213: 8469674551646116825
+    second: potatoboy_168
+  - first:
+      213: 415895881638816279
+    second: potatoboy_169
+  - first:
+      213: -9130449058625549699
+    second: potatoboy_170
+  - first:
+      213: 9187487928148579338
+    second: potatoboy_171
+  - first:
+      213: -3842517315939094623
+    second: potatoboy_172
+  - first:
+      213: -195291970315700920
+    second: potatoboy_173
+  - first:
+      213: 7637380105360882689
+    second: potatoboy_174
+  - first:
+      213: 1604718055786943830
+    second: potatoboy_175
+  - first:
+      213: 3200640140383060247
+    second: potatoboy_176
+  - first:
+      213: -7136512111864892860
+    second: potatoboy_177
+  - first:
+      213: -7297939126525502251
+    second: potatoboy_178
+  - first:
+      213: 3767402689206640766
+    second: potatoboy_179
+  - first:
+      213: 3825554898038743187
+    second: potatoboy_180
+  - first:
+      213: 883369715403006964
+    second: potatoboy_181
+  - first:
+      213: -3223631681796301251
+    second: potatoboy_182
+  - first:
+      213: -8093701422584869959
+    second: potatoboy_183
+  - first:
+      213: 7519718333151237588
+    second: potatoboy_184
+  - first:
+      213: -7098669537316495811
+    second: potatoboy_185
+  - first:
+      213: 4902740184123902479
+    second: potatoboy_186
+  - first:
+      213: 2336279939894386827
+    second: potatoboy_187
+  - first:
+      213: 6290140190269944893
+    second: potatoboy_188
+  - first:
+      213: 6726059147075917599
+    second: potatoboy_189
+  - first:
+      213: 798136924534886204
+    second: potatoboy_190
+  - first:
+      213: -460551701284178108
+    second: potatoboy_191
+  - first:
+      213: -6923877406140314103
+    second: potatoboy_192
+  - first:
+      213: -3370392643309729575
+    second: potatoboy_193
+  - first:
+      213: -5663888614243546774
+    second: potatoboy_194
+  - first:
+      213: 3379467680320158910
+    second: potatoboy_195
+  - first:
+      213: -8693217910631361143
+    second: potatoboy_196
+  - first:
+      213: 3604346651846499646
+    second: potatoboy_197
+  - first:
+      213: 3711014193684571234
+    second: potatoboy_198
+  - first:
+      213: 6508547204822289498
+    second: potatoboy_199
+  - first:
+      213: -3773911278457089179
+    second: potatoboy_200
+  - first:
+      213: 8374089155121305831
+    second: potatoboy_201
+  - first:
+      213: -8763291887822457161
+    second: potatoboy_202
+  - first:
+      213: 4586038557211949280
+    second: potatoboy_203
+  - first:
+      213: 6869172548580936180
+    second: potatoboy_204
+  - first:
+      213: 1138368891027631927
+    second: potatoboy_205
+  - first:
+      213: -5788004472121365901
+    second: potatoboy_206
+  - first:
+      213: 3924353235975061468
+    second: potatoboy_207
+  - first:
+      213: -2763228814142719142
+    second: potatoboy_208
+  - first:
+      213: 6886894440143916668
+    second: potatoboy_209
+  - first:
+      213: 2894286297784269822
+    second: potatoboy_210
+  - first:
+      213: -4969721966736273424
+    second: potatoboy_211
+  - first:
+      213: 3822135129717952610
+    second: potatoboy_212
+  - first:
+      213: 55226485034290495
+    second: potatoboy_213
+  - first:
+      213: -4441783619471447142
+    second: potatoboy_214
+  - first:
+      213: 4552407733636841936
+    second: potatoboy_215
+  - first:
+      213: -5741090031117795119
+    second: potatoboy_216
+  - first:
+      213: 2222040031255976666
+    second: potatoboy_217
+  - first:
+      213: 487174355888483969
+    second: potatoboy_218
+  - first:
+      213: -6224379178739764860
+    second: potatoboy_219
+  - first:
+      213: -7065238891905170431
+    second: potatoboy_220
+  - first:
+      213: -4597479635671947284
+    second: potatoboy_221
+  - first:
+      213: 8941213900296758007
+    second: potatoboy_222
+  - first:
+      213: 2630180058866137668
+    second: potatoboy_223
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potatoboy_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 984
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2f19f8bc6dae140800000000000000
+      internalID: 4749844926791021220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 967
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988742fdedd5b4af0800000000000000
+      internalID: -411131729166436215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 979
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42bab9b50a7ebfa0800000000000000
+      internalID: -5783050706487692725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 966
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4e1337b153433f0800000000000000
+      internalID: -922053631691070270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 882
+        width: 202
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa12b27e790db6b50800000000000000
+      internalID: 6587588230796485034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_5
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 890
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97ba763e5ffeee00800000000000000
+      internalID: 1076078141094147999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 973
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d855463a5478a720800000000000000
+      internalID: 2857661894372972753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 952
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d979cc37c70d8f0800000000000000
+      internalID: -517777120352035526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 958
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e52bcec4bb9d0660800000000000000
+      internalID: 7353704967431726560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 956
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73003973ea34dbf10800000000000000
+      internalID: 2287058601309831223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 894
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b51d3e42d9a3090800000000000000
+      internalID: -8053952201832178931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 964
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eade14802bb7a840800000000000000
+      internalID: 5235358840171453155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_12
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 949
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ea5cef965c5ad10800000000000000
+      internalID: 2136330657293774459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_13
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 939
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f460a092bcdd11590800000000000000
+      internalID: -7705133622817585585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 928
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e45ee841bebc320800000000000000
+      internalID: 2579413685129006699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 945
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8f6a83f4295ddb0800000000000000
+      internalID: -4767743761551263539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 943
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543d7386c93977080800000000000000
+      internalID: -9189714214653537467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 927
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb706da6b79473ed0800000000000000
+      internalID: -2434396279148247108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 931
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75692c37ab6d7b9e0800000000000000
+      internalID: -1605578645839899049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 930
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2171f4a1638a4ee0800000000000000
+      internalID: -1276063089003761364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 941
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa7ab54432063470800000000000000
+      internalID: 8373882980673419942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 933
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab75e446ef88a700800000000000000
+      internalID: 551849173514025898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_22
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 939
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d541970fb545e530800000000000000
+      internalID: 3883586940444952022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_23
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 935
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad5b41069428fcf0800000000000000
+      internalID: -218384355242058327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 931
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f3e81c355d2d710800000000000000
+      internalID: 1716668963687907107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 932
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bd2573e2a7b9170800000000000000
+      internalID: 8186271086591269763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 937
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0a199c4f3e5ab50800000000000000
+      internalID: 6603935069101990138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 926
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83f301527c84f940800000000000000
+      internalID: 5329038681699513230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 918
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4accb214e39c3e00800000000000000
+      internalID: 1025857422909819468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 914
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd8953101376fd30800000000000000
+      internalID: 4464882593465732565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 918
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df3a204e248d6040800000000000000
+      internalID: 4642512125068722136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 905
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba47194a11e7b0670800000000000000
+      internalID: 8506030935459853483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 923
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a0fd4a002184730800000000000000
+      internalID: 3983453664384584264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 920
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd505b51a64fa3250800000000000000
+      internalID: 5925316996227204572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 919
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8328e5245f5b61500800000000000000
+      internalID: 366680484662379064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 873
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ff1c46d73a0b8d0800000000000000
+      internalID: -2832584406659367064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_36
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 873
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64716159660c13d0800000000000000
+      internalID: -3234703382952184723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 890
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fa90a16ef0911a0800000000000000
+      internalID: -6838417078231650508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 899
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4943a2752c4043280800000000000000
+      internalID: -9064614917257415532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 877
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221e0eba6f92a9c90800000000000000
+      internalID: -7162366117957017310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 874
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655af297437179240800000000000000
+      internalID: 4798329442125456726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_41
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 901
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d0188c97e3f7860800000000000000
+      internalID: 7529805794762624411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_42
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 873
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74219fd3240ddf90800000000000000
+      internalID: -6927376099704757122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_43
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 890
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38677e053a50e6f60800000000000000
+      internalID: 8029361384643327619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 893
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a625c34391ac67b40800000000000000
+      internalID: 5437755809695814250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_45
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 880
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4504e6d6e58d6afc0800000000000000
+      internalID: -3483859361650032556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_46
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 887
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dd6579b81aad4b0800000000000000
+      internalID: -5414837981048021613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_47
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 886
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf623c2edcd290d0800000000000000
+      internalID: -3417426320438431781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_48
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 893
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3170dc40d9bb5bcc0800000000000000
+      internalID: -3695841636122818797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 873
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655952ba6f6d01da0800000000000000
+      internalID: -5976040350598982314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 862
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6450fc2c95ee900800000000000000
+      internalID: 715608084030244565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_51
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 877
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97be229b1da76aa0800000000000000
+      internalID: -6167770830732347493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 874
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b98c28f76529c90800000000000000
+      internalID: -7164568951538017421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_53
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 789
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8be48b5a0293700800000000000000
+      internalID: 520483128071862506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_54
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 790
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896fd65fc8c131bf0800000000000000
+      internalID: -354908553893513576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_55
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 846
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7afc773238182f0800000000000000
+      internalID: -972351856178124820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_56
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 874
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acb54a7bd53ed120800000000000000
+      internalID: 2440447264846888103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_57
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 874
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6be2d9f2622a770800000000000000
+      internalID: 8620494622682953394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_58
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 874
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5f25f8795ac9fc0800000000000000
+      internalID: -3486729941128382982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76509315ca1ae46c0800000000000000
+      internalID: -4157207644547250841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_60
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 865
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a716703fbafdbc0800000000000000
+      internalID: -3756094503914472957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 768
+        width: 87
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b8523930c709770800000000000000
+      internalID: 8615522441955216248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_62
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 864
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d07c7b65fa206bc0800000000000000
+      internalID: -3791983652687286055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_63
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 864
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7c21facea3daa40800000000000000
+      internalID: 5381021918001547236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_64
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 864
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee0a1e68c71f1a10800000000000000
+      internalID: 1882249318872256230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_65
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 817
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8618d1e7ba3a640800000000000000
+      internalID: 5090100562008041713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_66
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 807
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b7567bd9ddb5b80800000000000000
+      internalID: -8404880610100413646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_67
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 769
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe1b802ea6b19e30800000000000000
+      internalID: 4508585560961130173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_68
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 710
+        width: 151
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d31eae0565e932d0800000000000000
+      internalID: -3298353029871430696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_69
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 802
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c31db4f7f298f10800000000000000
+      internalID: 2272399710764481552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_70
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 826
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab1c517e58d144b0800000000000000
+      internalID: -5457843373255943257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_71
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 790
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8095bf44b5614f2e0800000000000000
+      internalID: -2093023345565279992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_72
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 790
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42c31844ad038430800000000000000
+      internalID: 3783883111156400715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_73
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 788
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ac289ecab1f7010800000000000000
+      internalID: 1188699256115087950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_74
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 758
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee40ccd4ac9b3180800000000000000
+      internalID: -9134535187298758929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_75
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 795
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1058f59d4a4135d10800000000000000
+      internalID: 2113055348421002497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_76
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 768
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb4d03593daed170800000000000000
+      internalID: 8205186032833743854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_77
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 785
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51adfb1f8b113e20800000000000000
+      internalID: 3328471901067387226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_78
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 785
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44267c688293d26a0800000000000000
+      internalID: -6472454243238845884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_79
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 769
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9380b38fe28760c0800000000000000
+      internalID: -4582550130608012385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 764
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdef1216b6241c50800000000000000
+      internalID: 6634970714453568951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 774
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f627153d761abc20800000000000000
+      internalID: 3222913210354444016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 769
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867ecf72233d4d0c0800000000000000
+      internalID: -4551781110992017560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_83
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 685
+        width: 89
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc4e742accb36890800000000000000
+      internalID: -7465916180868477776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_84
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 692
+        width: 89
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bee7319aaa8560b0800000000000000
+      internalID: -5736026085201023306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_85
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 697
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e992a14df13553c10800000000000000
+      internalID: 2032622202995222942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_86
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 779
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380fd5fb32d5aa490800000000000000
+      internalID: -7734267001939562365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_87
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 772
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c328b01336e67ec00800000000000000
+      internalID: 929833220378952252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_88
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 761
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e771ca5fcd5f71530800000000000000
+      internalID: 3825796737837832062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 744
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317f1076fe849af50800000000000000
+      internalID: 6893120897729820435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_90
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 754
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b0ba94aebc2d3a0800000000000000
+      internalID: -6642022293299328235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_91
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 736
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa37392fe96934b20800000000000000
+      internalID: 3117500976489264047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 681
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ca679f580238960800000000000000
+      internalID: 7602956355719572491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_93
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 739
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6e8ca34f2b11ed0800000000000000
+      internalID: -2444976360657459465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_94
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 735
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9de0afa1969024e0800000000000000
+      internalID: -2008439881346257507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_95
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 740
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bb9ccbe94bab7e0800000000000000
+      internalID: -1748886911414846701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_96
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 727
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4490b1b56f14dd3d0800000000000000
+      internalID: -3180313235507443388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_97
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 714
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6338e3dbc1bed0f70800000000000000
+      internalID: 9155232126180688694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_98
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 724
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593d738d4930212b0800000000000000
+      internalID: -5615421847560006763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_99
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 714
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4613a747eb8203360800000000000000
+      internalID: 7147257407100039524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_100
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 689
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10826feb816ea17d0800000000000000
+      internalID: -2946790012203161599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 700
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8139b57fef90660f0800000000000000
+      internalID: -1124200066306043112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 733
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0a7abc32b3f3db0800000000000000
+      internalID: -4810060852081745724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_103
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 706
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8dc207d105b38e0800000000000000
+      internalID: -1712687145918080785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 714
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93ee18fae7fedac0800000000000000
+      internalID: -3828350044661161059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_105
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 612
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4421d4eccf7bd4a20800000000000000
+      internalID: 3048294819220492868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_106
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 700
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818edfd19c53cc000800000000000000
+      internalID: 57480033156851736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_107
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 722
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa538ad75561935e0800000000000000
+      internalID: -1929486408915339862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_108
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 704
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f68fafe5bbee3230800000000000000
+      internalID: 3620590317095323385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd089ee2119f3f20800000000000000
+      internalID: 3404599353813765558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_110
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 707
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694820a89a48c73e0800000000000000
+      internalID: -2054621466288028522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_111
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 705
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc74a481647ae8ee0800000000000000
+      internalID: -1256883326492719155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_112
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 708
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baed061223bf2840800000000000000
+      internalID: 5201573053616483000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_113
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 705
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2578f055c3b897780800000000000000
+      internalID: -8684757315165911214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_114
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 709
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f24d98fbbe05b80800000000000000
+      internalID: -8407961296417050765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cbaa51ceb8a55c0800000000000000
+      internalID: -4225911454241735567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_116
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 612
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b18892bf4ac3510800000000000000
+      internalID: 1530279372039658364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_117
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 673
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33beadf492fef1c30800000000000000
+      internalID: 4332444327266151219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_118
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 673
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64ad54ef97bec470800000000000000
+      internalID: 8416866650961060970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_119
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 688
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86a180cb07faafc0800000000000000
+      internalID: -3482699731971234166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_120
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 694
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0946c29886c96d0800000000000000
+      internalID: -2982393914861514544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_121
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 679
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b07cb4423b3473f0800000000000000
+      internalID: -904032538107023178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_122
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 588
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ba57c84ab056240800000000000000
+      internalID: 4784242980510083840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_123
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 651
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a1b48e1050241b0800000000000000
+      internalID: -5673967074783061391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_124
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 647
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d78352e60b09540800000000000000
+      internalID: 5012700372380712289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_125
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 500
+        width: 89
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe972c7d8ce37b40800000000000000
+      internalID: 5436949267583835894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_126
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 600
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d2eb91da4810a40800000000000000
+      internalID: 5332689312779480459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_127
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 605
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27301939e3ee66370800000000000000
+      internalID: 8315595714517336946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_128
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 675
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda1a54e1ff1eb160800000000000000
+      internalID: 7043101991032724187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_129
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 660
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f161bf6e47c866850800000000000000
+      internalID: 6369933156681455135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_130
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 649
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73782ba1193a9d330800000000000000
+      internalID: 3736197209494030135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_131
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 626
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff247dd4d3a6df50800000000000000
+      internalID: 6905887213263007735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_132
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 493
+        width: 124
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34fa2991ef068cb0800000000000000
+      internalID: -4862181286088084417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_133
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 637
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281f582c4b5b3b6e0800000000000000
+      internalID: -1822913636192620158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_134
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 529
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5d2002e725a59e0800000000000000
+      internalID: -1631901213311969803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633ddf84463677c80800000000000000
+      internalID: -8325076103798598858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_136
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 523
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725aec1f0ca928170800000000000000
+      internalID: 8179270026739492135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_137
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 437
+        width: 92
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99dd3d9c07a26130800000000000000
+      internalID: 3558590328195635610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_138
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 496
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290e0fc54e3d5bcd0800000000000000
+      internalID: -2542893436815482734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_139
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 550
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fbd6a1cd13a7600800000000000000
+      internalID: 466740332792233863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 558
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508a1fdcecac2df50800000000000000
+      internalID: 6904804168279631877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_141
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 509
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2978dd3ed5bd19330800000000000000
+      internalID: 3715992363858757522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_142
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 502
+        width: 79
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c429ef13d314a00800000000000000
+      internalID: 738939098799164466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_143
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 530
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ec42cce298cbae0800000000000000
+      internalID: -1532198939126346118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_144
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 437
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc595f969cf02d80800000000000000
+      internalID: -8277338391258243843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_145
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 432
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6217905ea9da91e60800000000000000
+      internalID: 7933563099369009446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_146
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 419
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97781b3943d88aa0800000000000000
+      internalID: -6158440178951620709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_147
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 502
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af12545761ff7d8b0800000000000000
+      internalID: -5127349178816192006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_148
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 405
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875fa18ba781900c0800000000000000
+      internalID: -4609125828283140744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_149
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 406
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029bc38ab8d39fa70800000000000000
+      internalID: 8861181411860461856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_150
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 456
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5044472e8d0928260800000000000000
+      internalID: 7098395223875929093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_151
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 466
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c622eb8983748bd0800000000000000
+      internalID: -2628849247882959164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_152
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 421
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f166f2970e7e1c160800000000000000
+      internalID: 7044166243476006431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_153
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 465
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd65cad2896721360800000000000000
+      internalID: 7138898755309033180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_154
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 437
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a4934d1ff183c80800000000000000
+      internalID: -8342883186195740156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_155
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 457
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4048d330612c0cb70800000000000000
+      internalID: 8917340661993014276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_156
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 446
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e3b3b7eb7efe2f0800000000000000
+      internalID: -941278991799861717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_157
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 348
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b997f08d50d3f0da0800000000000000
+      internalID: -5976491085188335205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_158
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 354
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc681e167d53ecc40800000000000000
+      internalID: 5534420191261329101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_159
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 397
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3517f6b72c28fd0800000000000000
+      internalID: -2341095020872772658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_160
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 436
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1f5a5fa01058270800000000000000
+      internalID: 8252003038808895937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_161
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 437
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f268ef285d02b96f0800000000000000
+      internalID: -676911217591286225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_162
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 378
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef132930865b6570800000000000000
+      internalID: 8460951433660014564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_163
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 427
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb717f60360ca1d0800000000000000
+      internalID: -3338286418690475069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_164
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 360
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3be6f9d64fb3c30800000000000000
+      internalID: 4340331417565049826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_165
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 306
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7f54b860e505270800000000000000
+      internalID: 8237187100660070349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_166
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 320
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe1ccc74d7a47ac0800000000000000
+      internalID: -3858274449681015047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_167
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 332
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85989a1879a29f910800000000000000
+      internalID: 1871573950352951640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_168
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 325
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db580661245a8570800000000000000
+      internalID: 8469674551646116825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_169
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 239
+        width: 87
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a21a0d91f85c500800000000000000
+      internalID: 415895881638816279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_170
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 273
+        width: 151
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a03d4d4f02a4180800000000000000
+      internalID: -9130449058625549699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_171
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 373
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a045c7fd793808f70800000000000000
+      internalID: 9187487928148579338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_172
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 342
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afa9241cd2acaac0800000000000000
+      internalID: -3842517315939094623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_173
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 263
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845b8d9dcfe2a4df0800000000000000
+      internalID: -195291970315700920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_174
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 303
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cbba2cdbc6df960800000000000000
+      internalID: 7637380105360882689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_175
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 320
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65516dfc19a154610800000000000000
+      internalID: 1604718055786943830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_176
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 331
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711836dff35fa6c20800000000000000
+      internalID: 3200640140383060247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_177
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 348
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442350d8b0406fc90800000000000000
+      internalID: -7136512111864892860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_178
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 266
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcd503d70388ba90800000000000000
+      internalID: -7297939126525502251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_179
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 262
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70630809c0884430800000000000000
+      internalID: 3767402689206640766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_180
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 265
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390ea5e39e9171530800000000000000
+      internalID: 3825554898038743187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_181
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 265
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f32feb631c524c00800000000000000
+      internalID: 883369715403006964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_182
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 216
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e16df901c5343d0800000000000000
+      internalID: -3223631681796301251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_183
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 233
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb41cc30756daf80800000000000000
+      internalID: -8093701422584869959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_184
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 247
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5d87a9bf76b5860800000000000000
+      internalID: 7519718333151237588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_185
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 234
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e1d5a8aa57c7d90800000000000000
+      internalID: -7098669537316495811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_186
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 272
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a0dbcb8380a0440800000000000000
+      internalID: 4902740184123902479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_187
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80a6492a322c6020800000000000000
+      internalID: 2336279939894386827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_188
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 186
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34b27c2d211b4750800000000000000
+      internalID: 6290140190269944893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_189
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 176
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f171ab77823c75d50800000000000000
+      internalID: 6726059147075917599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_190
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 179
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f460ddd4d831b00800000000000000
+      internalID: 798136924534886204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_191
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 143
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4473144faaacb99f0800000000000000
+      internalID: -460551701284178108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_192
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 224
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e47a2fe2279ef90800000000000000
+      internalID: -6923877406140314103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_193
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 143
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d80fed7fb5f931d0800000000000000
+      internalID: -3370392643309729575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_194
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 140
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6942ac5053d561b0800000000000000
+      internalID: -5663888614243546774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_195
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 125
+        width: 190
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc756733f746ee20800000000000000
+      internalID: 3379467680320158910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_196
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 186
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98511c17e5c7b5780800000000000000
+      internalID: -8693217910631361143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_197
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 116
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ddda6ee26350230800000000000000
+      internalID: 3604346651846499646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_198
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 215
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26460035fbb208330800000000000000
+      internalID: 3711014193684571234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_199
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 195
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c4b43f231035a50800000000000000
+      internalID: 6508547204822289498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_200
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 194
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56399b1ffaf50abc0800000000000000
+      internalID: -3773911278457089179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_201
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 184
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8d47008bdb63470800000000000000
+      internalID: 8374089155121305831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_202
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 187
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6b74b3578826680800000000000000
+      internalID: -8763291887822457161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_203
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 94
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8fcd815c1e4af30800000000000000
+      internalID: 4586038557211949280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_204
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 129
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9080bd904345f50800000000000000
+      internalID: 6869172548580936180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_205
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 166
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fae0d997c4ccf00800000000000000
+      internalID: 1138368891027631927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_206
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 156
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a65d84990ecafa0800000000000000
+      internalID: -5788004472121365901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_207
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfb27bd97a167630800000000000000
+      internalID: 3924353235975061468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_208
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 10
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b36e3a80a07a9d0800000000000000
+      internalID: -2763228814142719142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_209
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 16
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e0466410a239f50800000000000000
+      internalID: 6886894440143916668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_210
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 55
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb36b1ad029a2820800000000000000
+      internalID: 2894286297784269822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_211
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 28
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff8a34b330080bb0800000000000000
+      internalID: -4969721966736273424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_212
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 31
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260516266a3fa0530800000000000000
+      internalID: 3822135129717952610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_213
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 49
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d89ae023434c000800000000000000
+      internalID: 55226485034290495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_214
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 36
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b6148e45d9b52c0800000000000000
+      internalID: -4441783619471447142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_215
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 22
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d14a2cc6b66d2f30800000000000000
+      internalID: 4552407733636841936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_216
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 34
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d000b7c80d8350b0800000000000000
+      internalID: -5741090031117795119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_217
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 25
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adad5b3b2a546de10800000000000000
+      internalID: 2222040031255976666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_218
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ea96ade7ac2c600800000000000000
+      internalID: 487174355888483969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_219
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 6
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f0e77d109e99a0800000000000000
+      internalID: -6224379178739764860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_220
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 6
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104c7ba39aa33fd90800000000000000
+      internalID: -7065238891905170431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_221
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 12
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce76ead31a87230c0800000000000000
+      internalID: -4597479635671947284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_222
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f229f37ba2951c70800000000000000
+      internalID: 8941213900296758007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potatoboy_223
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 0
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a380804d6408420800000000000000
+      internalID: 2630180058866137668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

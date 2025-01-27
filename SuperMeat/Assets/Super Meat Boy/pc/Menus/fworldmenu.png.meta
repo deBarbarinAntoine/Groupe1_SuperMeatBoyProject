@@ -1,0 +1,1117 @@
+fileFormatVersion: 2
+guid: 09aec8770c675fe4dbe880e5c5f9d896
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1347029421664207055
+    second: fworldmenu_0
+  - first:
+      213: -7795730478701144751
+    second: fworldmenu_1
+  - first:
+      213: 9027728643788717150
+    second: fworldmenu_2
+  - first:
+      213: -9009121180787661918
+    second: fworldmenu_3
+  - first:
+      213: 6412515996183345466
+    second: fworldmenu_4
+  - first:
+      213: -6795711665926739778
+    second: fworldmenu_5
+  - first:
+      213: -621369880230425157
+    second: fworldmenu_6
+  - first:
+      213: -3211657491718208795
+    second: fworldmenu_7
+  - first:
+      213: 2643052797196061667
+    second: fworldmenu_8
+  - first:
+      213: -4020537968382325521
+    second: fworldmenu_9
+  - first:
+      213: -5957365729017284900
+    second: fworldmenu_10
+  - first:
+      213: -6579568027966975587
+    second: fworldmenu_11
+  - first:
+      213: 236204386424357861
+    second: fworldmenu_12
+  - first:
+      213: 4514235654427086497
+    second: fworldmenu_13
+  - first:
+      213: 4551582850638391321
+    second: fworldmenu_14
+  - first:
+      213: 3127630022614196970
+    second: fworldmenu_15
+  - first:
+      213: -2649449436545315212
+    second: fworldmenu_16
+  - first:
+      213: -4508261115761164847
+    second: fworldmenu_17
+  - first:
+      213: 8261258434358036939
+    second: fworldmenu_18
+  - first:
+      213: -7684449526338908630
+    second: fworldmenu_19
+  - first:
+      213: -2319243455100016435
+    second: fworldmenu_20
+  - first:
+      213: 5447831251924101626
+    second: fworldmenu_21
+  - first:
+      213: -3631343327178027267
+    second: fworldmenu_22
+  - first:
+      213: -3431347578450575070
+    second: fworldmenu_23
+  - first:
+      213: -2782823640363752395
+    second: fworldmenu_24
+  - first:
+      213: -5852820794264172041
+    second: fworldmenu_25
+  - first:
+      213: 2497984472875616620
+    second: fworldmenu_26
+  - first:
+      213: 2447608880990987867
+    second: fworldmenu_27
+  - first:
+      213: -2004834131402992482
+    second: fworldmenu_28
+  - first:
+      213: -8610674023109606125
+    second: fworldmenu_29
+  - first:
+      213: -422899596039450369
+    second: fworldmenu_30
+  - first:
+      213: 5205445290460824513
+    second: fworldmenu_31
+  - first:
+      213: 5580251245192433198
+    second: fworldmenu_32
+  - first:
+      213: -5462849052987741484
+    second: fworldmenu_33
+  - first:
+      213: -3089840544762093066
+    second: fworldmenu_34
+  - first:
+      213: -2572820620076298935
+    second: fworldmenu_35
+  - first:
+      213: 6288851584094348161
+    second: fworldmenu_36
+  - first:
+      213: -5790702285220345856
+    second: fworldmenu_37
+  - first:
+      213: 375017212061427888
+    second: fworldmenu_38
+  - first:
+      213: -9028333514208225851
+    second: fworldmenu_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fworldmenu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 851
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f74bbb0e36e4de0800000000000000
+      internalID: -1347029421664207055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_1
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 544
+        width: 99
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1551554ee6000d390800000000000000
+      internalID: -7795730478701144751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_2
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 833
+        width: 52
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c35adde5fe84d70800000000000000
+      internalID: 9027728643788717150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 667
+        width: 59
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a324b8b40c29f280800000000000000
+      internalID: -9009121180787661918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 413
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39b405d255ddf850800000000000000
+      internalID: 6412515996183345466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_5
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 511
+        width: 94
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8657cbe38c0b1a0800000000000000
+      internalID: -6795711665926739778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 537
+        width: 58
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd0db6d2637067f0800000000000000
+      internalID: -621369880230425157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_7
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 496
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e20ae10786ed63d0800000000000000
+      internalID: -3211657491718208795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_8
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 489
+        width: 142
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb497bf3820ea420800000000000000
+      internalID: 2643052797196061667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_9
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 504
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecc99cf40e2438c0800000000000000
+      internalID: -4020537968382325521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_10
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 194
+        width: 238
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6b6d4de6f235da0800000000000000
+      internalID: -5957365729017284900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_11
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 487
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91d2851dbda0b4a0800000000000000
+      internalID: -6579568027966975587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 436
+        width: 381
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3863353aa274300800000000000000
+      internalID: 236204386424357861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 364
+        width: 169
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae87860969c5ae30800000000000000
+      internalID: 4514235654427086497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_14
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 258
+        width: 82
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918af02cc787a2f30800000000000000
+      internalID: 4551582850638391321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 209
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae224c64fe2976b20800000000000000
+      internalID: 3127630022614196970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 276
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e8b5c56c34b3bd0800000000000000
+      internalID: -2649449436545315212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 344
+        width: 123
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd7958a6607f61c0800000000000000
+      internalID: -4508261115761164847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 288
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc94c99a6c2e5a270800000000000000
+      internalID: 8261258434358036939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 279
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e8628aed95b5590800000000000000
+      internalID: -7684449526338908630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_20
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 339
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc82d1f8d5460dfd0800000000000000
+      internalID: -2319243455100016435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 302
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af92537e8a59a9b40800000000000000
+      internalID: 5447831251924101626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_22
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 309
+        width: 226
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe811ecb70ea9dc0800000000000000
+      internalID: -3631343327178027267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 245
+        width: 280
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2218e85be876160d0800000000000000
+      internalID: -3431347578450575070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_24
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 216
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5342f83a4ac6169d0800000000000000
+      internalID: -2782823640363752395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_25
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 198
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f94dd74f7a96cea0800000000000000
+      internalID: -5852820794264172041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 451
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c694138a4af9aa220800000000000000
+      internalID: 2497984472875616620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_27
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 139
+        width: 30
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b562f8c2f47a7f120800000000000000
+      internalID: 2447608880990987867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_28
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 175
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e945524caf56d24e0800000000000000
+      internalID: -2004834131402992482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_29
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 147
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3154ed7e89db08880800000000000000
+      internalID: -8610674023109606125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_30
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 49
+        width: 272
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0996ade0f812af0800000000000000
+      internalID: -422899596039450369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_31
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 106
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3c5ab79e47d3840800000000000000
+      internalID: 5205445290460824513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 219
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e402b21f8017d40800000000000000
+      internalID: 5580251245192433198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da261fcabf0034b0800000000000000
+      internalID: -5462849052987741484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 17
+        width: 167
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f12bdc256eae15d0800000000000000
+      internalID: -3089840544762093066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 10
+        width: 127
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d4d8507418b4cd0800000000000000
+      internalID: -2572820620076298935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_36
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 11
+        width: 117
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183a81b223d764750800000000000000
+      internalID: 6288851584094348161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_37
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 8
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0080669b3fa43afa0800000000000000
+      internalID: -5790702285220345856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_38
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1
+        width: 202
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8249dda24543500800000000000000
+      internalID: 375017212061427888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fworldmenu_39
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 0
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c55dd3c08ae4b280800000000000000
+      internalID: -9028333514208225851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

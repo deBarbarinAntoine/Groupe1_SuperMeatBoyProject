@@ -1,0 +1,1692 @@
+fileFormatVersion: 2
+guid: 700eedcdd4168b944a2abc5da7a51c68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6314592978804329653
+    second: helllevelmenu_0
+  - first:
+      213: -1278569308928309365
+    second: helllevelmenu_1
+  - first:
+      213: -3640245372222257323
+    second: helllevelmenu_2
+  - first:
+      213: -1257300212218828482
+    second: helllevelmenu_3
+  - first:
+      213: 69095487339264510
+    second: helllevelmenu_4
+  - first:
+      213: 4749872101584288495
+    second: helllevelmenu_5
+  - first:
+      213: -4016994954899623685
+    second: helllevelmenu_6
+  - first:
+      213: 5644559689340111638
+    second: helllevelmenu_7
+  - first:
+      213: -2950923526205879302
+    second: helllevelmenu_8
+  - first:
+      213: 4216986604858893679
+    second: helllevelmenu_9
+  - first:
+      213: -8560946443578959208
+    second: helllevelmenu_10
+  - first:
+      213: 2507021173289470289
+    second: helllevelmenu_11
+  - first:
+      213: -8384813094083418615
+    second: helllevelmenu_12
+  - first:
+      213: -1898583642597851523
+    second: helllevelmenu_13
+  - first:
+      213: 3924179768595421879
+    second: helllevelmenu_14
+  - first:
+      213: 2349054240691435023
+    second: helllevelmenu_15
+  - first:
+      213: 47147479123318127
+    second: helllevelmenu_16
+  - first:
+      213: -6118298893542248355
+    second: helllevelmenu_17
+  - first:
+      213: -7322739220848764256
+    second: helllevelmenu_18
+  - first:
+      213: 9221793421946532227
+    second: helllevelmenu_19
+  - first:
+      213: -6605074257891866766
+    second: helllevelmenu_20
+  - first:
+      213: -8512970633521463533
+    second: helllevelmenu_21
+  - first:
+      213: -4819398980471541838
+    second: helllevelmenu_22
+  - first:
+      213: 7744878037735490232
+    second: helllevelmenu_23
+  - first:
+      213: 7932481761361771036
+    second: helllevelmenu_24
+  - first:
+      213: -3619929905056277701
+    second: helllevelmenu_25
+  - first:
+      213: 8046215483890477066
+    second: helllevelmenu_26
+  - first:
+      213: 8537784277808600524
+    second: helllevelmenu_27
+  - first:
+      213: -1608619917076589234
+    second: helllevelmenu_28
+  - first:
+      213: 8452913164750135553
+    second: helllevelmenu_29
+  - first:
+      213: -1030013200266296679
+    second: helllevelmenu_30
+  - first:
+      213: -1105650406020453945
+    second: helllevelmenu_31
+  - first:
+      213: -575541914020471368
+    second: helllevelmenu_32
+  - first:
+      213: 5520601502139386374
+    second: helllevelmenu_33
+  - first:
+      213: 386589871459936967
+    second: helllevelmenu_34
+  - first:
+      213: -5911281792949118776
+    second: helllevelmenu_35
+  - first:
+      213: -4379201703800387084
+    second: helllevelmenu_36
+  - first:
+      213: 9194845885485550239
+    second: helllevelmenu_37
+  - first:
+      213: -9026097547720764795
+    second: helllevelmenu_38
+  - first:
+      213: -2475017182989318631
+    second: helllevelmenu_39
+  - first:
+      213: -4708468871251559995
+    second: helllevelmenu_40
+  - first:
+      213: 3321709820342597142
+    second: helllevelmenu_41
+  - first:
+      213: -8233504375344039605
+    second: helllevelmenu_42
+  - first:
+      213: -2919836464218866706
+    second: helllevelmenu_43
+  - first:
+      213: -466837233646706619
+    second: helllevelmenu_44
+  - first:
+      213: -4561459534141522947
+    second: helllevelmenu_45
+  - first:
+      213: -5939265966421684946
+    second: helllevelmenu_46
+  - first:
+      213: 6508423516230950103
+    second: helllevelmenu_47
+  - first:
+      213: -1049367396391108774
+    second: helllevelmenu_48
+  - first:
+      213: -3041685883845422740
+    second: helllevelmenu_49
+  - first:
+      213: 1827537042480369281
+    second: helllevelmenu_50
+  - first:
+      213: -4545155143226194014
+    second: helllevelmenu_51
+  - first:
+      213: -175160489893360429
+    second: helllevelmenu_52
+  - first:
+      213: -3320818628866052322
+    second: helllevelmenu_53
+  - first:
+      213: -925102155863198674
+    second: helllevelmenu_54
+  - first:
+      213: -1483200507357916560
+    second: helllevelmenu_55
+  - first:
+      213: 4771905568520739193
+    second: helllevelmenu_56
+  - first:
+      213: 9549525381407278
+    second: helllevelmenu_57
+  - first:
+      213: 5310202452952771944
+    second: helllevelmenu_58
+  - first:
+      213: -3548737735836309593
+    second: helllevelmenu_59
+  - first:
+      213: 3152436403216274950
+    second: helllevelmenu_60
+  - first:
+      213: -5565154413386998536
+    second: helllevelmenu_61
+  - first:
+      213: 4023060275771472672
+    second: helllevelmenu_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: helllevelmenu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 717
+        width: 268
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bccecaabd0f1a750800000000000000
+      internalID: 6314592978804329653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 951
+        width: 138
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b878c98dcfb914ee0800000000000000
+      internalID: -1278569308928309365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 986
+        width: 125
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557ce6dee104b7dc0800000000000000
+      internalID: -3640245372222257323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 985
+        width: 264
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e396ca25e1c2d8ee0800000000000000
+      internalID: -1257300212218828482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 961
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9707acaf975f000800000000000000
+      internalID: 69095487339264510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_5
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 961
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea387fa28feae140800000000000000
+      internalID: 4749872101584288495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_6
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 985
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0fba81f54c048c0800000000000000
+      internalID: -4016994954899623685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 850
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b4b9c9121855e40800000000000000
+      internalID: 5644559689340111638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 909
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbc72500b63c07d0800000000000000
+      internalID: -2950923526205879302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_9
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 886
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65e13d79feb58a30800000000000000
+      internalID: 4216986604858893679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 887
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a15514198613980800000000000000
+      internalID: -8560946443578959208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_11
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 902
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1594d4e697abac220800000000000000
+      internalID: 2507021173289470289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 898
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9062d136ae823ab80800000000000000
+      internalID: -8384813094083418615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_13
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 898
+        width: 171
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e76967c30e6a5e0800000000000000
+      internalID: -1898583642597851523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 879
+        width: 206
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba97e555bc757630800000000000000
+      internalID: 3924179768595421879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 783
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06b986d264899020800000000000000
+      internalID: 2349054240691435023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 782
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f655339e16087a000800000000000000
+      internalID: 47147479123318127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_17
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 783
+        width: 97
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50bfbc829f671ba0800000000000000
+      internalID: -6118298893542248355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 855
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa1d76e977606a90800000000000000
+      internalID: -7322739220848764256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 783
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381382312446aff70800000000000000
+      internalID: 9221793421946532227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_20
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 804
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277474725ff0654a0800000000000000
+      internalID: -6605074257891866766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_21
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 819
+        width: 116
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ffe9dff4adbd980800000000000000
+      internalID: -8512970633521463533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_22
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 719
+        width: 58
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf2d1a592e0e1db0800000000000000
+      internalID: -4819398980471541838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 780
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2c2fb8a855b7b60800000000000000
+      internalID: 7744878037735490232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 839
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1abb354226d51e60800000000000000
+      internalID: 7932481761361771036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_25
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 833
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b9e493eec63cdc0800000000000000
+      internalID: -3619929905056277701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 726
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a082a871a56e9af60800000000000000
+      internalID: 8046215483890477066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 770
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc552b7c09d4c7670800000000000000
+      internalID: 8537784277808600524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 726
+        width: 115
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45180055b80da9e0800000000000000
+      internalID: -1608619917076589234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 723
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101a726ecb7ce4570800000000000000
+      internalID: 8452913164750135553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_30
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 722
+        width: 179
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9920a2c9378a4b1f0800000000000000
+      internalID: -1030013200266296679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_31
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 756
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9626f40d0f7a0f0800000000000000
+      internalID: -1105650406020453945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_32
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 738
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd1675bda34308f0800000000000000
+      internalID: -575541914020471368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_33
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 749
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a818911dd1d9c40800000000000000
+      internalID: 5520601502139386374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_34
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 741
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca222a90717d5500800000000000000
+      internalID: 386589871459936967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_35
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 721
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c898045788e6fda0800000000000000
+      internalID: -5911281792949118776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 198
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9413d9043f933c0800000000000000
+      internalID: -4379201703800387084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 504
+        width: 184
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a04d0dd97aa9f70800000000000000
+      internalID: 9194845885485550239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_38
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 378
+        width: 279
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58254184a1cdcb280800000000000000
+      internalID: -9026097547720764795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 479
+        width: 354
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9160fea3cf8f6add0800000000000000
+      internalID: -2475017182989318631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_40
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 625
+        width: 106
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9f015128828aeb0800000000000000
+      internalID: -4708468871251559995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_41
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 370
+        width: 136
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61672708b75191e20800000000000000
+      internalID: 3321709820342597142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 439
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b497ef2c467bcbd80800000000000000
+      internalID: -8233504375344039605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_43
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 484
+        width: 138
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb700ca438aa77d0800000000000000
+      internalID: -2919836464218866706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_44
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 318
+        width: 33
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540ef8862067589f0800000000000000
+      internalID: -466837233646706619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_45
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 387
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbfc2aa8b072b0c0800000000000000
+      internalID: -4561459534141522947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_46
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 388
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d4ed4321d739da0800000000000000
+      internalID: -5939265966421684946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_47
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 368
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc9eb474b0925a50800000000000000
+      internalID: 6508423516230950103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_48
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 368
+        width: 207
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f3b3ba9e5ef61f0800000000000000
+      internalID: -1049367396391108774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_49
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 368
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61d21fddc2c9c5d0800000000000000
+      internalID: -3041685883845422740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 257
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e09e6e147bc5910800000000000000
+      internalID: 1827537042480369281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 57
+        width: 486
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a786fe7a7d5ce0c0800000000000000
+      internalID: -4545155143226194014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_52
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 220
+        width: 309
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc09356674b19df0800000000000000
+      internalID: -175160489893360429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_53
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 102
+        width: 173
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f60fe2d051ae1d0800000000000000
+      internalID: -3320818628866052322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_54
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 155
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2473da9d706923f0800000000000000
+      internalID: -925102155863198674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 249
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07290443ffc9a6be0800000000000000
+      internalID: -1483200507357916560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 7
+        width: 104
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9791369f4d6393240800000000000000
+      internalID: 4771905568520739193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22e1242e3de12000800000000000000
+      internalID: 9549525381407278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 20
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d68ad0ff0a1b940800000000000000
+      internalID: 5310202452952771944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_59
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 4
+        width: 225
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7e37ec4d950cec0800000000000000
+      internalID: -3548737735836309593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_60
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60657b6d434bfbb20800000000000000
+      internalID: 3152436403216274950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_61
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 23
+        width: 137
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcded5eb8994c2b0800000000000000
+      internalID: -5565154413386998536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helllevelmenu_62
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 15
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bf7577108c4d730800000000000000
+      internalID: 4023060275771472672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

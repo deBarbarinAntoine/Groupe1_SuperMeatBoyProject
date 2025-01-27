@@ -1,0 +1,2292 @@
+fileFormatVersion: 2
+guid: 57921cf143dc4ac4e929a7cf3fd0c522
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7090468999435792408
+    second: 4bitmeatboyfinal_0
+  - first:
+      213: 964481271093005242
+    second: 4bitmeatboyfinal_1
+  - first:
+      213: -13813523443934791
+    second: 4bitmeatboyfinal_2
+  - first:
+      213: -537880947042683076
+    second: 4bitmeatboyfinal_3
+  - first:
+      213: -7819912563779059016
+    second: 4bitmeatboyfinal_4
+  - first:
+      213: -6155023099319671448
+    second: 4bitmeatboyfinal_5
+  - first:
+      213: -394997037392840454
+    second: 4bitmeatboyfinal_6
+  - first:
+      213: -55615288788000712
+    second: 4bitmeatboyfinal_7
+  - first:
+      213: 3366939750914196072
+    second: 4bitmeatboyfinal_8
+  - first:
+      213: -2241486938321700498
+    second: 4bitmeatboyfinal_9
+  - first:
+      213: 4910454558833202191
+    second: 4bitmeatboyfinal_10
+  - first:
+      213: -6440428294772377487
+    second: 4bitmeatboyfinal_11
+  - first:
+      213: -9159801040168045604
+    second: 4bitmeatboyfinal_12
+  - first:
+      213: -5703047904898439497
+    second: 4bitmeatboyfinal_13
+  - first:
+      213: 7909166149157311176
+    second: 4bitmeatboyfinal_14
+  - first:
+      213: 319987262245265576
+    second: 4bitmeatboyfinal_15
+  - first:
+      213: 3453901762731459042
+    second: 4bitmeatboyfinal_16
+  - first:
+      213: -1122833281555013442
+    second: 4bitmeatboyfinal_17
+  - first:
+      213: -4599693229916343556
+    second: 4bitmeatboyfinal_18
+  - first:
+      213: -2095898960756720637
+    second: 4bitmeatboyfinal_19
+  - first:
+      213: -9041832109173143488
+    second: 4bitmeatboyfinal_20
+  - first:
+      213: 1300683991310755853
+    second: 4bitmeatboyfinal_21
+  - first:
+      213: -8281923464127181165
+    second: 4bitmeatboyfinal_22
+  - first:
+      213: -4502128385523183637
+    second: 4bitmeatboyfinal_23
+  - first:
+      213: -8548887923793390514
+    second: 4bitmeatboyfinal_24
+  - first:
+      213: 7727976171151313713
+    second: 4bitmeatboyfinal_25
+  - first:
+      213: -3428243937088800632
+    second: 4bitmeatboyfinal_26
+  - first:
+      213: 4906641329888636342
+    second: 4bitmeatboyfinal_27
+  - first:
+      213: -4051552009553562973
+    second: 4bitmeatboyfinal_28
+  - first:
+      213: -3904171548326942707
+    second: 4bitmeatboyfinal_29
+  - first:
+      213: 2289513211285124433
+    second: 4bitmeatboyfinal_30
+  - first:
+      213: 5760405068719256916
+    second: 4bitmeatboyfinal_31
+  - first:
+      213: 3216109485715723164
+    second: 4bitmeatboyfinal_32
+  - first:
+      213: 6970622221296688970
+    second: 4bitmeatboyfinal_33
+  - first:
+      213: -3714158996473120052
+    second: 4bitmeatboyfinal_34
+  - first:
+      213: -3214407813358014502
+    second: 4bitmeatboyfinal_35
+  - first:
+      213: -8445197491937549585
+    second: 4bitmeatboyfinal_36
+  - first:
+      213: 3136214143981751582
+    second: 4bitmeatboyfinal_37
+  - first:
+      213: 1304356560738453719
+    second: 4bitmeatboyfinal_38
+  - first:
+      213: 5676057196161103772
+    second: 4bitmeatboyfinal_39
+  - first:
+      213: 8312848214156312013
+    second: 4bitmeatboyfinal_40
+  - first:
+      213: 617400123175169413
+    second: 4bitmeatboyfinal_41
+  - first:
+      213: 1322268477075490131
+    second: 4bitmeatboyfinal_42
+  - first:
+      213: 1782906325182649002
+    second: 4bitmeatboyfinal_43
+  - first:
+      213: 3370023409116532157
+    second: 4bitmeatboyfinal_44
+  - first:
+      213: 7257804013562534729
+    second: 4bitmeatboyfinal_45
+  - first:
+      213: 8688024122672920304
+    second: 4bitmeatboyfinal_46
+  - first:
+      213: -3385279098549038594
+    second: 4bitmeatboyfinal_47
+  - first:
+      213: -3838182862992490005
+    second: 4bitmeatboyfinal_48
+  - first:
+      213: 2491724729616242096
+    second: 4bitmeatboyfinal_49
+  - first:
+      213: -6854555298691735153
+    second: 4bitmeatboyfinal_50
+  - first:
+      213: -839158814460614240
+    second: 4bitmeatboyfinal_51
+  - first:
+      213: 2246543073402998446
+    second: 4bitmeatboyfinal_52
+  - first:
+      213: 7161009300663153145
+    second: 4bitmeatboyfinal_53
+  - first:
+      213: 4699100431739459006
+    second: 4bitmeatboyfinal_54
+  - first:
+      213: -5952416538214047928
+    second: 4bitmeatboyfinal_55
+  - first:
+      213: 2818472878330123996
+    second: 4bitmeatboyfinal_56
+  - first:
+      213: 6350280535578820664
+    second: 4bitmeatboyfinal_57
+  - first:
+      213: 1687814416672522591
+    second: 4bitmeatboyfinal_58
+  - first:
+      213: -4249166758339615963
+    second: 4bitmeatboyfinal_59
+  - first:
+      213: -4490255372511382014
+    second: 4bitmeatboyfinal_60
+  - first:
+      213: -30890385612995818
+    second: 4bitmeatboyfinal_61
+  - first:
+      213: -7946167577625330590
+    second: 4bitmeatboyfinal_62
+  - first:
+      213: 5075818432040674617
+    second: 4bitmeatboyfinal_63
+  - first:
+      213: -7716275371485057548
+    second: 4bitmeatboyfinal_64
+  - first:
+      213: 3960841078289831312
+    second: 4bitmeatboyfinal_65
+  - first:
+      213: -1955345332261031778
+    second: 4bitmeatboyfinal_66
+  - first:
+      213: -6195993433311763587
+    second: 4bitmeatboyfinal_67
+  - first:
+      213: -8321830096520116862
+    second: 4bitmeatboyfinal_68
+  - first:
+      213: -344824284465797636
+    second: 4bitmeatboyfinal_69
+  - first:
+      213: -7909075192765375060
+    second: 4bitmeatboyfinal_70
+  - first:
+      213: 6052862055868091636
+    second: 4bitmeatboyfinal_71
+  - first:
+      213: 1471197439100212322
+    second: 4bitmeatboyfinal_72
+  - first:
+      213: 5591246188704793228
+    second: 4bitmeatboyfinal_73
+  - first:
+      213: 2938095184272489139
+    second: 4bitmeatboyfinal_74
+  - first:
+      213: -1146601072900425413
+    second: 4bitmeatboyfinal_75
+  - first:
+      213: 9054986196184908318
+    second: 4bitmeatboyfinal_76
+  - first:
+      213: 7654575220988044678
+    second: 4bitmeatboyfinal_77
+  - first:
+      213: -5964577105409628566
+    second: 4bitmeatboyfinal_78
+  - first:
+      213: 4046965103860237633
+    second: 4bitmeatboyfinal_79
+  - first:
+      213: -3963121803198366378
+    second: 4bitmeatboyfinal_80
+  - first:
+      213: -5926118912701216291
+    second: 4bitmeatboyfinal_81
+  - first:
+      213: 4572326238730304565
+    second: 4bitmeatboyfinal_82
+  - first:
+      213: -8907964401780904311
+    second: 4bitmeatboyfinal_83
+  - first:
+      213: -7374027618166303820
+    second: 4bitmeatboyfinal_84
+  - first:
+      213: 4869617962780407542
+    second: 4bitmeatboyfinal_85
+  - first:
+      213: 6915230760206801922
+    second: 4bitmeatboyfinal_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 384
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efc5bd0308999d90800000000000000
+      internalID: -7090468999435792408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 391
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb04042b96826d00800000000000000
+      internalID: 964481271093005242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 384
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b917027caceecff0800000000000000
+      internalID: -13813523443934791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 384
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37f114e0201988f0800000000000000
+      internalID: -537880947042683076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 391
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2c55574f61a7390800000000000000
+      internalID: -7819912563779059016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 384
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8652ab41a17f49aa0800000000000000
+      internalID: -6155023099319671448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 394
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af83eda8940b48af0800000000000000
+      internalID: -394997037392840454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 394
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830e5b3803a6a3ff0800000000000000
+      internalID: -55615288788000712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 345
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86202695dd5c9be20800000000000000
+      internalID: 3366939750914196072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 370
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6938a86183a4e0e0800000000000000
+      internalID: -2241486938321700498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 370
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0453f09760752440800000000000000
+      internalID: 4910454558833202191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 370
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178b7b8b6900f96a0800000000000000
+      internalID: -6440428294772377487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 370
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3b7831c79d1e080800000000000000
+      internalID: -9159801040168045604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 370
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b62e738524bad0b0800000000000000
+      internalID: -5703047904898439497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 370
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2d01645b003cd60800000000000000
+      internalID: 7909166149157311176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 365
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a067ca38b2d07400800000000000000
+      internalID: 319987262245265576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 365
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e144b88a59beef20800000000000000
+      internalID: 3453901762731459042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 365
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb06de65415ea60f0800000000000000
+      internalID: -1122833281555013442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 365
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2311ba06b9a20c0800000000000000
+      internalID: -4599693229916343556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 365
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c3cfeeffed9e2e0800000000000000
+      internalID: -2095898960756720637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 365
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04883063a95f48280800000000000000
+      internalID: -9041832109173143488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 365
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d086d13e235fc0210800000000000000
+      internalID: 1300683991310755853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 365
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e0ab72d72b01d80800000000000000
+      internalID: -8281923464127181165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 365
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef00bf261a3581c0800000000000000
+      internalID: -4502128385523183637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 365
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e441bad2abf3c5980800000000000000
+      internalID: -8548887923793390514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b482212694f3b60800000000000000
+      internalID: 7727976171151313713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 351
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8887f668d4e6c60d0800000000000000
+      internalID: -3428243937088800632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 351
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd23440b44e71440800000000000000
+      internalID: 4906641329888636342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 351
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a23a81d9eef5c7c0800000000000000
+      internalID: -4051552009553562973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 351
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0829c779a891d9c0800000000000000
+      internalID: -3904171548326942707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 351
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155b633a22cf5cf10800000000000000
+      internalID: 2289513211285124433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 351
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455fe5bd3e111ff40800000000000000
+      internalID: 5760405068719256916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 351
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9399de998ae1ac20800000000000000
+      internalID: 3216109485715723164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_33
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 351
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f55d37aff9cb060800000000000000
+      internalID: 6970622221296688970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_34
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 351
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaf5e73218a47cc0800000000000000
+      internalID: -3714158996473120052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 334
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf2e89df112463d0800000000000000
+      internalID: -3214407813358014502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 334
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2ea0b20a1acca80800000000000000
+      internalID: -8445197491937549585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 334
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d8697c522168b20800000000000000
+      internalID: 3136214143981751582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 334
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8044791610a1210800000000000000
+      internalID: 1304356560738453719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_39
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 334
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c977bf562f765ce40800000000000000
+      internalID: 5676057196161103772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_40
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 334
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf68c486b2d5370800000000000000
+      internalID: 8312848214156312013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 301
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d63221422719800800000000000000
+      internalID: 617400123175169413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 339
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35508c99c24a95210800000000000000
+      internalID: 1322268477075490131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_43
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 301
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa21f444bd72eb810800000000000000
+      internalID: 1782906325182649002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_44
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 339
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd44297f6ab4ce20800000000000000
+      internalID: 3370023409116532157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_45
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 301
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b9ccdfb46e8b460800000000000000
+      internalID: 7257804013562534729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_46
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 304
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6b1ff88ef029870800000000000000
+      internalID: 8688024122672920304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 317
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef11e6988921501d0800000000000000
+      internalID: -3385279098549038594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 311
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1475c85090cbac0800000000000000
+      internalID: -3838182862992490005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 317
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b515da9072649220800000000000000
+      internalID: 2491724729616242096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 317
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f812538d54abfd0a0800000000000000
+      internalID: -6854555298691735153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 311
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9efe91185ba54f0800000000000000
+      internalID: -839158814460614240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_52
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 317
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeccc6c5035d2f10800000000000000
+      internalID: 2246543073402998446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1bb4fa404016360800000000000000
+      internalID: 7161009300663153145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_54
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 225
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb517bd12fe863140800000000000000
+      internalID: 4699100431739459006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 171
+        width: 49
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f579c12b4c46da0800000000000000
+      internalID: -5952416538214047928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7
+        width: 50
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd690f1662a3d1720800000000000000
+      internalID: 2818472878330123996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_57
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 49
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830c04b708ab02850800000000000000
+      internalID: 6350280535578820664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 266
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f518c8005425c6710800000000000000
+      internalID: 1687814416672522591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_59
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 210
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523e4c9a85de705c0800000000000000
+      internalID: -4249166758339615963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 266
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2067ba277886fa1c0800000000000000
+      internalID: -4490255372511382014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_61
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 258
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6130092ab51429ff0800000000000000
+      internalID: -30890385612995818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_62
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 258
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c7ae150ba89b190800000000000000
+      internalID: -7946167577625330590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_63
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 231
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9352a2a98fde07640800000000000000
+      internalID: 5075818432040674617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_64
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 217
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fda985ae684ae490800000000000000
+      internalID: -7716275371485057548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_65
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 207
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0959d3ba9fbb7f630800000000000000
+      internalID: 3960841078289831312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_66
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 217
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90fc59b7c73dd4e0800000000000000
+      internalID: -1955345332261031778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_67
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 207
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73acc8dcc8630aa0800000000000000
+      internalID: -6195993433311763587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_68
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 201
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28583cf3e9be28c80800000000000000
+      internalID: -8321830096520116862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_69
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 179
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5ec76e320f63bf0800000000000000
+      internalID: -344824284465797636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_70
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 168
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad9d5924025d3290800000000000000
+      internalID: -7909075192765375060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_71
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 168
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc457a68f5100450800000000000000
+      internalID: 6052862055868091636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_72
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 165
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2645800b64eba6410800000000000000
+      internalID: 1471197439100212322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_73
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 165
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c828181f8c8189d40800000000000000
+      internalID: 5591246188704793228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_74
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 123
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baf8ded00636c820800000000000000
+      internalID: 2938095184272489139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 62
+        width: 16
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3930be26647610f0800000000000000
+      internalID: -1146601072900425413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_76
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 127
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12caa558f5c9ad70800000000000000
+      internalID: 9054986196184908318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_77
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 90
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685ef799b938a3a60800000000000000
+      internalID: 7654575220988044678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_78
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 90
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66a1ac69b0993da0800000000000000
+      internalID: -5964577105409628566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_79
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 69
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145cdf9f155b92830800000000000000
+      internalID: 4046965103860237633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_80
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d71cea7b92009c0800000000000000
+      internalID: -3963121803198366378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_81
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 54
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd948bf2f3232cda0800000000000000
+      internalID: -5926118912701216291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_82
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 17
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cb7b82d7a247f30800000000000000
+      internalID: 4572326238730304565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_83
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 11
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e2600b29d806480800000000000000
+      internalID: -8907964401780904311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_84
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3174753f03aa990800000000000000
+      internalID: -7374027618166303820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_85
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6336f9cbb549340800000000000000
+      internalID: 4869617962780407542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4bitmeatboyfinal_86
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c1bf9ecb5d7ff50800000000000000
+      internalID: 6915230760206801922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

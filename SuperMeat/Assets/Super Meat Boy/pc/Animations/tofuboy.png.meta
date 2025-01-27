@@ -1,0 +1,4717 @@
+fileFormatVersion: 2
+guid: 8733fc814b55b4946824edfe90892d0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7906339799887419127
+    second: tofuboy_0
+  - first:
+      213: -8211521805460170486
+    second: tofuboy_1
+  - first:
+      213: 5189590373756046013
+    second: tofuboy_2
+  - first:
+      213: -2250009175247887024
+    second: tofuboy_3
+  - first:
+      213: 9153470535706274477
+    second: tofuboy_4
+  - first:
+      213: -3905593607914139481
+    second: tofuboy_5
+  - first:
+      213: -3172885964229675657
+    second: tofuboy_6
+  - first:
+      213: 6451332462246885126
+    second: tofuboy_7
+  - first:
+      213: 1472261184665307222
+    second: tofuboy_8
+  - first:
+      213: 5213582601589896275
+    second: tofuboy_9
+  - first:
+      213: -4166984290545637551
+    second: tofuboy_10
+  - first:
+      213: -359927412812063468
+    second: tofuboy_11
+  - first:
+      213: 4710623362855506956
+    second: tofuboy_12
+  - first:
+      213: 4988582591366202899
+    second: tofuboy_13
+  - first:
+      213: 3475074219120025487
+    second: tofuboy_14
+  - first:
+      213: 8249504602474452916
+    second: tofuboy_15
+  - first:
+      213: -5385615219371560636
+    second: tofuboy_16
+  - first:
+      213: 2743758646815763589
+    second: tofuboy_17
+  - first:
+      213: -6874720925741035923
+    second: tofuboy_18
+  - first:
+      213: -5726509186794683002
+    second: tofuboy_19
+  - first:
+      213: -2153937524892606949
+    second: tofuboy_20
+  - first:
+      213: -7091357760344674615
+    second: tofuboy_21
+  - first:
+      213: 8624677826603238277
+    second: tofuboy_22
+  - first:
+      213: 861260924202816762
+    second: tofuboy_23
+  - first:
+      213: 5137318539889961577
+    second: tofuboy_24
+  - first:
+      213: 6876592707368499209
+    second: tofuboy_25
+  - first:
+      213: 5836775523413280860
+    second: tofuboy_26
+  - first:
+      213: -6253118503107663806
+    second: tofuboy_27
+  - first:
+      213: 7167918822432986703
+    second: tofuboy_28
+  - first:
+      213: 1047889555204909165
+    second: tofuboy_29
+  - first:
+      213: 8463991781261282977
+    second: tofuboy_30
+  - first:
+      213: 7742320513805967213
+    second: tofuboy_31
+  - first:
+      213: 104658528098944671
+    second: tofuboy_32
+  - first:
+      213: 6040599114224748098
+    second: tofuboy_33
+  - first:
+      213: -984458102739166894
+    second: tofuboy_34
+  - first:
+      213: -5621253929178817493
+    second: tofuboy_35
+  - first:
+      213: 9209094779065780230
+    second: tofuboy_36
+  - first:
+      213: -2107880695357289165
+    second: tofuboy_37
+  - first:
+      213: -2650199127251765297
+    second: tofuboy_38
+  - first:
+      213: 8238714870785166962
+    second: tofuboy_39
+  - first:
+      213: -1930863456662359134
+    second: tofuboy_40
+  - first:
+      213: -7779871974874959854
+    second: tofuboy_41
+  - first:
+      213: -5297375942828085330
+    second: tofuboy_42
+  - first:
+      213: -7973754956734875685
+    second: tofuboy_43
+  - first:
+      213: -7395761722891890376
+    second: tofuboy_44
+  - first:
+      213: -131029776240053951
+    second: tofuboy_45
+  - first:
+      213: -8610292161977612261
+    second: tofuboy_46
+  - first:
+      213: 2172771948446306326
+    second: tofuboy_47
+  - first:
+      213: 3304984933304959544
+    second: tofuboy_48
+  - first:
+      213: -4841495901568828809
+    second: tofuboy_49
+  - first:
+      213: 8487045304346090014
+    second: tofuboy_50
+  - first:
+      213: -5204010747904243030
+    second: tofuboy_51
+  - first:
+      213: -3420042114906769695
+    second: tofuboy_52
+  - first:
+      213: 3577560499057777353
+    second: tofuboy_53
+  - first:
+      213: -115268022289116401
+    second: tofuboy_54
+  - first:
+      213: 1551732418665462523
+    second: tofuboy_55
+  - first:
+      213: 7303607746057494995
+    second: tofuboy_56
+  - first:
+      213: -6676273236161373549
+    second: tofuboy_57
+  - first:
+      213: 62204914124893902
+    second: tofuboy_58
+  - first:
+      213: 1768676719872452359
+    second: tofuboy_59
+  - first:
+      213: -866171822757751221
+    second: tofuboy_60
+  - first:
+      213: 6493972595501628397
+    second: tofuboy_61
+  - first:
+      213: -2295743921792064860
+    second: tofuboy_62
+  - first:
+      213: -2452426417340821710
+    second: tofuboy_63
+  - first:
+      213: -458059635902516829
+    second: tofuboy_64
+  - first:
+      213: 5559033026594729789
+    second: tofuboy_65
+  - first:
+      213: 8042240419154507350
+    second: tofuboy_66
+  - first:
+      213: -7722373550037208155
+    second: tofuboy_67
+  - first:
+      213: 2313959488442170618
+    second: tofuboy_68
+  - first:
+      213: -1290157992190351433
+    second: tofuboy_69
+  - first:
+      213: -5660033440366854156
+    second: tofuboy_70
+  - first:
+      213: 1752739530666002535
+    second: tofuboy_71
+  - first:
+      213: 4609419264483106646
+    second: tofuboy_72
+  - first:
+      213: -6018754449220771431
+    second: tofuboy_73
+  - first:
+      213: 1753065465962343825
+    second: tofuboy_74
+  - first:
+      213: -6852927898367083197
+    second: tofuboy_75
+  - first:
+      213: 3723268797042781670
+    second: tofuboy_76
+  - first:
+      213: 9057745691818689917
+    second: tofuboy_77
+  - first:
+      213: 6531547864795039998
+    second: tofuboy_78
+  - first:
+      213: -658426339733630584
+    second: tofuboy_79
+  - first:
+      213: 1059862153487766099
+    second: tofuboy_80
+  - first:
+      213: -3472137147724672146
+    second: tofuboy_81
+  - first:
+      213: -2668964655610640712
+    second: tofuboy_82
+  - first:
+      213: 6832545769340841306
+    second: tofuboy_83
+  - first:
+      213: -8891138119850568055
+    second: tofuboy_84
+  - first:
+      213: -3121889198021482038
+    second: tofuboy_85
+  - first:
+      213: 1395247390295443749
+    second: tofuboy_86
+  - first:
+      213: 5002626801988590910
+    second: tofuboy_87
+  - first:
+      213: -4788201048261714696
+    second: tofuboy_88
+  - first:
+      213: 5769725323583213296
+    second: tofuboy_89
+  - first:
+      213: -8221241338550637777
+    second: tofuboy_90
+  - first:
+      213: -7508823995146990778
+    second: tofuboy_91
+  - first:
+      213: 3052521941509558225
+    second: tofuboy_92
+  - first:
+      213: -3406808069770768387
+    second: tofuboy_93
+  - first:
+      213: -3639505481603458998
+    second: tofuboy_94
+  - first:
+      213: -1662901894267636988
+    second: tofuboy_95
+  - first:
+      213: -3518575705187486591
+    second: tofuboy_96
+  - first:
+      213: -8923267590650721486
+    second: tofuboy_97
+  - first:
+      213: 3833632116639186024
+    second: tofuboy_98
+  - first:
+      213: 868755532218852831
+    second: tofuboy_99
+  - first:
+      213: 7446480879127589359
+    second: tofuboy_100
+  - first:
+      213: 9221075063371815999
+    second: tofuboy_101
+  - first:
+      213: 3780329404796185394
+    second: tofuboy_102
+  - first:
+      213: -7088877717850577061
+    second: tofuboy_103
+  - first:
+      213: 1434551896621504572
+    second: tofuboy_104
+  - first:
+      213: 9044646467553763214
+    second: tofuboy_105
+  - first:
+      213: -4554424621289399070
+    second: tofuboy_106
+  - first:
+      213: 7381823880688870063
+    second: tofuboy_107
+  - first:
+      213: -8944384953347892903
+    second: tofuboy_108
+  - first:
+      213: -7941451294963541982
+    second: tofuboy_109
+  - first:
+      213: 5083773404631424786
+    second: tofuboy_110
+  - first:
+      213: 2708280812626841142
+    second: tofuboy_111
+  - first:
+      213: 8573697290654203998
+    second: tofuboy_112
+  - first:
+      213: -3389243712649571585
+    second: tofuboy_113
+  - first:
+      213: 252513293586348262
+    second: tofuboy_114
+  - first:
+      213: 1935838394412323872
+    second: tofuboy_115
+  - first:
+      213: -3544685011121588093
+    second: tofuboy_116
+  - first:
+      213: 7037041120184605176
+    second: tofuboy_117
+  - first:
+      213: 3410018742641377404
+    second: tofuboy_118
+  - first:
+      213: -2723673774708770788
+    second: tofuboy_119
+  - first:
+      213: 8787261534711932275
+    second: tofuboy_120
+  - first:
+      213: -2101244421820858239
+    second: tofuboy_121
+  - first:
+      213: 176847711611561750
+    second: tofuboy_122
+  - first:
+      213: -619505107693420637
+    second: tofuboy_123
+  - first:
+      213: 926167187925386408
+    second: tofuboy_124
+  - first:
+      213: 6898998421676469395
+    second: tofuboy_125
+  - first:
+      213: -4844498810777963736
+    second: tofuboy_126
+  - first:
+      213: -72232831118111919
+    second: tofuboy_127
+  - first:
+      213: 7358190639394191447
+    second: tofuboy_128
+  - first:
+      213: -4890340847201556359
+    second: tofuboy_129
+  - first:
+      213: -6664148010247305501
+    second: tofuboy_130
+  - first:
+      213: -8399339011184267487
+    second: tofuboy_131
+  - first:
+      213: 3762427468598179886
+    second: tofuboy_132
+  - first:
+      213: 2735964820911296457
+    second: tofuboy_133
+  - first:
+      213: 3332906921193242402
+    second: tofuboy_134
+  - first:
+      213: -7432700366583335418
+    second: tofuboy_135
+  - first:
+      213: -958357411996757598
+    second: tofuboy_136
+  - first:
+      213: 3264827075906120870
+    second: tofuboy_137
+  - first:
+      213: 9107989175985913573
+    second: tofuboy_138
+  - first:
+      213: -226547266480346914
+    second: tofuboy_139
+  - first:
+      213: 2842390605639454260
+    second: tofuboy_140
+  - first:
+      213: 503848351058230813
+    second: tofuboy_141
+  - first:
+      213: -2361221763839413077
+    second: tofuboy_142
+  - first:
+      213: 7983198705684403492
+    second: tofuboy_143
+  - first:
+      213: 7356934156771426736
+    second: tofuboy_144
+  - first:
+      213: 9185838159579623120
+    second: tofuboy_145
+  - first:
+      213: 6544421151859814131
+    second: tofuboy_146
+  - first:
+      213: -7886396584840921894
+    second: tofuboy_147
+  - first:
+      213: 2999512519502835200
+    second: tofuboy_148
+  - first:
+      213: -1310670529186833238
+    second: tofuboy_149
+  - first:
+      213: 106070322944548830
+    second: tofuboy_150
+  - first:
+      213: 4833970043857299513
+    second: tofuboy_151
+  - first:
+      213: 6594541768181680741
+    second: tofuboy_152
+  - first:
+      213: -6377628081028905706
+    second: tofuboy_153
+  - first:
+      213: -478624531171000382
+    second: tofuboy_154
+  - first:
+      213: -4941432016006493102
+    second: tofuboy_155
+  - first:
+      213: -4945258992826005487
+    second: tofuboy_156
+  - first:
+      213: 5647923580904867256
+    second: tofuboy_157
+  - first:
+      213: 5633463978027931834
+    second: tofuboy_158
+  - first:
+      213: 398484114266364853
+    second: tofuboy_159
+  - first:
+      213: 6826145919518250394
+    second: tofuboy_160
+  - first:
+      213: -1505553208623305241
+    second: tofuboy_161
+  - first:
+      213: 9162832166235652977
+    second: tofuboy_162
+  - first:
+      213: -7487413831317401305
+    second: tofuboy_163
+  - first:
+      213: 6793918969757534194
+    second: tofuboy_164
+  - first:
+      213: 1329816293256071232
+    second: tofuboy_165
+  - first:
+      213: 4280062417758251775
+    second: tofuboy_166
+  - first:
+      213: 4757794250992134706
+    second: tofuboy_167
+  - first:
+      213: 4361611257937976913
+    second: tofuboy_168
+  - first:
+      213: -893366887760619930
+    second: tofuboy_169
+  - first:
+      213: 5493190414702206893
+    second: tofuboy_170
+  - first:
+      213: -74406900566651638
+    second: tofuboy_171
+  - first:
+      213: 4498003794644616558
+    second: tofuboy_172
+  - first:
+      213: -6743100419125157558
+    second: tofuboy_173
+  - first:
+      213: 41831850122058987
+    second: tofuboy_174
+  - first:
+      213: -2659282023947415560
+    second: tofuboy_175
+  - first:
+      213: -4818639671248259702
+    second: tofuboy_176
+  - first:
+      213: 4817595746059348443
+    second: tofuboy_177
+  - first:
+      213: -966686533174756812
+    second: tofuboy_178
+  - first:
+      213: 1625980983797839395
+    second: tofuboy_179
+  - first:
+      213: -2119262636077734039
+    second: tofuboy_180
+  - first:
+      213: -31456281084248946
+    second: tofuboy_181
+  - first:
+      213: -7132244008064561921
+    second: tofuboy_182
+  - first:
+      213: 6995803503720789258
+    second: tofuboy_183
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tofuboy_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 979
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f692dd8826f8bd60800000000000000
+      internalID: 7906339799887419127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 970
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a091c28ac60da0e80800000000000000
+      internalID: -8211521805460170486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 973
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba048503f0250840800000000000000
+      internalID: 5189590373756046013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 959
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055eaff739c56c0e0800000000000000
+      internalID: -2250009175247887024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 991
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daae6ce74f8a70f70800000000000000
+      internalID: 9153470535706274477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_5
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 863
+        width: 193
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0dd3b6e4b8cc9c0800000000000000
+      internalID: -3905593607914139481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_6
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 917
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7757445b605a7f3d0800000000000000
+      internalID: -3172885964229675657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_7
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 945
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607fb2c91bcb78950800000000000000
+      internalID: 6451332462246885126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_8
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 984
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65842904fb58e6410800000000000000
+      internalID: 1472261184665307222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 943
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3543ceed0cd5a5840800000000000000
+      internalID: 5213582601589896275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 960
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157e4698dd5eb26c0800000000000000
+      internalID: -4166984290545637551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 949
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d596ecce7410bf0800000000000000
+      internalID: -359927412812063468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 948
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0498a59dfe7f5140800000000000000
+      internalID: 4710623362855506956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 877
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316841baf610b3540800000000000000
+      internalID: 4988582591366202899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 956
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f54ce2791f93030800000000000000
+      internalID: 3475074219120025487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 916
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7907b6ab02c7270800000000000000
+      internalID: 8249504602474452916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 935
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441bb600e737245b0800000000000000
+      internalID: -5385615219371560636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 925
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c2cd4c3f9c31620800000000000000
+      internalID: 2743758646815763589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 915
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ec24bedb51890a0800000000000000
+      internalID: -6874720925741035923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 919
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68587162c3a5780b0800000000000000
+      internalID: -5726509186794683002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 929
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e5460bb3dab12e0800000000000000
+      internalID: -2153937524892606949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 931
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce227740bf669d90800000000000000
+      internalID: -7091357760344674615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 921
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583cfdca9c201b770800000000000000
+      internalID: 8624677826603238277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_23
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 928
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af498065f30d3fb00800000000000000
+      internalID: 861260924202816762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_24
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 886
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a6b2c4efb6b4740800000000000000
+      internalID: 5137318539889961577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 919
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908bdb332a09e6f50800000000000000
+      internalID: 6876592707368499209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 915
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c584ebaf964600150800000000000000
+      internalID: 5836775523413280860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 895
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24868d31ad57839a0800000000000000
+      internalID: -6253118503107663806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_28
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 917
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4654f51130997360800000000000000
+      internalID: 7167918822432986703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_29
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 903
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68a4dd9ff9da8e00800000000000000
+      internalID: 1047889555204909165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_30
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 910
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae87ef4ea3267570800000000000000
+      internalID: 8463991781261282977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 913
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fdf9a9c7f327b60800000000000000
+      internalID: 7742320513805967213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_32
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 877
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f968d067062d37100800000000000000
+      internalID: 104658528098944671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_33
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 886
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246c7e1d3e484d350800000000000000
+      internalID: 6040599114224748098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_34
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 874
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2591af942908652f0800000000000000
+      internalID: -984458102739166894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 904
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c1707855b4df1b0800000000000000
+      internalID: -5621253929178817493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_36
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 907
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608ce11e8e64dcf70800000000000000
+      internalID: 9209094779065780230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_37
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 905
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d4354fcad4fb2e0800000000000000
+      internalID: -2107880695357289165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_38
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 873
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7bb146fe9983bd0800000000000000
+      internalID: -2650199127251765297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 883
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ec0ee368bc55270800000000000000
+      internalID: 8238714870785166962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 858
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a37bd39ae13435e0800000000000000
+      internalID: -1930863456662359134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_41
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 854
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210bf8b88a7580490800000000000000
+      internalID: -7779871974874959854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_42
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 890
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf280e85a0fb76b0800000000000000
+      internalID: -5297375942828085330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_43
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 853
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7bec51d18875190800000000000000
+      internalID: -7973754956734875685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_44
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 885
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831199fb5e9fc5990800000000000000
+      internalID: -7395761722891890376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_45
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 876
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141763cdc1d7e2ef0800000000000000
+      internalID: -131029776240053951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_46
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 862
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b188ef0e5e8128880800000000000000
+      internalID: -8610292161977612261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_47
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 868
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6105315439c372e10800000000000000
+      internalID: 2172771948446306326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_48
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 875
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83209a9494aaddd20800000000000000
+      internalID: 3304984933304959544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_49
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 876
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77afa7df02d8fccb0800000000000000
+      internalID: -4841495901568828809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 840
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a123eecba08c570800000000000000
+      internalID: 8487045304346090014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_51
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 868
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa4adbfbc3a7c7b0800000000000000
+      internalID: -5204010747904243030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 853
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e63b1011d19980d0800000000000000
+      internalID: -3420042114906769695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_53
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 858
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cadec4b15c06a130800000000000000
+      internalID: 3577560499057777353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_54
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 854
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03de7d285c766ef0800000000000000
+      internalID: -115268022289116401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_55
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 812
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa3301d96cd88510800000000000000
+      internalID: 1551732418665462523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_56
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 838
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d16c828c80ab5560800000000000000
+      internalID: 7303607746057494995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 843
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a57273ddc1953a0800000000000000
+      internalID: -6676273236161373549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_58
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 844
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecea2b13a0ffcd000800000000000000
+      internalID: 62204914124893902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_59
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 744
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707208a1b1a9b8810800000000000000
+      internalID: 1768676719872452359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_60
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 796
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46521ef05dbaf3f0800000000000000
+      internalID: -866171822757751221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_61
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debfef74ba93f1a50800000000000000
+      internalID: 6493972595501628397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 789
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a262560111e320e0800000000000000
+      internalID: -2295743921792064860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_63
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 778
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fcd9cba2b37fdd0800000000000000
+      internalID: -2452426417340821710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_64
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 737
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1f5142035a4a9f0800000000000000
+      internalID: -458059635902516829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_65
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 791
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fe7dca517a52d40800000000000000
+      internalID: 5559033026594729789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_66
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 710
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6563ef53d07cb9f60800000000000000
+      internalID: 8042240419154507350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_67
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 807
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3f82fcb2e94d490800000000000000
+      internalID: -7722373550037208155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_68
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 802
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc7d3515e5dc1020800000000000000
+      internalID: 2313959488442170618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_69
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 787
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7ec534420781ee0800000000000000
+      internalID: -1290157992190351433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_70
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 778
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fff91af2958371b0800000000000000
+      internalID: -5660033440366854156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_71
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 774
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768c125115bf25810800000000000000
+      internalID: 1752739530666002535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_72
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 596
+        width: 153
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f9b583662f7ff30800000000000000
+      internalID: 4609419264483106646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_73
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 794
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991e4e797b6197ca0800000000000000
+      internalID: -6018754449220771431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_74
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 759
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19da0bec0c3245810800000000000000
+      internalID: 1753065465962343825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_75
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 765
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d3772826285e0a0800000000000000
+      internalID: -6852927898367083197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_76
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 753
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ede7038e35bba330800000000000000
+      internalID: 3723268797042781670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_77
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 748
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d758daa77b393bd70800000000000000
+      internalID: 9057745691818689917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_78
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 762
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8c19a6d28b4aa50800000000000000
+      internalID: 6531547864795039998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_79
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 767
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8819a658bbcccd6f0800000000000000
+      internalID: -658426339733630584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_80
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 766
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352d481630365be00800000000000000
+      internalID: 1059862153487766099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_81
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 747
+        width: 67
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63de6a09ad70dfc0800000000000000
+      internalID: -3472137147724672146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_82
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 757
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6414859cee5fad0800000000000000
+      internalID: -2668964655610640712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_83
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 741
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5da8254d2412de50800000000000000
+      internalID: 6832545769340841306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_84
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 723
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9865f5dbcf45c9480800000000000000
+      internalID: -8891138119850568055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_85
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 735
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9eccb9052dca4d0800000000000000
+      internalID: -3121889198021482038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_86
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 736
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529c950fb1aec5310800000000000000
+      internalID: 1395247390295443749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_87
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 730
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dd0644296ec6540800000000000000
+      internalID: 5002626801988590910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_88
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 747
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc153df384ec8db0800000000000000
+      internalID: -4788201048261714696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 739
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fec0cbcc9e221050800000000000000
+      internalID: 5769725323583213296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_90
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 632
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2baee28f8848ed80800000000000000
+      internalID: -8221241338550637777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_91
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 634
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b85502c5c4bc790800000000000000
+      internalID: -7508823995146990778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_92
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 692
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df43c8688cbc5a20800000000000000
+      internalID: 3052521941509558225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_93
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 726
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff016f4c1698b0d0800000000000000
+      internalID: -3406808069770768387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_94
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 712
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4850f22c01ed7dc0800000000000000
+      internalID: -3639505481603458998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_95
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 719
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4037adf998f2ce8e0800000000000000
+      internalID: -1662901894267636988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_96
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 642
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184faf0d9028b2fc0800000000000000
+      internalID: -3518575705187486591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_97
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 691
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b028f576f2a2480800000000000000
+      internalID: -8923267590650721486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_98
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 711
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cbecf391cc33530800000000000000
+      internalID: 3833632116639186024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_99
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 689
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd56f8ebd807e0c00800000000000000
+      internalID: 868755532218852831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_100
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 703
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1732b08e6375760800000000000000
+      internalID: 7446480879127589359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_101
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 707
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c5d7f2ae6d7ff70800000000000000
+      internalID: 9221075063371815999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_102
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 688
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b27da809d667430800000000000000
+      internalID: 3780329404796185394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_103
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 673
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a55b264f3f9d90800000000000000
+      internalID: -7088877717850577061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_104
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 683
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38dcf1795d88e310800000000000000
+      internalID: 1434551896621504572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_105
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 697
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f9889aa0a058d70800000000000000
+      internalID: 9044646467553763214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_106
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec90c3ffee6bc0c0800000000000000
+      internalID: -4554424621289399070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_107
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 693
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2a4fa75b1817660800000000000000
+      internalID: 7381823880688870063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_108
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 693
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959995936492fd380800000000000000
+      internalID: -8944384953347892903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_109
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 692
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228d1a27f1c4ac190800000000000000
+      internalID: -7941451294963541982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_110
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 674
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f52adf9f03d8640800000000000000
+      internalID: 5083773404631424786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_111
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 658
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e01accc0fb59520800000000000000
+      internalID: 2708280812626841142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_112
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 562
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e504c2da244ebf670800000000000000
+      internalID: 8573697290654203998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_113
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 682
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2db42ecccf6f0d0800000000000000
+      internalID: -3389243712649571585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_114
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 682
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8374da08b118300800000000000000
+      internalID: 252513293586348262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_115
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 681
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024528163ca7dda10800000000000000
+      internalID: 1935838394412323872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_116
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 675
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388327f43cfbecec0800000000000000
+      internalID: -3544685011121588093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f99b6e6d9798a160800000000000000
+      internalID: 7037041120184605176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_118
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 665
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c704098baf1d25f20800000000000000
+      internalID: 3410018742641377404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_119
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 663
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18bf6ee121933ad0800000000000000
+      internalID: -2723673774708770788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_120
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 668
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37565f41fcf92f970800000000000000
+      internalID: 8787261534711932275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_121
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 651
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180c81bc451e6d2e0800000000000000
+      internalID: -2101244421820858239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_122
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 586
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617a2f58e0a447200800000000000000
+      internalID: 176847711611561750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_123
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 651
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afb46703631767f0800000000000000
+      internalID: -619505107693420637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a44aee76286adc00800000000000000
+      internalID: 926167187925386408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_125
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 565
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ca106138a2ebf50800000000000000
+      internalID: 6898998421676469395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_126
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 630
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823f6c4bff1e4ccb0800000000000000
+      internalID: -4844498810777963736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_127
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 642
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b85107f906ffef0800000000000000
+      internalID: -72232831118111919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_128
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 613
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758f1b2b66b8d1660800000000000000
+      internalID: 7358190639394191447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_129
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 542
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978e7fbd8e4022cb0800000000000000
+      internalID: -4890340847201556359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_130
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 538
+        width: 108
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6459e51b03483a0800000000000000
+      internalID: -6664148010247305501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_131
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 572
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fe742cbad8f6b80800000000000000
+      internalID: -8399339011184267487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_132
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 482
+        width: 130
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2877f639d3d63430800000000000000
+      internalID: 3762427468598179886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_133
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 595
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf0264428918f520800000000000000
+      internalID: 2735964820911296457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_134
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 486
+        width: 108
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ff923bf2dd04e20800000000000000
+      internalID: 3332906921193242402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_135
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 581
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60672ef856eb9d890800000000000000
+      internalID: -7432700366583335418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 181
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1121ae20b33b2f0800000000000000
+      internalID: -958357411996757598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_137
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 476
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac26708deefe4d20800000000000000
+      internalID: 3264827075906120870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_138
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 447
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee3ebc36e3166e70800000000000000
+      internalID: 9107989175985913573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_139
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 445
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed86a9026742bdcf0800000000000000
+      internalID: -226547266480346914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_140
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 374
+        width: 140
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e0c0a3233327720800000000000000
+      internalID: 2842390605639454260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_141
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 537
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1efd71e7670ef600800000000000000
+      internalID: 503848351058230813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba43e6ae0514b3fd0800000000000000
+      internalID: -2361221763839413077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_143
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 368
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4255daf0de40ace60800000000000000
+      internalID: 7983198705684403492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_144
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 381
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b18c4a03a4191660800000000000000
+      internalID: 7356934156771426736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_145
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 451
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dea8f13327aa7f70800000000000000
+      internalID: 9185838159579623120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_146
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 387
+        width: 108
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe28212d5472da50800000000000000
+      internalID: 6544421151859814131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_147
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 342
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcf3ba0714ed8290800000000000000
+      internalID: -7886396584840921894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_148
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 354
+        width: 162
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ead409eb860a920800000000000000
+      internalID: 2999512519502835200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_149
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 410
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacde3219109fcde0800000000000000
+      internalID: -1310670529186833238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_150
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf12509566d87100800000000000000
+      internalID: 106070322944548830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_151
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 389
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9386ef6b426b51340800000000000000
+      internalID: 4833970043857299513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_152
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 291
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a02fc7cc4848b50800000000000000
+      internalID: 6594541768181680741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_153
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 213
+        width: 215
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61547b8ec0d1e77a0800000000000000
+      internalID: -6377628081028905706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_154
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 378
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfb3c656859b59f0800000000000000
+      internalID: -478624531171000382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_155
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 185
+        width: 89
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cc03423c18c6bb0800000000000000
+      internalID: -4941432016006493102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_156
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 272
+        width: 86
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118cc4aa529ee5bb0800000000000000
+      internalID: -4945258992826005487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_157
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 240
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b50366a294716e40800000000000000
+      internalID: 5647923580904867256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_158
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 263
+        width: 103
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8505104a51e2e40800000000000000
+      internalID: 5633463978027931834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_159
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 283
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb9b7fc033b78500800000000000000
+      internalID: 398484114266364853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_160
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 310
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a951edd1c875bbe50800000000000000
+      internalID: 6826145919518250394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_161
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 299
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edee8165533b1be0800000000000000
+      internalID: -1505553208623305241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_162
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 202
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173cff4fe4be82f70800000000000000
+      internalID: 9162832166235652977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_163
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 169
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721daf95acc571890800000000000000
+      internalID: -7487413831317401305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_164
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 242
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f78f29ae49d84e50800000000000000
+      internalID: 6793918969757534194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_165
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 235
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0480e008fd4747210800000000000000
+      internalID: 1329816293256071232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_166
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 242
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaeafa9716d56b30800000000000000
+      internalID: 4280062417758251775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_167
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 238
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a28c4d9a4170240800000000000000
+      internalID: 4757794250992134706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_168
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 216
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15edcbd845e878c30800000000000000
+      internalID: 4361611257937976913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_169
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 142
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6669ee08c8f1a93f0800000000000000
+      internalID: -893366887760619930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_170
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 66
+        width: 149
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafd7e7f39bbb3c40800000000000000
+      internalID: 5493190414702206893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_171
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 234
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d03e27157a7fef0800000000000000
+      internalID: -74406900566651638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_172
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 113
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65c62aae9e1c6e30800000000000000
+      internalID: 4498003794644616558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_173
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 104
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41e14135e1bb62a0800000000000000
+      internalID: -6743100419125157558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_174
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 113
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec92d698dd949000800000000000000
+      internalID: 41831850122058987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_175
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 135
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff4805b615581bd0800000000000000
+      internalID: -2659282023947415560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_176
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 185
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8574aecfb0c02db0800000000000000
+      internalID: -4818639671248259702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_177
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 23
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9ec4b6ec98bd240800000000000000
+      internalID: 4817595746059348443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_178
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 17
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43af6f448b3a592f0800000000000000
+      internalID: -966686533174756812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_179
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 75
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3267fc60715a09610800000000000000
+      internalID: 1625980983797839395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_180
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 5
+        width: 215
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96724de5cddd692e0800000000000000
+      internalID: -2119262636077734039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_181
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 66
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cb404ddae309ff0800000000000000
+      internalID: -31456281084248946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_182
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 55
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc47e7ecdd250d90800000000000000
+      internalID: -7132244008064561921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tofuboy_183
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 5
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05f5b5a836161160800000000000000
+      internalID: 6995803503720789258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

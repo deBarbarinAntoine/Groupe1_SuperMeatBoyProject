@@ -11,13 +11,13 @@ TagManager:
   - 
   - Water
   - UI
-  - Background
-  - SawBlade
-  - SawBladeLittle
-  - Earth
-  - EarthBreakable
-  - SawBladeDecoration
-  - Metal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -41,17 +41,5 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-<<<<<<< HEAD
-  - name: Earth
-    uniqueID: 724241603
-    locked: 0
-  - name: Metal
-    uniqueID: 1975726059
-    locked: 0
-  - name: UI-elements
-    uniqueID: 484354543
-    locked: 0
-=======
->>>>>>> origin/main
   m_RenderingLayers:
   - Default

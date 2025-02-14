@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 5060923185875060238}
   - component: {fileID: 3721608838473232914}
   - component: {fileID: 7794045499444877291}
-  m_Layer: 11
+  - component: {fileID: 1641565604884646173}
+  m_Layer: 14
   m_Name: LittleSaw
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -76,13 +77,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 1437616950, guid: 40c48fc7fdbad94acaad69be6061fa96, type: 3}
+  m_SortingOrder: 14
+  m_Sprite: {fileID: 1437616950, guid: f81da20e8258a2246bb7029a286e503c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.29, y: 2.31}
+  m_Size: {x: 5.725, y: 5.775}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -96,7 +97,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6971944108641583602}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 37296a95f9f4f29a0a7384f6731c5a71, type: 2}
   m_CullingMode: 0
@@ -110,3 +111,16 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1641565604884646173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6971944108641583602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95caae8241c411c49babbec7e13c78ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spinSpeed: -270

@@ -860,6 +860,50 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: eobstacles_0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 329
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc6d05024788ecd3918ccd41191d5ea
+      internalID: -1172710209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eobstacles_1
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 801
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a754368907e7c768923dc92a7a3ac5
+      internalID: -449304891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -874,6 +918,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      eobstacles_0: -1172710209
+      eobstacles_1: -449304891
       eobstacles_10: 1780511989
       eobstacles_11: -1522951621
       eobstacles_15: 1604280401

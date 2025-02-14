@@ -1,83 +1,12 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: ec7bfc13a0852ef7d884542bcce8ac14
-=======
-<<<<<<< HEAD
-guid: 2ae47fdb09384f44ab691bd0782e30dd
-=======
-guid: e84586039f521124eba7ddcd86ff02ac
->>>>>>> 3c3b0d72ca1fdbd8941c570b8d1f002482c231e9
->>>>>>> origin/main
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -3520939936317851348
-    second: commander_warp_0
-  - first:
-      213: 5150526906378447187
-    second: commander_warp_1
-  - first:
-      213: -8739892214591581325
-    second: commander_warp_2
-  - first:
-      213: -6541716027516514639
-    second: commander_warp_3
-  - first:
-      213: -169720786469470234
-    second: commander_warp_4
-  - first:
-      213: -108029175005439704
-    second: commander_warp_5
-  - first:
-      213: -2385421669510329847
-    second: commander_warp_6
-  - first:
-      213: -5613543716104764297
-    second: commander_warp_7
-  - first:
-      213: 4792491864056929151
-    second: commander_warp_8
-  - first:
-      213: 1378279756093207413
-    second: commander_warp_9
-  - first:
-      213: -8742857136541770121
-    second: commander_warp_10
-  - first:
-      213: -3282256383861401728
-    second: commander_warp_11
-  - first:
-      213: 8497034274952607970
-    second: commander_warp_12
-  - first:
-      213: -1266732194499310254
-    second: commander_warp_13
-  - first:
-      213: 7783854038220132959
-    second: commander_warp_14
-  - first:
-      213: -1515720449771634211
-    second: commander_warp_15
-  - first:
-      213: -5609368614137891933
-    second: commander_warp_16
-  - first:
-      213: -3042224014954506245
-    second: commander_warp_17
-  - first:
-      213: 4538819599510323965
-    second: commander_warp_18
-  - first:
-      213: 1150372182158456289
-    second: commander_warp_19
-  - first:
-      213: -5375461608291208042
-    second: commander_warp_20
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -108,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
-  nPOTScale: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 0
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -123,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 0
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -134,16 +63,16 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 0
+  applyGammaDecoding: 1
   swizzle: 50462976
-  cookieLightType: 0
+  cookieLightType: 2
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -156,7 +85,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -166,469 +95,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: commander_warp_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 354
-        width: 88
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c29b94c58cb132fc0800000000000000
-      internalID: -3520939936317851348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 272
-        width: 88
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35967c4cee85a7740800000000000000
-      internalID: 5150526906378447187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_2
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 354
-        width: 82
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3731116365aa5b680800000000000000
-      internalID: -8739892214591581325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_3
-      rect:
-        serializedVersion: 2
-        x: 92
-        y: 272
-        width: 89
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1be0666bee72735a0800000000000000
-      internalID: -6541716027516514639
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_4
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 354
-        width: 82
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6efbc7b08d705adf0800000000000000
-      internalID: -169720786469470234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_5
-      rect:
-        serializedVersion: 2
-        x: 185
-        y: 272
-        width: 90
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8291c66a904308ef0800000000000000
-      internalID: -108029175005439704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_6
-      rect:
-        serializedVersion: 2
-        x: 263
-        y: 354
-        width: 28
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90a415d41a745eed0800000000000000
-      internalID: -2385421669510329847
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_7
-      rect:
-        serializedVersion: 2
-        x: 278
-        y: 272
-        width: 90
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 77403766bbfa812b0800000000000000
-      internalID: -5613543716104764297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_8
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 354
-        width: 82
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f7b101a65f9528240800000000000000
-      internalID: 4792491864056929151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_9
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 272
-        width: 90
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5733c0fb222a02310800000000000000
-      internalID: 1378279756093207413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_10
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 354
-        width: 90
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 77e507681c12ba680800000000000000
-      internalID: -8742857136541770121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_11
-      rect:
-        serializedVersion: 2
-        x: 465
-        y: 272
-        width: 89
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 087de2285351372d0800000000000000
-      internalID: -3282256383861401728
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_12
-      rect:
-        serializedVersion: 2
-        x: 473
-        y: 354
-        width: 81
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e87ed267a78be570800000000000000
-      internalID: 8497034274952607970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_13
-      rect:
-        serializedVersion: 2
-        x: 558
-        y: 346
-        width: 170
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 25d4151d7c9ab6ee0800000000000000
-      internalID: -1266732194499310254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_14
-      rect:
-        serializedVersion: 2
-        x: 731
-        y: 6
-        width: 269
-        height: 428
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f52d993d10ec50c60800000000000000
-      internalID: 7783854038220132959
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_15
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 37
-        width: 501
-        height: 236
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dd10194184417fae0800000000000000
-      internalID: -1515720449771634211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_16
-      rect:
-        serializedVersion: 2
-        x: 646
-        y: 253
-        width: 82
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a3f51417f48722b0800000000000000
-      internalID: -5609368614137891933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_17
-      rect:
-        serializedVersion: 2
-        x: 646
-        y: 160
-        width: 82
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bf759757069d7c5d0800000000000000
-      internalID: -3042224014954506245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_18
-      rect:
-        serializedVersion: 2
-        x: 646
-        y: 51
-        width: 82
-        height: 105
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df2c468c0602dfe30800000000000000
-      internalID: 4538819599510323965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_19
-      rect:
-        serializedVersion: 2
-        x: 650
-        y: 6
-        width: 59
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1e5bb0d9761f6ff00800000000000000
-      internalID: 1150372182158456289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: commander_warp_20
-      rect:
-        serializedVersion: 2
-        x: 708
-        y: 34
-        width: 7
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6947d0ec5268665b0800000000000000
-      internalID: -5375461608291208042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     customData: 
     physicsShape: []

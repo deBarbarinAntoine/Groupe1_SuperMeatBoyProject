@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class SawSpin : MonoBehaviour
 {
-    public float spinSpeed = 360f; // Degrees per second
+    public float spinSpeed = -270f; // Degrees per second
 
     private void Update()
     {

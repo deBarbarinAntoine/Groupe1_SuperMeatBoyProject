@@ -11,32 +11,32 @@ TagManager:
   - 
   - Water
   - UI
-  - ground
-  - wall
+  - CollisionFloor
+  - CollisionWall
+  - CollisionDamage
   - 
   - 
+  - Background
+  - PipesBackground
+  - 
+  - Decorations
   - 
   - 
+  - Earth
   - 
   - 
+  - EarthBreakable
+  - PipesMiddle
+  - 
+  - Metal
   - 
   - 
+  - PipesForeground
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - UI-back
+  - UI-middle
+  - UI-front
   m_SortingLayers:
   - name: Default
     uniqueID: 0

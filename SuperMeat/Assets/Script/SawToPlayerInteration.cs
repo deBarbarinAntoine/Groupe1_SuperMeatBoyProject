@@ -36,6 +36,7 @@ public class SawToPlayerInteration : MonoBehaviour
         var hit = Physics2D.OverlapCircle(boxCenter, detectionRadius, sawBladeLayer);
         if (hit != null)
         {
+            Debug.LogWarning("i'm hit");
             // Teleport player to its initial position
             transform.position = _initialPosition;
 

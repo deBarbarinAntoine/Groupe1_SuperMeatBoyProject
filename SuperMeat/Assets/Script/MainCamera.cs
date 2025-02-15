@@ -4,7 +4,7 @@ public class MainCamera : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public GameObject player;
-    public GameObject playGround;
+    public GameObject playGroundCenter;
     public float smoothSpeed = 0.125f; // Camera smoothness
     public Vector3 offset; // Offset between player and camera
 
@@ -14,26 +14,34 @@ public class MainCamera : MonoBehaviour
     public float yMax = 5f; // Maximum Y bounds
 
     private Vector3 _centerWorld = Vector3.zero;
+    private float _width, _height;
 
     private void Start()
-    {
+    {   
+             _width = xMax - xMin;
+             _height = yMax - yMin;
         var cam = GetComponent<Camera>();
         if (cam.orthographic)
         {
             var verticalSize = Mathf.Abs(yMax - yMin) / 2f;
             cam.orthographicSize = verticalSize;
         }
-
-        var playGroundCollider = playGround.GetComponent<BoxCollider2D>();
-        if (playGroundCollider != null)
+        
+        if (playGroundCenter  != null)
         {
             // Get the center in world space
-            _centerWorld = playGround.transform.TransformPoint(playGroundCollider.offset);
+            _centerWorld = playGroundCenter .transform.position;
         }
         else
         {
-            Debug.LogWarning("PlayGround not found");
+            Debug.LogError("PlayGround not found");
         }
+        
+        if (player == null)
+        {
+            Debug.LogError("Player is not assigned to the MainCamera script.");
+        }
+
     }
 
     private void LateUpdate()
@@ -42,13 +50,10 @@ public class MainCamera : MonoBehaviour
         var desiredPosition = player.transform.position + offset;
         desiredPosition.z = transform.position.z;
 
-        // Calculate the relative clamping bounds using _centerWorld as the center
-        float width = xMax - xMin;
-        float height = yMax - yMin;
-
+        
         // Clamp the X and Y based on _centerWorld
-        var clampedX = Mathf.Clamp(desiredPosition.x, _centerWorld.x - width / 2f, _centerWorld.x + width / 2f);
-        var clampedY = Mathf.Clamp(desiredPosition.y, _centerWorld.y - height / 2f, _centerWorld.y + height / 2f);
+        var clampedX = Mathf.Clamp(desiredPosition.x, _centerWorld.x - _width / 2f, _centerWorld.x + _width / 2f);
+        var clampedY = Mathf.Clamp(desiredPosition.y, _centerWorld.y - _height / 2f, _centerWorld.y + _height / 2f);
 
         // Apply the smoothed camera movement
         var smoothedPosition = Vector3.Lerp(transform.position, new Vector3(clampedX, clampedY, desiredPosition.z), smoothSpeed);

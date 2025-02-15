@@ -5,7 +5,7 @@ public class SawShooter : MonoBehaviour
     public GameObject sawBladePrefab; // Assign SawBlade prefab in Inspector
     private GameObject _activeSawBlade; // Store reference to the currently spawned saw
 
-    void Update()
+    void FixedUpdate()
     {
         // Check if the saw blade exists; if not, shoot a new one
         if (_activeSawBlade == null)

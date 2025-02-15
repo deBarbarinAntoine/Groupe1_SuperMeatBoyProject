@@ -3,25 +3,19 @@ using UnityEngine;
 
 public class SawBladeLeft : MonoBehaviour
 {
-    public float speed = 20f;
-    public float detectionRadius = 1f; // Adjust based on saw size
+    public float speed = 10f;
+    public float detectionRadius = 0.4f; // Adjust based on saw size
     public LayerMask playerLayer; // Assign in Inspector
     public LayerMask wallLayer;
     public Sprite hitSprite; // Assign a different sprite in Inspector
 
     private Rigidbody2D _rb;
     private SpriteRenderer _spriteRenderer;
-    // private void OnDrawGizmos()
-    // {
-    //     // Set the Gizmo color (optional)
-    //     Gizmos.color = Color.red;
-    //
-    //     // Draw a sphere at the GameObject's position with a radius of 1
-    //     Gizmos.DrawSphere(transform.position, detectionRadius);
-    // }
+    
     void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
+        transform.up = Vector2.up; 
         _rb.linearVelocity = -transform.right * speed; // Move left
         _spriteRenderer = GetComponent<SpriteRenderer>();
     }

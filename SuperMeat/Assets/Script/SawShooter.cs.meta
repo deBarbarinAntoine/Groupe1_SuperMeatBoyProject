@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: d5aea487986c23b4b970d42cdc6a5b3e
+guid: 2f4fc40b433669f4eb098a7ab94b2cfd
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - sawPrefab: {fileID: 8939185532729627680, guid: e9a868bb7feb7fa4daef7d5914615830, type: 3}
-  - launchPoint: {instanceID: 0}
+  - sawBladePrefab: {fileID: 8939185532729627680, guid: e9a868bb7feb7fa4daef7d5914615830, type: 3}
+  - firePoint: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

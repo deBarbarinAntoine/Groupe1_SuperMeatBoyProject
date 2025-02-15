@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -10,28 +11,29 @@ public class PlayerController : MonoBehaviour
 
     public LayerMask wallLayer;
     public LayerMask groundLayer;
-
+    
     public float wallSlideSpeed = 2f;
     public float wallClingTime = 1f;
 
     public float coyoteTime = 0.2f;
     public float jumpBufferTime = 0.2f;
+    public float wallAscendTime = 0.2f; // Adjust duration to tweak how long they rise before clinging
 
     private Collider2D _collider;
-    private InputSystem_Actions _controls;
+    public InputSystem_Actions _controls;
     private float _coyoteTimeCounter;
+    
     private bool _isTouchingWall;
     private bool _isTouchingWallLeft;
     private bool _isTouchingWallRight;
     private bool _isWallClinging;
     private float _jumpBufferCounter;
     private Vector2 _moveInput;
+    private float _moveInputTimer;
     private Rigidbody2D _rb;
+    private float _wallAscendCounter;
     private float _wallClingCounter;
     private bool _wasGroundedLastFrame;
-    private float _wallAscendCounter;
-    public float wallAscendTime = 0.2f; // Adjust duration to tweak how long they rise before clinging
-    private float _moveInputTimer = 0f;
 
     private void Awake()
     {
@@ -106,7 +108,7 @@ public class PlayerController : MonoBehaviour
         _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, 0);
 
         // Check if character is running and apply double jump force
-        float finalJumpForce = (isRunning) ? jumpForce * 2 : jumpForce;
+        var finalJumpForce = isRunning ? jumpForce * 2 : jumpForce;
 
         // Apply jump force with the calculated finalJumpForce
         _rb.linearVelocity += direction * finalJumpForce;
@@ -139,19 +141,16 @@ public class PlayerController : MonoBehaviour
             _wallAscendCounter -= Time.deltaTime;
             return; // Prevent clinging until ascent time is over
         }
-        
+
         // Track how long _moveInput.x is non-zero
         if (_moveInput.x != 0)
-        {
             _moveInputTimer += Time.deltaTime;
-        }
         else
-        {
             _moveInputTimer = 0f; // Reset timer when _moveInput.x is zero
-        }
 
         // Cancel wall cling if moving away from the wall
-        if (_moveInputTimer >= 0.5f && ((_isTouchingWallLeft && _moveInput.x > 0) || (_isTouchingWallRight && _moveInput.x < 0)))
+        if (_moveInputTimer >= 0.5f &&
+            ((_isTouchingWallLeft && _moveInput.x > 0) || (_isTouchingWallRight && _moveInput.x < 0)))
         {
             _isWallClinging = false;
             return;
@@ -174,7 +173,6 @@ public class PlayerController : MonoBehaviour
 
         if (_isWallClinging && _moveInput.x != 0) _wallClingCounter -= Time.deltaTime;
     }
-
 
 
     private bool IsAtWallTop()
@@ -211,4 +209,19 @@ public class PlayerController : MonoBehaviour
     {
         return _collider.IsTouchingLayers(groundLayer);
     }
+
+    public void FreezePlayer()
+    {
+        _controls.Player.Move.Disable();
+        _controls.Player.Jump.Disable();
+    }
+
+    public void UnfreezePlayer()
+    {
+        _controls.Player.Move.Enable();
+        _controls.Player.Jump.Enable();
+    }
+
+    
+
 }

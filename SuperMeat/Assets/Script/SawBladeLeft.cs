@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class SawBlade : MonoBehaviour
+public class SawBladeLeft : MonoBehaviour
 {
     public float speed = 20f;
     public float detectionRadius = 1f; // Adjust based on saw size
@@ -22,7 +22,7 @@ public class SawBlade : MonoBehaviour
     void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
-        _rb.linearVelocity = -transform.right * speed; // Move forward
+        _rb.linearVelocity = -transform.right * speed; // Move left
         _spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
@@ -32,7 +32,6 @@ public class SawBlade : MonoBehaviour
         Collider2D player = Physics2D.OverlapCircle(transform.position, detectionRadius, playerLayer);
         if (player != null)
         {
-            Debug.Log(player.name + " is in detection radius: " + detectionRadius);
             // Change the sprite
             if (hitSprite != null)
             {

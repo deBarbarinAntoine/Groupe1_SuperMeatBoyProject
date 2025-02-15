@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5578234641135171312}
   - component: {fileID: 4409053028423564625}
   - component: {fileID: 6584974835582587}
-  m_Layer: 14
+  m_Layer: 8
   m_Name: BigSaw
   m_TagString: Untagged
   m_Icon: {fileID: 0}

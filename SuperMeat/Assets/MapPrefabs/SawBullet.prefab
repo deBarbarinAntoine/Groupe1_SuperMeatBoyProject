@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3721608838473232914}
   - component: {fileID: 7794045499444877291}
   - component: {fileID: 1641565604884646173}
-  m_Layer: 14
+  m_Layer: 8
   m_Name: SawBullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
